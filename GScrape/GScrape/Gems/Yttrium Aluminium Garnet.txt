@@ -1,0 +1,62 @@
+{
+  "Name": "Yttrium Aluminium Garnet",
+  "Description": "",
+  "PhysicalProperties": {
+    "MohsHardness": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 8.0,
+          "Max": 8.5
+        }
+      ]
+    },
+    "SpecificGravity": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 4.55,
+          "Max": 4.55
+        }
+      ]
+    },
+    "Tenacity": "",
+    "CleavageQuality": "",
+    "Fracture": "",
+    "HeatSensitivity": ""
+  },
+  "OpticalProperties": {
+    "RefractiveIndex": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 1.833,
+          "Max": 1.833
+        }
+      ]
+    },
+    "Birefringence": null,
+    "Pleochroism": "",
+    "Dispersion": null
+  },
+  "ColourProperties": {
+    "General": "Colourless, green, blue, yellow, yellow-green, red, pink, lilac",
+    "Daylight": "",
+    "ChelseaFilter": "Strong red (chromium)",
+    "CausesOfColour": "",
+    "Transparency": "Transparent"
+  },
+  "FlouresenceProperties": {
+    "General": "Colourless YAG: yellowish"
+  },
+  "Crystallography": {
+    "CrystalSystem": "Isometric",
+    "Habit": ""
+  },
+  "GeologicalEnvironment": {
+    "WhereFound": ""
+  },
+  "Inclusions": {
+    "Inclusions": "Colourless YAG: yellowish"
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "Name": "Violane",
+  "Description": "Violane is a coarse violet to light blue, manganese-rich variety of Diopside. It is translucent to opaque material from Piedmont, Italy. Violane is used for ornamental objects.",
+  "PhysicalProperties": {
+    "MohsHardness": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 5.0,
+          "Max": 6.0
+        }
+      ]
+    },
+    "SpecificGravity": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 3.22,
+          "Max": 3.4
+        }
+      ]
+    },
+    "Tenacity": "",
+    "CleavageQuality": "Distinct",
+    "Fracture": "Conchoidal",
+    "HeatSensitivity": ""
+  },
+  "OpticalProperties": {
+    "RefractiveIndex": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 1.668,
+          "Max": 1.703
+        }
+      ]
+    },
+    "Birefringence": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 0.024,
+          "Max": 0.03
+        }
+      ]
+    },
+    "Pleochroism": "",
+    "Dispersion": null
+  },
+  "ColourProperties": {
+    "General": "Violet-blue",
+    "Daylight": "",
+    "ChelseaFilter": "",
+    "CausesOfColour": "",
+    "Transparency": "Translucent,Opaque"
+  },
+  "FlouresenceProperties": {
+    "General": ""
+  },
+  "Crystallography": {
+    "CrystalSystem": "Monoclinic",
+    "Habit": "Massive"
+  },
+  "GeologicalEnvironment": {
+    "WhereFound": ""
+  },
+  "Inclusions": {
+    "Inclusions": "Violet-blue"
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "Name": "Anorthite",
+  "Description": "Anorthite is the calcium-rich endmember of the Plagioclase solid solution series, it is a rare compositional variety of Plagioclase.",
+  "PhysicalProperties": {
+    "MohsHardness": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 6.0,
+          "Max": 6.5
+        }
+      ]
+    },
+    "SpecificGravity": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 2.77,
+          "Max": 2.77
+        }
+      ]
+    },
+    "Tenacity": "Brittle",
+    "CleavageQuality": "Perfect",
+    "Fracture": "Uneven,Conchoidal",
+    "HeatSensitivity": ""
+  },
+  "OpticalProperties": {
+    "RefractiveIndex": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 1.575,
+          "Max": 1.588
+        }
+      ]
+    },
+    "Birefringence": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 0.013,
+          "Max": 0.013
+        }
+      ]
+    },
+    "Pleochroism": "",
+    "Dispersion": null
+  },
+  "ColourProperties": {
+    "General": "Usually white, grey or colourless but can be pale shades of other colours. Occassionally reddish",
+    "Daylight": "",
+    "ChelseaFilter": "",
+    "CausesOfColour": "",
+    "Transparency": "Transparent,Translucent"
+  },
+  "FlouresenceProperties": {
+    "General": ""
+  },
+  "Crystallography": {
+    "CrystalSystem": "Triclinic",
+    "Habit": ""
+  },
+  "GeologicalEnvironment": {
+    "WhereFound": "Anorthite is usually found in contact metamorphic limestones and as a constituent in some basic calc-alkali plutonic rocks and lavas."
+  },
+  "Inclusions": {
+    "Inclusions": "Anorthite is usually found in contact metamorphic limestones and as a constituent in some basic calc-alkali plutonic rocks and lavas."
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "Name": "Anorthoclase",
+  "Description": "Anorthoclase is named from Greek \"an\" - not, plus \"orthos\" - right, plus \"klan\" - to break, alluding to the fact that the cleavages are not at right angles.\r\n\r\nAnorthoclase forms opaque to translucent , rarely transparent, colorless, also white, pale creamy yellow, occasionally greenish or pink, red crystals.",
+  "PhysicalProperties": {
+    "MohsHardness": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 6.0,
+          "Max": 6.5
+        }
+      ]
+    },
+    "SpecificGravity": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 2.56,
+          "Max": 2.62
+        }
+      ]
+    },
+    "Tenacity": "",
+    "CleavageQuality": "Perfect,Good",
+    "Fracture": "Uneven,Conchoidal",
+    "HeatSensitivity": ""
+  },
+  "OpticalProperties": {
+    "RefractiveIndex": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 1.518,
+          "Max": 1.534
+        }
+      ]
+    },
+    "Birefringence": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 0.006,
+          "Max": 0.008
+        }
+      ]
+    },
+    "Pleochroism": "Weak",
+    "Dispersion": null
+  },
+  "ColourProperties": {
+    "General": "Colorless, also white, pale creamy yellow, occasionally greenish or pink, red.",
+    "Daylight": "",
+    "ChelseaFilter": "",
+    "CausesOfColour": "",
+    "Transparency": "Translucent,Opaque"
+  },
+  "FlouresenceProperties": {
+    "General": ""
+  },
+  "Crystallography": {
+    "CrystalSystem": "Monoclinic",
+    "Habit": ""
+  },
+  "GeologicalEnvironment": {
+    "WhereFound": "As phenocrysts in high-temperature volcanic rocks such as trachytes, phonolites and andesites and in tuffs."
+  },
+  "Inclusions": {
+    "Inclusions": "As phenocrysts in high-temperature volcanic rocks such as trachytes, phonolites and andesites and in tuffs."
+  }
+}

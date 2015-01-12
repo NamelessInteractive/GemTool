@@ -1,0 +1,78 @@
+{
+  "Name": "Euclase",
+  "Description": "Euclase (Greek - breaks well) is a name that refers to the easy cleavage of this mineral.\r\n\r\nFlawless gem rough above 1 gram is very rare. It is usually colourless, sapphire blue or blue-green. Most appreciated are bright, blue sapphire-like stones.",
+  "PhysicalProperties": {
+    "MohsHardness": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 7.5,
+          "Max": 7.5
+        }
+      ]
+    },
+    "SpecificGravity": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 3.08,
+          "Max": 3.12
+        }
+      ]
+    },
+    "Tenacity": "Brittle",
+    "CleavageQuality": "Perfect",
+    "Fracture": "Conchoidal",
+    "HeatSensitivity": ""
+  },
+  "OpticalProperties": {
+    "RefractiveIndex": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 1.65,
+          "Max": 1.677
+        }
+      ]
+    },
+    "Birefringence": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 0.019,
+          "Max": 0.025
+        }
+      ]
+    },
+    "Pleochroism": "Weak: colorless-(greenish) - yellow-green - blue-green",
+    "Dispersion": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 0.016,
+          "Max": 0.016
+        }
+      ]
+    }
+  },
+  "ColourProperties": {
+    "General": "Colourless, greenish, bluish, greenish-blue, blue",
+    "Daylight": "",
+    "ChelseaFilter": "Blue variety often shows red",
+    "CausesOfColour": "Blue Fe2+-O-Fe3+ charge transfer. Green Cr3+ in octahedral coordination",
+    "Transparency": "Transparent"
+  },
+  "FlouresenceProperties": {
+    "General": "Weak or none"
+  },
+  "Crystallography": {
+    "CrystalSystem": "Monoclinic",
+    "Habit": "Flattened prismatic"
+  },
+  "GeologicalEnvironment": {
+    "WhereFound": "Euclase is found in pegmatites and is formed from the decomposition of beryl."
+  },
+  "Inclusions": {
+    "Inclusions": "Euclase is found in pegmatites and is formed from the decomposition of beryl."
+  }
+}

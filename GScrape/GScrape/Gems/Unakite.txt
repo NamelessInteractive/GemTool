@@ -1,0 +1,54 @@
+{
+  "Name": "Unakite",
+  "Description": "Unakite is named after place of discovery in South Carolina, USA.\r\n\r\nUnakite is an altered granite consisting primarily of pink Orthoclase Feldspar, clear Quartz and green Epidote. It is very compact and hard.\r\n\r\nUnakite is cut into cabochons and used for jewelry and ornamental objects.",
+  "PhysicalProperties": {
+    "MohsHardness": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 6.0,
+          "Max": 7.0
+        }
+      ]
+    },
+    "SpecificGravity": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 2.85,
+          "Max": 3.2
+        }
+      ]
+    },
+    "Tenacity": "",
+    "CleavageQuality": "",
+    "Fracture": "",
+    "HeatSensitivity": ""
+  },
+  "OpticalProperties": {
+    "RefractiveIndex": null,
+    "Birefringence": null,
+    "Pleochroism": "",
+    "Dispersion": null
+  },
+  "ColourProperties": {
+    "General": "",
+    "Daylight": "",
+    "ChelseaFilter": "",
+    "CausesOfColour": "",
+    "Transparency": "Opaque"
+  },
+  "FlouresenceProperties": {
+    "General": ""
+  },
+  "Crystallography": {
+    "CrystalSystem": "",
+    "Habit": ""
+  },
+  "GeologicalEnvironment": {
+    "WhereFound": ""
+  },
+  "Inclusions": {
+    "Inclusions": "Opaque"
+  }
+}

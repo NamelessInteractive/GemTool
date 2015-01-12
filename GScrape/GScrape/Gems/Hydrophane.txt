@@ -1,0 +1,62 @@
+{
+  "Name": "Hydrophane",
+  "Description": "Hydrophane (Greek: hydro - water; phane - cause to appear) is a variety of opal that appears dull and turbid until immersed in water, it emits streams of bubbles, often accompanied by appropriate noises. It slowly becomes translucent and in some cases, totally transparent with play-of-colour. Some examples show the opposite effect: precious opal loses play-of-colour when immersed in water. They are very rare and are called \"Reverse Hydrophane\".",
+  "PhysicalProperties": {
+    "MohsHardness": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 5.5,
+          "Max": 6.5
+        }
+      ]
+    },
+    "SpecificGravity": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 1.98,
+          "Max": 2.5
+        }
+      ]
+    },
+    "Tenacity": "Brittle",
+    "CleavageQuality": "None",
+    "Fracture": "Conchoidal,Splintery",
+    "HeatSensitivity": ""
+  },
+  "OpticalProperties": {
+    "RefractiveIndex": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 1.37,
+          "Max": 1.52
+        }
+      ]
+    },
+    "Birefringence": null,
+    "Pleochroism": "Absent",
+    "Dispersion": null
+  },
+  "ColourProperties": {
+    "General": "All colours, play-of-colour",
+    "Daylight": "",
+    "ChelseaFilter": "",
+    "CausesOfColour": "",
+    "Transparency": "Transparent,Translucent,Opaque"
+  },
+  "FlouresenceProperties": {
+    "General": ""
+  },
+  "Crystallography": {
+    "CrystalSystem": "Amorphous",
+    "Habit": "Kidney- or grape-shaped aggregates"
+  },
+  "GeologicalEnvironment": {
+    "WhereFound": ""
+  },
+  "Inclusions": {
+    "Inclusions": "All colours, play-of-colour"
+  }
+}

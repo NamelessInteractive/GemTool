@@ -1,0 +1,54 @@
+{
+  "Name": "Anyolite",
+  "Description": "Anyolite is a metamorphic rock composed of an integrowth of massive emerald-green, chrome-rich zoisite, black hornblende (tschermakite), and large, vividly coloured ruby.\r\n\r\nA name derived from \"anyoli\", the Masai word for green. Anyolite is an ornamental stone mined near Longido, Tanzania. Due to its colour contrasts, it is an effective gem and ornamental stone.",
+  "PhysicalProperties": {
+    "MohsHardness": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 6.0,
+          "Max": 7.0
+        }
+      ]
+    },
+    "SpecificGravity": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 3.2,
+          "Max": 3.5
+        }
+      ]
+    },
+    "Tenacity": "",
+    "CleavageQuality": "",
+    "Fracture": "",
+    "HeatSensitivity": ""
+  },
+  "OpticalProperties": {
+    "RefractiveIndex": null,
+    "Birefringence": null,
+    "Pleochroism": "",
+    "Dispersion": null
+  },
+  "ColourProperties": {
+    "General": "Green with ruby inclusions and black spots",
+    "Daylight": "",
+    "ChelseaFilter": "",
+    "CausesOfColour": "",
+    "Transparency": ""
+  },
+  "FlouresenceProperties": {
+    "General": ""
+  },
+  "Crystallography": {
+    "CrystalSystem": "",
+    "Habit": "Massive"
+  },
+  "GeologicalEnvironment": {
+    "WhereFound": ""
+  },
+  "Inclusions": {
+    "Inclusions": "Green with ruby inclusions and black spots"
+  }
+}

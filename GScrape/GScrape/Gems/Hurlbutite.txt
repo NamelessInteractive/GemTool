@@ -1,0 +1,70 @@
+{
+  "Name": "Hurlbutite",
+  "Description": "Hurlbutite is named after Cornelius Searle Hurlbut, Jr. (1906– 2005), Professor of Mineralogy, Harvard University.\r\n\r\nHurlbutite forms stout transparent to translucent colourless to greenish white crystals. Some material from Newport, New Hampshire, USA has been fashioned into gems.",
+  "PhysicalProperties": {
+    "MohsHardness": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 6.0,
+          "Max": 6.0
+        }
+      ]
+    },
+    "SpecificGravity": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 2.9,
+          "Max": 2.9
+        }
+      ]
+    },
+    "Tenacity": "Brittle",
+    "CleavageQuality": "",
+    "Fracture": "Conchoidal",
+    "HeatSensitivity": ""
+  },
+  "OpticalProperties": {
+    "RefractiveIndex": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 1.595,
+          "Max": 1.604
+        }
+      ]
+    },
+    "Birefringence": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 0.009,
+          "Max": 0.009
+        }
+      ]
+    },
+    "Pleochroism": "",
+    "Dispersion": null
+  },
+  "ColourProperties": {
+    "General": "Colourless to greenish white",
+    "Daylight": "",
+    "ChelseaFilter": "",
+    "CausesOfColour": "",
+    "Transparency": "Transparent,Translucent"
+  },
+  "FlouresenceProperties": {
+    "General": ""
+  },
+  "Crystallography": {
+    "CrystalSystem": "Monoclinic",
+    "Habit": "Stout prismatic crystals, to 2.5 cm; as spheres with a radial fibrous structure"
+  },
+  "GeologicalEnvironment": {
+    "WhereFound": "Occurs as a latestage mineral in complex granite pegmatites"
+  },
+  "Inclusions": {
+    "Inclusions": "Occurs as a latestage mineral in complex granite pegmatites"
+  }
+}

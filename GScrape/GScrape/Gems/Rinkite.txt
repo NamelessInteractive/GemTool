@@ -1,0 +1,70 @@
+{
+  "Name": "Rinkite",
+  "Description": "Rinkite is named after Henrik Rink, Director of the Royal Greenland Board of Trade.\r\n\r\nRinkite forms translucent to opaque reddish brown, yellow-brown prismatic and flattened crystals or masses.\r\n\r\nRinkite gemstones have been fashioned.",
+  "PhysicalProperties": {
+    "MohsHardness": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 5.0,
+          "Max": 5.0
+        }
+      ]
+    },
+    "SpecificGravity": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 3.29,
+          "Max": 3.33
+        }
+      ]
+    },
+    "Tenacity": "Brittle",
+    "CleavageQuality": "Distinct",
+    "Fracture": "Uneven,Conchoidal",
+    "HeatSensitivity": ""
+  },
+  "OpticalProperties": {
+    "RefractiveIndex": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 1.653,
+          "Max": 1.662
+        }
+      ]
+    },
+    "Birefringence": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 0.009,
+          "Max": 0.009
+        }
+      ]
+    },
+    "Pleochroism": "Slight, in yellow tints.",
+    "Dispersion": null
+  },
+  "ColourProperties": {
+    "General": "Yellow-brown",
+    "Daylight": "",
+    "ChelseaFilter": "",
+    "CausesOfColour": "",
+    "Transparency": "Translucent"
+  },
+  "FlouresenceProperties": {
+    "General": ""
+  },
+  "Crystallography": {
+    "CrystalSystem": "Monoclinic",
+    "Habit": "Massive"
+  },
+  "GeologicalEnvironment": {
+    "WhereFound": "Rinkite occurs in nepheline syenites and related pegmatites."
+  },
+  "Inclusions": {
+    "Inclusions": "Rinkite occurs in nepheline syenites and related pegmatites."
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "Name": "Cuprite",
+  "Description": "Cuprite was first described in 1845 and the name derives from the Latin \"cuprum\" for its copper content.\r\n\r\nCuprite forms well-developed cubic crystals. It shows internal reflections of the deep garnet-red colour inside the almost black crystal. Cuprite has metallic luster and very high refractive index. Cuprite produces attractive cabochons and fine faceted stones, but it is very soft and brittle.\r\n\r\nThere are different types of stone which are dyed red and offered in the trade as cuprite.",
+  "PhysicalProperties": {
+    "MohsHardness": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 3.5,
+          "Max": 4.0
+        }
+      ]
+    },
+    "SpecificGravity": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 5.85,
+          "Max": 6.15
+        }
+      ]
+    },
+    "Tenacity": "",
+    "CleavageQuality": "Distinct",
+    "Fracture": "Uneven",
+    "HeatSensitivity": "Sensitive to heat"
+  },
+  "OpticalProperties": {
+    "RefractiveIndex": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 2.849,
+          "Max": 2.849
+        }
+      ]
+    },
+    "Birefringence": null,
+    "Pleochroism": "",
+    "Dispersion": null
+  },
+  "ColourProperties": {
+    "General": "Carmine-red",
+    "Daylight": "",
+    "ChelseaFilter": "",
+    "CausesOfColour": "Red, Band theory",
+    "Transparency": "Translucent"
+  },
+  "FlouresenceProperties": {
+    "General": ""
+  },
+  "Crystallography": {
+    "CrystalSystem": "Isometric",
+    "Habit": "Cubes, octahedra or combinations of forms"
+  },
+  "GeologicalEnvironment": {
+    "WhereFound": "Occurs in the oxidized zones of copper deposits"
+  },
+  "Inclusions": {
+    "Inclusions": "Occurs in the oxidized zones of copper deposits"
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "Name": "Fluorite",
+  "Description": "The word Fluorite derived from the Latin \"fluo\" - to flow, because the mineral is used as a flux in iron smelting.\r\n\r\nFluorites from certain localities exhibit a very strong fluorescence, due to impurities in the crystal. In 1852 the phenomenon of fluorescence was named after fluorite. It also gave the name to its constitutive element fluorine.\r\n\r\nFluorite has a wide range of colours, which depends on impurities, exposure to radiation, and the size of the colour centers. Colour distribution is often zonal or spotty.\r\n\r\nFluorite can be used in jewelry, cut into beads. But it is not widely used as a semiprecious stone because of its low hardness.",
+  "PhysicalProperties": {
+    "MohsHardness": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 4.0,
+          "Max": 0.0
+        }
+      ]
+    },
+    "SpecificGravity": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 3.0,
+          "Max": 3.25
+        }
+      ]
+    },
+    "Tenacity": "Brittle",
+    "CleavageQuality": "Perfect",
+    "Fracture": "Conchoidal",
+    "HeatSensitivity": ""
+  },
+  "OpticalProperties": {
+    "RefractiveIndex": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 1.432,
+          "Max": 1.436
+        }
+      ]
+    },
+    "Birefringence": null,
+    "Pleochroism": "Absent",
+    "Dispersion": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 0.007,
+          "Max": 0.007
+        }
+      ]
+    }
+  },
+  "ColourProperties": {
+    "General": "Colourless, pink, red, brown, green, yellow, blue, violet. Colour change: blue/violet, smoky brown/lilac",
+    "Daylight": "Smoky-brown (from India)",
+    "ChelseaFilter": "",
+    "CausesOfColour": "Violet, Mie scattering on calcium microcrystallites. Blue Y3+ + F vacancy +2 electrons. \"Emerald\" green (\"chrome fluorite\"), Sm2+. Yellowish green, color center containing Y3+ and Ce associated with an F vacancy. Yellow, O3 color center = O2 substituting for fluorite. Pink, YO2 color center (Y3 + O3-2). Color change, Y3+ associated color center and Sm2+, with minor influence of a Ce3+ associated color center",
+    "Transparency": "Transparent,Translucent,Opaque"
+  },
+  "FlouresenceProperties": {
+    "General": "Commonly blue to violet or green"
+  },
+  "Crystallography": {
+    "CrystalSystem": "Isometric",
+    "Habit": "Cubic, massive"
+  },
+  "GeologicalEnvironment": {
+    "WhereFound": "Fluorite occurs in low-to-high temperature hydrothermal veins, granites and granite pegmatites"
+  },
+  "Inclusions": {
+    "Inclusions": "Fluorite occurs in low-to-high temperature hydrothermal veins, granites and granite pegmatites"
+  }
+}

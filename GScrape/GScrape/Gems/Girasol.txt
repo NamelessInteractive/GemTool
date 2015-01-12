@@ -1,0 +1,62 @@
+{
+  "Name": "Girasol",
+  "Description": "A bluish-white translucent variety of Common opal showing reddish reflections. The name derived from the Latin \"gyro\" - to turn and \"sol\" - sun, and dates back to at least 15th century Europe.",
+  "PhysicalProperties": {
+    "MohsHardness": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 5.5,
+          "Max": 6.5
+        }
+      ]
+    },
+    "SpecificGravity": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 1.98,
+          "Max": 2.5
+        }
+      ]
+    },
+    "Tenacity": "Brittle",
+    "CleavageQuality": "None",
+    "Fracture": "Conchoidal,Splintery",
+    "HeatSensitivity": ""
+  },
+  "OpticalProperties": {
+    "RefractiveIndex": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 1.37,
+          "Max": 1.52
+        }
+      ]
+    },
+    "Birefringence": null,
+    "Pleochroism": "Absent",
+    "Dispersion": null
+  },
+  "ColourProperties": {
+    "General": "Almost colourless with bluish opalescence",
+    "Daylight": "",
+    "ChelseaFilter": "",
+    "CausesOfColour": "",
+    "Transparency": "Transparent,Translucent"
+  },
+  "FlouresenceProperties": {
+    "General": ""
+  },
+  "Crystallography": {
+    "CrystalSystem": "Amorphous",
+    "Habit": ""
+  },
+  "GeologicalEnvironment": {
+    "WhereFound": ""
+  },
+  "Inclusions": {
+    "Inclusions": "Almost colourless with bluish opalescence"
+  }
+}

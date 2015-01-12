@@ -1,0 +1,54 @@
+{
+  "Name": "Londonite",
+  "Description": "Londonite is named after Dr. David London, Professor of Geology and Geophysics, University of Oklahoma, Norman, Oklahoma, USA, for his contributions to the understanding of granite pegmatites.\r\n\r\nLondonite forms colourless, white, sulfur-yellow, pale yellow, pale yellow-green crystals with vitreous lustre.\r\n\r\nLondonite is a very rare gem - it is found only in a very limited series of pegmatites in Madagascar. Gemmy faceted material is rare.",
+  "PhysicalProperties": {
+    "MohsHardness": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 8.0,
+          "Max": 0.0
+        }
+      ]
+    },
+    "SpecificGravity": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 3.34,
+          "Max": 3.34
+        }
+      ]
+    },
+    "Tenacity": "Brittle",
+    "CleavageQuality": "",
+    "Fracture": "Conchoidal",
+    "HeatSensitivity": ""
+  },
+  "OpticalProperties": {
+    "RefractiveIndex": null,
+    "Birefringence": null,
+    "Pleochroism": "",
+    "Dispersion": null
+  },
+  "ColourProperties": {
+    "General": "Colorless, white, sulfur-yellow, pale yellow, pale yellow-green.",
+    "Daylight": "",
+    "ChelseaFilter": "",
+    "CausesOfColour": "",
+    "Transparency": "Transparent,Translucent"
+  },
+  "FlouresenceProperties": {
+    "General": ""
+  },
+  "Crystallography": {
+    "CrystalSystem": "Isometric",
+    "Habit": "As portions of Cs-rich material heterogenously distributed throughout crystals, patchy, exsolutionlike, and in veinlets; to 7 cm"
+  },
+  "GeologicalEnvironment": {
+    "WhereFound": "An uncommon component of granite pegmatites, in the central zones and in miarolitic cavities."
+  },
+  "Inclusions": {
+    "Inclusions": "An uncommon component of granite pegmatites, in the central zones and in miarolitic cavities."
+  }
+}

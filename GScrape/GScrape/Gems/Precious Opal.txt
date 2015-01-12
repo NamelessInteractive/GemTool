@@ -1,0 +1,62 @@
+{
+  "Name": "Precious Opal",
+  "Description": "The special characteristic of these gems is their play-of-colour, a display of rainbow-like hues, which (especially in rounded cut forms) changes with the angle of observation.\r\n\r\nOpal always contains water (3 - 30%). It can happen that in the course of time, the stone loses water, cracks, and the play-of-colour diminishes. Special care should be taken for storing it.",
+  "PhysicalProperties": {
+    "MohsHardness": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 5.0,
+          "Max": 6.5
+        }
+      ]
+    },
+    "SpecificGravity": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 1.98,
+          "Max": 2.25
+        }
+      ]
+    },
+    "Tenacity": "Brittle",
+    "CleavageQuality": "None",
+    "Fracture": "Conchoidal,Splintery",
+    "HeatSensitivity": ""
+  },
+  "OpticalProperties": {
+    "RefractiveIndex": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 1.37,
+          "Max": 1.47
+        }
+      ]
+    },
+    "Birefringence": null,
+    "Pleochroism": "Absent",
+    "Dispersion": null
+  },
+  "ColourProperties": {
+    "General": "All colors, play of color",
+    "Daylight": "",
+    "ChelseaFilter": "",
+    "CausesOfColour": "Multicolors (play of color opal), diffraction by the regular stacking of silica spheres. Orange to red (fire opal), microscopic to sub-microscopic inclusions of iron hydrous oxides. Green (prase opal), microscopic to submicroscopic nickeliferous clay-like inclusions",
+    "Transparency": "Transparent,Translucent,Opaque"
+  },
+  "FlouresenceProperties": {
+    "General": ""
+  },
+  "Crystallography": {
+    "CrystalSystem": "Amorphous",
+    "Habit": "Kidney- or grape-shaped aggregates"
+  },
+  "GeologicalEnvironment": {
+    "WhereFound": ""
+  },
+  "Inclusions": {
+    "Inclusions": "All colors, play of color"
+  }
+}

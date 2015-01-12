@@ -1,0 +1,62 @@
+{
+  "Name": "Fire Opal",
+  "Description": "Fire opal (named after its orange colour) has red, orange, yellow body colour. It doesn't always show play-of-colour and is usually milky and turbid. The best qualities are clear and transparent, it makes them suitable for being faceted. They are very sensitive to every stress.",
+  "PhysicalProperties": {
+    "MohsHardness": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 6.0,
+          "Max": 6.5
+        }
+      ]
+    },
+    "SpecificGravity": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 1.97,
+          "Max": 2.22
+        }
+      ]
+    },
+    "Tenacity": "Brittle",
+    "CleavageQuality": "None",
+    "Fracture": "Conchoidal,Splintery",
+    "HeatSensitivity": ""
+  },
+  "OpticalProperties": {
+    "RefractiveIndex": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 1.37,
+          "Max": 1.47
+        }
+      ]
+    },
+    "Birefringence": null,
+    "Pleochroism": "Absent",
+    "Dispersion": null
+  },
+  "ColourProperties": {
+    "General": "Red, orange, yellow",
+    "Daylight": "",
+    "ChelseaFilter": "",
+    "CausesOfColour": "Orange to red, microscopic to sub-microscopic inclusions of iron hydrous oxides.",
+    "Transparency": "Transparent,Translucent,Opaque"
+  },
+  "FlouresenceProperties": {
+    "General": "Greenish to brown"
+  },
+  "Crystallography": {
+    "CrystalSystem": "Amorphous",
+    "Habit": "Massive"
+  },
+  "GeologicalEnvironment": {
+    "WhereFound": ""
+  },
+  "Inclusions": {
+    "Inclusions": "Greenish to brown"
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "Name": "Elbaite",
+  "Description": "Elbaite is named after the island of Elba, Italy. Elbaite forms three series, with dravite, liddicoatite, and schorl.",
+  "PhysicalProperties": {
+    "MohsHardness": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 7.0,
+          "Max": 0.0
+        }
+      ]
+    },
+    "SpecificGravity": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 2.9,
+          "Max": 3.1
+        }
+      ]
+    },
+    "Tenacity": "Brittle",
+    "CleavageQuality": "Indistinct",
+    "Fracture": "Uneven,Conchoidal",
+    "HeatSensitivity": ""
+  },
+  "OpticalProperties": {
+    "RefractiveIndex": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 1.614,
+          "Max": 1.666
+        }
+      ]
+    },
+    "Birefringence": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 0.014,
+          "Max": 0.032
+        }
+      ]
+    },
+    "Pleochroism": "Pink, pale green, pale to deep blue - colorless, yellow, olive-green, purplish",
+    "Dispersion": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 0.017,
+          "Max": 0.017
+        }
+      ]
+    }
+  },
+  "ColourProperties": {
+    "General": "Green, blue, red, orange, yellow, colorless, zoning common parallel to trigonal outline; colorless in thin section.",
+    "Daylight": "",
+    "ChelseaFilter": "",
+    "CausesOfColour": "Green, Fe2+ and Ti4+ in octahedral coordination, influence of various charge transfer processes involving iron is a distinct possibility. Yellow-green, Mn2+-O-Ti4+ charge transfer. Greenish yellow, Mn2+ in octahedral coordination (rare). Orange, yellow + pink. Pink to red, related to manganese, generally believed to be due to Mn3+ in octahedral coordination, sometimes caused by irradiation. Brown, Fe2+→Ti4+ charge transfer",
+    "Transparency": "Transparent,Translucent"
+  },
+  "FlouresenceProperties": {
+    "General": "Weak to none"
+  },
+  "Crystallography": {
+    "CrystalSystem": "Hexagonal",
+    "Habit": "Crystals prismatic to acicular, with prominent trigonal prism and pyramid, to 1.6 m, commonly hemimorphic. Also radial,\r\nfibrous, and massive."
+  },
+  "GeologicalEnvironment": {
+    "WhereFound": "In granites, granite pegmatites, and some metamorphic rocks; in high-temperature hydrothermal veins; detrital in sediments."
+  },
+  "Inclusions": {
+    "Inclusions": "In granites, granite pegmatites, and some metamorphic rocks; in high-temperature hydrothermal veins; detrital in sediments."
+  }
+}

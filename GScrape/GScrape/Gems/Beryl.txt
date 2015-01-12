@@ -1,0 +1,78 @@
+{
+  "Name": "Beryl",
+  "Description": "The name beryl comes from India and has always been associated with the gemstone. Beryl is praised for its transparency, high hardness, and beautiful colours with wide range of tones and shades.\r\n\r\nSeveral colour varieties of beryl are used as gemstones. Deep green beryls are called emeralds, greenish blue to pure blue - aquamarine, pale, almost colourless - goshenite, light yellow-green to golden-yellow - heliodor, rose and pink beryl is morganite, red variety is bixbite. Maxixe-type beryl is characterized by a bright blue colour which fades in the sunlight.\r\n\r\nThe crystals are prismatic, they may be very large, even gigantic and in pegmatites may reach lengths of 2 to 3 m and widths of 0.5 to 1 m.",
+  "PhysicalProperties": {
+    "MohsHardness": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 7.5,
+          "Max": 8.0
+        }
+      ]
+    },
+    "SpecificGravity": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 2.6,
+          "Max": 2.9
+        }
+      ]
+    },
+    "Tenacity": "",
+    "CleavageQuality": "Indistinct",
+    "Fracture": "Uneven,Conchoidal",
+    "HeatSensitivity": ""
+  },
+  "OpticalProperties": {
+    "RefractiveIndex": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 1.56,
+          "Max": 1.604
+        }
+      ]
+    },
+    "Birefringence": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 0.003,
+          "Max": 0.01
+        }
+      ]
+    },
+    "Pleochroism": "Red beryl - distinct: (orangy)-red - purplish-red; Golden beryl - weak: yellowish - greenish-yellow; Green beryl - distinct: yellow-green - blue-green",
+    "Dispersion": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 0.014,
+          "Max": 0.014
+        }
+      ]
+    }
+  },
+  "ColourProperties": {
+    "General": "Colourless, green, blue, yellow, yellow-green, pink, red",
+    "Daylight": "",
+    "ChelseaFilter": "",
+    "CausesOfColour": "Dark blue (Maxixe and Maxixe type), CO3(Maxixe-type), and NO3 (Maxixe) color centers due to irradiation. Light blue (aquamarine), Fe2+ in the channels of the structure. Darker blue (aquamarine), Fe2+-O-Fe3+ intervalence charge transfer. Green: yellow + blue, O2→Fe2 charge transfer and Fe2+ in the channels. Green (emerald, mint beryl), Cr3+ and/or V3+ in octahedral coordination. Red, Mn3+ in octahedral coordination. Pink (morganite), Mn2+ in octahedral coordination",
+    "Transparency": "Transparent,Translucent"
+  },
+  "FlouresenceProperties": {
+    "General": ""
+  },
+  "Crystallography": {
+    "CrystalSystem": "Hexagonal",
+    "Habit": "Prismatic"
+  },
+  "GeologicalEnvironment": {
+    "WhereFound": "Beryl minerals occur in granites and granite pegmatites, in mafic metamorphic rocks and in high-temperature hydrothermal veins and in vugs in rhyolite."
+  },
+  "Inclusions": {
+    "Inclusions": "Beryl minerals occur in granites and granite pegmatites, in mafic metamorphic rocks and in high-temperature hydrothermal veins and in vugs in rhyolite."
+  }
+}

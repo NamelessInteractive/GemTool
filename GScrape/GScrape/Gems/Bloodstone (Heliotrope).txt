@@ -1,0 +1,70 @@
+{
+  "Name": "Bloodstone (Heliotrope)",
+  "Description": "Bloodstone is an opaque, dark-green Chalcedony with red spots. An old name still used in Europe is heliotrope (Greek - sun turner). Used often as seals for men's rings and for other ornamental objects.\r\n\r\nIn the trade, the term blood jasper is sometimes used. Bloodstone, however, is not a jasper at all, even though a radial structure with spherical aggregates can simulate a grainy appearance.",
+  "PhysicalProperties": {
+    "MohsHardness": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 6.5,
+          "Max": 7.0
+        }
+      ]
+    },
+    "SpecificGravity": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 2.55,
+          "Max": 2.7
+        }
+      ]
+    },
+    "Tenacity": "",
+    "CleavageQuality": "",
+    "Fracture": "",
+    "HeatSensitivity": ""
+  },
+  "OpticalProperties": {
+    "RefractiveIndex": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 1.53,
+          "Max": 1.543
+        }
+      ]
+    },
+    "Birefringence": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 0.003,
+          "Max": 0.009
+        }
+      ]
+    },
+    "Pleochroism": "",
+    "Dispersion": null
+  },
+  "ColourProperties": {
+    "General": "Dark green/greenish-blue with small red blood-like spots",
+    "Daylight": "",
+    "ChelseaFilter": "",
+    "CausesOfColour": "Particles of chlorite or included hornblende needles cause the green color. Red spots are caused by iron oxide.",
+    "Transparency": "Translucent,Opaque"
+  },
+  "FlouresenceProperties": {
+    "General": ""
+  },
+  "Crystallography": {
+    "CrystalSystem": "Trigonal",
+    "Habit": "Fibrous to grained aggregate"
+  },
+  "GeologicalEnvironment": {
+    "WhereFound": ""
+  },
+  "Inclusions": {
+    "Inclusions": "Dark green/greenish-blue with small red blood-like spots"
+  }
+}

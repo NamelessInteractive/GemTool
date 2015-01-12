@@ -1,0 +1,62 @@
+{
+  "Name": "Common Opal",
+  "Description": "Common opal is opaque, rarely translucent, and shows no play-of-colour. A wide variety of trade names are used.",
+  "PhysicalProperties": {
+    "MohsHardness": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 5.5,
+          "Max": 6.5
+        }
+      ]
+    },
+    "SpecificGravity": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 1.98,
+          "Max": 2.5
+        }
+      ]
+    },
+    "Tenacity": "Brittle",
+    "CleavageQuality": "None",
+    "Fracture": "Conchoidal,Splintery",
+    "HeatSensitivity": ""
+  },
+  "OpticalProperties": {
+    "RefractiveIndex": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 1.37,
+          "Max": 1.52
+        }
+      ]
+    },
+    "Birefringence": null,
+    "Pleochroism": "Absent",
+    "Dispersion": null
+  },
+  "ColourProperties": {
+    "General": "All colours",
+    "Daylight": "",
+    "ChelseaFilter": "",
+    "CausesOfColour": "",
+    "Transparency": "Translucent,Opaque"
+  },
+  "FlouresenceProperties": {
+    "General": ""
+  },
+  "Crystallography": {
+    "CrystalSystem": "Amorphous",
+    "Habit": "Kidney- or grape-shaped aggregates"
+  },
+  "GeologicalEnvironment": {
+    "WhereFound": ""
+  },
+  "Inclusions": {
+    "Inclusions": "All colours"
+  }
+}

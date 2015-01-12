@@ -1,0 +1,70 @@
+{
+  "Name": "Pezzottaite",
+  "Description": "Pezzottaite was named after Dr Federico Pezzotta for his work on the granitic pegmatites of that island. Pezzottaite was discovered at the Sakavalana Mine, Ambatovita, Madagascar in 2002.\r\n\r\nPezzottaite has very rich, intense, distinctive pink colour.\r\n\r\nPezzottaite is one of the most rare and beautiful gems on the market nowadays.",
+  "PhysicalProperties": {
+    "MohsHardness": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 7.5,
+          "Max": 8.0
+        }
+      ]
+    },
+    "SpecificGravity": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 2.9,
+          "Max": 3.14
+        }
+      ]
+    },
+    "Tenacity": "Brittle",
+    "CleavageQuality": "Imperfect",
+    "Fracture": "Conchoidal",
+    "HeatSensitivity": ""
+  },
+  "OpticalProperties": {
+    "RefractiveIndex": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 1.598,
+          "Max": 1.62
+        }
+      ]
+    },
+    "Birefringence": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 0.007,
+          "Max": 0.011
+        }
+      ]
+    },
+    "Pleochroism": "Strong: pinkish-orange - purplish-pink",
+    "Dispersion": null
+  },
+  "ColourProperties": {
+    "General": "Rose-red, pink",
+    "Daylight": "",
+    "ChelseaFilter": "Faint pink-(orangy)",
+    "CausesOfColour": "",
+    "Transparency": "Transparent,Translucent"
+  },
+  "FlouresenceProperties": {
+    "General": "Mostly inert"
+  },
+  "Crystallography": {
+    "CrystalSystem": "Trigonal",
+    "Habit": "Tabular"
+  },
+  "GeologicalEnvironment": {
+    "WhereFound": "Occurs as isolated crystals in vugs in granitic pegmatites."
+  },
+  "Inclusions": {
+    "Inclusions": "Occurs as isolated crystals in vugs in granitic pegmatites."
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "Name": "Vivianite",
+  "Description": "Vivianite is named after John Henry Vivian, who first discovered crystals of the mineral at St Agnes, Cornwall, England.\r\n\r\nVivianite forms flattened prismatic transparent to translucent light green to deep blue or colourless crystals. It has very strong plechroism: deep blue - pale yellowish green - yellowish green.\r\n\r\nFacetable crystals are rare.",
+  "PhysicalProperties": {
+    "MohsHardness": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 1.5,
+          "Max": 2.0
+        }
+      ]
+    },
+    "SpecificGravity": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 2.64,
+          "Max": 2.7
+        }
+      ]
+    },
+    "Tenacity": "Flexible",
+    "CleavageQuality": "Perfect",
+    "Fracture": "",
+    "HeatSensitivity": ""
+  },
+  "OpticalProperties": {
+    "RefractiveIndex": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 1.56,
+          "Max": 1.64
+        }
+      ]
+    },
+    "Birefringence": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 0.054,
+          "Max": 0.075
+        }
+      ]
+    },
+    "Pleochroism": "Anomalous plechroism is strong with colours deep blue/pale yellowish green/yellowish green.",
+    "Dispersion": null
+  },
+  "ColourProperties": {
+    "General": "Blue-green, deep blue, colourless",
+    "Daylight": "",
+    "ChelseaFilter": "",
+    "CausesOfColour": "",
+    "Transparency": "Transparent,Translucent"
+  },
+  "FlouresenceProperties": {
+    "General": ""
+  },
+  "Crystallography": {
+    "CrystalSystem": "Monoclinic",
+    "Habit": "Prismatic"
+  },
+  "GeologicalEnvironment": {
+    "WhereFound": "Vivianite occurs as a secondary mineral in the oxidized zone of metallic-ore deposits and in complex granite pegmatites."
+  },
+  "Inclusions": {
+    "Inclusions": "Vivianite occurs as a secondary mineral in the oxidized zone of metallic-ore deposits and in complex granite pegmatites."
+  }
+}

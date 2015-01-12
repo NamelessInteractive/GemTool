@@ -1,0 +1,78 @@
+{
+  "Name": "Zoisite",
+  "Description": "The mineral zoisite is named after the collector Zois. It was first found in the Sau-Alp mountains in Austria, in 1805. It was originally called saualpite. Gem-stone quality specimens have only recently been found.\r\n\r\nThe gemstone members of the group are tanzanite, thulite and anyolite.",
+  "PhysicalProperties": {
+    "MohsHardness": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 6.0,
+          "Max": 7.0
+        }
+      ]
+    },
+    "SpecificGravity": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 3.2,
+          "Max": 3.5
+        }
+      ]
+    },
+    "Tenacity": "",
+    "CleavageQuality": "Perfect",
+    "Fracture": "Conchoidal",
+    "HeatSensitivity": ""
+  },
+  "OpticalProperties": {
+    "RefractiveIndex": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 1.685,
+          "Max": 1.707
+        }
+      ]
+    },
+    "Birefringence": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 0.006,
+          "Max": 0.013
+        }
+      ]
+    },
+    "Pleochroism": "Strong",
+    "Dispersion": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 0.0196,
+          "Max": 0.0196
+        }
+      ]
+    }
+  },
+  "ColourProperties": {
+    "General": "Green, brown, red-violet, bluish-green",
+    "Daylight": "",
+    "ChelseaFilter": "",
+    "CausesOfColour": "Blue, (tanzanite - heat treated), V4+ in octahedral coordination; with V3+ in octahedral coordination. Brown-violet, V3+ in octahedral coordination (treatment turns blue, tanzanite). Green, Cr3+ in octahedral coordination. Pink (thulite), Mn3+ in presumably octahedral coordination",
+    "Transparency": "Transparent,Translucent,Opaque"
+  },
+  "FlouresenceProperties": {
+    "General": ""
+  },
+  "Crystallography": {
+    "CrystalSystem": "Orthorhombic",
+    "Habit": "Prismatic"
+  },
+  "GeologicalEnvironment": {
+    "WhereFound": "Occurs in medium-grade regionally metamorphosed crystalline schists formed from igneous, sedimentary or metamorphic rocks relatively high in calcium."
+  },
+  "Inclusions": {
+    "Inclusions": "Occurs in medium-grade regionally metamorphosed crystalline schists formed from igneous, sedimentary or metamorphic rocks relatively high in calcium."
+  }
+}

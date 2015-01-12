@@ -1,0 +1,70 @@
+{
+  "Name": "Catapleiite",
+  "Description": "Catapleiite is named after Greek \"kata\" - with and \"pleion\" - more, alluding to its ubiquitous association with a number of rare minerals.\r\n\r\nOnly small colourless stones have been faceted.",
+  "PhysicalProperties": {
+    "MohsHardness": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 5.0,
+          "Max": 6.0
+        }
+      ]
+    },
+    "SpecificGravity": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 2.72,
+          "Max": 2.72
+        }
+      ]
+    },
+    "Tenacity": "",
+    "CleavageQuality": "Perfect",
+    "Fracture": "",
+    "HeatSensitivity": ""
+  },
+  "OpticalProperties": {
+    "RefractiveIndex": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 1.59,
+          "Max": 1.629
+        }
+      ]
+    },
+    "Birefringence": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 0.039,
+          "Max": 0.039
+        }
+      ]
+    },
+    "Pleochroism": "",
+    "Dispersion": null
+  },
+  "ColourProperties": {
+    "General": "Colourless",
+    "Daylight": "",
+    "ChelseaFilter": "",
+    "CausesOfColour": "",
+    "Transparency": "Transparent"
+  },
+  "FlouresenceProperties": {
+    "General": ""
+  },
+  "Crystallography": {
+    "CrystalSystem": "Hexagonal",
+    "Habit": ""
+  },
+  "GeologicalEnvironment": {
+    "WhereFound": ""
+  },
+  "Inclusions": {
+    "Inclusions": "Colourless"
+  }
+}

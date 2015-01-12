@@ -1,0 +1,54 @@
+{
+  "Name": "Tavorite",
+  "Description": "Tavorite is named after Elysairo Tavora, Professor of Mineralogy, University of Brazil, Rio de Janeiro, Minas Gerais, Brazil.\r\n\r\nTavorite occurs as transparent to translucent grass green, greenish yellow, yellow green, yellow well-formed fine sized crystals with vitreous lustre.",
+  "PhysicalProperties": {
+    "MohsHardness": null,
+    "SpecificGravity": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 3.32,
+          "Max": 3.32
+        }
+      ]
+    },
+    "Tenacity": "",
+    "CleavageQuality": "",
+    "Fracture": "",
+    "HeatSensitivity": ""
+  },
+  "OpticalProperties": {
+    "RefractiveIndex": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 1.795,
+          "Max": 1.86
+        }
+      ]
+    },
+    "Birefringence": null,
+    "Pleochroism": "Yellow-green - colorless",
+    "Dispersion": null
+  },
+  "ColourProperties": {
+    "General": "Greenish yellow, grass-green, bright apple-green",
+    "Daylight": "",
+    "ChelseaFilter": "",
+    "CausesOfColour": "",
+    "Transparency": "Transparent,Translucent"
+  },
+  "FlouresenceProperties": {
+    "General": ""
+  },
+  "Crystallography": {
+    "CrystalSystem": "Triclinic",
+    "Habit": "Crystals to 5 mm; commonly very fine-grained, massive, in veinlets, disseminated, and thin films."
+  },
+  "GeologicalEnvironment": {
+    "WhereFound": "A secondary oxidation product of earlier phosphates in complex zoned granite pegmatites."
+  },
+  "Inclusions": {
+    "Inclusions": "A secondary oxidation product of earlier phosphates in complex zoned granite pegmatites."
+  }
+}

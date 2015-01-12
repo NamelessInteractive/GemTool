@@ -1,0 +1,70 @@
+{
+  "Name": "Adularia",
+  "Description": "Adularia is transparent colourless form of Orthoclase with white to blue sheen. It can be faceted, but cut stones are usually unimpressive.",
+  "PhysicalProperties": {
+    "MohsHardness": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 6.0,
+          "Max": 6.0
+        }
+      ]
+    },
+    "SpecificGravity": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 2.54,
+          "Max": 2.61
+        }
+      ]
+    },
+    "Tenacity": "",
+    "CleavageQuality": "",
+    "Fracture": "",
+    "HeatSensitivity": ""
+  },
+  "OpticalProperties": {
+    "RefractiveIndex": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 1.518,
+          "Max": 1.536
+        }
+      ]
+    },
+    "Birefringence": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 0.005,
+          "Max": 0.008
+        }
+      ]
+    },
+    "Pleochroism": "",
+    "Dispersion": null
+  },
+  "ColourProperties": {
+    "General": "Colourless",
+    "Daylight": "",
+    "ChelseaFilter": "",
+    "CausesOfColour": "",
+    "Transparency": "Transparent"
+  },
+  "FlouresenceProperties": {
+    "General": ""
+  },
+  "Crystallography": {
+    "CrystalSystem": "Monoclinic",
+    "Habit": ""
+  },
+  "GeologicalEnvironment": {
+    "WhereFound": "Low temperature hydrothermal deposits (in the Swiss Alps)."
+  },
+  "Inclusions": {
+    "Inclusions": "Low temperature hydrothermal deposits (in the Swiss Alps)."
+  }
+}

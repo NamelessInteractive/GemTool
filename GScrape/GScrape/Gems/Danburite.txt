@@ -1,0 +1,78 @@
+{
+  "Name": "Danburite",
+  "Description": "Danburite was first found in Danbury (therefore the name), Connecticut, USA.\r\n\r\nDanburite is little known as a gemstone, but its popularity is growing. Its crystals have excellent clarity and they are easy to cut into brilliant attractive gems. Cut stones of 3-6 carats or more (up to 100 carats).",
+  "PhysicalProperties": {
+    "MohsHardness": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 7.0,
+          "Max": 7.0
+        }
+      ]
+    },
+    "SpecificGravity": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 2.97,
+          "Max": 3.03
+        }
+      ]
+    },
+    "Tenacity": "",
+    "CleavageQuality": "Imperfect",
+    "Fracture": "Uneven,Conchoidal",
+    "HeatSensitivity": ""
+  },
+  "OpticalProperties": {
+    "RefractiveIndex": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 1.627,
+          "Max": 1.639
+        }
+      ]
+    },
+    "Birefringence": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 0.006,
+          "Max": 0.006
+        }
+      ]
+    },
+    "Pleochroism": "Weak: pale yellow - yellow",
+    "Dispersion": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 0.017,
+          "Max": 0.017
+        }
+      ]
+    }
+  },
+  "ColourProperties": {
+    "General": "Yellow, yellow-brown, brown, pink, colourless",
+    "Daylight": "",
+    "ChelseaFilter": "",
+    "CausesOfColour": "",
+    "Transparency": "Transparent"
+  },
+  "FlouresenceProperties": {
+    "General": ""
+  },
+  "Crystallography": {
+    "CrystalSystem": "Orthorhombic",
+    "Habit": "Prismatic with rhombohedral to square cross-section"
+  },
+  "GeologicalEnvironment": {
+    "WhereFound": "Danburite occurs in granites and in metamorphosed carbonate rocks associated with hydrothermal activity"
+  },
+  "Inclusions": {
+    "Inclusions": "Danburite occurs in granites and in metamorphosed carbonate rocks associated with hydrothermal activity"
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "Name": "Thulite",
+  "Description": "Dense, opaque, pink or mottled pink-and-white variety of Zoicite that was first found in Norway and named after Thule, the ancient name for that country. Thulite is used as a gemstone and carving material in the manufacture of jewellery and ornamental objects.",
+  "PhysicalProperties": {
+    "MohsHardness": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 6.0,
+          "Max": 7.0
+        }
+      ]
+    },
+    "SpecificGravity": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 3.1,
+          "Max": 3.1
+        }
+      ]
+    },
+    "Tenacity": "",
+    "CleavageQuality": "Perfect",
+    "Fracture": "Conchoidal",
+    "HeatSensitivity": ""
+  },
+  "OpticalProperties": {
+    "RefractiveIndex": null,
+    "Birefringence": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 0.006,
+          "Max": 0.013
+        }
+      ]
+    },
+    "Pleochroism": "",
+    "Dispersion": null
+  },
+  "ColourProperties": {
+    "General": "Pink to red variety of zoisite, often mottled white and gray",
+    "Daylight": "",
+    "ChelseaFilter": "",
+    "CausesOfColour": "Pink, Mn3+ in presumably octahedral coordination",
+    "Transparency": "Opaque"
+  },
+  "FlouresenceProperties": {
+    "General": ""
+  },
+  "Crystallography": {
+    "CrystalSystem": "Orthorhombic",
+    "Habit": "Massive"
+  },
+  "GeologicalEnvironment": {
+    "WhereFound": ""
+  },
+  "Inclusions": {
+    "Inclusions": "Pink to red variety of zoisite, often mottled white and gray"
+  }
+}

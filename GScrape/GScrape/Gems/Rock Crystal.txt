@@ -1,0 +1,78 @@
+{
+  "Name": "Rock Crystal",
+  "Description": "Rock Crystal is a traditional name given to water-clear crystalline quartz.\r\n\r\nThe name Crystal comes from the Greek for \"ice\", as it was believed that Rock Crystal was eternally frozen. Rock Crystals weighing many tons have been found. Cuttable material is rare.\r\n\r\nRock Crystal is used for costume jewelry and delicate bowls and to imitate diamonds.",
+  "PhysicalProperties": {
+    "MohsHardness": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 7.0,
+          "Max": 7.0
+        }
+      ]
+    },
+    "SpecificGravity": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 2.65,
+          "Max": 2.65
+        }
+      ]
+    },
+    "Tenacity": "Brittle",
+    "CleavageQuality": "None",
+    "Fracture": "Conchoidal",
+    "HeatSensitivity": ""
+  },
+  "OpticalProperties": {
+    "RefractiveIndex": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 1.544,
+          "Max": 1.553
+        }
+      ]
+    },
+    "Birefringence": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 0.009,
+          "Max": 0.009
+        }
+      ]
+    },
+    "Pleochroism": "Absent",
+    "Dispersion": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 0.013,
+          "Max": 0.013
+        }
+      ]
+    }
+  },
+  "ColourProperties": {
+    "General": "Colorless",
+    "Daylight": "",
+    "ChelseaFilter": "",
+    "CausesOfColour": "",
+    "Transparency": "Transparent"
+  },
+  "FlouresenceProperties": {
+    "General": "None"
+  },
+  "Crystallography": {
+    "CrystalSystem": "Trigonal",
+    "Habit": "Hexagonal prisms"
+  },
+  "GeologicalEnvironment": {
+    "WhereFound": "Rock crystal is found widespread in the world."
+  },
+  "Inclusions": {
+    "Inclusions": "Rock crystal is found widespread in the world."
+  }
+}

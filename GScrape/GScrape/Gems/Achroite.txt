@@ -1,0 +1,78 @@
+{
+  "Name": "Achroite",
+  "Description": "Achroite (Greek - without colour) is colourless or almost colourless variety of Tourmaline. It is quite rare.",
+  "PhysicalProperties": {
+    "MohsHardness": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 7.0,
+          "Max": 7.5
+        }
+      ]
+    },
+    "SpecificGravity": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 2.9,
+          "Max": 3.4
+        }
+      ]
+    },
+    "Tenacity": "Brittle",
+    "CleavageQuality": "Indistinct",
+    "Fracture": "Uneven,Conchoidal",
+    "HeatSensitivity": ""
+  },
+  "OpticalProperties": {
+    "RefractiveIndex": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 1.614,
+          "Max": 1.666
+        }
+      ]
+    },
+    "Birefringence": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 0.014,
+          "Max": 0.04
+        }
+      ]
+    },
+    "Pleochroism": "",
+    "Dispersion": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 0.017,
+          "Max": 0.017
+        }
+      ]
+    }
+  },
+  "ColourProperties": {
+    "General": "Colorless",
+    "Daylight": "",
+    "ChelseaFilter": "",
+    "CausesOfColour": "",
+    "Transparency": "Transparent,Translucent,Opaque"
+  },
+  "FlouresenceProperties": {
+    "General": "Weak to none"
+  },
+  "Crystallography": {
+    "CrystalSystem": "Trigonal",
+    "Habit": "Long crystals with triangular cross section and rounded sides, definite striation parallel to main axis"
+  },
+  "GeologicalEnvironment": {
+    "WhereFound": ""
+  },
+  "Inclusions": {
+    "Inclusions": "Weak to none"
+  }
+}

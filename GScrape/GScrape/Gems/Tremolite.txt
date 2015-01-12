@@ -1,0 +1,70 @@
+{
+  "Name": "Tremolite",
+  "Description": "Tremolite is named after its discovery locality, in Val Tremola, near St. Gotthard, Switzerland.\r\n\r\nTremolite occurs as grey, green or lavender to pink stout elongated crystals, which form fibrous, granular or columnar aggregates. They are known as fine needle-like inclusions in quartz or emerald. The needles produce a distinct cat's eye effect in cabochons cut from compact green Tremolite from Ontario, Canada.",
+  "PhysicalProperties": {
+    "MohsHardness": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 5.0,
+          "Max": 6.0
+        }
+      ]
+    },
+    "SpecificGravity": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 2.95,
+          "Max": 3.07
+        }
+      ]
+    },
+    "Tenacity": "",
+    "CleavageQuality": "Distinct",
+    "Fracture": "Uneven",
+    "HeatSensitivity": ""
+  },
+  "OpticalProperties": {
+    "RefractiveIndex": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 1.599,
+          "Max": 1.637
+        }
+      ]
+    },
+    "Birefringence": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 0.023,
+          "Max": 0.028
+        }
+      ]
+    },
+    "Pleochroism": "Nil",
+    "Dispersion": null
+  },
+  "ColourProperties": {
+    "General": "Grey-brown, green, colourless, white, pink.",
+    "Daylight": "",
+    "ChelseaFilter": "",
+    "CausesOfColour": "Pink (hexagonite), Mn3+",
+    "Transparency": "Transparent,Translucent"
+  },
+  "FlouresenceProperties": {
+    "General": "Occasionally orange"
+  },
+  "Crystallography": {
+    "CrystalSystem": "Monoclinic",
+    "Habit": "Fibrous, granular or columnar aggregates"
+  },
+  "GeologicalEnvironment": {
+    "WhereFound": "Tremolite is formed by contact metamorphism of Ca–Mg siliceous\r\nsediments and in metamorphics derived from ultramafic or magnesium carbonate rocks."
+  },
+  "Inclusions": {
+    "Inclusions": "Tremolite is formed by contact metamorphism of Ca–Mg siliceous\r\nsediments and in metamorphics derived from ultramafic or magnesium carbonate rocks."
+  }
+}

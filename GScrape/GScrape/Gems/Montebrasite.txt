@@ -1,0 +1,70 @@
+{
+  "Name": "Montebrasite",
+  "Description": "Montebrasite is named after its discovery locality, at Montebras, Creuse, France.\r\n\r\nMontebrasite forms attractive, colourless, bright yellow-green, sometimes blue, pink and pale brown, equant to short-prismatic crystals, twinning is common.",
+  "PhysicalProperties": {
+    "MohsHardness": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 5.5,
+          "Max": 6.0
+        }
+      ]
+    },
+    "SpecificGravity": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 2.98,
+          "Max": 3.1
+        }
+      ]
+    },
+    "Tenacity": "Brittle",
+    "CleavageQuality": "Perfect",
+    "Fracture": "Uneven,Sub-Conchoidal",
+    "HeatSensitivity": ""
+  },
+  "OpticalProperties": {
+    "RefractiveIndex": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 1.578,
+          "Max": 1.646
+        }
+      ]
+    },
+    "Birefringence": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 0.02,
+          "Max": 0.03
+        }
+      ]
+    },
+    "Pleochroism": "",
+    "Dispersion": null
+  },
+  "ColourProperties": {
+    "General": "Colourless, yellowish, light green, light blue, white, pink.",
+    "Daylight": "",
+    "ChelseaFilter": "",
+    "CausesOfColour": "",
+    "Transparency": "Transparent"
+  },
+  "FlouresenceProperties": {
+    "General": ""
+  },
+  "Crystallography": {
+    "CrystalSystem": "Triclinic",
+    "Habit": "Crystals typically equant, may be short to long prismatic, to 10 cm; as coarse cleavable or blocky to rounded nodular masses."
+  },
+  "GeologicalEnvironment": {
+    "WhereFound": "A late primary and secondary mineral in zoned granite pegmatites; may be an ore of lithium."
+  },
+  "Inclusions": {
+    "Inclusions": "A late primary and secondary mineral in zoned granite pegmatites; may be an ore of lithium."
+  }
+}

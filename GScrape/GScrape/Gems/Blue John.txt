@@ -1,0 +1,62 @@
+{
+  "Name": "Blue John",
+  "Description": "The name Blue John derives from French \"bleu et jaune\" (blue and yellow) characterising its colour. Purple-blue fluorite was mined in Castleton, Derbyshire, England including the famous Blue John Cavern.\r\n\r\nA wide range of ornaments are manufactured from this colourful material.",
+  "PhysicalProperties": {
+    "MohsHardness": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 4.0,
+          "Max": 0.0
+        }
+      ]
+    },
+    "SpecificGravity": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 3.0,
+          "Max": 3.25
+        }
+      ]
+    },
+    "Tenacity": "",
+    "CleavageQuality": "Perfect",
+    "Fracture": "",
+    "HeatSensitivity": ""
+  },
+  "OpticalProperties": {
+    "RefractiveIndex": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 1.432,
+          "Max": 1.436
+        }
+      ]
+    },
+    "Birefringence": null,
+    "Pleochroism": "",
+    "Dispersion": null
+  },
+  "ColourProperties": {
+    "General": "Banded white/purple",
+    "Daylight": "",
+    "ChelseaFilter": "",
+    "CausesOfColour": "",
+    "Transparency": "Transparent,Translucent"
+  },
+  "FlouresenceProperties": {
+    "General": ""
+  },
+  "Crystallography": {
+    "CrystalSystem": "Isometric",
+    "Habit": "Cubic, massive"
+  },
+  "GeologicalEnvironment": {
+    "WhereFound": ""
+  },
+  "Inclusions": {
+    "Inclusions": "Banded white/purple"
+  }
+}

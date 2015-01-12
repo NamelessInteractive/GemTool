@@ -1,0 +1,78 @@
+{
+  "Name": "Axinite",
+  "Description": "Axinite (Greek - axe) was named because of its sharp-edged crystals, which can be considered a positive identification feature.\r\n\r\nLarge clean axinite specimens are rare. Most crystals have some inclusions, usually in the form of delicate veils.\r\n\r\nMarked variations in hardness have been reported.",
+  "PhysicalProperties": {
+    "MohsHardness": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 6.5,
+          "Max": 7.0
+        }
+      ]
+    },
+    "SpecificGravity": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 3.26,
+          "Max": 3.36
+        }
+      ]
+    },
+    "Tenacity": "Brittle",
+    "CleavageQuality": "Good",
+    "Fracture": "Conchoidal",
+    "HeatSensitivity": ""
+  },
+  "OpticalProperties": {
+    "RefractiveIndex": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 1.656,
+          "Max": 1.704
+        }
+      ]
+    },
+    "Birefringence": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 0.009,
+          "Max": 0.012
+        }
+      ]
+    },
+    "Pleochroism": "Orange/brown stones - strong trichroism: olive green - red brown to violet - yellow brown",
+    "Dispersion": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 0.018,
+          "Max": 0.02
+        }
+      ]
+    }
+  },
+  "ColourProperties": {
+    "General": "Brown, green, yellowish-green, bluish-green, blue",
+    "Daylight": "",
+    "ChelseaFilter": "",
+    "CausesOfColour": "Blue, V3+ in octahedral coordination",
+    "Transparency": "Transparent"
+  },
+  "FlouresenceProperties": {
+    "General": ""
+  },
+  "Crystallography": {
+    "CrystalSystem": "Triclinic",
+    "Habit": "Crystals are characteristically wedge- or axe-shaped."
+  },
+  "GeologicalEnvironment": {
+    "WhereFound": "Occurs in basic igneous and contact metamorphic rocks."
+  },
+  "Inclusions": {
+    "Inclusions": "Occurs in basic igneous and contact metamorphic rocks."
+  }
+}

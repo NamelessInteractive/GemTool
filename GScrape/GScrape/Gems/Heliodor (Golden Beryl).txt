@@ -1,0 +1,78 @@
+{
+  "Name": "Heliodor (Golden Beryl)",
+  "Description": "Heliodor is named after Greek \"helios\" - sun and \"doron\" - gift. It has a lemon to honey-yellow colour.\r\n\r\nHeliodor and Golden Beryl are names given to the yellow varieties of Beryl. Many modern sources regard the two names as synonymous, although some sources state that the name Heliodor should be reserved for greenish-yellow beryl only, with the more golden coloured varieties being listed as Golden Beryl.",
+  "PhysicalProperties": {
+    "MohsHardness": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 7.5,
+          "Max": 8.0
+        }
+      ]
+    },
+    "SpecificGravity": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 2.68,
+          "Max": 2.72
+        }
+      ]
+    },
+    "Tenacity": "Brittle",
+    "CleavageQuality": "Indistinct",
+    "Fracture": "Conchoidal",
+    "HeatSensitivity": ""
+  },
+  "OpticalProperties": {
+    "RefractiveIndex": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 1.566,
+          "Max": 1.579
+        }
+      ]
+    },
+    "Birefringence": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 0.005,
+          "Max": 0.009
+        }
+      ]
+    },
+    "Pleochroism": "Weak: golden-yellow, green-yellow",
+    "Dispersion": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 0.014,
+          "Max": 0.014
+        }
+      ]
+    }
+  },
+  "ColourProperties": {
+    "General": "Lemon to golden yellow",
+    "Daylight": "",
+    "ChelseaFilter": "",
+    "CausesOfColour": "The golden yellow color is attributed to Fe3+ ions.",
+    "Transparency": "Transparent,Translucent,Opaque"
+  },
+  "FlouresenceProperties": {
+    "General": ""
+  },
+  "Crystallography": {
+    "CrystalSystem": "Hexagonal",
+    "Habit": "Hexagonal prisms"
+  },
+  "GeologicalEnvironment": {
+    "WhereFound": ""
+  },
+  "Inclusions": {
+    "Inclusions": "Lemon to golden yellow"
+  }
+}

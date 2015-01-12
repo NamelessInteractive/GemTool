@@ -1,0 +1,70 @@
+{
+  "Name": "Jadeite",
+  "Description": "Jadeite (name derived from Jade) is very tough and resistant because of its tight growth of tiny interlocking grains. It occurs in all colours. Fractures are dull, and greasy when polished.",
+  "PhysicalProperties": {
+    "MohsHardness": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 6.5,
+          "Max": 7.0
+        }
+      ]
+    },
+    "SpecificGravity": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 3.28,
+          "Max": 3.38
+        }
+      ]
+    },
+    "Tenacity": "Brittle",
+    "CleavageQuality": "None",
+    "Fracture": "Uneven",
+    "HeatSensitivity": ""
+  },
+  "OpticalProperties": {
+    "RefractiveIndex": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 1.652,
+          "Max": 1.688
+        }
+      ]
+    },
+    "Birefringence": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 0.012,
+          "Max": 0.02
+        }
+      ]
+    },
+    "Pleochroism": "Nil",
+    "Dispersion": null
+  },
+  "ColourProperties": {
+    "General": "Green, white, pink, red, orange, yellowish, brown, red-violet",
+    "Daylight": "",
+    "ChelseaFilter": "No reaction. Dyed green: if present, a red reaction is diagnostic (chromium)",
+    "CausesOfColour": "\"Emerald\" green (chrome jadeite), Cr3+ in octahedral coordination. Yellowish green, Fe3+ in octahedral coordination. Violet (\"lavender jadeite\"), Fe2+-O-Fe3+ charge transfer, synthetic is colored by Mn3+",
+    "Transparency": "Translucent,Opaque"
+  },
+  "FlouresenceProperties": {
+    "General": "Greenish jadeite: very weak - whitish glimmer"
+  },
+  "Crystallography": {
+    "CrystalSystem": "Monoclinic",
+    "Habit": "Intergrown, grainy aggregate"
+  },
+  "GeologicalEnvironment": {
+    "WhereFound": "In high-pressure metamorphic rocks of the glaucophane facies; a component of eclogite."
+  },
+  "Inclusions": {
+    "Inclusions": "In high-pressure metamorphic rocks of the glaucophane facies; a component of eclogite."
+  }
+}

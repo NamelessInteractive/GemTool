@@ -1,0 +1,70 @@
+{
+  "Name": "Pyrophyllite",
+  "Description": "Pyrophyllite is named from Greek pyr - fire, plus phyllon - a leaf, alluding to its exfoliation when strongly heated.\r\n\r\nPyrophyllite forms white, pale blue, yellow, green, brown, translucent or opaque, compact spherulitic aggregates of acicular radiating crystals or foliated laminae.\r\n\r\nPyrophyllite is used for ornamental carvings. The similarity to Soapstone increases ornamental interest in pyrophyllite.",
+  "PhysicalProperties": {
+    "MohsHardness": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 1.0,
+          "Max": 2.0
+        }
+      ]
+    },
+    "SpecificGravity": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 2.65,
+          "Max": 2.9
+        }
+      ]
+    },
+    "Tenacity": "Flexible",
+    "CleavageQuality": "Perfect",
+    "Fracture": "Splintery",
+    "HeatSensitivity": ""
+  },
+  "OpticalProperties": {
+    "RefractiveIndex": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 1.534,
+          "Max": 1.601
+        }
+      ]
+    },
+    "Birefringence": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 0.05,
+          "Max": 0.05
+        }
+      ]
+    },
+    "Pleochroism": "Nil",
+    "Dispersion": null
+  },
+  "ColourProperties": {
+    "General": "White or pale shades of blue, yellow or green",
+    "Daylight": "",
+    "ChelseaFilter": "",
+    "CausesOfColour": "",
+    "Transparency": "Translucent,Opaque"
+  },
+  "FlouresenceProperties": {
+    "General": ""
+  },
+  "Crystallography": {
+    "CrystalSystem": "Monoclinic,Triclinic",
+    "Habit": "Spherulitic aggregates of acicular radiating crystals or foliated laminae"
+  },
+  "GeologicalEnvironment": {
+    "WhereFound": "Pyrophyllite occurs in hydrothermal veins and in deposits of schistose rocks."
+  },
+  "Inclusions": {
+    "Inclusions": "Pyrophyllite occurs in hydrothermal veins and in deposits of schistose rocks."
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "Name": "Musgravite",
+  "Description": "In mineralogy, the name Musgravite refers to the mineral called Magnesiotaaffeite-6N’3S. It crystallizes in the trigonal system.\r\n\r\nThe closely-related Magnesiotaaffeite, which crystallizes in the hexagonal system, is known in mineralogy as Magnesiotaaffeite-2N’2S. Together, they are both part of the Taaffeite group.",
+  "PhysicalProperties": {
+    "MohsHardness": null,
+    "SpecificGravity": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 3.62,
+          "Max": 3.68
+        }
+      ]
+    },
+    "Tenacity": "",
+    "CleavageQuality": "",
+    "Fracture": "",
+    "HeatSensitivity": ""
+  },
+  "OpticalProperties": {
+    "RefractiveIndex": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 1.719,
+          "Max": 1.739
+        }
+      ]
+    },
+    "Birefringence": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 0.014,
+          "Max": 0.016
+        }
+      ]
+    },
+    "Pleochroism": "",
+    "Dispersion": null
+  },
+  "ColourProperties": {
+    "General": "Gray-green, green",
+    "Daylight": "",
+    "ChelseaFilter": "",
+    "CausesOfColour": "",
+    "Transparency": "Transparent"
+  },
+  "FlouresenceProperties": {
+    "General": ""
+  },
+  "Crystallography": {
+    "CrystalSystem": "Trigonal",
+    "Habit": ""
+  },
+  "GeologicalEnvironment": {
+    "WhereFound": ""
+  },
+  "Inclusions": {
+    "Inclusions": "Gray-green, green"
+  }
+}

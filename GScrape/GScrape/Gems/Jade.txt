@@ -1,0 +1,70 @@
+{
+  "Name": "Jade",
+  "Description": "In strict gemmological terms, jade relates to two minerals jadeite or nephrite found as tough fine-grained rocks ideal for carving. Differentiation between jadeite and nephrite is based on properties, but the term Jade is used as a description of both.\r\nThe name Jade is derived from Spanish word for \"stone of the loins\" - hip stone, as it was seen as a protection against and cure for kidney deseases.",
+  "PhysicalProperties": {
+    "MohsHardness": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 6.0,
+          "Max": 7.0
+        }
+      ]
+    },
+    "SpecificGravity": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 2.9,
+          "Max": 3.38
+        }
+      ]
+    },
+    "Tenacity": "Brittle",
+    "CleavageQuality": "None",
+    "Fracture": "Splintery",
+    "HeatSensitivity": ""
+  },
+  "OpticalProperties": {
+    "RefractiveIndex": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 1.6,
+          "Max": 1.688
+        }
+      ]
+    },
+    "Birefringence": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 0.02,
+          "Max": 0.027
+        }
+      ]
+    },
+    "Pleochroism": "Absent",
+    "Dispersion": null
+  },
+  "ColourProperties": {
+    "General": "Green, also all other colours",
+    "Daylight": "",
+    "ChelseaFilter": "",
+    "CausesOfColour": "",
+    "Transparency": "Translucent,Opaque"
+  },
+  "FlouresenceProperties": {
+    "General": ""
+  },
+  "Crystallography": {
+    "CrystalSystem": "Monoclinic",
+    "Habit": "Intergrown grainy or fine fibrous aggregate"
+  },
+  "GeologicalEnvironment": {
+    "WhereFound": ""
+  },
+  "Inclusions": {
+    "Inclusions": "Green, also all other colours"
+  }
+}

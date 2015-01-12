@@ -1,0 +1,70 @@
+{
+  "Name": "Meionite",
+  "Description": "Meionite is a calcium-rich Scapolite.",
+  "PhysicalProperties": {
+    "MohsHardness": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 5.0,
+          "Max": 6.0
+        }
+      ]
+    },
+    "SpecificGravity": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 2.78,
+          "Max": 2.78
+        }
+      ]
+    },
+    "Tenacity": "Brittle",
+    "CleavageQuality": "Distinct",
+    "Fracture": "Uneven,Conchoidal",
+    "HeatSensitivity": ""
+  },
+  "OpticalProperties": {
+    "RefractiveIndex": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 1.556,
+          "Max": 1.6
+        }
+      ]
+    },
+    "Birefringence": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 0.024,
+          "Max": 0.037
+        }
+      ]
+    },
+    "Pleochroism": "",
+    "Dispersion": null
+  },
+  "ColourProperties": {
+    "General": "Colorless, white, grey; pink, violet, blue, yellow, orange-brown, brown; colorless in thin section.",
+    "Daylight": "",
+    "ChelseaFilter": "",
+    "CausesOfColour": "",
+    "Transparency": "Transparent,Translucent,Opaque"
+  },
+  "FlouresenceProperties": {
+    "General": "Commonly fluoresces orange to bright yellow or red under LW or SW UV or both."
+  },
+  "Crystallography": {
+    "CrystalSystem": "Tetragonal",
+    "Habit": "Crystals prismatic, typically with flat pyramidal terminations; granular, massive."
+  },
+  "GeologicalEnvironment": {
+    "WhereFound": "Typically in regionally metamorphosed rocks, especially marbles, calcareous gneisses, granulites, and greenschists. Also in skarns, some pegmatites, pneumatolytically or hydrothermally altered mafic igneous rocks, and ejected volcanic blocks."
+  },
+  "Inclusions": {
+    "Inclusions": "Typically in regionally metamorphosed rocks, especially marbles, calcareous gneisses, granulites, and greenschists. Also in skarns, some pegmatites, pneumatolytically or hydrothermally altered mafic igneous rocks, and ejected volcanic blocks."
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "Name": "Covellite",
+  "Description": "Covellite is named after Niccolo Covelli, Italian mineralogist who discovered the mineral on Mount Vesuvius, Campania, Italy.\r\n\r\nCovellite forms opaque masses with vivid iridescent blue colours.\r\n\r\nMassive material can be cut into brilliant blue cabochons.",
+  "PhysicalProperties": {
+    "MohsHardness": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 1.5,
+          "Max": 2.0
+        }
+      ]
+    },
+    "SpecificGravity": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 4.6,
+          "Max": 4.76
+        }
+      ]
+    },
+    "Tenacity": "Flexible",
+    "CleavageQuality": "Perfect",
+    "Fracture": "Uneven",
+    "HeatSensitivity": ""
+  },
+  "OpticalProperties": {
+    "RefractiveIndex": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 1.45,
+          "Max": 2.62
+        }
+      ]
+    },
+    "Birefringence": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 1.17,
+          "Max": 1.17
+        }
+      ]
+    },
+    "Pleochroism": "Marked, deep blue to pale blue.",
+    "Dispersion": null
+  },
+  "ColourProperties": {
+    "General": "Indigo-blue or darker, commonly highly iridescent, brass-yellow to deep red.",
+    "Daylight": "",
+    "ChelseaFilter": "",
+    "CausesOfColour": "Blue and orange pleochroism, Band theory",
+    "Transparency": "Opaque"
+  },
+  "FlouresenceProperties": {
+    "General": ""
+  },
+  "Crystallography": {
+    "CrystalSystem": "Hexagonal",
+    "Habit": "Forms hexagonal plates as large as 10 cm, flattened, which may exhibit hexagonal striae; as rosettes of nearly parallel plates; commonly massive and foliated."
+  },
+  "GeologicalEnvironment": {
+    "WhereFound": "Occurs in the secondary enrichment zones of copper deposits."
+  },
+  "Inclusions": {
+    "Inclusions": "Occurs in the secondary enrichment zones of copper deposits."
+  }
+}

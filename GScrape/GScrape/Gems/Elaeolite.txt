@@ -1,0 +1,54 @@
+{
+  "Name": "Elaeolite",
+  "Description": "Elaeolite is a dull, greenish, grey or blue variety of Nepheline. It is a massive material with oily or greasy lustre.\r\n\r\nThe name Elaeolite was given by M. H. Klaproth. It derives from Greek words for oil and stone, referring to the presence of numerous microscopic inclusions of other minerals, possibly augite or hornblende. These enclosures produce chatoyancy.\r\n\r\nElaeolite is cut and stones may be chatoyant.",
+  "PhysicalProperties": {
+    "MohsHardness": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 5.5,
+          "Max": 6.0
+        }
+      ]
+    },
+    "SpecificGravity": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 2.55,
+          "Max": 2.67
+        }
+      ]
+    },
+    "Tenacity": "",
+    "CleavageQuality": "",
+    "Fracture": "",
+    "HeatSensitivity": ""
+  },
+  "OpticalProperties": {
+    "RefractiveIndex": null,
+    "Birefringence": null,
+    "Pleochroism": "",
+    "Dispersion": null
+  },
+  "ColourProperties": {
+    "General": "Red, green, brown or grey.",
+    "Daylight": "",
+    "ChelseaFilter": "",
+    "CausesOfColour": "",
+    "Transparency": ""
+  },
+  "FlouresenceProperties": {
+    "General": ""
+  },
+  "Crystallography": {
+    "CrystalSystem": "Hexagonal",
+    "Habit": "Massive"
+  },
+  "GeologicalEnvironment": {
+    "WhereFound": ""
+  },
+  "Inclusions": {
+    "Inclusions": "Red, green, brown or grey."
+  }
+}

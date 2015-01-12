@@ -1,0 +1,70 @@
+{
+  "Name": "Calcite Satin Spar",
+  "Description": "Calcite Satin Spar was the first material to be called Satin Spar, a name now associated with a similar variety of gypsum.\r\n\r\nCalcite Satin Spar is a hard fibrous form of calcite which can take an excellent polish to give a fine satiny finish. It was first found in the last years of the 18th century near Alston in Cumbria, England.\r\n\r\nFor a short while it became a very popular decorative stone, but deposits were worked out by around 1820, and specimens are now very hard to come by.",
+  "PhysicalProperties": {
+    "MohsHardness": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 3.0,
+          "Max": 0.0
+        }
+      ]
+    },
+    "SpecificGravity": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 2.67,
+          "Max": 2.73
+        }
+      ]
+    },
+    "Tenacity": "",
+    "CleavageQuality": "Perfect",
+    "Fracture": "Conchoidal",
+    "HeatSensitivity": ""
+  },
+  "OpticalProperties": {
+    "RefractiveIndex": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 1.486,
+          "Max": 1.658
+        }
+      ]
+    },
+    "Birefringence": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 0.172,
+          "Max": 0.172
+        }
+      ]
+    },
+    "Pleochroism": "",
+    "Dispersion": null
+  },
+  "ColourProperties": {
+    "General": "",
+    "Daylight": "",
+    "ChelseaFilter": "",
+    "CausesOfColour": "",
+    "Transparency": "Transparent,Translucent,Opaque"
+  },
+  "FlouresenceProperties": {
+    "General": ""
+  },
+  "Crystallography": {
+    "CrystalSystem": "Trigonal",
+    "Habit": ""
+  },
+  "GeologicalEnvironment": {
+    "WhereFound": ""
+  },
+  "Inclusions": {
+    "Inclusions": "Transparent,Translucent,Opaque"
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "Name": "Agate",
+  "Description": "Agate is a banded, concentric shell-like Chalcedony, sometimes containing opal substance. The bands can be multicoloured or of the same colour.\r\nOriginally reported from Dirillo river (Achates river), Acate, Ragusa Province, Sicily, Italy.",
+  "PhysicalProperties": {
+    "MohsHardness": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 6.5,
+          "Max": 7.0
+        }
+      ]
+    },
+    "SpecificGravity": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 2.6,
+          "Max": 2.64
+        }
+      ]
+    },
+    "Tenacity": "",
+    "CleavageQuality": "None",
+    "Fracture": "Uneven",
+    "HeatSensitivity": ""
+  },
+  "OpticalProperties": {
+    "RefractiveIndex": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 1.53,
+          "Max": 1.543
+        }
+      ]
+    },
+    "Birefringence": null,
+    "Pleochroism": "Absent",
+    "Dispersion": null
+  },
+  "ColourProperties": {
+    "General": "Banding of different colours. Colours are generally pale though varied; natural colours are green, yellow, red, reddish brown, white and bluish white, among others.",
+    "Daylight": "",
+    "ChelseaFilter": "",
+    "CausesOfColour": "",
+    "Transparency": "Translucent,Opaque"
+  },
+  "FlouresenceProperties": {
+    "General": "Varies with bands: partly strong; yellow, blue-white"
+  },
+  "Crystallography": {
+    "CrystalSystem": "Trigonal",
+    "Habit": "Microcrystalline aggregates"
+  },
+  "GeologicalEnvironment": {
+    "WhereFound": "It occurs in filling cavities, and individual bands are concentric to the external surface of the mass or nodule. Agate geodes are found in basic lavas and other igneous flow rocks and have probably been formed by silica deposition in cavities created by gases."
+  },
+  "Inclusions": {
+    "Inclusions": "It occurs in filling cavities, and individual bands are concentric to the external surface of the mass or nodule. Agate geodes are found in basic lavas and other igneous flow rocks and have probably been formed by silica deposition in cavities created by gases."
+  }
+}

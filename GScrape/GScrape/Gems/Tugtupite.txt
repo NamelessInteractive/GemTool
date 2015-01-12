@@ -1,0 +1,70 @@
+{
+  "Name": "Tugtupite",
+  "Description": "Tugtupite is named after Tugtup agtakôrfia Ilimaussaq intrusive complex of southwest Greenland where it was first found in 1957 (in some sources 1962).\r\n\r\nTugtupite is tenebrescent: warmth and exposure to ultraviolet light from the sun or a lamp intensifies its colour (from pale pink to cyclamen red).",
+  "PhysicalProperties": {
+    "MohsHardness": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 5.5,
+          "Max": 6.0
+        }
+      ]
+    },
+    "SpecificGravity": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 2.3,
+          "Max": 2.6
+        }
+      ]
+    },
+    "Tenacity": "",
+    "CleavageQuality": "Distinct",
+    "Fracture": "Uneven,Conchoidal",
+    "HeatSensitivity": ""
+  },
+  "OpticalProperties": {
+    "RefractiveIndex": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 1.494,
+          "Max": 1.504
+        }
+      ]
+    },
+    "Birefringence": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 0.008,
+          "Max": 0.008
+        }
+      ]
+    },
+    "Pleochroism": "Moderate",
+    "Dispersion": null
+  },
+  "ColourProperties": {
+    "General": "Common white to black mottling",
+    "Daylight": "",
+    "ChelseaFilter": "",
+    "CausesOfColour": "Pink, color center(s) involving sulphur",
+    "Transparency": "Opaque"
+  },
+  "FlouresenceProperties": {
+    "General": "Tugtupite shows an attractive fluorescence with the red response to UV appearing stronger in SW than in LW."
+  },
+  "Crystallography": {
+    "CrystalSystem": "Tetragonal",
+    "Habit": "Pseudocubic, showing short prisms with pyramids and sphenoids"
+  },
+  "GeologicalEnvironment": {
+    "WhereFound": "Tugtupite occurs in hydrothermal veins cutting sodalite syenite and syenite."
+  },
+  "Inclusions": {
+    "Inclusions": "Tugtupite occurs in hydrothermal veins cutting sodalite syenite and syenite."
+  }
+}

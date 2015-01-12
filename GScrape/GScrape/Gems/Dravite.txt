@@ -1,0 +1,78 @@
+{
+  "Name": "Dravite",
+  "Description": "Dravite is named after a deposit near the river Drave, Carinthia/Austria. It is a magnesium tourmaline, usually dark yellow to brownish black colour.",
+  "PhysicalProperties": {
+    "MohsHardness": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 7.0,
+          "Max": 0.0
+        }
+      ]
+    },
+    "SpecificGravity": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 3.03,
+          "Max": 3.18
+        }
+      ]
+    },
+    "Tenacity": "Brittle",
+    "CleavageQuality": "Poor",
+    "Fracture": "Uneven,Irregular,Conchoidal",
+    "HeatSensitivity": ""
+  },
+  "OpticalProperties": {
+    "RefractiveIndex": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 1.614,
+          "Max": 1.666
+        }
+      ]
+    },
+    "Birefringence": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 0.014,
+          "Max": 0.032
+        }
+      ]
+    },
+    "Pleochroism": "Very strong: pale yellow - colorless,\r\nyellowish, greenish, brownish.",
+    "Dispersion": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 0.017,
+          "Max": 0.017
+        }
+      ]
+    }
+  },
+  "ColourProperties": {
+    "General": "Yellow brown to orangy",
+    "Daylight": "",
+    "ChelseaFilter": "",
+    "CausesOfColour": "Yellow to brown, related to titanium; due to Fe2+-O-Ti4+ charge transfer, with those low in iron yellow and those rich in iron brown. Red, Fe3+ pairs.",
+    "Transparency": "Transparent,Translucent"
+  },
+  "FlouresenceProperties": {
+    "General": ""
+  },
+  "Crystallography": {
+    "CrystalSystem": "Hexagonal",
+    "Habit": "Crystals equant or short to long prismatic, with dominant pyramid faces, to 20 cm. Striated, cross sections typically triangular with curved convex sides. Commonly radiating, granular, and massive."
+  },
+  "GeologicalEnvironment": {
+    "WhereFound": "Commonly in metamorphosed limestones or mafic igneous rocks with metasomatically introduced boron; rarely in pegmatites; as authigenic overgrowths in sedimentary rocks."
+  },
+  "Inclusions": {
+    "Inclusions": "Commonly in metamorphosed limestones or mafic igneous rocks with metasomatically introduced boron; rarely in pegmatites; as authigenic overgrowths in sedimentary rocks."
+  }
+}

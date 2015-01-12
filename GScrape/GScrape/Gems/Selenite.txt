@@ -1,0 +1,46 @@
+{
+  "Name": "Selenite",
+  "Description": "Selenite is named after Greek word for the Moon, referring to the moonlight effect from cleavage surfaces.\r\n\r\nSelenite is a variety of Gypsum that occurs in transparent crystals or crystalline masses. It is often colourless with a vitreous or pearly lustre.",
+  "PhysicalProperties": {
+    "MohsHardness": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 2.0,
+          "Max": 2.0
+        }
+      ]
+    },
+    "SpecificGravity": null,
+    "Tenacity": "",
+    "CleavageQuality": "",
+    "Fracture": "",
+    "HeatSensitivity": ""
+  },
+  "OpticalProperties": {
+    "RefractiveIndex": null,
+    "Birefringence": null,
+    "Pleochroism": "",
+    "Dispersion": null
+  },
+  "ColourProperties": {
+    "General": "Colourless",
+    "Daylight": "",
+    "ChelseaFilter": "",
+    "CausesOfColour": "",
+    "Transparency": "Transparent,Translucent"
+  },
+  "FlouresenceProperties": {
+    "General": ""
+  },
+  "Crystallography": {
+    "CrystalSystem": "",
+    "Habit": ""
+  },
+  "GeologicalEnvironment": {
+    "WhereFound": ""
+  },
+  "Inclusions": {
+    "Inclusions": "Colourless"
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "Name": "Chrysocolla",
+  "Description": "The name Chrysocolla derives from Greek chrysos - gold and kolla - glue, referring to its use as a flux in soldering gold. The term was used from antiquity.\r\n\r\nPure chrysocolla is a soft and fragile material. Much of the chrysocolla used in jewellery consists of very attractive cabochons of green or blue chrysocolla impregnating either rock crystal or opal.\r\n\r\nChrysocolla is often found in a matrix of quartz, in which case the optical and physical properties may be closer to those of quartz.\r\n\r\nChrysocolla covered by druses of small sparkling quartz crystals is called \"Drusy Chrysocolla\" and is very popular for jewelry. It is found in Peru.\r\n\r\nThe rarest and best quality is chrysocolla chalcedony with turquoise-like colour, but harder and chemically more stable than turquise. It comes from several copper mines in Arizona, Mexico, Taiwan and Peru.\r\n\r\nSee also: Eilat Stone, a blue-green gem material from Israel that contains Chrysocolla.",
+  "PhysicalProperties": {
+    "MohsHardness": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 2.0,
+          "Max": 4.0
+        }
+      ]
+    },
+    "SpecificGravity": null,
+    "Tenacity": "Brittle",
+    "CleavageQuality": "None",
+    "Fracture": "Conchoidal",
+    "HeatSensitivity": ""
+  },
+  "OpticalProperties": {
+    "RefractiveIndex": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 1.46,
+          "Max": 1.57
+        }
+      ]
+    },
+    "Birefringence": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 0.023,
+          "Max": 0.04
+        }
+      ]
+    },
+    "Pleochroism": "Absent",
+    "Dispersion": null
+  },
+  "ColourProperties": {
+    "General": "Green to blue veins and patches",
+    "Daylight": "",
+    "ChelseaFilter": "",
+    "CausesOfColour": "Blue, Cu2+ in octahedral coordination",
+    "Transparency": "Opaque"
+  },
+  "FlouresenceProperties": {
+    "General": "None"
+  },
+  "Crystallography": {
+    "CrystalSystem": "Monoclinic",
+    "Habit": "Compact grape-like aggregates (botryoidal)"
+  },
+  "GeologicalEnvironment": {
+    "WhereFound": "Chrysocolla is a mineral of secondary origin occurring in the oxidized zones of copper deposits where it may be mixed with malachite or\r\nturquoise"
+  },
+  "Inclusions": {
+    "Inclusions": "Chrysocolla is a mineral of secondary origin occurring in the oxidized zones of copper deposits where it may be mixed with malachite or\r\nturquoise"
+  }
+}

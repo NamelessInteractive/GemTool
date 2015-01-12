@@ -1,0 +1,70 @@
+{
+  "Name": "Goethite",
+  "Description": "Goethite is named after Johann Wolfgang von Goethe, celebrated German poet and scientist.\r\n\r\nGoethite may form radiating cluster of deep black crystals or massive stalactites that exhibit a rainbow of iridescent colours.\r\n\r\nThe material is often cut and polished into interesting free forms.",
+  "PhysicalProperties": {
+    "MohsHardness": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 5.0,
+          "Max": 5.5
+        }
+      ]
+    },
+    "SpecificGravity": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 4.27,
+          "Max": 4.29
+        }
+      ]
+    },
+    "Tenacity": "Brittle",
+    "CleavageQuality": "Perfect",
+    "Fracture": "Uneven,Splintery",
+    "HeatSensitivity": ""
+  },
+  "OpticalProperties": {
+    "RefractiveIndex": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 2.26,
+          "Max": 2.398
+        }
+      ]
+    },
+    "Birefringence": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 0.138,
+          "Max": 0.138
+        }
+      ]
+    },
+    "Pleochroism": "Visible",
+    "Dispersion": null
+  },
+  "ColourProperties": {
+    "General": "Black, brown, russet, yellow",
+    "Daylight": "",
+    "ChelseaFilter": "",
+    "CausesOfColour": "",
+    "Transparency": "Opaque"
+  },
+  "FlouresenceProperties": {
+    "General": ""
+  },
+  "Crystallography": {
+    "CrystalSystem": "Orthorhombic",
+    "Habit": "Botryoidal, stalactitic, bladed, columnar"
+  },
+  "GeologicalEnvironment": {
+    "WhereFound": ""
+  },
+  "Inclusions": {
+    "Inclusions": "Black, brown, russet, yellow"
+  }
+}

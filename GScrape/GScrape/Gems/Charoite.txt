@@ -1,0 +1,70 @@
+{
+  "Name": "Charoite",
+  "Description": "Charoite is named after Russian \"chary\" - charms or magic, alluding to the impression that the mineral's colour and iridescence impart. It was first found in Murun Complex, Yakutiya, Russia.\r\n\r\nCharoite has deep violet to lilac colour, depending on accompanying minerals it can be white- or black-spotted or flamed.\r\n\r\nCharoite produces attractive cabochons and ornaments.",
+  "PhysicalProperties": {
+    "MohsHardness": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 5.0,
+          "Max": 6.0
+        }
+      ]
+    },
+    "SpecificGravity": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 2.54,
+          "Max": 2.78
+        }
+      ]
+    },
+    "Tenacity": "",
+    "CleavageQuality": "Fair",
+    "Fracture": "Conchoidal",
+    "HeatSensitivity": ""
+  },
+  "OpticalProperties": {
+    "RefractiveIndex": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 1.545,
+          "Max": 1.56
+        }
+      ]
+    },
+    "Birefringence": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 0.009,
+          "Max": 0.009
+        }
+      ]
+    },
+    "Pleochroism": "Nil",
+    "Dispersion": null
+  },
+  "ColourProperties": {
+    "General": "Violet with white to black swirls",
+    "Daylight": "",
+    "ChelseaFilter": "",
+    "CausesOfColour": "",
+    "Transparency": "Translucent,Opaque"
+  },
+  "FlouresenceProperties": {
+    "General": ""
+  },
+  "Crystallography": {
+    "CrystalSystem": "Monoclinic",
+    "Habit": "Massive"
+  },
+  "GeologicalEnvironment": {
+    "WhereFound": "Charoite occurs in potassic feldspar metasomatites at the contact of nepheline and aegririne syenites with limestones.The combination of charoite with some of its associated minerals makes attractive ornaments."
+  },
+  "Inclusions": {
+    "Inclusions": "Charoite occurs in potassic feldspar metasomatites at the contact of nepheline and aegririne syenites with limestones.The combination of charoite with some of its associated minerals makes attractive ornaments."
+  }
+}

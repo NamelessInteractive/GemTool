@@ -1,0 +1,38 @@
+{
+  "Name": "Marble",
+  "Description": "Marble is named from the Greek mármaron,(mármaros) - \"crystalline rock\", \"shining stone\".\r\n\r\nMarble is a metamorphic rock composed of recrystallized carbonate minerals, primarily Calcite or Dolomite.\r\n\r\nMarble is widely used for ornamental purposes and decorative carvings.",
+  "PhysicalProperties": {
+    "MohsHardness": null,
+    "SpecificGravity": null,
+    "Tenacity": "",
+    "CleavageQuality": "",
+    "Fracture": "",
+    "HeatSensitivity": ""
+  },
+  "OpticalProperties": {
+    "RefractiveIndex": null,
+    "Birefringence": null,
+    "Pleochroism": "",
+    "Dispersion": null
+  },
+  "ColourProperties": {
+    "General": "White or blue-gray, blue/black, green, brown, pink, salmon, rose, yellow with violet, red, blue or white veins",
+    "Daylight": "",
+    "ChelseaFilter": "",
+    "CausesOfColour": "Pure white marble is the result of metamorphism of very pure (silicate-poor) limestone or dolomite.",
+    "Transparency": ""
+  },
+  "FlouresenceProperties": {
+    "General": ""
+  },
+  "Crystallography": {
+    "CrystalSystem": "",
+    "Habit": ""
+  },
+  "GeologicalEnvironment": {
+    "WhereFound": ""
+  },
+  "Inclusions": {
+    "Inclusions": "White or blue-gray, blue/black, green, brown, pink, salmon, rose, yellow with violet, red, blue or white veins"
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "Name": "Hemimorphite",
+  "Description": "Hemimorphite is named after Greek word for \"half shape\" referring to the contrasting terminations at opposite ends of a crystal.\r\n\r\nHemimorphite most commonly forms needle- or fan-shaped aggregates of thin, colourless, bladed crystals; or as blue, blue-green botryoidal crusts.\r\n\r\nThe material is often blue-white banded and mixed with dark matrix.",
+  "PhysicalProperties": {
+    "MohsHardness": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 5.0,
+          "Max": 5.0
+        }
+      ]
+    },
+    "SpecificGravity": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 3.3,
+          "Max": 3.5
+        }
+      ]
+    },
+    "Tenacity": "Brittle",
+    "CleavageQuality": "Perfect",
+    "Fracture": "Uneven,Conchoidal",
+    "HeatSensitivity": ""
+  },
+  "OpticalProperties": {
+    "RefractiveIndex": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 1.614,
+          "Max": 1.636
+        }
+      ]
+    },
+    "Birefringence": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 0.022,
+          "Max": 0.022
+        }
+      ]
+    },
+    "Pleochroism": "Absent",
+    "Dispersion": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 0.02,
+          "Max": 0.02
+        }
+      ]
+    }
+  },
+  "ColourProperties": {
+    "General": "Blue, green, colourless",
+    "Daylight": "",
+    "ChelseaFilter": "",
+    "CausesOfColour": "",
+    "Transparency": "Transparent,Translucent,Opaque"
+  },
+  "FlouresenceProperties": {
+    "General": "Weak; not characteristic"
+  },
+  "Crystallography": {
+    "CrystalSystem": "Orthorhombic",
+    "Habit": "Massive"
+  },
+  "GeologicalEnvironment": {
+    "WhereFound": "Hemimorphite occurs as a secondary mineral in the oxidized zone of zinc-bearing mineral deposits."
+  },
+  "Inclusions": {
+    "Inclusions": "Hemimorphite occurs as a secondary mineral in the oxidized zone of zinc-bearing mineral deposits."
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "Name": "Malachite",
+  "Description": "Malachite is named after Greek word for \"mallow\" because of its resemblance to the leaves of the Mallow plant. It is a green, very common secondary copper mineral with a widely variable habit. Malachite shows a banding of light and dark layers with concentric rings, straight stripes and other figurative shapes caused by its shell-like formation.\r\n\r\nMalachite was popular in ancient Egypt, Greece and Rome and was used for jewelry, amulets, as a powder for eye shadow and colouring pigment. Nowadays it is popular for jewelry and ornaments.\r\n\r\nMalachite dust is toxic and must not be inhaled during cutting and polishing.\r\n\r\nAzurmalachite is an extremely colourful massive material that combines the rich hues of malachite and azurite.",
+  "PhysicalProperties": {
+    "MohsHardness": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 3.5,
+          "Max": 4.0
+        }
+      ]
+    },
+    "SpecificGravity": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 3.25,
+          "Max": 4.1
+        }
+      ]
+    },
+    "Tenacity": "",
+    "CleavageQuality": "Perfect",
+    "Fracture": "Conchoidal,Splintery",
+    "HeatSensitivity": "Sensitive to heat and hot waters."
+  },
+  "OpticalProperties": {
+    "RefractiveIndex": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 1.655,
+          "Max": 1.909
+        }
+      ]
+    },
+    "Birefringence": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 0.25,
+          "Max": 0.254
+        }
+      ]
+    },
+    "Pleochroism": "Absent",
+    "Dispersion": null
+  },
+  "ColourProperties": {
+    "General": "Deep saturated green and show characteristic banding",
+    "Daylight": "",
+    "ChelseaFilter": "",
+    "CausesOfColour": "Green, Cu2+ in octahedral coordination",
+    "Transparency": "Opaque"
+  },
+  "FlouresenceProperties": {
+    "General": "None"
+  },
+  "Crystallography": {
+    "CrystalSystem": "Monoclinic",
+    "Habit": "Aggregates of radial fibres with botryoidal forms or stalactitic/stalacmitic structure"
+  },
+  "GeologicalEnvironment": {
+    "WhereFound": "Malachite occurs as a common secondary mineral in the oxidation zone of copper ore deposits and can be an ore of copper."
+  },
+  "Inclusions": {
+    "Inclusions": "Malachite occurs as a common secondary mineral in the oxidation zone of copper ore deposits and can be an ore of copper."
+  }
+}

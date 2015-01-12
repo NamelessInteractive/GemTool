@@ -1,0 +1,70 @@
+{
+  "Name": "Pearl",
+  "Description": "Pearl is a mixture of mineral and organic material formed with the soft living tissue of a shelled mollusk. Chemically pearls are made of calcium carbonate (mainly aragonite or a mixture of aragonite and calcite).\r\n\r\nPearls have been used for adornment for 6,000 years. Pearls do not require any processing because they show full gloss and attractive lustre in their natural state.\r\n\r\nPearls are used as gemstones, but are not regarded as true minerals due to their organic origin.",
+  "PhysicalProperties": {
+    "MohsHardness": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 2.5,
+          "Max": 4.5
+        }
+      ]
+    },
+    "SpecificGravity": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 2.6,
+          "Max": 2.85
+        }
+      ]
+    },
+    "Tenacity": "",
+    "CleavageQuality": "None",
+    "Fracture": "Uneven",
+    "HeatSensitivity": ""
+  },
+  "OpticalProperties": {
+    "RefractiveIndex": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 1.52,
+          "Max": 1.66
+        }
+      ]
+    },
+    "Birefringence": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 0.156,
+          "Max": 0.156
+        }
+      ]
+    },
+    "Pleochroism": "Absent",
+    "Dispersion": null
+  },
+  "ColourProperties": {
+    "General": "White, pink, silver-, cream-, golden-coloured, green, blue, black.",
+    "Daylight": "",
+    "ChelseaFilter": "",
+    "CausesOfColour": "",
+    "Transparency": "Translucent,Opaque"
+  },
+  "FlouresenceProperties": {
+    "General": ""
+  },
+  "Crystallography": {
+    "CrystalSystem": "Orthorhombic",
+    "Habit": ""
+  },
+  "GeologicalEnvironment": {
+    "WhereFound": "Formed by saltwater oysters, some fresh-water mussels and more rarely by other shellfish."
+  },
+  "Inclusions": {
+    "Inclusions": "Formed by saltwater oysters, some fresh-water mussels and more rarely by other shellfish."
+  }
+}

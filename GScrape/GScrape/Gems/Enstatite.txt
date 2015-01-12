@@ -1,0 +1,70 @@
+{
+  "Name": "Enstatite",
+  "Description": "Enstatite is named after Greek word for \"resistor\", because it resists high temperatures.\r\n\r\nClear transparent specimens can be faceted. Greenish-gray enstatite cat's eye ans star enstatite are known.\r\n\r\nEnstatite has been identified in some meteorites. It is thought to be one of the early stages for the formation of crystalline silicates in Space.",
+  "PhysicalProperties": {
+    "MohsHardness": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 5.5,
+          "Max": 5.5
+        }
+      ]
+    },
+    "SpecificGravity": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 3.2,
+          "Max": 3.25
+        }
+      ]
+    },
+    "Tenacity": "",
+    "CleavageQuality": "Good",
+    "Fracture": "Conchoidal",
+    "HeatSensitivity": ""
+  },
+  "OpticalProperties": {
+    "RefractiveIndex": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 1.65,
+          "Max": 1.68
+        }
+      ]
+    },
+    "Birefringence": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 0.009,
+          "Max": 0.012
+        }
+      ]
+    },
+    "Pleochroism": "Brown variety has strong trichroism: pinkish red to brown - yellow - green; Green variety - distinct: yellow-green - green",
+    "Dispersion": null
+  },
+  "ColourProperties": {
+    "General": "Green, yellowish-green, brownish-green, greenish-gray, yellow-brown, brownish-pink",
+    "Daylight": "",
+    "ChelseaFilter": "",
+    "CausesOfColour": "Greenish brown, Fe2+. Green, Fe2+ with minor Cr3+",
+    "Transparency": "Transparent,Translucent,Opaque"
+  },
+  "FlouresenceProperties": {
+    "General": "None"
+  },
+  "Crystallography": {
+    "CrystalSystem": "Orthorhombic",
+    "Habit": "Prismatic"
+  },
+  "GeologicalEnvironment": {
+    "WhereFound": "Enstatite occurs in pyroxenites, peridotites and dunites and in ultramafic inclusions in alkalic olivine basalts and kimberlite and in several other contexts."
+  },
+  "Inclusions": {
+    "Inclusions": "Enstatite occurs in pyroxenites, peridotites and dunites and in ultramafic inclusions in alkalic olivine basalts and kimberlite and in several other contexts."
+  }
+}

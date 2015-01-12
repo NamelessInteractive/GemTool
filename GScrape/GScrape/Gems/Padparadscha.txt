@@ -1,0 +1,70 @@
+{
+  "Name": "Padparadscha",
+  "Description": "Padparadscha is a salmon-pink variety of Corundum, originally being mined in Sri Lanka, but also found in Vietnam and some parts of Africa.\r\n\r\nThe name is derived from the Sanskrit/Sinhalese \"padma raga\", the word for the colour of local lotus flower.",
+  "PhysicalProperties": {
+    "MohsHardness": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 9.0,
+          "Max": 9.0
+        }
+      ]
+    },
+    "SpecificGravity": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 3.95,
+          "Max": 4.1
+        }
+      ]
+    },
+    "Tenacity": "",
+    "CleavageQuality": "",
+    "Fracture": "",
+    "HeatSensitivity": ""
+  },
+  "OpticalProperties": {
+    "RefractiveIndex": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 1.757,
+          "Max": 1.78
+        }
+      ]
+    },
+    "Birefringence": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 0.007,
+          "Max": 0.01
+        }
+      ]
+    },
+    "Pleochroism": "",
+    "Dispersion": null
+  },
+  "ColourProperties": {
+    "General": "Pink-orange",
+    "Daylight": "",
+    "ChelseaFilter": "",
+    "CausesOfColour": "Orangy pink, Cr3+ in octahedral coordination and color centers, Cr4+ in octahedral coordination due to Cr4+ and Mg2+ substituting for Al3+ in the crystal structure.",
+    "Transparency": "Transparent,Translucent,Opaque"
+  },
+  "FlouresenceProperties": {
+    "General": ""
+  },
+  "Crystallography": {
+    "CrystalSystem": "Trigonal",
+    "Habit": ""
+  },
+  "GeologicalEnvironment": {
+    "WhereFound": ""
+  },
+  "Inclusions": {
+    "Inclusions": "If present, a homogeneous orange fluorescence with indication of high heat-treatment suggest a beryllium diffusion treatment."
+  }
+}

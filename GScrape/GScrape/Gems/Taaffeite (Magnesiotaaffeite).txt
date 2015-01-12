@@ -1,0 +1,78 @@
+{
+  "Name": "Taaffeite (Magnesiotaaffeite)",
+  "Description": "Taaffeite is named after E.C.R. Taaffe, gemologist of Dublin, Ireland.\r\n\r\nTaaffeite forms mauve or lilac, red to brown, bluish, green transparent to translucent crystals.\r\n\r\nA. Thomas reports that \"Taaffeite is a very rare gem mineral that was first discovered as a cut stone\". A light mauve stone was originally believed to be spinel. The source of the material was unknown for a long time, until eventually small fragents were found in Sri Lanka.\r\n\r\nA purplish brown chatoyant taaffeite has been found recently in Sri Lanka.",
+  "PhysicalProperties": {
+    "MohsHardness": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 8.0,
+          "Max": 8.5
+        }
+      ]
+    },
+    "SpecificGravity": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 3.6,
+          "Max": 3.62
+        }
+      ]
+    },
+    "Tenacity": "",
+    "CleavageQuality": "",
+    "Fracture": "Conchoidal",
+    "HeatSensitivity": ""
+  },
+  "OpticalProperties": {
+    "RefractiveIndex": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 1.716,
+          "Max": 1.73
+        }
+      ]
+    },
+    "Birefringence": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 0.004,
+          "Max": 0.004
+        }
+      ]
+    },
+    "Pleochroism": "Weak",
+    "Dispersion": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 0.02,
+          "Max": 0.02
+        }
+      ]
+    }
+  },
+  "ColourProperties": {
+    "General": "Violet, colourless, pale green, bluish, pink, red.",
+    "Daylight": "",
+    "ChelseaFilter": "",
+    "CausesOfColour": "Red to violet, Cr3+ in octahedral coordination",
+    "Transparency": "Transparent"
+  },
+  "FlouresenceProperties": {
+    "General": ""
+  },
+  "Crystallography": {
+    "CrystalSystem": "Hexagonal",
+    "Habit": "Prismatic"
+  },
+  "GeologicalEnvironment": {
+    "WhereFound": "Occurs in gem gravels or in skarns at the contact between dolostones and limestones with beryllium-bearing granite."
+  },
+  "Inclusions": {
+    "Inclusions": "Occurs in gem gravels or in skarns at the contact between dolostones and limestones with beryllium-bearing granite."
+  }
+}

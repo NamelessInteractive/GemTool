@@ -1,0 +1,70 @@
+{
+  "Name": "Chrome-Tourmaline",
+  "Description": "A rare intense green tourmaline is known as chrome tourmaline. Found only in East Africa, it is colored by chromium and vanadium.",
+  "PhysicalProperties": {
+    "MohsHardness": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 7.0,
+          "Max": 7.5
+        }
+      ]
+    },
+    "SpecificGravity": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 2.85,
+          "Max": 3.35
+        }
+      ]
+    },
+    "Tenacity": "Brittle",
+    "CleavageQuality": "",
+    "Fracture": "",
+    "HeatSensitivity": ""
+  },
+  "OpticalProperties": {
+    "RefractiveIndex": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 1.614,
+          "Max": 1.666
+        }
+      ]
+    },
+    "Birefringence": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 0.014,
+          "Max": 0.04
+        }
+      ]
+    },
+    "Pleochroism": "Strong: dark green - yellow-green",
+    "Dispersion": null
+  },
+  "ColourProperties": {
+    "General": "Fine emerald color",
+    "Daylight": "",
+    "ChelseaFilter": "Reddish",
+    "CausesOfColour": "Green due to chromium and/or vanadium.",
+    "Transparency": "Transparent,Translucent,Opaque"
+  },
+  "FlouresenceProperties": {
+    "General": "Weak to none"
+  },
+  "Crystallography": {
+    "CrystalSystem": "Trigonal",
+    "Habit": "Long crystals with triangular cross section and rounded sides, definite striation parallel to main axis"
+  },
+  "GeologicalEnvironment": {
+    "WhereFound": ""
+  },
+  "Inclusions": {
+    "Inclusions": "Weak to none"
+  }
+}

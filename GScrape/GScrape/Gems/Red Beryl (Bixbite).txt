@@ -1,0 +1,70 @@
+{
+  "Name": "Red Beryl (Bixbite)",
+  "Description": "Red beryl - bixbite (also known as \"red emerald\", \"scarlet emerald\") is a red variety of Beryl. It was named after the mineralogist Maynard Bixby.\r\n\r\nThe colour is predominantly red of various tints: strawberry, bright ruby, cherry, and sometimes orange. The colour is stable up to 1000°C.\r\n\r\nThe crystals are often small, average weight of cut material is 0.1 to 0.4 carats, but may reach several carats.",
+  "PhysicalProperties": {
+    "MohsHardness": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 7.5,
+          "Max": 8.0
+        }
+      ]
+    },
+    "SpecificGravity": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 2.63,
+          "Max": 2.72
+        }
+      ]
+    },
+    "Tenacity": "",
+    "CleavageQuality": "",
+    "Fracture": "",
+    "HeatSensitivity": ""
+  },
+  "OpticalProperties": {
+    "RefractiveIndex": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 1.56,
+          "Max": 1.576
+        }
+      ]
+    },
+    "Birefringence": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 0.005,
+          "Max": 0.009
+        }
+      ]
+    },
+    "Pleochroism": "",
+    "Dispersion": null
+  },
+  "ColourProperties": {
+    "General": "Red, violet-red",
+    "Daylight": "",
+    "ChelseaFilter": "",
+    "CausesOfColour": "Red, Mn3+ in octahedral coordination.",
+    "Transparency": ""
+  },
+  "FlouresenceProperties": {
+    "General": "Inert"
+  },
+  "Crystallography": {
+    "CrystalSystem": "Hexagonal",
+    "Habit": "Prismatic to thick-tabular crystals, less than 1 cm and rarely 2 cm or more in length."
+  },
+  "GeologicalEnvironment": {
+    "WhereFound": ""
+  },
+  "Inclusions": {
+    "Inclusions": "Inert"
+  }
+}

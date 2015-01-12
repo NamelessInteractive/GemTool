@@ -1,0 +1,62 @@
+{
+  "Name": "Powellite",
+  "Description": "Powellite is named after Major J.W. Powell, American explorer, geologist and ethnologist.\r\n\r\nPowellite forms transparent to translucent colourless, straw yellow, greenish yellow, greenish blue or blue crystals with characteristically greasy or subadamantine lustre.\r\n\r\nFacetable material is rare as crystals are usually small and seldom exceed 2 carats.",
+  "PhysicalProperties": {
+    "MohsHardness": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 3.5,
+          "Max": 4.0
+        }
+      ]
+    },
+    "SpecificGravity": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 4.23,
+          "Max": 4.23
+        }
+      ]
+    },
+    "Tenacity": "",
+    "CleavageQuality": "Indistinct",
+    "Fracture": "Uneven",
+    "HeatSensitivity": ""
+  },
+  "OpticalProperties": {
+    "RefractiveIndex": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 1.974,
+          "Max": 1.984
+        }
+      ]
+    },
+    "Birefringence": null,
+    "Pleochroism": "In deeply colored specimens: blue - green",
+    "Dispersion": null
+  },
+  "ColourProperties": {
+    "General": "Straw yellow, greenish yellow, greenish blue or blue",
+    "Daylight": "",
+    "ChelseaFilter": "",
+    "CausesOfColour": "",
+    "Transparency": "Transparent,Translucent"
+  },
+  "FlouresenceProperties": {
+    "General": "Specimens may fluoresce yellowish white to\r\ngolden yellow"
+  },
+  "Crystallography": {
+    "CrystalSystem": "Tetragonal",
+    "Habit": "Dipyramidal crystals"
+  },
+  "GeologicalEnvironment": {
+    "WhereFound": "Powellite occurs as an uncommon secondary mineral in the oxidation zone of molybdenum-bearing hydrothermal mineral\r\ndeposits."
+  },
+  "Inclusions": {
+    "Inclusions": "Powellite occurs as an uncommon secondary mineral in the oxidation zone of molybdenum-bearing hydrothermal mineral\r\ndeposits."
+  }
+}

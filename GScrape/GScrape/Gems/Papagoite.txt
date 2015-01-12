@@ -1,0 +1,70 @@
+{
+  "Name": "Papagoite",
+  "Description": "Papagoite is named after the Papago, the early inhabitants of the area around Ajo, Pima County, Arizona, USA, the discovery locality.\r\n\r\nPapagoite forms crystalline coatings and aggregates of cerulean blue colour. Crystals are often too small to be fashioned.",
+  "PhysicalProperties": {
+    "MohsHardness": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 5.0,
+          "Max": 5.5
+        }
+      ]
+    },
+    "SpecificGravity": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 3.25,
+          "Max": 3.25
+        }
+      ]
+    },
+    "Tenacity": "",
+    "CleavageQuality": "Distinct",
+    "Fracture": "",
+    "HeatSensitivity": ""
+  },
+  "OpticalProperties": {
+    "RefractiveIndex": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 1.607,
+          "Max": 1.672
+        }
+      ]
+    },
+    "Birefringence": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 0.065,
+          "Max": 0.065
+        }
+      ]
+    },
+    "Pleochroism": "Colorless to very pale greenish blue - blue - deep greenish blue.",
+    "Dispersion": null
+  },
+  "ColourProperties": {
+    "General": "Cerulean blue",
+    "Daylight": "",
+    "ChelseaFilter": "",
+    "CausesOfColour": "",
+    "Transparency": "Transparent,Translucent"
+  },
+  "FlouresenceProperties": {
+    "General": ""
+  },
+  "Crystallography": {
+    "CrystalSystem": "Monoclinic",
+    "Habit": "Crystalline coatings and aggregates"
+  },
+  "GeologicalEnvironment": {
+    "WhereFound": "Papagoite is often mixed with quartz and occurs in narrow veinlets in altered granodiorite porphyry"
+  },
+  "Inclusions": {
+    "Inclusions": "Papagoite is often mixed with quartz and occurs in narrow veinlets in altered granodiorite porphyry"
+  }
+}

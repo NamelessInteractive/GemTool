@@ -1,0 +1,54 @@
+{
+  "Name": "Povondraite",
+  "Description": "Povondraite is named after Pavel Povondra, Docent of Geochemistry, Charles University, Prague, for his extensive work on the Tourmaline group.\r\n\r\nPovondraite forms translucent to opaque crystals of dark brown, brownish black to black colour with resinous lustre.\r\n\r\nPovondraite is a rare gem and is mostly for gem collectors' interest.",
+  "PhysicalProperties": {
+    "MohsHardness": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 7.0,
+          "Max": 0.0
+        }
+      ]
+    },
+    "SpecificGravity": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 3.26,
+          "Max": 3.26
+        }
+      ]
+    },
+    "Tenacity": "Brittle",
+    "CleavageQuality": "",
+    "Fracture": "Uneven,Conchoidal",
+    "HeatSensitivity": ""
+  },
+  "OpticalProperties": {
+    "RefractiveIndex": null,
+    "Birefringence": null,
+    "Pleochroism": "Strong: yellow-brown, dark brown, brown-black -- dark red-brown, light brown",
+    "Dispersion": null
+  },
+  "ColourProperties": {
+    "General": "Black",
+    "Daylight": "",
+    "ChelseaFilter": "",
+    "CausesOfColour": "",
+    "Transparency": "Translucent,Opaque"
+  },
+  "FlouresenceProperties": {
+    "General": ""
+  },
+  "Crystallography": {
+    "CrystalSystem": "Hexagonal",
+    "Habit": "Equant but distorted prisms, terminated by trigonal pyramids, in subparallel aggregates, to several mm."
+  },
+  "GeologicalEnvironment": {
+    "WhereFound": "Very rare, in fractures and lining cavities in schist metamorphosed from sedimentary rocks."
+  },
+  "Inclusions": {
+    "Inclusions": "Very rare, in fractures and lining cavities in schist metamorphosed from sedimentary rocks."
+  }
+}

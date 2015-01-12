@@ -1,0 +1,54 @@
+{
+  "Name": "Liddicoatite",
+  "Description": "Liddicoatite is a calcium lithium tourmaline species, named after US gemologist R. T. Liddicoat.\r\n\r\nLiddicoatite forms green, red, pink, purple, and and blue, sometimes white, colorless, black, brown, yellow, and orange elongated prismatic crystals. Crystals are frequently multicolored, containing two or more distinct colours. It may also have internal colour zoning and banding.\r\n\r\nLarge crystals of Liddicoatite are often cut and polished into slices, with the multicolored designs and forms. Faceted material is rare because of its limited occurrences, and because most gem material is not tested to determine what type of tourmaline mineral it is - so will be labelled as Tourmaline regardless of whether it is Liddicoatite, Elbiate or another type of Tourmaline.",
+  "PhysicalProperties": {
+    "MohsHardness": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 7.5,
+          "Max": 0.0
+        }
+      ]
+    },
+    "SpecificGravity": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 3.02,
+          "Max": 3.02
+        }
+      ]
+    },
+    "Tenacity": "Brittle",
+    "CleavageQuality": "Poor",
+    "Fracture": "Uneven,Conchoidal",
+    "HeatSensitivity": ""
+  },
+  "OpticalProperties": {
+    "RefractiveIndex": null,
+    "Birefringence": null,
+    "Pleochroism": "Strong: dark brown - light brown",
+    "Dispersion": null
+  },
+  "ColourProperties": {
+    "General": "Brown, green, pink, red, blue; commonly zoned parallel to pyramid faces.",
+    "Daylight": "",
+    "ChelseaFilter": "",
+    "CausesOfColour": "Green, Fe2+ and Ti4+ in octahedral coordination, influence of various charge transfer processes involving iron is a distinct possibility. Yellow-green, Mn2+-O-Ti4+ charge transfer. Greenish yellow, Mn2+ in octahedral coordination (rare). Orange, yellow + pink. Pink to red, related to manganese, generally believed to be due to Mn3+ in octahedral coordination, sometimes caused by irradiation. Brown, Fe2+→Ti4+ charge transfer",
+    "Transparency": "Transparent,Translucent"
+  },
+  "FlouresenceProperties": {
+    "General": ""
+  },
+  "Crystallography": {
+    "CrystalSystem": "Hexagonal",
+    "Habit": "Crystals stout prismatic, with curved convex trigonal outline, deeply striated, to 25 cm."
+  },
+  "GeologicalEnvironment": {
+    "WhereFound": "Detrital in soil, an apparent product of the local pegmatites."
+  },
+  "Inclusions": {
+    "Inclusions": "Detrital in soil, an apparent product of the local pegmatites."
+  }
+}

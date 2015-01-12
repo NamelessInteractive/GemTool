@@ -1,0 +1,70 @@
+{
+  "Name": "Larimar",
+  "Description": "Larimar is named after its discovery locality in Filipinas Larimar Mine, Los Checheses, Sierra de Baoruco, Barahona Province, Dominican Republic.\r\n\r\nLarimar is a trade name for massive light- to sky-blue variety of Pectolite from Dominican Republic. This compact material yields attractive cabochons.\r\n\r\nLarimar may be used as a turquoise substitute.",
+  "PhysicalProperties": {
+    "MohsHardness": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 5.0,
+          "Max": 0.0
+        }
+      ]
+    },
+    "SpecificGravity": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 2.74,
+          "Max": 2.9
+        }
+      ]
+    },
+    "Tenacity": "",
+    "CleavageQuality": "",
+    "Fracture": "",
+    "HeatSensitivity": ""
+  },
+  "OpticalProperties": {
+    "RefractiveIndex": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 1.595,
+          "Max": 1.645
+        }
+      ]
+    },
+    "Birefringence": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 0.032,
+          "Max": 0.038
+        }
+      ]
+    },
+    "Pleochroism": "",
+    "Dispersion": null
+  },
+  "ColourProperties": {
+    "General": "Blue, bluish-white, white, gray",
+    "Daylight": "",
+    "ChelseaFilter": "",
+    "CausesOfColour": "",
+    "Transparency": "Opaque"
+  },
+  "FlouresenceProperties": {
+    "General": ""
+  },
+  "Crystallography": {
+    "CrystalSystem": "Triclinic",
+    "Habit": ""
+  },
+  "GeologicalEnvironment": {
+    "WhereFound": ""
+  },
+  "Inclusions": {
+    "Inclusions": "Yellow or orange"
+  }
+}

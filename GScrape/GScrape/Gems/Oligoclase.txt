@@ -1,0 +1,70 @@
+{
+  "Name": "Oligoclase",
+  "Description": "A feldspar comprising 70-90% Albite and 10-30% Anorthite.\r\n\r\nThe name oligoclase derived from the Greek \"oligos\" - little, and \"clasein\" - to break, because the mineral was thought to have a less perfect cleavage than albite. This name was given by August Breithaupt in 1826.",
+  "PhysicalProperties": {
+    "MohsHardness": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 6.0,
+          "Max": 6.5
+        }
+      ]
+    },
+    "SpecificGravity": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 2.62,
+          "Max": 2.67
+        }
+      ]
+    },
+    "Tenacity": "",
+    "CleavageQuality": "Perfect,Good",
+    "Fracture": "Conchoidal",
+    "HeatSensitivity": ""
+  },
+  "OpticalProperties": {
+    "RefractiveIndex": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 1.538,
+          "Max": 1.55
+        }
+      ]
+    },
+    "Birefringence": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 0.01,
+          "Max": 0.01
+        }
+      ]
+    },
+    "Pleochroism": "",
+    "Dispersion": null
+  },
+  "ColourProperties": {
+    "General": "Colourless to bluish",
+    "Daylight": "",
+    "ChelseaFilter": "",
+    "CausesOfColour": "Blue (moonstone), Rayleight scattering of light by lamellar structure. Red (sunstone), red lepidocrocite or hematite platelets give the aventurescence",
+    "Transparency": "Transparent"
+  },
+  "FlouresenceProperties": {
+    "General": ""
+  },
+  "Crystallography": {
+    "CrystalSystem": "Triclinic",
+    "Habit": ""
+  },
+  "GeologicalEnvironment": {
+    "WhereFound": "As a major part of many rocks, especially igneous rocks such as granites, syenites and pegmatites. Also in intermediate lavas, schists and some amphibolites."
+  },
+  "Inclusions": {
+    "Inclusions": "As a major part of many rocks, especially igneous rocks such as granites, syenites and pegmatites. Also in intermediate lavas, schists and some amphibolites."
+  }
+}

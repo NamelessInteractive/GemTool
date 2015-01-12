@@ -1,0 +1,70 @@
+{
+  "Name": "Celestine",
+  "Description": "Celestine is named after Latin \"caelestis\" - of the sky, alluding to the sky-blue colour commonly exhibited by its crystals.\r\n\r\nCelestine is usually colourless or pale blue, but orange (Ontario, Canada), brown, yellow and greenish material has been reported.\r\n\r\nIt occurs as tabular and prismatic crystals, and also in compact massive and fibrous forms or as numerous crystals lining geodes. The geode has crystals as 18 inches wide (46 cm) across, estimated weight up to 300 pounds (135 kg) each.\r\n\r\nPerfect cleavage and brittleness make Celestine difficult to facet. Cut stones rarely exceed 10 carats.",
+  "PhysicalProperties": {
+    "MohsHardness": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 3.0,
+          "Max": 3.5
+        }
+      ]
+    },
+    "SpecificGravity": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 3.9,
+          "Max": 4.0
+        }
+      ]
+    },
+    "Tenacity": "Brittle",
+    "CleavageQuality": "Perfect",
+    "Fracture": "Uneven",
+    "HeatSensitivity": "Sensitive to heat"
+  },
+  "OpticalProperties": {
+    "RefractiveIndex": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 1.619,
+          "Max": 1.635
+        }
+      ]
+    },
+    "Birefringence": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 0.004,
+          "Max": 0.012
+        }
+      ]
+    },
+    "Pleochroism": "Weakly trichroic",
+    "Dispersion": null
+  },
+  "ColourProperties": {
+    "General": "Bluish-white, colourless, seldom reddish, green",
+    "Daylight": "",
+    "ChelseaFilter": "",
+    "CausesOfColour": "",
+    "Transparency": "Transparent"
+  },
+  "FlouresenceProperties": {
+    "General": "Inert to weak fluorescence of body color (possible phosphorescence)"
+  },
+  "Crystallography": {
+    "CrystalSystem": "Orthorhombic",
+    "Habit": "Tabular"
+  },
+  "GeologicalEnvironment": {
+    "WhereFound": "The origin of celestine is chiefly sedimentary. It occurs as cavity or\r\nfissure fillings, particularly in limestones and in hydrothermal veins."
+  },
+  "Inclusions": {
+    "Inclusions": "The origin of celestine is chiefly sedimentary. It occurs as cavity or\r\nfissure fillings, particularly in limestones and in hydrothermal veins."
+  }
+}

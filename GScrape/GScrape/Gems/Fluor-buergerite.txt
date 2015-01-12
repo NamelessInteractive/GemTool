@@ -1,0 +1,54 @@
+{
+  "Name": "Fluor-buergerite",
+  "Description": "Buergerite is named after M. J. Buerger, eminent crystallographer and President of Mineralogical Society of America (1947).\r\n\r\nBuergerite is a rare species of the Tourmaline Group.",
+  "PhysicalProperties": {
+    "MohsHardness": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 7.0,
+          "Max": 0.0
+        }
+      ]
+    },
+    "SpecificGravity": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 3.31,
+          "Max": 3.31
+        }
+      ]
+    },
+    "Tenacity": "Brittle",
+    "CleavageQuality": "Distinct",
+    "Fracture": "",
+    "HeatSensitivity": ""
+  },
+  "OpticalProperties": {
+    "RefractiveIndex": null,
+    "Birefringence": null,
+    "Pleochroism": "Yellow-brown - very pale yellow",
+    "Dispersion": null
+  },
+  "ColourProperties": {
+    "General": "Dark brown to almost black with a bronze schiller",
+    "Daylight": "",
+    "ChelseaFilter": "",
+    "CausesOfColour": "",
+    "Transparency": "Translucent"
+  },
+  "FlouresenceProperties": {
+    "General": ""
+  },
+  "Crystallography": {
+    "CrystalSystem": "Hexagonal",
+    "Habit": "Crystals short to long prismatic, in divergent sprays, segmented, up to 4 cm"
+  },
+  "GeologicalEnvironment": {
+    "WhereFound": "Of probable pneumatolytic origin, in cavities in a rhyolite."
+  },
+  "Inclusions": {
+    "Inclusions": "Of probable pneumatolytic origin, in cavities in a rhyolite."
+  }
+}

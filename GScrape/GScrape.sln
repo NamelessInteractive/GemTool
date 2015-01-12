@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.22310.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "GScrape", "GScrape\GScrape.fsproj", "{38D07930-E5F5-4F46-9E0C-9914A70C69DF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{38D07930-E5F5-4F46-9E0C-9914A70C69DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{38D07930-E5F5-4F46-9E0C-9914A70C69DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{38D07930-E5F5-4F46-9E0C-9914A70C69DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{38D07930-E5F5-4F46-9E0C-9914A70C69DF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

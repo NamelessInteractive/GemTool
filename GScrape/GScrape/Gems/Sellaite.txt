@@ -1,0 +1,70 @@
+{
+  "Name": "Sellaite",
+  "Description": "Sellaite is named after Quintino Sella, Italian mining engineer and mineralogist.\r\n\r\nSellaite forms short prismatic yellowish, colourless or white transparent crystals. Facetable material comes from Bahia, Brazil.",
+  "PhysicalProperties": {
+    "MohsHardness": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 5.0,
+          "Max": 5.5
+        }
+      ]
+    },
+    "SpecificGravity": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 3.14,
+          "Max": 3.16
+        }
+      ]
+    },
+    "Tenacity": "Brittle",
+    "CleavageQuality": "Distinct",
+    "Fracture": "Conchoidal",
+    "HeatSensitivity": ""
+  },
+  "OpticalProperties": {
+    "RefractiveIndex": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 1.378,
+          "Max": 1.39
+        }
+      ]
+    },
+    "Birefringence": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 0.01,
+          "Max": 0.012
+        }
+      ]
+    },
+    "Pleochroism": "",
+    "Dispersion": null
+  },
+  "ColourProperties": {
+    "General": "Colourless",
+    "Daylight": "",
+    "ChelseaFilter": "",
+    "CausesOfColour": "",
+    "Transparency": "Transparent,Translucent"
+  },
+  "FlouresenceProperties": {
+    "General": ""
+  },
+  "Crystallography": {
+    "CrystalSystem": "Tetragonal",
+    "Habit": "Prismatic"
+  },
+  "GeologicalEnvironment": {
+    "WhereFound": "Facetable crystals occur in a metamorphic magnesite deposit."
+  },
+  "Inclusions": {
+    "Inclusions": "Facetable crystals occur in a metamorphic magnesite deposit."
+  }
+}

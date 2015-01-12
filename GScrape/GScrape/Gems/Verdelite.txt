@@ -1,0 +1,78 @@
+{
+  "Name": "Verdelite",
+  "Description": "Verdelite is probably one of the most common and used gemstones available in the market today. The mineral is dark green in color, though it is sometimes seen in a light green or light brown shade.",
+  "PhysicalProperties": {
+    "MohsHardness": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 7.0,
+          "Max": 7.5
+        }
+      ]
+    },
+    "SpecificGravity": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 2.9,
+          "Max": 3.4
+        }
+      ]
+    },
+    "Tenacity": "Brittle",
+    "CleavageQuality": "Indistinct",
+    "Fracture": "Sub-Conchoidal",
+    "HeatSensitivity": ""
+  },
+  "OpticalProperties": {
+    "RefractiveIndex": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 1.614,
+          "Max": 1.666
+        }
+      ]
+    },
+    "Birefringence": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 0.014,
+          "Max": 0.04
+        }
+      ]
+    },
+    "Pleochroism": "Strong: dark green - yellow-green",
+    "Dispersion": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 0.017,
+          "Max": 0.017
+        }
+      ]
+    }
+  },
+  "ColourProperties": {
+    "General": "Green",
+    "Daylight": "",
+    "ChelseaFilter": "",
+    "CausesOfColour": "",
+    "Transparency": "Transparent,Translucent,Opaque"
+  },
+  "FlouresenceProperties": {
+    "General": ""
+  },
+  "Crystallography": {
+    "CrystalSystem": "Trigonal",
+    "Habit": "Prismatic to acicular crystals"
+  },
+  "GeologicalEnvironment": {
+    "WhereFound": ""
+  },
+  "Inclusions": {
+    "Inclusions": "Green"
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "Name": "Magnesite",
+  "Description": "Magnesite is named from Greek \"magnesia lithos\" - magnesian stone, a kind of ore from Magnesia, the coastal district of ancient Thessaly, Greece.\r\n\r\nMagnesite frequently occurs as translucent, sometimes transparent colourless, white, yellowish to brown or grey masses with an earthy or chalky appearance. This material is cut into cabochons.\r\n\r\nTransparent crystals of gem-quality are very rare. The amount of faceted stones is mostly limited to specialized collections.",
+  "PhysicalProperties": {
+    "MohsHardness": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 3.5,
+          "Max": 4.5
+        }
+      ]
+    },
+    "SpecificGravity": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 2.92,
+          "Max": 3.12
+        }
+      ]
+    },
+    "Tenacity": "",
+    "CleavageQuality": "Perfect",
+    "Fracture": "Conchoidal",
+    "HeatSensitivity": ""
+  },
+  "OpticalProperties": {
+    "RefractiveIndex": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 1.509,
+          "Max": 1.72
+        }
+      ]
+    },
+    "Birefringence": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 0.19,
+          "Max": 0.202
+        }
+      ]
+    },
+    "Pleochroism": "Nil",
+    "Dispersion": null
+  },
+  "ColourProperties": {
+    "General": "White, yellow, brown, black, colourless",
+    "Daylight": "",
+    "ChelseaFilter": "",
+    "CausesOfColour": "",
+    "Transparency": "Translucent,Opaque"
+  },
+  "FlouresenceProperties": {
+    "General": "Blue, green, white common"
+  },
+  "Crystallography": {
+    "CrystalSystem": "Trigonal",
+    "Habit": "Massive"
+  },
+  "GeologicalEnvironment": {
+    "WhereFound": "Magnesite occurs as a primary mineral in igneous or sedimentary rocks or may be formed by the metamorphism or alteration of serpentine and peridotite."
+  },
+  "Inclusions": {
+    "Inclusions": "Magnesite occurs as a primary mineral in igneous or sedimentary rocks or may be formed by the metamorphism or alteration of serpentine and peridotite."
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "Name": "Pyrope-Spessartine",
+  "Description": "Pyrope-Spessartine is a Garnet intermediate in composition between Pyrope (magnesium aluminium garnet) and Spessartine (manganese aluminium garnet).\r\n\r\nPyrope-Spessartine presents a colour change under different sources of light.",
+  "PhysicalProperties": {
+    "MohsHardness": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 7.0,
+          "Max": 7.5
+        }
+      ]
+    },
+    "SpecificGravity": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 3.62,
+          "Max": 4.33
+        }
+      ]
+    },
+    "Tenacity": "Brittle",
+    "CleavageQuality": "None",
+    "Fracture": "Uneven,Conchoidal",
+    "HeatSensitivity": ""
+  },
+  "OpticalProperties": {
+    "RefractiveIndex": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 1.73,
+          "Max": 1.82
+        }
+      ]
+    },
+    "Birefringence": null,
+    "Pleochroism": "",
+    "Dispersion": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 0.022,
+          "Max": 0.027
+        }
+      ]
+    }
+  },
+  "ColourProperties": {
+    "General": "",
+    "Daylight": "",
+    "ChelseaFilter": "",
+    "CausesOfColour": "",
+    "Transparency": "Transparent"
+  },
+  "FlouresenceProperties": {
+    "General": ""
+  },
+  "Crystallography": {
+    "CrystalSystem": "Isometric",
+    "Habit": ""
+  },
+  "GeologicalEnvironment": {
+    "WhereFound": ""
+  },
+  "Inclusions": {
+    "Inclusions": "Transparent"
+  }
+}

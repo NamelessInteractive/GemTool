@@ -1,0 +1,70 @@
+{
+  "Name": "Baryte (Barite)",
+  "Description": "Baryte is named after Greek \"barys\" - heavy, in allusion to its high specific gravity.\r\n\r\nMany large transparent crystals have been found. Easy cleavage, brittleness and heat sensitivity of the material make it a challenge to the facetier. Cut stones rarely exceed 10 carats.",
+  "PhysicalProperties": {
+    "MohsHardness": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 3.0,
+          "Max": 3.5
+        }
+      ]
+    },
+    "SpecificGravity": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 4.43,
+          "Max": 4.46
+        }
+      ]
+    },
+    "Tenacity": "Brittle",
+    "CleavageQuality": "Perfect",
+    "Fracture": "Uneven",
+    "HeatSensitivity": "Very high"
+  },
+  "OpticalProperties": {
+    "RefractiveIndex": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 1.634,
+          "Max": 1.648
+        }
+      ]
+    },
+    "Birefringence": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 0.01,
+          "Max": 0.018
+        }
+      ]
+    },
+    "Pleochroism": "Nil",
+    "Dispersion": null
+  },
+  "ColourProperties": {
+    "General": "Colourless, white, yellowish, reddish, bluish, green, brown, gray, black",
+    "Daylight": "",
+    "ChelseaFilter": "",
+    "CausesOfColour": "",
+    "Transparency": "Transparent,Translucent,Opaque"
+  },
+  "FlouresenceProperties": {
+    "General": "(LW): Inert to partly chalky cream, bluish, greenish (and phosphorescence)"
+  },
+  "Crystallography": {
+    "CrystalSystem": "Orthorhombic",
+    "Habit": "Bladed, tabular"
+  },
+  "GeologicalEnvironment": {
+    "WhereFound": "Barite is the most common barium mineral and occurs in low-temperature hydrothermal veins and in residual deposits from weathered barium-bearing limestones."
+  },
+  "Inclusions": {
+    "Inclusions": "Barite is the most common barium mineral and occurs in low-temperature hydrothermal veins and in residual deposits from weathered barium-bearing limestones."
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "Name": "Azurite",
+  "Description": "Azurite is named after the Persian word \"lazhward\", for its characteristic blue colour. It occurs in the weathered zone of copper ore-bodies usually in association with malachite. Azurite is less stable in open air than malachite, and is often pseudomorphically replaced by it. Or they can form together as azurmalachite.\r\n\r\nAzurite is famous for its superb colour and interesting forms. It was formerly used for azure pigment. It can be cut into cabochons, faceted into gems and used for ornamental objects.\r\n\r\nAzurite dust is toxic and must not be inhaled when cutting and polishing.\r\n\r\nAzurite is also known as chessylite after the type locality at Chessy-les-Mines near Lyon, France.",
+  "PhysicalProperties": {
+    "MohsHardness": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 3.5,
+          "Max": 4.0
+        }
+      ]
+    },
+    "SpecificGravity": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 3.7,
+          "Max": 3.9
+        }
+      ]
+    },
+    "Tenacity": "Brittle",
+    "CleavageQuality": "Indistinct",
+    "Fracture": "Conchoidal",
+    "HeatSensitivity": "Sensitive to heat."
+  },
+  "OpticalProperties": {
+    "RefractiveIndex": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 1.72,
+          "Max": 1.85
+        }
+      ]
+    },
+    "Birefringence": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 0.108,
+          "Max": 0.11
+        }
+      ]
+    },
+    "Pleochroism": "Distinct: dark-blue - light blue",
+    "Dispersion": null
+  },
+  "ColourProperties": {
+    "General": "Dark blue, azure blue",
+    "Daylight": "",
+    "ChelseaFilter": "",
+    "CausesOfColour": "Blue, Cu2+ in elongated octahedral coordination",
+    "Transparency": "Transparent,Translucent,Opaque"
+  },
+  "FlouresenceProperties": {
+    "General": "None"
+  },
+  "Crystallography": {
+    "CrystalSystem": "Monoclinic",
+    "Habit": "Crystals of varied habit, often in spherical radiating groups. It is common in botryoidal or stalagmitic groups and\r\nmassive in veins with malachite."
+  },
+  "GeologicalEnvironment": {
+    "WhereFound": "Azurite is found in the oxidized zones of copper deposits and is very often intimately associated with malachite to the extent that the name azur-malachite has been used."
+  },
+  "Inclusions": {
+    "Inclusions": "Azurite is found in the oxidized zones of copper deposits and is very often intimately associated with malachite to the extent that the name azur-malachite has been used."
+  }
+}

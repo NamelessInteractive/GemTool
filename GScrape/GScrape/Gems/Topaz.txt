@@ -1,0 +1,78 @@
+{
+  "Name": "Topaz",
+  "Description": "Topaz is named from Greek \"topazion\" for a type of gemstone, probably after Sanskrit \"tapas\" - fire, alluding to the brilliance of gem-quality material. Topaz has been known from antiquity.\r\n\r\nPure topaz is colorless and transparent but is usually tinted by impurities; typical topaz is wine, yellow, pale gray, reddish-orange, or blue brown. It can also be white, pale green, blue, gold, pink (rare), reddish-yellow or opaque to transparent/translucent.\r\n\r\nTopaz varies in value according to its quality; large crystals are found quite as frequently as small, consequently the value of cut stones is proportionate to their size. The faults, the presence of which reduces the value of a stone, are principally impure colour, fissures in the direction of cleavage and turbidity. Cavities, either vacuous or filled with liquids of various kinds, are also frequently present.",
+  "PhysicalProperties": {
+    "MohsHardness": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 8.0,
+          "Max": 8.0
+        }
+      ]
+    },
+    "SpecificGravity": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 3.49,
+          "Max": 3.57
+        }
+      ]
+    },
+    "Tenacity": "",
+    "CleavageQuality": "Perfect",
+    "Fracture": "Conchoidal",
+    "HeatSensitivity": ""
+  },
+  "OpticalProperties": {
+    "RefractiveIndex": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 1.606,
+          "Max": 1.644
+        }
+      ]
+    },
+    "Birefringence": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 0.008,
+          "Max": 0.011
+        }
+      ]
+    },
+    "Pleochroism": "Pink topaz - distinct: colorless - pale pink - pink;\r\nRed topaz - distinct: dark red - yellow - pinkish-red;\r\nOrange/brown - distinct: yellow-brown - brown; Yellow topaz - weak: pale yellow - honey-yellow - yellow; Violet/purple topaz - distinct: colorless - pale pink - purple; Blue topaz - weak: colorless - (pinkish) - bluish; Green topaz - weak: colorless - light green - blue-green",
+    "Dispersion": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 0.014,
+          "Max": 0.014
+        }
+      ]
+    }
+  },
+  "ColourProperties": {
+    "General": "Colourless, yellow, yellow-brown, reddish-brown, blue, green, pink, red, violet",
+    "Daylight": "",
+    "ChelseaFilter": "",
+    "CausesOfColour": "Blue, color centers of unknown structure. Green, yellow and blue color centers. Yellow, color center of unknown nature. Orange (\"imperial topaz\"), yellow color center and Cr3+ in octahedral coordination. Pink, Cr3+ - in octahedral coordination. Reddish brown (\"sherry topaz\"), yellow and red color centers.",
+    "Transparency": "Transparent"
+  },
+  "FlouresenceProperties": {
+    "General": "Pink: weak - brown; Red: weak - yellow-brown; Yellow: weak - orange-yellow"
+  },
+  "Crystallography": {
+    "CrystalSystem": "Orthorhombic",
+    "Habit": "Prisms with multi-faceted ends, often 8-sided in cross-section striations along length."
+  },
+  "GeologicalEnvironment": {
+    "WhereFound": "Topaz occurs most commonly in such igneous rocks as granites, granite\r\npegmatites and rhyolites, occupying veins or cavities. Resulting most often from late-stage pneumatolytic action, topaz is commonly found in greisen."
+  },
+  "Inclusions": {
+    "Inclusions": "Topaz occurs most commonly in such igneous rocks as granites, granite\r\npegmatites and rhyolites, occupying veins or cavities. Resulting most often from late-stage pneumatolytic action, topaz is commonly found in greisen."
+  }
+}

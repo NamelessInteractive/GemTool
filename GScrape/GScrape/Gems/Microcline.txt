@@ -1,0 +1,70 @@
+{
+  "Name": "Microcline",
+  "Description": "Microcline (Greek - small slope) has the same chemical composition as orthoclase but is classified in the triclinic crystal system.\r\n\r\nThe blue-green feldspar amazonite is the only gem variety of microcline.",
+  "PhysicalProperties": {
+    "MohsHardness": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 6.0,
+          "Max": 6.5
+        }
+      ]
+    },
+    "SpecificGravity": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 2.55,
+          "Max": 2.63
+        }
+      ]
+    },
+    "Tenacity": "",
+    "CleavageQuality": "Perfect",
+    "Fracture": "Uneven,Conchoidal",
+    "HeatSensitivity": ""
+  },
+  "OpticalProperties": {
+    "RefractiveIndex": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 1.514,
+          "Max": 1.539
+        }
+      ]
+    },
+    "Birefringence": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 0.008,
+          "Max": 0.01
+        }
+      ]
+    },
+    "Pleochroism": "Weak",
+    "Dispersion": null
+  },
+  "ColourProperties": {
+    "General": "Commonly white to pale yellow or salmon, also may be blue to green",
+    "Daylight": "",
+    "ChelseaFilter": "",
+    "CausesOfColour": "Blue (amazonite), color center involving Pb3+ and structural water",
+    "Transparency": "Translucent,Opaque"
+  },
+  "FlouresenceProperties": {
+    "General": ""
+  },
+  "Crystallography": {
+    "CrystalSystem": "Triclinic",
+    "Habit": "Prismatic"
+  },
+  "GeologicalEnvironment": {
+    "WhereFound": "Microcline commonly occurs in plutonic igneous rocks such as granites and syenites that cooled slowly and at considerable depth."
+  },
+  "Inclusions": {
+    "Inclusions": "Microcline commonly occurs in plutonic igneous rocks such as granites and syenites that cooled slowly and at considerable depth."
+  }
+}

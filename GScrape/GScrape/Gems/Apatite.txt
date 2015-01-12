@@ -1,0 +1,78 @@
+{
+  "Name": "Apatite",
+  "Description": "The name Apatite derived from Greek meaning \"I am misleading\", because it can be easily confused with other minerals (eg. beryl).\r\n\r\nThe material is soft, brittle and sensitive to heat. It has a wide variety of colour. Clear transparent stones are faceted, and chatoyant specimens are cut into cabochons (Apatite cat's eye).",
+  "PhysicalProperties": {
+    "MohsHardness": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 5.0,
+          "Max": 0.0
+        }
+      ]
+    },
+    "SpecificGravity": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 3.16,
+          "Max": 3.23
+        }
+      ]
+    },
+    "Tenacity": "Brittle",
+    "CleavageQuality": "Indistinct",
+    "Fracture": "Conchoidal",
+    "HeatSensitivity": "Highly heat sensitive"
+  },
+  "OpticalProperties": {
+    "RefractiveIndex": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 1.628,
+          "Max": 1.651
+        }
+      ]
+    },
+    "Birefringence": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 0.002,
+          "Max": 0.008
+        }
+      ]
+    },
+    "Pleochroism": "Blue - strong dichroism: colorless-(yellowish) - blue; Yellow - weak: greenish-yellow - golden-yellow; Green - weak: yellow - green - blue-green",
+    "Dispersion": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 0.013,
+          "Max": 0.013
+        }
+      ]
+    }
+  },
+  "ColourProperties": {
+    "General": "Colourless, yellow, green, blue, violet",
+    "Daylight": "",
+    "ChelseaFilter": "",
+    "CausesOfColour": "Pink, F vacancy with a trapped electron. Dark blue, O2- → Mn5+ charge transfer",
+    "Transparency": "Transparent"
+  },
+  "FlouresenceProperties": {
+    "General": "Yellow: purplish pink; green: inert to greenish yellow; blue: blue"
+  },
+  "Crystallography": {
+    "CrystalSystem": "Hexagonal",
+    "Habit": "Columnar, thick tabular"
+  },
+  "GeologicalEnvironment": {
+    "WhereFound": "Gem apatite usually occurring in pegmatites, hydrothermal veins or alluvially."
+  },
+  "Inclusions": {
+    "Inclusions": "Gem apatite usually occurring in pegmatites, hydrothermal veins or alluvially."
+  }
+}

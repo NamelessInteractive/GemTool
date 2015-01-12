@@ -1,0 +1,70 @@
+{
+  "Name": "Pyrargyrite",
+  "Description": "Pyrargyrite is named after Greek \"pyr\" - fire and \"argyros\" - silver, alluding to its red colour and silver content.\r\n\r\nPyrargyrite forms translucent deep red prismatic crystals with adamantine lustre. The material can be very attractive but it may darken on exposure to light.\r\n\r\nTransparent crytals of facet-grade are rare.",
+  "PhysicalProperties": {
+    "MohsHardness": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 2.5,
+          "Max": 3.0
+        }
+      ]
+    },
+    "SpecificGravity": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 5.85,
+          "Max": 5.85
+        }
+      ]
+    },
+    "Tenacity": "Brittle",
+    "CleavageQuality": "Indistinct",
+    "Fracture": "Conchoidal",
+    "HeatSensitivity": ""
+  },
+  "OpticalProperties": {
+    "RefractiveIndex": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 2.881,
+          "Max": 3.084
+        }
+      ]
+    },
+    "Birefringence": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 0.203,
+          "Max": 0.203
+        }
+      ]
+    },
+    "Pleochroism": "Strong",
+    "Dispersion": null
+  },
+  "ColourProperties": {
+    "General": "Gray, black, red",
+    "Daylight": "",
+    "ChelseaFilter": "",
+    "CausesOfColour": "",
+    "Transparency": "Translucent,Opaque"
+  },
+  "FlouresenceProperties": {
+    "General": ""
+  },
+  "Crystallography": {
+    "CrystalSystem": "Trigonal",
+    "Habit": "Prismatic"
+  },
+  "GeologicalEnvironment": {
+    "WhereFound": "Pyrargyrite occurs in hydrothermal veins as a primary late-stage low-temperature mineral."
+  },
+  "Inclusions": {
+    "Inclusions": "Pyrargyrite occurs in hydrothermal veins as a primary late-stage low-temperature mineral."
+  }
+}

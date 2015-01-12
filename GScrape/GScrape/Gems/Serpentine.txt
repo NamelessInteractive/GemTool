@@ -1,0 +1,70 @@
+{
+  "Name": "Serpentine",
+  "Description": "Serpentine is a name for a group of magnesium silicate minerals, which are related but have different structures.\r\n\r\nThe name derived from Greek word for a serpent, because of the serpent-like mottled and scaley appearance of the rock that contained it.\r\n\r\nSome serpentines are widely employed as Jade simulants.\r\n\r\nSee also: Verd Antique, a serpentinite breccia.",
+  "PhysicalProperties": {
+    "MohsHardness": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 2.5,
+          "Max": 5.5
+        }
+      ]
+    },
+    "SpecificGravity": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 2.44,
+          "Max": 2.62
+        }
+      ]
+    },
+    "Tenacity": "",
+    "CleavageQuality": "None",
+    "Fracture": "Uneven,Splintery",
+    "HeatSensitivity": ""
+  },
+  "OpticalProperties": {
+    "RefractiveIndex": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 1.56,
+          "Max": 1.571
+        }
+      ]
+    },
+    "Birefringence": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 0.008,
+          "Max": 0.014
+        }
+      ]
+    },
+    "Pleochroism": "Absent",
+    "Dispersion": null
+  },
+  "ColourProperties": {
+    "General": "Green, yellowish-green, white, yellow-brown, red-brown, black",
+    "Daylight": "",
+    "ChelseaFilter": "",
+    "CausesOfColour": "",
+    "Transparency": "Translucent,Opaque"
+  },
+  "FlouresenceProperties": {
+    "General": ""
+  },
+  "Crystallography": {
+    "CrystalSystem": "Monoclinic",
+    "Habit": "Microcrystalline"
+  },
+  "GeologicalEnvironment": {
+    "WhereFound": ""
+  },
+  "Inclusions": {
+    "Inclusions": "Green, yellowish-green, white, yellow-brown, red-brown, black"
+  }
+}

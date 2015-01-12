@@ -1,0 +1,70 @@
+{
+  "Name": "Nuummite",
+  "Description": "Nuummite is named from the Municipality of Nuuk, where the stone was discovered in 1982.\r\n\r\nNuummite is an unapproved name for a metamorphic rock that combines two amphiboles - Anthophyllite and Gedrite. A striking iridescence is caused by the interference of light between these crystals.\r\n\r\nNuummite is an attractive ornamental rock. The material is cut and polished into cabochons. The stones exhibit red, green and blue flashes of colour against a dark brown to black background.",
+  "PhysicalProperties": {
+    "MohsHardness": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 5.5,
+          "Max": 6.0
+        }
+      ]
+    },
+    "SpecificGravity": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 3.18,
+          "Max": 3.37
+        }
+      ]
+    },
+    "Tenacity": "",
+    "CleavageQuality": "Perfect",
+    "Fracture": "",
+    "HeatSensitivity": ""
+  },
+  "OpticalProperties": {
+    "RefractiveIndex": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 1.635,
+          "Max": 1.663
+        }
+      ]
+    },
+    "Birefringence": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 0.022,
+          "Max": 0.022
+        }
+      ]
+    },
+    "Pleochroism": "",
+    "Dispersion": null
+  },
+  "ColourProperties": {
+    "General": "Dark gray, brownish-black. Blue, golden yellow and reddish iridescence",
+    "Daylight": "",
+    "ChelseaFilter": "",
+    "CausesOfColour": "",
+    "Transparency": "Opaque"
+  },
+  "FlouresenceProperties": {
+    "General": ""
+  },
+  "Crystallography": {
+    "CrystalSystem": "Orthorhombic",
+    "Habit": ""
+  },
+  "GeologicalEnvironment": {
+    "WhereFound": ""
+  },
+  "Inclusions": {
+    "Inclusions": "Dark gray, brownish-black. Blue, golden yellow and reddish iridescence"
+  }
+}

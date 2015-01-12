@@ -1,0 +1,70 @@
+{
+  "Name": "Moonstone",
+  "Description": "Moonstone is colourless, very translucent, or almost perfectly transparent feldspar, which in certain direction reflects a bluish, milky light, that has been compared to the light of the moon.\r\n\r\nMoonstone is a potassium feldspar of the orthoclase species with white shimmer, similar to moonshine (therefore the name), called adularescence. Thin alternating layers of orthoclase and albite create the light interference in this material that is responsible for its \"shiller\" or \"floating moon effect\".\r\n\r\nOnly specimens which show this sheen in a typical manner are cut as gems. To display the beauty of this stone to the best possible advantage , it is cut with a convex, polished surface of moderately strong curvature about the face which exhibits the sheen. The stone is very effective in cut and polished spheres, which may be strung together and worn as beads or for other ornamental purposes, when they have a certain resemblance to white pearls. Moonstone is always cut either en cabochon or with a plane surface, never with facets.",
+  "PhysicalProperties": {
+    "MohsHardness": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 6.0,
+          "Max": 6.5
+        }
+      ]
+    },
+    "SpecificGravity": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 2.56,
+          "Max": 2.6
+        }
+      ]
+    },
+    "Tenacity": "",
+    "CleavageQuality": "Perfect",
+    "Fracture": "Uneven,Conchoidal",
+    "HeatSensitivity": ""
+  },
+  "OpticalProperties": {
+    "RefractiveIndex": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 1.518,
+          "Max": 1.527
+        }
+      ]
+    },
+    "Birefringence": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 0.006,
+          "Max": 0.007
+        }
+      ]
+    },
+    "Pleochroism": "Absent",
+    "Dispersion": null
+  },
+  "ColourProperties": {
+    "General": "Colourless, white, adularescent with a silvery or bluish sheen, green, brownish, reddish.",
+    "Daylight": "",
+    "ChelseaFilter": "",
+    "CausesOfColour": "",
+    "Transparency": "Transparent,Translucent"
+  },
+  "FlouresenceProperties": {
+    "General": "Weak; bluish, orange"
+  },
+  "Crystallography": {
+    "CrystalSystem": "Monoclinic",
+    "Habit": "Prismatic"
+  },
+  "GeologicalEnvironment": {
+    "WhereFound": "The most prominent source is in the gravels and pegmatites"
+  },
+  "Inclusions": {
+    "Inclusions": "The most prominent source is in the gravels and pegmatites"
+  }
+}

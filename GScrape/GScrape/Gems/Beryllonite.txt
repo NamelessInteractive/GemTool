@@ -1,0 +1,78 @@
+{
+  "Name": "Beryllonite",
+  "Description": "Beryllonite is named because of its beryllium content. It was discovered by James Dwight Dana in 1888.\r\n\r\nThe crystals vary from colourless to white or pale yellowish, and are transparent with a vitreous lustre, and pearly luster on fracture planes. Beryllonite crystals are frequently heavily included. Beryllonite cat's eye is known.",
+  "PhysicalProperties": {
+    "MohsHardness": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 5.5,
+          "Max": 6.0
+        }
+      ]
+    },
+    "SpecificGravity": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 2.79,
+          "Max": 2.87
+        }
+      ]
+    },
+    "Tenacity": "Brittle",
+    "CleavageQuality": "Perfect",
+    "Fracture": "Conchoidal",
+    "HeatSensitivity": ""
+  },
+  "OpticalProperties": {
+    "RefractiveIndex": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 1.552,
+          "Max": 1.562
+        }
+      ]
+    },
+    "Birefringence": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 0.009,
+          "Max": 0.01
+        }
+      ]
+    },
+    "Pleochroism": "Absent",
+    "Dispersion": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 0.01,
+          "Max": 0.01
+        }
+      ]
+    }
+  },
+  "ColourProperties": {
+    "General": "Colourless, yellowish",
+    "Daylight": "",
+    "ChelseaFilter": "",
+    "CausesOfColour": "",
+    "Transparency": "Transparent"
+  },
+  "FlouresenceProperties": {
+    "General": "None"
+  },
+  "Crystallography": {
+    "CrystalSystem": "Monoclinic",
+    "Habit": "Short prisms"
+  },
+  "GeologicalEnvironment": {
+    "WhereFound": "A mineral of granite and alkalic pegmatites"
+  },
+  "Inclusions": {
+    "Inclusions": "A mineral of granite and alkalic pegmatites"
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "Name": "Eudialyte",
+  "Description": "Eudialyte is named from Greek \"eu\" - well and \"dialytos\" - dissolved, alluding to its easy solubility in acids.\r\n\r\nTransparent to translucent red to reddish brown eudialyte can occur as crystals or masses. Well-formed crystals are very rare, but faceted stones are very popular because of their attractive colouring. Small bright red crystals come from Mt Saint Hilaire, Quebec, Canada.\r\n\r\nThe massive eudialyte makes attractive cabochons and spheres. This material is found in Kola Peninsula, Russia.",
+  "PhysicalProperties": {
+    "MohsHardness": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 5.0,
+          "Max": 5.5
+        }
+      ]
+    },
+    "SpecificGravity": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 2.74,
+          "Max": 3.0
+        }
+      ]
+    },
+    "Tenacity": "",
+    "CleavageQuality": "Poor",
+    "Fracture": "Uneven",
+    "HeatSensitivity": ""
+  },
+  "OpticalProperties": {
+    "RefractiveIndex": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 1.591,
+          "Max": 1.633
+        }
+      ]
+    },
+    "Birefringence": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 0.003,
+          "Max": 0.01
+        }
+      ]
+    },
+    "Pleochroism": "Weak",
+    "Dispersion": null
+  },
+  "ColourProperties": {
+    "General": "Brown-red, brown, pink.",
+    "Daylight": "",
+    "ChelseaFilter": "",
+    "CausesOfColour": "",
+    "Transparency": "Translucent,Opaque"
+  },
+  "FlouresenceProperties": {
+    "General": ""
+  },
+  "Crystallography": {
+    "CrystalSystem": "Trigonal",
+    "Habit": "Short rhombohedral to prismatic crystals"
+  },
+  "GeologicalEnvironment": {
+    "WhereFound": "Occurs in nepheline syenites, alkalic granites and associated pegmatites"
+  },
+  "Inclusions": {
+    "Inclusions": "Occurs in nepheline syenites, alkalic granites and associated pegmatites"
+  }
+}

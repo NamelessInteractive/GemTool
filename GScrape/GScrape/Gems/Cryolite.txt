@@ -1,0 +1,70 @@
+{
+  "Name": "Cryolite",
+  "Description": "Cryolite is named from Greek \"kryos\" - frost, alluding to its appearance. The material seemingly disappears in water due to the proximity of their refractive indices.\r\n\r\nColourless transparent monoclinic crystals have occasionally been cut despite the softness and hazy appearance.",
+  "PhysicalProperties": {
+    "MohsHardness": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 2.5,
+          "Max": 2.5
+        }
+      ]
+    },
+    "SpecificGravity": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 2.97,
+          "Max": 2.97
+        }
+      ]
+    },
+    "Tenacity": "",
+    "CleavageQuality": "",
+    "Fracture": "",
+    "HeatSensitivity": ""
+  },
+  "OpticalProperties": {
+    "RefractiveIndex": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 1.338,
+          "Max": 1.339
+        }
+      ]
+    },
+    "Birefringence": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 0.001,
+          "Max": 0.001
+        }
+      ]
+    },
+    "Pleochroism": "",
+    "Dispersion": null
+  },
+  "ColourProperties": {
+    "General": "Colourless",
+    "Daylight": "",
+    "ChelseaFilter": "",
+    "CausesOfColour": "",
+    "Transparency": "Transparent"
+  },
+  "FlouresenceProperties": {
+    "General": ""
+  },
+  "Crystallography": {
+    "CrystalSystem": "Monoclinic",
+    "Habit": "Short prismatic or pseudocubic"
+  },
+  "GeologicalEnvironment": {
+    "WhereFound": "Cryolite occurs in some granite pegmatites, in topaz-bearing, fluorine-rich rhyolites and elsewhere."
+  },
+  "Inclusions": {
+    "Inclusions": "Cryolite occurs in some granite pegmatites, in topaz-bearing, fluorine-rich rhyolites and elsewhere."
+  }
+}

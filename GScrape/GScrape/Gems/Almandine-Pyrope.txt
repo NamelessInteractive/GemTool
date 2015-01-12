@@ -1,0 +1,70 @@
+{
+  "Name": "Almandine-Pyrope",
+  "Description": "Garnets intermediate between Almandine and Pyrope.",
+  "PhysicalProperties": {
+    "MohsHardness": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 7.5,
+          "Max": 0.0
+        }
+      ]
+    },
+    "SpecificGravity": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 3.62,
+          "Max": 4.2
+        }
+      ]
+    },
+    "Tenacity": "",
+    "CleavageQuality": "None",
+    "Fracture": "Conchoidal",
+    "HeatSensitivity": ""
+  },
+  "OpticalProperties": {
+    "RefractiveIndex": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 1.73,
+          "Max": 1.81
+        }
+      ]
+    },
+    "Birefringence": null,
+    "Pleochroism": "",
+    "Dispersion": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 0.022,
+          "Max": 0.027
+        }
+      ]
+    }
+  },
+  "ColourProperties": {
+    "General": "Red, purple-red, pinkish red, red-orange, deep red to almost black",
+    "Daylight": "",
+    "ChelseaFilter": "",
+    "CausesOfColour": "Reddish purple (rhodolite), Fe2+ in distorted cubic coordination",
+    "Transparency": "Transparent"
+  },
+  "FlouresenceProperties": {
+    "General": ""
+  },
+  "Crystallography": {
+    "CrystalSystem": "Isometric",
+    "Habit": ""
+  },
+  "GeologicalEnvironment": {
+    "WhereFound": ""
+  },
+  "Inclusions": {
+    "Inclusions": "Red, purple-red, pinkish red, red-orange, deep red to almost black"
+  }
+}

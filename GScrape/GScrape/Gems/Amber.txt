@@ -1,0 +1,62 @@
+{
+  "Name": "Amber",
+  "Description": "Amber is the fossilized, hardened resin of trees, ranging in age from less than a million to more than 300 million years old. Tree resin, initially a sticky semi-liquid, first hardens by losing volatile components, which evaporate into the air over periods from a few days to a few years. This is followed by a second stage of hardening in which the resin molecules polymerize (link with each other to form larger molecules), a process which can take anywhere from several tens of thousands of years to millions of years. After polymerization the amber becomes insoluble (or much less soluble) in organic solvents like acetone, toluene, alcohol, or gasoline. Young tree resins (sometimes known as \"copal\") are often misleadingly marketed as \"amber\", or euphemistically as \"young amber\", but the term Amber should properly be limited to the ancient polymerized resins that do not become sticky again when a drop of organic solvent is applied. On the other hand, the most ancient ambers (early Cretaceous or older) tend to become too brittle to use in jewelry.\r\n\r\nTrue amber of lapidary quality comes mainly from the Baltic region (principally Poland and Lithuania), with some production also in Mexico (Chiapas), the Dominican Republic, and Burma. Most so-called \"amber\" marketed from Colombia and Madagascar is much too young to qualify as true amber.\r\n\r\nAmber is mostly drop or nodular shaped with a homogeneous structure, it has yellow and brown colour. Inclusions of insects or parts of plants are common.\r\n\r\nAmber is an ancient biological gem material. One of the earliest examples of worked amber are beads from Gough’s cave in southern England, dated 11 000–9000 BC.",
+  "PhysicalProperties": {
+    "MohsHardness": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 2.0,
+          "Max": 2.5
+        }
+      ]
+    },
+    "SpecificGravity": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 1.05,
+          "Max": 1.1
+        }
+      ]
+    },
+    "Tenacity": "Brittle",
+    "CleavageQuality": "None",
+    "Fracture": "Conchoidal",
+    "HeatSensitivity": ""
+  },
+  "OpticalProperties": {
+    "RefractiveIndex": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 1.539,
+          "Max": 1.545
+        }
+      ]
+    },
+    "Birefringence": null,
+    "Pleochroism": "Absent",
+    "Dispersion": null
+  },
+  "ColourProperties": {
+    "General": "Yellow, white, red, green, blue, brown, black",
+    "Daylight": "",
+    "ChelseaFilter": "",
+    "CausesOfColour": "Blue to green, yellow to orange to red to brown, Fluorescence under visible light in Dominican amber; blue is due to light (Rayleigh) scattering in Baltic amber Charge-transfer processes in large organic molecules",
+    "Transparency": "Transparent,Translucent,Opaque"
+  },
+  "FlouresenceProperties": {
+    "General": "Bluish-white to yellow-green"
+  },
+  "Crystallography": {
+    "CrystalSystem": "Amorphous",
+    "Habit": ""
+  },
+  "GeologicalEnvironment": {
+    "WhereFound": ""
+  },
+  "Inclusions": {
+    "Inclusions": "Bluish-white to yellow-green"
+  }
+}

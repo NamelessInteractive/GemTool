@@ -1,0 +1,62 @@
+{
+  "Name": "Ivory",
+  "Description": "Ivory is a yellowish, elastic, moderately hard dentine of continuously growing teeth (tusks) of mammals such as both recent and fossil elephant, walrus, hippopotamus, sperm whale, narwhal and some species of ungulates such as wild boar and warthog. Ivory consists of 25% organic material and water, and 75% inorganic apatite.\r\n\r\nIvory has been used as a biological gem material for many thousands of years.",
+  "PhysicalProperties": {
+    "MohsHardness": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 2.0,
+          "Max": 3.0
+        }
+      ]
+    },
+    "SpecificGravity": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 1.7,
+          "Max": 2.0
+        }
+      ]
+    },
+    "Tenacity": "",
+    "CleavageQuality": "None",
+    "Fracture": "",
+    "HeatSensitivity": ""
+  },
+  "OpticalProperties": {
+    "RefractiveIndex": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 1.535,
+          "Max": 1.57
+        }
+      ]
+    },
+    "Birefringence": null,
+    "Pleochroism": "None",
+    "Dispersion": null
+  },
+  "ColourProperties": {
+    "General": "White, creamy",
+    "Daylight": "",
+    "ChelseaFilter": "",
+    "CausesOfColour": "",
+    "Transparency": "Translucent,Opaque"
+  },
+  "FlouresenceProperties": {
+    "General": "Most ivory: bluish white to violet blue (SW weaker)"
+  },
+  "Crystallography": {
+    "CrystalSystem": "Amorphous",
+    "Habit": ""
+  },
+  "GeologicalEnvironment": {
+    "WhereFound": ""
+  },
+  "Inclusions": {
+    "Inclusions": "Most ivory: bluish white to violet blue (SW weaker)"
+  }
+}

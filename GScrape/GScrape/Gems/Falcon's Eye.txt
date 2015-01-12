@@ -1,0 +1,62 @@
+{
+  "Name": "Falcon's Eye",
+  "Description": "Finely fibrous, opaque aggregate formed when Quartz replaces the mineral crocidolite (type of asbestos), blue-grey to blue-green. Iridescence of planes. It is sensitive to some acids. Found associated with Tiger's eye. Used for ornamental objects and costume jewelry.",
+  "PhysicalProperties": {
+    "MohsHardness": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 7.0,
+          "Max": 7.0
+        }
+      ]
+    },
+    "SpecificGravity": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 2.58,
+          "Max": 2.64
+        }
+      ]
+    },
+    "Tenacity": "",
+    "CleavageQuality": "None",
+    "Fracture": "Irregular",
+    "HeatSensitivity": ""
+  },
+  "OpticalProperties": {
+    "RefractiveIndex": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 1.534,
+          "Max": 1.54
+        }
+      ]
+    },
+    "Birefringence": null,
+    "Pleochroism": "Absent",
+    "Dispersion": null
+  },
+  "ColourProperties": {
+    "General": "Blue-grey to blue-green",
+    "Daylight": "",
+    "ChelseaFilter": "",
+    "CausesOfColour": "The blue colour is caused by Fe2+ compared to Fe3+ in the (oxidised) yellow/brown Tiger's Eye",
+    "Transparency": "Opaque"
+  },
+  "FlouresenceProperties": {
+    "General": "None"
+  },
+  "Crystallography": {
+    "CrystalSystem": "Trigonal",
+    "Habit": "Fibrous aggregate"
+  },
+  "GeologicalEnvironment": {
+    "WhereFound": ""
+  },
+  "Inclusions": {
+    "Inclusions": "None"
+  }
+}

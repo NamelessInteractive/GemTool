@@ -1,0 +1,70 @@
+{
+  "Name": "Fibrolite",
+  "Description": "Fibrolite is a fibrous form of Sillimanite. This name is because the mineral appears like a bunch of fibres twisted together when viewed in thin section or even by the naked eye.",
+  "PhysicalProperties": {
+    "MohsHardness": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 6.0,
+          "Max": 7.0
+        }
+      ]
+    },
+    "SpecificGravity": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 3.14,
+          "Max": 3.25
+        }
+      ]
+    },
+    "Tenacity": "",
+    "CleavageQuality": "Perfect",
+    "Fracture": "Uneven",
+    "HeatSensitivity": ""
+  },
+  "OpticalProperties": {
+    "RefractiveIndex": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 1.658,
+          "Max": 1.678
+        }
+      ]
+    },
+    "Birefringence": null,
+    "Pleochroism": "Distinct",
+    "Dispersion": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 0.015,
+          "Max": 0.015
+        }
+      ]
+    }
+  },
+  "ColourProperties": {
+    "General": "Blue, brown, colourless, green, grey",
+    "Daylight": "",
+    "ChelseaFilter": "",
+    "CausesOfColour": "",
+    "Transparency": "Transparent,Translucent"
+  },
+  "FlouresenceProperties": {
+    "General": ""
+  },
+  "Crystallography": {
+    "CrystalSystem": "Orthorhombic",
+    "Habit": "Prismatic"
+  },
+  "GeologicalEnvironment": {
+    "WhereFound": ""
+  },
+  "Inclusions": {
+    "Inclusions": "Blue, brown, colourless, green, grey"
+  }
+}

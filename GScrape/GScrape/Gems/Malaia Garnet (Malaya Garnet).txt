@@ -1,0 +1,38 @@
+{
+  "Name": "Malaia Garnet (Malaya Garnet)",
+  "Description": "A variety of garnet with mixed composition, can be 0-83% pyrope, 2-78% almandine, 2-94% spessartite, 0-24% grossular with no more than 4% andradite (Wise 2005).\r\n\r\nFrom the Umba valley in Tanzania, near the border with Kenya, compare with umbalite which in general is used as a name for the pink-purple garnets from the same region.",
+  "PhysicalProperties": {
+    "MohsHardness": null,
+    "SpecificGravity": null,
+    "Tenacity": "",
+    "CleavageQuality": "",
+    "Fracture": "",
+    "HeatSensitivity": ""
+  },
+  "OpticalProperties": {
+    "RefractiveIndex": null,
+    "Birefringence": null,
+    "Pleochroism": "",
+    "Dispersion": null
+  },
+  "ColourProperties": {
+    "General": "Yellowish-brown, brownish pink through a cinnamon to a crisp honey brown and reddish brown to a brick or brown-orange. In the very finest stones there is a complete absence of the brownish hue.",
+    "Daylight": "",
+    "ChelseaFilter": "",
+    "CausesOfColour": "",
+    "Transparency": ""
+  },
+  "FlouresenceProperties": {
+    "General": ""
+  },
+  "Crystallography": {
+    "CrystalSystem": "",
+    "Habit": ""
+  },
+  "GeologicalEnvironment": {
+    "WhereFound": "From alluvial deposits, country rock is biotite, quartz and feldspar gneiss."
+  },
+  "Inclusions": {
+    "Inclusions": "From alluvial deposits, country rock is biotite, quartz and feldspar gneiss."
+  }
+}

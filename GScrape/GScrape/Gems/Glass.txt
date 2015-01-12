@@ -1,0 +1,62 @@
+{
+  "Name": "Glass",
+  "Description": "Glass is an amorphous form of silica (with various percentages of additives) that has been used as a gemstone for millennia.\r\n\r\nClear glass for gems is man-made, formed by fusing silica sand with various additives at temperatures of 1000+°C.\r\n\r\nNatural glasses include obsidian, which is is a rapidly quenched lava, and closer to pure silica glasses, such as libyan desert glass.\r\n\r\nA unique man-made glass, although not often used in gems for obious reasons, is trinitite, a mildly radioactive glass formed from the fusing of sand by the detonation of the first atomic bomb in 1945.\r\n\r\nCommon glass has poor dispersion and refractive index, however it is very cheap to manufacture and is known in jewellery terms as paste - often backed with metal foils to increase brilliance.\r\n\r\nAdding lead oxide or other additives to glass creates lead glass, or crystal glass, which have much stronger RI and dispersion.",
+  "PhysicalProperties": {
+    "MohsHardness": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 4.0,
+          "Max": 6.0
+        }
+      ]
+    },
+    "SpecificGravity": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 2.39,
+          "Max": 4.0
+        }
+      ]
+    },
+    "Tenacity": "",
+    "CleavageQuality": "",
+    "Fracture": "Conchoidal",
+    "HeatSensitivity": ""
+  },
+  "OpticalProperties": {
+    "RefractiveIndex": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 1.48,
+          "Max": 1.7
+        }
+      ]
+    },
+    "Birefringence": null,
+    "Pleochroism": "",
+    "Dispersion": null
+  },
+  "ColourProperties": {
+    "General": "Various, play of colour",
+    "Daylight": "",
+    "ChelseaFilter": "",
+    "CausesOfColour": "Yellowish green, Fe2+ in octahedral coordination. Brown Fe3+ in octahedral coordination",
+    "Transparency": "Transparent,Translucent,Opaque"
+  },
+  "FlouresenceProperties": {
+    "General": ""
+  },
+  "Crystallography": {
+    "CrystalSystem": "Amorphous",
+    "Habit": ""
+  },
+  "GeologicalEnvironment": {
+    "WhereFound": ""
+  },
+  "Inclusions": {
+    "Inclusions": "Strong chalky fluorescence common"
+  }
+}

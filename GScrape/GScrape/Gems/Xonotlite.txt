@@ -1,0 +1,70 @@
+{
+  "Name": "Xonotlite",
+  "Description": "Xonotlite is named after its discovery locality, at Tetala de Xonotla. Mexico.\r\n\r\nXonotlite forms translucent needle-like chalky white to bluish grey crystals or fibrous masses.\r\n\r\nCrystals of gem-quality are very rare.",
+  "PhysicalProperties": {
+    "MohsHardness": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 6.0,
+          "Max": 6.5
+        }
+      ]
+    },
+    "SpecificGravity": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 2.71,
+          "Max": 2.72
+        }
+      ]
+    },
+    "Tenacity": "",
+    "CleavageQuality": "Perfect",
+    "Fracture": "Splintery",
+    "HeatSensitivity": ""
+  },
+  "OpticalProperties": {
+    "RefractiveIndex": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 1.581,
+          "Max": 1.593
+        }
+      ]
+    },
+    "Birefringence": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 0.01,
+          "Max": 0.01
+        }
+      ]
+    },
+    "Pleochroism": "",
+    "Dispersion": null
+  },
+  "ColourProperties": {
+    "General": "Chalky white to bluish grey",
+    "Daylight": "",
+    "ChelseaFilter": "",
+    "CausesOfColour": "",
+    "Transparency": "Translucent"
+  },
+  "FlouresenceProperties": {
+    "General": ""
+  },
+  "Crystallography": {
+    "CrystalSystem": "Monoclinic,Triclinic",
+    "Habit": "Needle-like crystals or fibrous masses"
+  },
+  "GeologicalEnvironment": {
+    "WhereFound": "Xonotlite occurs in contact metamorphic deposits within limestones and serpentines."
+  },
+  "Inclusions": {
+    "Inclusions": "Xonotlite occurs in contact metamorphic deposits within limestones and serpentines."
+  }
+}

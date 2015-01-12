@@ -1,0 +1,78 @@
+{
+  "Name": "Datolite",
+  "Description": "Datolite is named after Greek \"datysthai\" - to divide, alluding to the granular habit of some massive specimens.\r\n\r\nDatolite can be yellow, brown, light green, colourless, pink, red and violet. It forms prismatic crystals and nodular masses. Transparent crystals are faceted into brilliant stones and opaque massive material is cut into cabochons. Facet grade rough rarely exceeds 2 g.",
+  "PhysicalProperties": {
+    "MohsHardness": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 5.0,
+          "Max": 5.5
+        }
+      ]
+    },
+    "SpecificGravity": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 2.9,
+          "Max": 3.0
+        }
+      ]
+    },
+    "Tenacity": "",
+    "CleavageQuality": "None",
+    "Fracture": "Conchoidal",
+    "HeatSensitivity": ""
+  },
+  "OpticalProperties": {
+    "RefractiveIndex": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 1.621,
+          "Max": 1.675
+        }
+      ]
+    },
+    "Birefringence": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 0.044,
+          "Max": 0.045
+        }
+      ]
+    },
+    "Pleochroism": "Nil",
+    "Dispersion": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 0.016,
+          "Max": 0.016
+        }
+      ]
+    }
+  },
+  "ColourProperties": {
+    "General": "Yellowish, greenish, colourless, white, orange-brown",
+    "Daylight": "",
+    "ChelseaFilter": "",
+    "CausesOfColour": "",
+    "Transparency": "Transparent,Translucent"
+  },
+  "FlouresenceProperties": {
+    "General": "Inert to blue"
+  },
+  "Crystallography": {
+    "CrystalSystem": "Monoclinic",
+    "Habit": "Characteristic short prismatic crystals"
+  },
+  "GeologicalEnvironment": {
+    "WhereFound": "Datolite occurs as a secondary mineral in mafic igneous rocks, in geodes in tuffs or skarns in limestones, in serpentinites and hornblende schists and in some ore veins."
+  },
+  "Inclusions": {
+    "Inclusions": "Datolite occurs as a secondary mineral in mafic igneous rocks, in geodes in tuffs or skarns in limestones, in serpentinites and hornblende schists and in some ore veins."
+  }
+}

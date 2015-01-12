@@ -1,0 +1,70 @@
+{
+  "Name": "Uvarovite",
+  "Description": "Uvarovite is one of the rarest of the garnet group minerals, and is the only consistently green garnet species, with a beautiful emerald-green color. It occurs as well-formed fine-sized crystals. It was discovered in 1832 by Germain Henri Hess who named it after Count S.S. Uvarov (1765-1855), a Russian statesman and amateur mineral collector.",
+  "PhysicalProperties": {
+    "MohsHardness": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 7.5,
+          "Max": 0.0
+        }
+      ]
+    },
+    "SpecificGravity": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 3.77,
+          "Max": 3.77
+        }
+      ]
+    },
+    "Tenacity": "",
+    "CleavageQuality": "None",
+    "Fracture": "Conchoidal",
+    "HeatSensitivity": ""
+  },
+  "OpticalProperties": {
+    "RefractiveIndex": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 1.87,
+          "Max": 1.87
+        }
+      ]
+    },
+    "Birefringence": null,
+    "Pleochroism": "",
+    "Dispersion": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 0.014,
+          "Max": 0.021
+        }
+      ]
+    }
+  },
+  "ColourProperties": {
+    "General": "Green",
+    "Daylight": "",
+    "ChelseaFilter": "Inert to reddish",
+    "CausesOfColour": "Bright green due to chromium",
+    "Transparency": "Translucent,Opaque"
+  },
+  "FlouresenceProperties": {
+    "General": "Inert"
+  },
+  "Crystallography": {
+    "CrystalSystem": "Isometric",
+    "Habit": "Trapezohedral, dodecahedral"
+  },
+  "GeologicalEnvironment": {
+    "WhereFound": "Uvarovite is formed from the metamorphism of impure siliceous limestones and some other rocks that contain chromium."
+  },
+  "Inclusions": {
+    "Inclusions": "Uvarovite is formed from the metamorphism of impure siliceous limestones and some other rocks that contain chromium."
+  }
+}

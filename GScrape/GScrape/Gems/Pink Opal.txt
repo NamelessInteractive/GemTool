@@ -1,0 +1,46 @@
+{
+  "Name": "Pink Opal",
+  "Description": "Pink Opal is a mixture of opal, palygorskite and minor chalcedony. It is slightly translucent to almost opaque.\r\n\r\nThe best quality material is excellent for jewelry, because of its resemblance to pink coral but is much harder.",
+  "PhysicalProperties": {
+    "MohsHardness": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 6.0,
+          "Max": 6.0
+        }
+      ]
+    },
+    "SpecificGravity": null,
+    "Tenacity": "",
+    "CleavageQuality": "",
+    "Fracture": "",
+    "HeatSensitivity": ""
+  },
+  "OpticalProperties": {
+    "RefractiveIndex": null,
+    "Birefringence": null,
+    "Pleochroism": "",
+    "Dispersion": null
+  },
+  "ColourProperties": {
+    "General": "Pale pink, pink, dark red-pink",
+    "Daylight": "",
+    "ChelseaFilter": "",
+    "CausesOfColour": "Pink colour is caused by the presence of organic compounds called \"quinones\" (Fritsch et al., 2004)",
+    "Transparency": "Translucent,Opaque"
+  },
+  "FlouresenceProperties": {
+    "General": ""
+  },
+  "Crystallography": {
+    "CrystalSystem": "",
+    "Habit": ""
+  },
+  "GeologicalEnvironment": {
+    "WhereFound": ""
+  },
+  "Inclusions": {
+    "Inclusions": "Pale pink, pink, dark red-pink"
+  }
+}

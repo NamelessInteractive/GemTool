@@ -1,0 +1,70 @@
+{
+  "Name": "Inderite",
+  "Description": "Inderite is named after its discovery locality, near the Lake Inder, Kazakhstan.\r\n\r\nInderite forms long prismatic crystals with one perfect cleavage which leaves behind a notably pearly surface. The material is colourless, soft and the surface is likely to have cloudiness or to develop a whitish appearance after fashioning.",
+  "PhysicalProperties": {
+    "MohsHardness": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 2.5,
+          "Max": 2.5
+        }
+      ]
+    },
+    "SpecificGravity": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 1.79,
+          "Max": 1.79
+        }
+      ]
+    },
+    "Tenacity": "",
+    "CleavageQuality": "Perfect",
+    "Fracture": "",
+    "HeatSensitivity": ""
+  },
+  "OpticalProperties": {
+    "RefractiveIndex": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 1.488,
+          "Max": 1.505
+        }
+      ]
+    },
+    "Birefringence": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 0.017,
+          "Max": 0.017
+        }
+      ]
+    },
+    "Pleochroism": "",
+    "Dispersion": null
+  },
+  "ColourProperties": {
+    "General": "Colourless",
+    "Daylight": "",
+    "ChelseaFilter": "",
+    "CausesOfColour": "",
+    "Transparency": "Transparent"
+  },
+  "FlouresenceProperties": {
+    "General": ""
+  },
+  "Crystallography": {
+    "CrystalSystem": "Monoclinic",
+    "Habit": "Long prismatic crystals"
+  },
+  "GeologicalEnvironment": {
+    "WhereFound": "Occurs in lacustrine borate deposits"
+  },
+  "Inclusions": {
+    "Inclusions": "Occurs in lacustrine borate deposits"
+  }
+}

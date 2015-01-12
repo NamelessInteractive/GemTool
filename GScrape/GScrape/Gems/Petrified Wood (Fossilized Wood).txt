@@ -1,0 +1,54 @@
+{
+  "Name": "Petrified Wood (Fossilized Wood)",
+  "Description": "Petrified wood is fossilized wood with the mineral composition of jasper, chalcedony and, less frequently, opal; it consists of silicon dioxide only. The organic wood is not changed into stone, but only the shape and structural elements of the wood are preserved. The expert speaks of a pseudomorphosis of chalcedony (or jasper or opal) after wood.\r\nIt is mostly used for ornamental objects and decorative pieces (tabletops, ashtrays, bookends), less frequently for jewelry purposes.",
+  "PhysicalProperties": {
+    "MohsHardness": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 6.5,
+          "Max": 7.0
+        }
+      ]
+    },
+    "SpecificGravity": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 2.58,
+          "Max": 2.91
+        }
+      ]
+    },
+    "Tenacity": "",
+    "CleavageQuality": "None",
+    "Fracture": "Uneven,Splintery",
+    "HeatSensitivity": ""
+  },
+  "OpticalProperties": {
+    "RefractiveIndex": null,
+    "Birefringence": null,
+    "Pleochroism": "Absent",
+    "Dispersion": null
+  },
+  "ColourProperties": {
+    "General": "Mostly dull gray or brown, sometimes red, pink, light brown, yellow, and even blue to violet.",
+    "Daylight": "",
+    "ChelseaFilter": "",
+    "CausesOfColour": "",
+    "Transparency": "Opaque"
+  },
+  "FlouresenceProperties": {
+    "General": "None"
+  },
+  "Crystallography": {
+    "CrystalSystem": "Trigonal",
+    "Habit": "Microcrystalline aggregate"
+  },
+  "GeologicalEnvironment": {
+    "WhereFound": "Well-preserved petrification occurs only where trees after their death are quickly covered with fine-grained sedimentary rock. Thus the outer structure of the wood is preserved in a negative form within the enclosing rock. Circulating waters loosen and decompose the organic substances and replace them with mineral substances. Sometimes this process is successive (from removal and adding of substances) so that the inner structural elements of the wood, the annuals rings, the structure of the cells, even wormholes, are preserved. It can also happen that the appearance is totally changed by the crystallization process."
+  },
+  "Inclusions": {
+    "Inclusions": "Well-preserved petrification occurs only where trees after their death are quickly covered with fine-grained sedimentary rock. Thus the outer structure of the wood is preserved in a negative form within the enclosing rock. Circulating waters loosen and decompose the organic substances and replace them with mineral substances. Sometimes this process is successive (from removal and adding of substances) so that the inner structural elements of the wood, the annuals rings, the structure of the cells, even wormholes, are preserved. It can also happen that the appearance is totally changed by the crystallization process."
+  }
+}

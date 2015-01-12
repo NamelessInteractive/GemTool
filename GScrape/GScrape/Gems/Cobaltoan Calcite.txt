@@ -1,0 +1,38 @@
+{
+  "Name": "Cobaltoan Calcite",
+  "Description": "A pink to purple cobalt-bearing variety of Calcite.\r\n\r\nCuttable material comes from Spain.",
+  "PhysicalProperties": {
+    "MohsHardness": null,
+    "SpecificGravity": null,
+    "Tenacity": "",
+    "CleavageQuality": "",
+    "Fracture": "",
+    "HeatSensitivity": ""
+  },
+  "OpticalProperties": {
+    "RefractiveIndex": null,
+    "Birefringence": null,
+    "Pleochroism": "",
+    "Dispersion": null
+  },
+  "ColourProperties": {
+    "General": "Pink to purple",
+    "Daylight": "",
+    "ChelseaFilter": "",
+    "CausesOfColour": "Co2+ partial replacement for calcium in calcite structure.",
+    "Transparency": ""
+  },
+  "FlouresenceProperties": {
+    "General": ""
+  },
+  "Crystallography": {
+    "CrystalSystem": "",
+    "Habit": ""
+  },
+  "GeologicalEnvironment": {
+    "WhereFound": ""
+  },
+  "Inclusions": {
+    "Inclusions": "Pink to purple"
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "Name": "Benitoite",
+  "Description": "Benitoite was discovered at the beginning of the 20th century in San Benito County (therefore the name), California, USA.\r\n\r\nA very rare gem with beautiful colour, high birefringence and dispersion, tough, does not have heat sensitivity, exhibits strong blue fluorescence under SW UV. Gem-quality crystals are usually small (rarely larger than 1 carat). The largest facetted benitoite on public display is a 7.5 ct gem in the Smithsonian museum. There are other larger flawless stones in existence, all in private collections.",
+  "PhysicalProperties": {
+    "MohsHardness": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 6.0,
+          "Max": 6.5
+        }
+      ]
+    },
+    "SpecificGravity": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 3.61,
+          "Max": 3.68
+        }
+      ]
+    },
+    "Tenacity": "Brittle",
+    "CleavageQuality": "Indistinct",
+    "Fracture": "Conchoidal",
+    "HeatSensitivity": ""
+  },
+  "OpticalProperties": {
+    "RefractiveIndex": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 1.757,
+          "Max": 1.804
+        }
+      ]
+    },
+    "Birefringence": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 0.047,
+          "Max": 0.047
+        }
+      ]
+    },
+    "Pleochroism": "Strong dichroism: blue - colorless",
+    "Dispersion": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 0.039,
+          "Max": 0.046
+        }
+      ]
+    }
+  },
+  "ColourProperties": {
+    "General": "Blue, purple, pink, colourless",
+    "Daylight": "",
+    "ChelseaFilter": "",
+    "CausesOfColour": "Blue, Fe2+-O-Ti4+ charge transfer",
+    "Transparency": "Transparent,Translucent"
+  },
+  "FlouresenceProperties": {
+    "General": ""
+  },
+  "Crystallography": {
+    "CrystalSystem": "Hexagonal",
+    "Habit": "Tabular"
+  },
+  "GeologicalEnvironment": {
+    "WhereFound": "In natrolite veins cutting glaucophane schist in a serpentine body (San Benito Co., California, USA); in a magnesio-riebeckite-quartz phlogopite-albite dike cutting serpentinite (Ohmi, Japan)."
+  },
+  "Inclusions": {
+    "Inclusions": "In natrolite veins cutting glaucophane schist in a serpentine body (San Benito Co., California, USA); in a magnesio-riebeckite-quartz phlogopite-albite dike cutting serpentinite (Ohmi, Japan)."
+  }
+}

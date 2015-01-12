@@ -1,0 +1,78 @@
+{
+  "Name": "Cassiterite",
+  "Description": "The name derived from Greek \"kassiteros\" - tin, for its composition.\r\n\r\nFacet rough is uncommon but can yield gems of exceptional fire, because of its high lustre and dispersion. With a hardness of 7, approximately the same as that of the quartz gems, cassiterite is occasionally marketed for wearable jewelry in Bolivia (\"Andean diamond\"), but is normally restricted to rare gem collections.\r\n\r\nAlthough cassiterite is a common mineral, being the main ore of tin, it's crystals are usually black or opaque brown and of no use as a gemstone. Only a few localities yield gem quality material, which ranges from colorless to yellow to pale brown. Bolivia has traditionally been the main source of gem rough, with the Viloco mine there being the only one of Bolivia's 300 or so tin mines that occasionally yields transparent crystals. However in the late 1990s, Russia and China yielded larger transparent crystals than Bolivia. Other sporadic sources of facetting grade cassiterite include Nigeria and Namibia.\r\n\r\nThe \"wood tin\" variety of cassiterite is massive, tough, internally micro-fibrous, opaque, and finely colour banded, being related to crystallized cassiterite the same way agate is related to quartz. As with cassiterite crystals, wood tin generally is found in black or brown tones, but it is used for cabochons when it is found (rarely) in more attractive colors like red, pink and creamy white. Mexico and Bolivia are the main source countries for ornamental grades of wood tin.",
+  "PhysicalProperties": {
+    "MohsHardness": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 6.0,
+          "Max": 7.0
+        }
+      ]
+    },
+    "SpecificGravity": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 6.86,
+          "Max": 7.03
+        }
+      ]
+    },
+    "Tenacity": "Brittle",
+    "CleavageQuality": "Indistinct",
+    "Fracture": "Conchoidal",
+    "HeatSensitivity": ""
+  },
+  "OpticalProperties": {
+    "RefractiveIndex": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 1.99,
+          "Max": 2.105
+        }
+      ]
+    },
+    "Birefringence": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 0.096,
+          "Max": 0.098
+        }
+      ]
+    },
+    "Pleochroism": "Weak to strong; green-yellow, brown, red-brown",
+    "Dispersion": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 0.071,
+          "Max": 0.071
+        }
+      ]
+    }
+  },
+  "ColourProperties": {
+    "General": "Common brown color banding",
+    "Daylight": "",
+    "ChelseaFilter": "",
+    "CausesOfColour": "",
+    "Transparency": "Transparent,Translucent,Opaque"
+  },
+  "FlouresenceProperties": {
+    "General": "Inert"
+  },
+  "Crystallography": {
+    "CrystalSystem": "Tetragonal",
+    "Habit": "Forms prismatic crystals characterized by square cross-section and steep pyramidal forms; geniculate twins are common."
+  },
+  "GeologicalEnvironment": {
+    "WhereFound": "Cassiterite occurs in medium- to high-temperature hydrothermal veins."
+  },
+  "Inclusions": {
+    "Inclusions": "Cassiterite occurs in medium- to high-temperature hydrothermal veins."
+  }
+}

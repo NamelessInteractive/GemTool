@@ -1,0 +1,62 @@
+{
+  "Name": "Bowenite",
+  "Description": "Bowenite has a light to dark apple green colour, often mottled with cloudy white patches and darker veining.\r\n\r\nIt is an especially hard Serpentine with Moh's hardness 5.5 and it is most frequently used in carving and jewellery.",
+  "PhysicalProperties": {
+    "MohsHardness": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 5.0,
+          "Max": 5.5
+        }
+      ]
+    },
+    "SpecificGravity": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 2.58,
+          "Max": 2.8
+        }
+      ]
+    },
+    "Tenacity": "Sectile",
+    "CleavageQuality": "Perfect",
+    "Fracture": "Uneven,Irregular,Splintery",
+    "HeatSensitivity": ""
+  },
+  "OpticalProperties": {
+    "RefractiveIndex": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 1.53,
+          "Max": 1.575
+        }
+      ]
+    },
+    "Birefringence": null,
+    "Pleochroism": "",
+    "Dispersion": null
+  },
+  "ColourProperties": {
+    "General": "Oily green to bluish green. Common whitish cloudy patches",
+    "Daylight": "",
+    "ChelseaFilter": "",
+    "CausesOfColour": "",
+    "Transparency": "Translucent"
+  },
+  "FlouresenceProperties": {
+    "General": ""
+  },
+  "Crystallography": {
+    "CrystalSystem": "Monoclinic",
+    "Habit": ""
+  },
+  "GeologicalEnvironment": {
+    "WhereFound": ""
+  },
+  "Inclusions": {
+    "Inclusions": "Oily green to bluish green. Common whitish cloudy patches"
+  }
+}

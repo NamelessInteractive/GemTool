@@ -1,0 +1,78 @@
+{
+  "Name": "Clinohumite",
+  "Description": "Clinohumite was first discovered in metamorphosed limestone ejected from Mt Vesuvius in 1876. The name reflects its monoclinic structure and a similarity to humite.\r\n\r\nTransparent gem-quality bright yellow to deep orange clinohumite was found only recently (in the early 1980s, and later in 2000). in the Pamir Mountains of Tadzhikistan. This facet rough has been cut into attractive orange-yellow gems.\r\n\r\nA dark brown material has been found in the Taymyr region, Siberia.",
+  "PhysicalProperties": {
+    "MohsHardness": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 6.0,
+          "Max": 6.0
+        }
+      ]
+    },
+    "SpecificGravity": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 3.13,
+          "Max": 3.75
+        }
+      ]
+    },
+    "Tenacity": "Brittle",
+    "CleavageQuality": "Poor",
+    "Fracture": "Sub-Conchoidal",
+    "HeatSensitivity": ""
+  },
+  "OpticalProperties": {
+    "RefractiveIndex": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 1.623,
+          "Max": 1.728
+        }
+      ]
+    },
+    "Birefringence": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 0.024,
+          "Max": 0.041
+        }
+      ]
+    },
+    "Pleochroism": "Distinct: brownish-orange - orange to yellow - yellow to colorless",
+    "Dispersion": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 0.021,
+          "Max": 0.021
+        }
+      ]
+    }
+  },
+  "ColourProperties": {
+    "General": "Yellow, yellow-brown, brownish-orange, red-brown",
+    "Daylight": "",
+    "ChelseaFilter": "",
+    "CausesOfColour": "",
+    "Transparency": "Transparent,Translucent,Opaque"
+  },
+  "FlouresenceProperties": {
+    "General": ""
+  },
+  "Crystallography": {
+    "CrystalSystem": "Monoclinic",
+    "Habit": "Prismatic-rounded"
+  },
+  "GeologicalEnvironment": {
+    "WhereFound": "The occurrence is in contact zones in limestone or dolomite"
+  },
+  "Inclusions": {
+    "Inclusions": "The occurrence is in contact zones in limestone or dolomite"
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "Name": "Aquamarine",
+  "Description": "Aquamarine (from Latin: aqua marina, \"water of the sea\") is so named because of its seawater colour.\r\n\r\nIt is a pale to medium blue, blue-green variety of beryl, probably the most common colour for gem quality beryl.\r\n\r\nCrystals of gem quality can be very large. Unique Brazilian aquamarines such as the Marta Rocha with a weight of 37.7 kg produced 57.200 carats of cut stones, the Urubu with a weight of 33.2 kg, the Jacueto with a weight of 19 kg, and others, are widely known.\r\n\r\nA deeper blue variety originally called Maxixe after the Maxixe mine in Brazil where it was found, is better referred to as Blue beryl (Maxixe).",
+  "PhysicalProperties": {
+    "MohsHardness": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 7.5,
+          "Max": 8.0
+        }
+      ]
+    },
+    "SpecificGravity": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 2.66,
+          "Max": 2.8
+        }
+      ]
+    },
+    "Tenacity": "",
+    "CleavageQuality": "",
+    "Fracture": "",
+    "HeatSensitivity": ""
+  },
+  "OpticalProperties": {
+    "RefractiveIndex": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 1.57,
+          "Max": 1.592
+        }
+      ]
+    },
+    "Birefringence": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 0.005,
+          "Max": 0.009
+        }
+      ]
+    },
+    "Pleochroism": "Dichroism: colorless to greenish bluish - blue to sky blue. Greenish-blue stones - distinct: yellowish-greenish - blue-green",
+    "Dispersion": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 0.014,
+          "Max": 0.014
+        }
+      ]
+    }
+  },
+  "ColourProperties": {
+    "General": "Blue, greenish-blue",
+    "Daylight": "",
+    "ChelseaFilter": "Greenish blue",
+    "CausesOfColour": "Light blue, Fe2+ in the channels of the structure. Darker blue, Fe2+-O-Fe3+ intervalence charge transfer.",
+    "Transparency": ""
+  },
+  "FlouresenceProperties": {
+    "General": "Inert"
+  },
+  "Crystallography": {
+    "CrystalSystem": "Hexagonal",
+    "Habit": "Long-prismatic habit, occasional vertical striations and growth and etch figures on the prism faces."
+  },
+  "GeologicalEnvironment": {
+    "WhereFound": ""
+  },
+  "Inclusions": {
+    "Inclusions": "Inert"
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "Name": "Scheelite",
+  "Description": "Scheelite was named after Swedish chemist K.W. Scheele, who discovered tungsten.\r\n\r\nWell-formed crystals are fashioned into gemstones. They have high lustre and appreciable \"fire\", approaching that of Diamond. Gems cut from transparent material are fragile.\r\n\r\nA magnificent gem weighing 58 carats was faceted from transparent orange material found in the Gamsberg area in Namibia.",
+  "PhysicalProperties": {
+    "MohsHardness": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 4.5,
+          "Max": 5.0
+        }
+      ]
+    },
+    "SpecificGravity": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 5.9,
+          "Max": 6.3
+        }
+      ]
+    },
+    "Tenacity": "Brittle",
+    "CleavageQuality": "Good",
+    "Fracture": "Conchoidal,Splintery",
+    "HeatSensitivity": ""
+  },
+  "OpticalProperties": {
+    "RefractiveIndex": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 1.918,
+          "Max": 1.936
+        }
+      ]
+    },
+    "Birefringence": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 0.01,
+          "Max": 0.018
+        }
+      ]
+    },
+    "Pleochroism": "Variable",
+    "Dispersion": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 0.038,
+          "Max": 0.038
+        }
+      ]
+    }
+  },
+  "ColourProperties": {
+    "General": "Colourless, yellow, yellowish-white, gray, orange, brown",
+    "Daylight": "",
+    "ChelseaFilter": "",
+    "CausesOfColour": "Yellow, Fe",
+    "Transparency": "Transparent"
+  },
+  "FlouresenceProperties": {
+    "General": "Strong; light blue"
+  },
+  "Crystallography": {
+    "CrystalSystem": "Tetragonal",
+    "Habit": "Pseudooctahedral crystals"
+  },
+  "GeologicalEnvironment": {
+    "WhereFound": "Scheelite occurs in contact metamorphic deposits, hydrothermal veins or pegmatites."
+  },
+  "Inclusions": {
+    "Inclusions": "Scheelite occurs in contact metamorphic deposits, hydrothermal veins or pegmatites."
+  }
+}

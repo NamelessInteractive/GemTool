@@ -1,0 +1,70 @@
+{
+  "Name": "Bustamite",
+  "Description": "Bustamite is named after General Anastasio Bustamente of Mexico, the discoverer of the mineral.\r\n\r\nBustamite is usually found as massive, transparent pink material. It produces attractive pink cabochons and can be carved into objects d'art.\r\n\r\nPink prismatic crystals up to 1 cm in size have been found at Franklin Furnace, New Jersey, USA. Gem-quality bustamite is also found at Daghazeta, Tanzania. Transparent crystals to several cm come from Broken Hill, Australia, translucent material from Kalahari Mn-field, South Africa.",
+  "PhysicalProperties": {
+    "MohsHardness": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 5.5,
+          "Max": 6.0
+        }
+      ]
+    },
+    "SpecificGravity": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 3.32,
+          "Max": 3.43
+        }
+      ]
+    },
+    "Tenacity": "",
+    "CleavageQuality": "Perfect",
+    "Fracture": "Conchoidal",
+    "HeatSensitivity": ""
+  },
+  "OpticalProperties": {
+    "RefractiveIndex": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 1.662,
+          "Max": 1.707
+        }
+      ]
+    },
+    "Birefringence": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 0.014,
+          "Max": 0.015
+        }
+      ]
+    },
+    "Pleochroism": "",
+    "Dispersion": null
+  },
+  "ColourProperties": {
+    "General": "Reddish, reddish-violet, pink, yellow",
+    "Daylight": "",
+    "ChelseaFilter": "",
+    "CausesOfColour": "",
+    "Transparency": "Transparent,Translucent,Opaque"
+  },
+  "FlouresenceProperties": {
+    "General": ""
+  },
+  "Crystallography": {
+    "CrystalSystem": "Triclinic",
+    "Habit": "Massive"
+  },
+  "GeologicalEnvironment": {
+    "WhereFound": "Occurs in the zones of metamorphism of manganese-rich sediments."
+  },
+  "Inclusions": {
+    "Inclusions": "Occurs in the zones of metamorphism of manganese-rich sediments."
+  }
+}

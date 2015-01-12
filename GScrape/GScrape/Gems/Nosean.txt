@@ -1,0 +1,54 @@
+{
+  "Name": "Nosean",
+  "Description": "Nosean is named after Karl Wilhelm Nose, mineralogist of Brunswick, Germany, who originally described the mineral.\r\n\r\nNosean forms colorless, white, gray, gray-brown, blue, black granular masses, crystals are rare.\r\n\r\nMay be confused with pale-coloured haüyne.",
+  "PhysicalProperties": {
+    "MohsHardness": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 5.5,
+          "Max": 0.0
+        }
+      ]
+    },
+    "SpecificGravity": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 2.3,
+          "Max": 2.4
+        }
+      ]
+    },
+    "Tenacity": "Brittle",
+    "CleavageQuality": "Indistinct",
+    "Fracture": "Uneven,Conchoidal",
+    "HeatSensitivity": ""
+  },
+  "OpticalProperties": {
+    "RefractiveIndex": null,
+    "Birefringence": null,
+    "Pleochroism": "",
+    "Dispersion": null
+  },
+  "ColourProperties": {
+    "General": "Colorless, white, gray, gray-brown, blue, black from iron contamination, may be irregularly distributed; colorless to blue in thin section.",
+    "Daylight": "",
+    "ChelseaFilter": "",
+    "CausesOfColour": "",
+    "Transparency": "Transparent,Translucent"
+  },
+  "FlouresenceProperties": {
+    "General": ""
+  },
+  "Crystallography": {
+    "CrystalSystem": "Isometric",
+    "Habit": "Crystals are dodecahedra, to 2 mm; commonly as grains, or massive."
+  },
+  "GeologicalEnvironment": {
+    "WhereFound": "In silica-deficient alkalic volcanic rocks, principally phonolites"
+  },
+  "Inclusions": {
+    "Inclusions": "In silica-deficient alkalic volcanic rocks, principally phonolites"
+  }
+}

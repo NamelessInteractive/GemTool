@@ -1,0 +1,78 @@
+{
+  "Name": "Hiddenite",
+  "Description": "Hiddenite is named after A.E. Hidden who discovered the stone in 1879 in North Carolina.\r\n\r\nHiddenite is a pale- to emerald-green variety of Spodumene.",
+  "PhysicalProperties": {
+    "MohsHardness": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 6.0,
+          "Max": 7.0
+        }
+      ]
+    },
+    "SpecificGravity": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 3.15,
+          "Max": 3.21
+        }
+      ]
+    },
+    "Tenacity": "Brittle",
+    "CleavageQuality": "Perfect",
+    "Fracture": "Uneven",
+    "HeatSensitivity": ""
+  },
+  "OpticalProperties": {
+    "RefractiveIndex": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 1.657,
+          "Max": 1.681
+        }
+      ]
+    },
+    "Birefringence": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 0.014,
+          "Max": 0.016
+        }
+      ]
+    },
+    "Pleochroism": "Distinct trichroism: yellow green - green - blue green",
+    "Dispersion": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 0.017,
+          "Max": 0.017
+        }
+      ]
+    }
+  },
+  "ColourProperties": {
+    "General": "Yellow-green, green-yellow, emerald-green",
+    "Daylight": "",
+    "ChelseaFilter": "Pinkish",
+    "CausesOfColour": "The coloring agent is chromium.",
+    "Transparency": "Transparent"
+  },
+  "FlouresenceProperties": {
+    "General": "Very weak: red-yellow"
+  },
+  "Crystallography": {
+    "CrystalSystem": "Monoclinic",
+    "Habit": "Prismatic, tabular"
+  },
+  "GeologicalEnvironment": {
+    "WhereFound": "Deposits occur in granite pegmatite."
+  },
+  "Inclusions": {
+    "Inclusions": "Deposits occur in granite pegmatite."
+  }
+}

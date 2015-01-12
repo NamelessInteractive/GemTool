@@ -1,0 +1,38 @@
+{
+  "Name": "Perthite",
+  "Description": "Perthite is named after the town of Perth in Canada. It is formed by intergrowth of several varieties of feldspar - albite or oligoclase with a microcline or occasionally orthoclase host.\r\n\r\nPerthite has reddish-brown or off-white body colour with mainly orange-gold labradorescence.\r\n\r\nPerthite is used as an attractive ornamental stone.",
+  "PhysicalProperties": {
+    "MohsHardness": null,
+    "SpecificGravity": null,
+    "Tenacity": "",
+    "CleavageQuality": "",
+    "Fracture": "",
+    "HeatSensitivity": ""
+  },
+  "OpticalProperties": {
+    "RefractiveIndex": null,
+    "Birefringence": null,
+    "Pleochroism": "",
+    "Dispersion": null
+  },
+  "ColourProperties": {
+    "General": "Reddish-brown or off-white body colour with mainly orange-gold labradorescence.",
+    "Daylight": "",
+    "ChelseaFilter": "",
+    "CausesOfColour": "",
+    "Transparency": ""
+  },
+  "FlouresenceProperties": {
+    "General": "Material from Zimbabwe exhibits patchy bluish and greenish fluorescence ubder both SW and LW UV."
+  },
+  "Crystallography": {
+    "CrystalSystem": "",
+    "Habit": ""
+  },
+  "GeologicalEnvironment": {
+    "WhereFound": "Common in granite pegmatites."
+  },
+  "Inclusions": {
+    "Inclusions": "Common in granite pegmatites."
+  }
+}

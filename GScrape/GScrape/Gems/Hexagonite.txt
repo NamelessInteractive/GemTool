@@ -1,0 +1,70 @@
+{
+  "Name": "Hexagonite",
+  "Description": "Hexagonite is a transparent pink, pale lilac to purplish colour variety of Tremolite.\r\n\r\nHexagonite may show pleochroic colours: bluish-red to deep reddish violet.\r\n\r\nThe material has been faceted.",
+  "PhysicalProperties": {
+    "MohsHardness": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 5.0,
+          "Max": 6.0
+        }
+      ]
+    },
+    "SpecificGravity": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 2.98,
+          "Max": 3.03
+        }
+      ]
+    },
+    "Tenacity": "",
+    "CleavageQuality": "Perfect",
+    "Fracture": "",
+    "HeatSensitivity": ""
+  },
+  "OpticalProperties": {
+    "RefractiveIndex": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 1.599,
+          "Max": 1.637
+        }
+      ]
+    },
+    "Birefringence": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 0.023,
+          "Max": 0.028
+        }
+      ]
+    },
+    "Pleochroism": "",
+    "Dispersion": null
+  },
+  "ColourProperties": {
+    "General": "Lilac-pink",
+    "Daylight": "",
+    "ChelseaFilter": "",
+    "CausesOfColour": "Pink, Mn3+",
+    "Transparency": "Transparent,Translucent"
+  },
+  "FlouresenceProperties": {
+    "General": "Common orangy, pinkish, reddish (also dull gray-green)"
+  },
+  "Crystallography": {
+    "CrystalSystem": "Monoclinic",
+    "Habit": ""
+  },
+  "GeologicalEnvironment": {
+    "WhereFound": ""
+  },
+  "Inclusions": {
+    "Inclusions": "Common orangy, pinkish, reddish (also dull gray-green)"
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "Name": "Creedite",
+  "Description": "Creedite is named after its discovery locality, in Wagon Wheel Gap, Creede quadrangle, Mineral County, Colorado, USA.\r\n\r\nCreedite is a rare mineral, it has unique crystal form and attractive range of colours. Transparent crystals are rarely large enough to facet. Some light purple transparent stones have been cut.",
+  "PhysicalProperties": {
+    "MohsHardness": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 4.5,
+          "Max": 4.5
+        }
+      ]
+    },
+    "SpecificGravity": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 2.7,
+          "Max": 2.7
+        }
+      ]
+    },
+    "Tenacity": "",
+    "CleavageQuality": "Perfect",
+    "Fracture": "Uneven,Conchoidal",
+    "HeatSensitivity": ""
+  },
+  "OpticalProperties": {
+    "RefractiveIndex": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 1.461,
+          "Max": 1.485
+        }
+      ]
+    },
+    "Birefringence": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 0.021,
+          "Max": 0.024
+        }
+      ]
+    },
+    "Pleochroism": "",
+    "Dispersion": null
+  },
+  "ColourProperties": {
+    "General": "White, colourless, rose-violet",
+    "Daylight": "",
+    "ChelseaFilter": "",
+    "CausesOfColour": "",
+    "Transparency": "Transparent,Translucent,Opaque"
+  },
+  "FlouresenceProperties": {
+    "General": ""
+  },
+  "Crystallography": {
+    "CrystalSystem": "Monoclinic",
+    "Habit": "Prismatic or radiating masses"
+  },
+  "GeologicalEnvironment": {
+    "WhereFound": "Occurs in fluorite-rich hydrothermal mineral deposits."
+  },
+  "Inclusions": {
+    "Inclusions": "Occurs in fluorite-rich hydrothermal mineral deposits."
+  }
+}

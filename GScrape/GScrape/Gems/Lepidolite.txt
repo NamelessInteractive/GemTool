@@ -1,0 +1,70 @@
+{
+  "Name": "Lepidolite",
+  "Description": "Lepidolite is named after Greek \"lepidos\" - scale, alluding to the scaly appearance of many specimens.\r\n\r\nLepidolite is a violet to pink variety of Mica. Massive fine-grained material is used for ornamental purposes, it is polished into various shapes - cabochons and slabs. Transparent to translucent material is sometimes faceted.",
+  "PhysicalProperties": {
+    "MohsHardness": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 2.5,
+          "Max": 2.5
+        }
+      ]
+    },
+    "SpecificGravity": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 2.8,
+          "Max": 2.9
+        }
+      ]
+    },
+    "Tenacity": "",
+    "CleavageQuality": "Perfect",
+    "Fracture": "Uneven",
+    "HeatSensitivity": ""
+  },
+  "OpticalProperties": {
+    "RefractiveIndex": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 1.525,
+          "Max": 1.587
+        }
+      ]
+    },
+    "Birefringence": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 0.018,
+          "Max": 0.038
+        }
+      ]
+    },
+    "Pleochroism": "Nil",
+    "Dispersion": null
+  },
+  "ColourProperties": {
+    "General": "Violet, pink, red",
+    "Daylight": "",
+    "ChelseaFilter": "",
+    "CausesOfColour": "Pink, Mn2+ in octahedral coordination Mn3+ in octahedral coordination",
+    "Transparency": "Transparent,Translucent"
+  },
+  "FlouresenceProperties": {
+    "General": ""
+  },
+  "Crystallography": {
+    "CrystalSystem": "Monoclinic",
+    "Habit": "Massive"
+  },
+  "GeologicalEnvironment": {
+    "WhereFound": "The occurrence is chiefly, if not exclusively, in granite pegmatites"
+  },
+  "Inclusions": {
+    "Inclusions": "The occurrence is chiefly, if not exclusively, in granite pegmatites"
+  }
+}

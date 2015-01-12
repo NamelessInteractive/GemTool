@@ -1,0 +1,70 @@
+{
+  "Name": "Turquoise",
+  "Description": "Turquoise was one of the earliest gems to be used for personal adornment. It was used by Ancient Egypt rulers around 5500 BC. The name Turquoise dates to 16th century and derived from Old French word for \"Turkish\", because it entered Western Europe through Asia Minor.\r\n\r\nTurquoise is opaque sky-blue, blue-green or apple-green stone with brown, dark gray, or black veins of other minerals or the host rock. It can also be intergrown with malachite and chrysocolla.",
+  "PhysicalProperties": {
+    "MohsHardness": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 5.0,
+          "Max": 6.0
+        }
+      ]
+    },
+    "SpecificGravity": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 2.3,
+          "Max": 2.9
+        }
+      ]
+    },
+    "Tenacity": "",
+    "CleavageQuality": "None",
+    "Fracture": "Conchoidal",
+    "HeatSensitivity": ""
+  },
+  "OpticalProperties": {
+    "RefractiveIndex": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 1.61,
+          "Max": 1.65
+        }
+      ]
+    },
+    "Birefringence": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 0.04,
+          "Max": 0.04
+        }
+      ]
+    },
+    "Pleochroism": "Absent",
+    "Dispersion": null
+  },
+  "ColourProperties": {
+    "General": "Light blue, bluish-green, green, greenish-blue",
+    "Daylight": "",
+    "ChelseaFilter": "No reaction",
+    "CausesOfColour": "Blue, Cu2+ in octahedral coordination",
+    "Transparency": "Translucent,Opaque"
+  },
+  "FlouresenceProperties": {
+    "General": "Weak; green-yellow, light blue"
+  },
+  "Crystallography": {
+    "CrystalSystem": "Triclinic",
+    "Habit": "Fine-grained, massive aggregate, partly as nodules or botryoidal groups"
+  },
+  "GeologicalEnvironment": {
+    "WhereFound": ""
+  },
+  "Inclusions": {
+    "Inclusions": "Weak; green-yellow, light blue"
+  }
+}

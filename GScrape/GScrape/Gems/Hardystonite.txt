@@ -1,0 +1,54 @@
+{
+  "Name": "Hardystonite",
+  "Description": "Hardystonite is named after its discovery locality, the North Hill mine, Franklin, Hardyston Township, Sussex County, New Jersey, USA.\r\n\r\nHardystonite appears white to gray to light pink in colour in daylight, sometimes with a vitreous or greasy lustre. But under Short Wave Ultraviolet (254 nm wavelength) light, emits a fluorescence from dark purple to bright violet blue. Usually occurs in coarse, columnar masses, well formed crystals are very rare.",
+  "PhysicalProperties": {
+    "MohsHardness": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 3.0,
+          "Max": 4.0
+        }
+      ]
+    },
+    "SpecificGravity": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 3.396,
+          "Max": 3.443
+        }
+      ]
+    },
+    "Tenacity": "Brittle",
+    "CleavageQuality": "Good,Poor",
+    "Fracture": "",
+    "HeatSensitivity": ""
+  },
+  "OpticalProperties": {
+    "RefractiveIndex": null,
+    "Birefringence": null,
+    "Pleochroism": "",
+    "Dispersion": null
+  },
+  "ColourProperties": {
+    "General": "White, pinkish, light brown; colorless in thin section.",
+    "Daylight": "",
+    "ChelseaFilter": "",
+    "CausesOfColour": "",
+    "Transparency": "Translucent"
+  },
+  "FlouresenceProperties": {
+    "General": "A dull violet fluorescence can be observed in some samples under UV."
+  },
+  "Crystallography": {
+    "CrystalSystem": "Tetragonal",
+    "Habit": "In coarse, columnar masses; granular and as isolated grains."
+  },
+  "GeologicalEnvironment": {
+    "WhereFound": "In granular ore in a metamorphosed stratiform zinc deposit."
+  },
+  "Inclusions": {
+    "Inclusions": "In granular ore in a metamorphosed stratiform zinc deposit."
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "Name": "Smithsonite",
+  "Description": "Smithsonite was named in 1832 in honor of English chemist and mineralogist, James Smithson, who first identified the mineral in 1802.\r\n\r\nIt usually occurs as earthy botryoidal masses. Grape-like clusters have pearly luster and are often slightly banded. Well-formed crystals are rare.\r\n\r\nBonamite is a trade name for cabochon-cut massive pieces of Smithsonite.",
+  "PhysicalProperties": {
+    "MohsHardness": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 5.0,
+          "Max": 5.5
+        }
+      ]
+    },
+    "SpecificGravity": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 4.0,
+          "Max": 4.65
+        }
+      ]
+    },
+    "Tenacity": "Brittle",
+    "CleavageQuality": "Perfect",
+    "Fracture": "Uneven",
+    "HeatSensitivity": ""
+  },
+  "OpticalProperties": {
+    "RefractiveIndex": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 1.62,
+          "Max": 1.85
+        }
+      ]
+    },
+    "Birefringence": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 0.228,
+          "Max": 0.228
+        }
+      ]
+    },
+    "Pleochroism": "Absent",
+    "Dispersion": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 0.014,
+          "Max": 0.031
+        }
+      ]
+    }
+  },
+  "ColourProperties": {
+    "General": "White, yellowish, brown, green, gray, pink, bluish, orange-yellow",
+    "Daylight": "",
+    "ChelseaFilter": "",
+    "CausesOfColour": "Blue-green, Cu2+. Pink, Co2+",
+    "Transparency": "Translucent,Opaque"
+  },
+  "FlouresenceProperties": {
+    "General": "Blue-white, pink, brown"
+  },
+  "Crystallography": {
+    "CrystalSystem": "Trigonal",
+    "Habit": "Botryoidal, rhombohedral"
+  },
+  "GeologicalEnvironment": {
+    "WhereFound": "Smithsonite occurs as a secondary mineral in the oxidized zone of zinc-bearing deposits."
+  },
+  "Inclusions": {
+    "Inclusions": "Smithsonite occurs as a secondary mineral in the oxidized zone of zinc-bearing deposits."
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "Name": "Sogdianite",
+  "Description": "Sogdianite is named after its discovery locality, in Sogdiana, the ancient name of the discovery region in central Asia.\r\n\r\nSogdianite forms transparent to translucent violet crystals.\r\n\r\nSogdianite is a very rare gem, it is highly evaluated for its beautiful colour. Sogdianite has been faceted and cut into cabochons.",
+  "PhysicalProperties": {
+    "MohsHardness": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 7.0,
+          "Max": 7.0
+        }
+      ]
+    },
+    "SpecificGravity": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 2.77,
+          "Max": 2.9
+        }
+      ]
+    },
+    "Tenacity": "",
+    "CleavageQuality": "Perfect",
+    "Fracture": "",
+    "HeatSensitivity": ""
+  },
+  "OpticalProperties": {
+    "RefractiveIndex": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 1.606,
+          "Max": 1.608
+        }
+      ]
+    },
+    "Birefringence": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 0.002,
+          "Max": 0.002
+        }
+      ]
+    },
+    "Pleochroism": "",
+    "Dispersion": null
+  },
+  "ColourProperties": {
+    "General": "Violet",
+    "Daylight": "",
+    "ChelseaFilter": "",
+    "CausesOfColour": "",
+    "Transparency": "Opaque"
+  },
+  "FlouresenceProperties": {
+    "General": ""
+  },
+  "Crystallography": {
+    "CrystalSystem": "Hexagonal",
+    "Habit": "Tabular crystals, to 1 cm; in platy aggregates, to 15 cm."
+  },
+  "GeologicalEnvironment": {
+    "WhereFound": "Occurs in a pegmatite vein with a composition near that of an alkalic granite."
+  },
+  "Inclusions": {
+    "Inclusions": "Occurs in a pegmatite vein with a composition near that of an alkalic granite."
+  }
+}

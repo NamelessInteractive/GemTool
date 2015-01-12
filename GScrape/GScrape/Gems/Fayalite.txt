@@ -1,0 +1,62 @@
+{
+  "Name": "Fayalite",
+  "Description": "Fayalite is named after its discovery locality, on Fayal Island, Azores; although believed to occur in the local lavas. Fayalite is iron-bearing olivine mineral.\r\n\r\nFayalite is very rare in nature, but common in man-made (metallurgy) iron slags.",
+  "PhysicalProperties": {
+    "MohsHardness": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 6.5,
+          "Max": 7.0
+        }
+      ]
+    },
+    "SpecificGravity": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 4.392,
+          "Max": 4.392
+        }
+      ]
+    },
+    "Tenacity": "Brittle",
+    "CleavageQuality": "Imperfect",
+    "Fracture": "Conchoidal",
+    "HeatSensitivity": ""
+  },
+  "OpticalProperties": {
+    "RefractiveIndex": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 1.827,
+          "Max": 1.879
+        }
+      ]
+    },
+    "Birefringence": null,
+    "Pleochroism": "Faint: pale yellow - yellow-orange, reddish brown.",
+    "Dispersion": null
+  },
+  "ColourProperties": {
+    "General": "Greenish yellow, yellow-brown, brown; pale yellow to amber in thin section",
+    "Daylight": "",
+    "ChelseaFilter": "",
+    "CausesOfColour": "",
+    "Transparency": "Transparent"
+  },
+  "FlouresenceProperties": {
+    "General": ""
+  },
+  "Crystallography": {
+    "CrystalSystem": "Orthorhombic",
+    "Habit": "Crystals are thick to thin, tabular, typically with wedge-shaped terminations, producing eight-sided cross sections. Commonly granular, compact, or massive."
+  },
+  "GeologicalEnvironment": {
+    "WhereFound": "In ultramafic volcanic and plutonic rocks, less commonly in felsic plutonic rocks; rarely in granite pegmatite; in lithophysae in obsidian. In metamorphosed iron-rich sediments and\r\nimpure carbonate rocks."
+  },
+  "Inclusions": {
+    "Inclusions": "In ultramafic volcanic and plutonic rocks, less commonly in felsic plutonic rocks; rarely in granite pegmatite; in lithophysae in obsidian. In metamorphosed iron-rich sediments and\r\nimpure carbonate rocks."
+  }
+}

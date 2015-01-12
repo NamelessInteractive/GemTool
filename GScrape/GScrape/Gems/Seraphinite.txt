@@ -1,0 +1,54 @@
+{
+  "Name": "Seraphinite",
+  "Description": "Seraphinite was named after Seraphim, the highest order of angels, due to feather-like appearance of the chatoyant fibers in the stone.\r\n\r\nSeraphinite is a dense fine-grained variety of Clinochlore. It has dark green to grey colour with silvery and feathery shimmer caused by mica inclusions.\r\n\r\nSeraphinite is used for carving and as a decorative stone.",
+  "PhysicalProperties": {
+    "MohsHardness": null,
+    "SpecificGravity": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 2.6,
+          "Max": 3.02
+        }
+      ]
+    },
+    "Tenacity": "Flexible",
+    "CleavageQuality": "Perfect",
+    "Fracture": "",
+    "HeatSensitivity": ""
+  },
+  "OpticalProperties": {
+    "RefractiveIndex": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 1.571,
+          "Max": 1.597
+        }
+      ]
+    },
+    "Birefringence": null,
+    "Pleochroism": "",
+    "Dispersion": null
+  },
+  "ColourProperties": {
+    "General": "Green to grey",
+    "Daylight": "",
+    "ChelseaFilter": "",
+    "CausesOfColour": "",
+    "Transparency": "Transparent,Translucent"
+  },
+  "FlouresenceProperties": {
+    "General": ""
+  },
+  "Crystallography": {
+    "CrystalSystem": "Monoclinic",
+    "Habit": "Massive"
+  },
+  "GeologicalEnvironment": {
+    "WhereFound": ""
+  },
+  "Inclusions": {
+    "Inclusions": "Green to grey"
+  }
+}

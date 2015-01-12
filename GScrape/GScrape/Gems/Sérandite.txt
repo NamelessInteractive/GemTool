@@ -1,0 +1,70 @@
+{
+  "Name": "Sérandite",
+  "Description": "Sérandite is named after J.M. Sérand, mineral collector of West Africa who helped in the collection of the mineral on the island of Rouma, Los Archipelago, Guinea.\r\n\r\nSérandite forms transparent rose-red, orange or salmon-pink elongated prismatic crystals.\r\n\r\nSérandite is faceted into exceptionally beautiful gems.",
+  "PhysicalProperties": {
+    "MohsHardness": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 5.0,
+          "Max": 5.5
+        }
+      ]
+    },
+    "SpecificGravity": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 3.52,
+          "Max": 3.52
+        }
+      ]
+    },
+    "Tenacity": "Brittle",
+    "CleavageQuality": "Perfect",
+    "Fracture": "Uneven",
+    "HeatSensitivity": ""
+  },
+  "OpticalProperties": {
+    "RefractiveIndex": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 1.672,
+          "Max": 1.708
+        }
+      ]
+    },
+    "Birefringence": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 0.036,
+          "Max": 0.036
+        }
+      ]
+    },
+    "Pleochroism": "",
+    "Dispersion": null
+  },
+  "ColourProperties": {
+    "General": "Pink-orange",
+    "Daylight": "",
+    "ChelseaFilter": "",
+    "CausesOfColour": "",
+    "Transparency": "Transparent"
+  },
+  "FlouresenceProperties": {
+    "General": ""
+  },
+  "Crystallography": {
+    "CrystalSystem": "Triclinic",
+    "Habit": "Elongated prismatic"
+  },
+  "GeologicalEnvironment": {
+    "WhereFound": "Sérandite occurs in pegmatites cutting syenites and nepheline syenites in an intrusive alkalic gabbro-syenite complex."
+  },
+  "Inclusions": {
+    "Inclusions": "Sérandite occurs in pegmatites cutting syenites and nepheline syenites in an intrusive alkalic gabbro-syenite complex."
+  }
+}

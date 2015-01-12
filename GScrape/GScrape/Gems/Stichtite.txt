@@ -1,0 +1,70 @@
+{
+  "Name": "Stichtite",
+  "Description": "Stichtite was discovered in 1910 in Western Tasmania, Australia. It was named after Robert Carl Sticht the manager of the mine.\r\n\r\nStichtite is purplish pink to purplish rose-red in colour and it is often associated with a chrome-containing green serpentine. This combination makes interesting specimens and attractive ornamental stone for carvings.",
+  "PhysicalProperties": {
+    "MohsHardness": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 1.5,
+          "Max": 2.0
+        }
+      ]
+    },
+    "SpecificGravity": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 2.11,
+          "Max": 2.2
+        }
+      ]
+    },
+    "Tenacity": "",
+    "CleavageQuality": "Perfect",
+    "Fracture": "Uneven",
+    "HeatSensitivity": ""
+  },
+  "OpticalProperties": {
+    "RefractiveIndex": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 1.516,
+          "Max": 1.544
+        }
+      ]
+    },
+    "Birefringence": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 0.024,
+          "Max": 0.028
+        }
+      ]
+    },
+    "Pleochroism": "Distinct",
+    "Dispersion": null
+  },
+  "ColourProperties": {
+    "General": "Rose-pink, light violet, lilac",
+    "Daylight": "",
+    "ChelseaFilter": "",
+    "CausesOfColour": "",
+    "Transparency": "Translucent,Opaque"
+  },
+  "FlouresenceProperties": {
+    "General": ""
+  },
+  "Crystallography": {
+    "CrystalSystem": "Trigonal",
+    "Habit": "Aggregates of fibres or plates"
+  },
+  "GeologicalEnvironment": {
+    "WhereFound": "Occurs as an alteration product of chromite in serpentinite"
+  },
+  "Inclusions": {
+    "Inclusions": "Occurs as an alteration product of chromite in serpentinite"
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "Name": "Sinhalite",
+  "Description": "The name Sinhalite is derived from the Sanskrit name for Sri Lanka - Sinhala, where it was discovered in 1952. It is a rare mineral which until recently was found only in this country.\r\n\r\nNowadays Sinhalite is also found in Mogok, Burma and pale-pink to brownish-pink crystals has been reported from Tanzania. Rough, well crystallized sinhalite up to sizes of 20 grams are being found in Madagascar.",
+  "PhysicalProperties": {
+    "MohsHardness": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 6.0,
+          "Max": 7.0
+        }
+      ]
+    },
+    "SpecificGravity": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 3.46,
+          "Max": 3.5
+        }
+      ]
+    },
+    "Tenacity": "",
+    "CleavageQuality": "None",
+    "Fracture": "Conchoidal",
+    "HeatSensitivity": ""
+  },
+  "OpticalProperties": {
+    "RefractiveIndex": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 1.665,
+          "Max": 1.712
+        }
+      ]
+    },
+    "Birefringence": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 0.036,
+          "Max": 0.042
+        }
+      ]
+    },
+    "Pleochroism": "Trichroism: green - light brown - dark brown",
+    "Dispersion": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 0.018,
+          "Max": 0.018
+        }
+      ]
+    }
+  },
+  "ColourProperties": {
+    "General": "Colourless, yellow-brown, green-brown, brown",
+    "Daylight": "",
+    "ChelseaFilter": "",
+    "CausesOfColour": "Brown, O2-→Fe3+ charge transfer and Fe2+ in octahedral coordination",
+    "Transparency": "Transparent"
+  },
+  "FlouresenceProperties": {
+    "General": "None"
+  },
+  "Crystallography": {
+    "CrystalSystem": "Orthorhombic",
+    "Habit": "Very rare; grains"
+  },
+  "GeologicalEnvironment": {
+    "WhereFound": "Sinhalite occurs in boron-rich skarns at the contact of limestones with granite or gneiss; most gem sinhalite is found as alluvial pebbles."
+  },
+  "Inclusions": {
+    "Inclusions": "Sinhalite occurs in boron-rich skarns at the contact of limestones with granite or gneiss; most gem sinhalite is found as alluvial pebbles."
+  }
+}

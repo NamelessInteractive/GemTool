@@ -1,0 +1,62 @@
+{
+  "Name": "Strontianite",
+  "Description": "Strontianite is named after its discovery locality, at Strontian, Argyllshire, Scotland. The element strontium was discovered in this mineral by Cruikshank in 1790.\r\n\r\nStrontianite forms pale grey or pale green, sometimes pale red, brown or colourless, typically short to long prismatic crystals.\r\n\r\nFine crystals are small and are occasionally faceted.",
+  "PhysicalProperties": {
+    "MohsHardness": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 3.5,
+          "Max": 3.5
+        }
+      ]
+    },
+    "SpecificGravity": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 3.63,
+          "Max": 3.79
+        }
+      ]
+    },
+    "Tenacity": "Brittle",
+    "CleavageQuality": "Perfect",
+    "Fracture": "Uneven,Sub-Conchoidal",
+    "HeatSensitivity": ""
+  },
+  "OpticalProperties": {
+    "RefractiveIndex": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 1.517,
+          "Max": 1.667
+        }
+      ]
+    },
+    "Birefringence": null,
+    "Pleochroism": "",
+    "Dispersion": null
+  },
+  "ColourProperties": {
+    "General": "Light yellow, colourless, white, brown, green, reddish.",
+    "Daylight": "",
+    "ChelseaFilter": "",
+    "CausesOfColour": "",
+    "Transparency": "Transparent,Translucent"
+  },
+  "FlouresenceProperties": {
+    "General": "Fluorescent under UV"
+  },
+  "Crystallography": {
+    "CrystalSystem": "Orthorhombic",
+    "Habit": "Short to long prismatic crystals"
+  },
+  "GeologicalEnvironment": {
+    "WhereFound": "Strontianite is an uncommon low-temperature hydrothermal mineral formed in veins in limestone."
+  },
+  "Inclusions": {
+    "Inclusions": "Strontianite is an uncommon low-temperature hydrothermal mineral formed in veins in limestone."
+  }
+}

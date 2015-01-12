@@ -1,0 +1,78 @@
+{
+  "Name": "Sapphire",
+  "Description": "The name Sapphire derives from Greek \"sappheiros\" - blue. In antiquity, any blue stone such as lazurite, was called Sapphire.\r\n\r\nAt first only the blue variety was called Sapphire. Today corundums of gemstone quality of all colours except red are called Sapphire. The most desired colour is a pure cornflower-blue. Some blue and grayish-blue Sapphires (Sri Lanka, Thailand, Tanzania, Colombia, and others) exhibit a reddish or violet-red tint under artificial light - the alexandrite effect which is caused by admixtures of chromium and vanadium, the intensity is related to the concentration of these elements.\r\n\r\nInclusions of rutile needles cause a silky shine; aligned needles cause a six-rayed star sapphire.\r\n\r\nSapphires are commonly worn in jewelry. Because of remarkable hardness (9 in Mohs Scale), Sapphires are used in some non-ornamental applications (scientific instruments, high-durability windows, etc.)",
+  "PhysicalProperties": {
+    "MohsHardness": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 9.0,
+          "Max": 9.0
+        }
+      ]
+    },
+    "SpecificGravity": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 3.95,
+          "Max": 4.03
+        }
+      ]
+    },
+    "Tenacity": "Brittle",
+    "CleavageQuality": "None",
+    "Fracture": "Uneven,Conchoidal",
+    "HeatSensitivity": ""
+  },
+  "OpticalProperties": {
+    "RefractiveIndex": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 1.762,
+          "Max": 1.788
+        }
+      ]
+    },
+    "Birefringence": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 0.008,
+          "Max": 0.009
+        }
+      ]
+    },
+    "Pleochroism": "Pink sapphires - strong: pink - pinkish-red; Orange/brown stones - distinct: brownish-orange - orangy to colorless; Yellow sapphires - weak: light yellow - yellow-(orangy); Violet/purple sapphires - distinct: bluish-purple - yellow-brown/orange; Blue sapphires - strong: dark (violetish) blue - greenish-blue; Green sapphires - distinct: yellow-green - green to blue-green",
+    "Dispersion": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 0.018,
+          "Max": 0.018
+        }
+      ]
+    }
+  },
+  "ColourProperties": {
+    "General": "Blue in various tones, colorless, pink, orange, yellow, green, purple, black",
+    "Daylight": "",
+    "ChelseaFilter": "Green synthetic: usually red. Pink: reddish.",
+    "CausesOfColour": "The coloring agents in blue sapphire are iron and titanium; and in violet stones, vanadium. A small iron content results in yellow and green tones; chromium produces pink, iron, and vanadium orange tones.",
+    "Transparency": "Transparent,Translucent,Opaque"
+  },
+  "FlouresenceProperties": {
+    "General": "Green synthetic: commonly orange to dark red. Yellow/orange: inert to strong orange. Pink: inert to orangy-red; synthetic: commonly strong orangy-red."
+  },
+  "Crystallography": {
+    "CrystalSystem": "Trigonal",
+    "Habit": "Doubly pointy, barrel-shaped, hexagonal pyramids, tabloid-shaped"
+  },
+  "GeologicalEnvironment": {
+    "WhereFound": "Host rocks of sapphire are dolomotized limestones, marble, basalt, or pegmatite. It is mined mainly from alluvial deposits or deposits formed by weathering, rarely from the primary rock."
+  },
+  "Inclusions": {
+    "Inclusions": "Host rocks of sapphire are dolomotized limestones, marble, basalt, or pegmatite. It is mined mainly from alluvial deposits or deposits formed by weathering, rarely from the primary rock."
+  }
+}

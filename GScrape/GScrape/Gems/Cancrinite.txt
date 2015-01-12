@@ -1,0 +1,70 @@
+{
+  "Name": "Cancrinite",
+  "Description": "Cancrinite is named after Count Georg Cancrin, Russian Minister of Finance.\r\n\r\nCancrinite usually occurs in a massive form or as crystals of the hexagonal system. Light greyish purple, yellow, violet and orange Cancrinite has come from Canadian sources and a blue variety from Greenland.\r\n\r\nA semi-opaque yellow-coloured fibrous variety of Cancrinite has been cut into cabochons and beads.",
+  "PhysicalProperties": {
+    "MohsHardness": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 5.0,
+          "Max": 6.0
+        }
+      ]
+    },
+    "SpecificGravity": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 2.42,
+          "Max": 2.52
+        }
+      ]
+    },
+    "Tenacity": "",
+    "CleavageQuality": "Perfect",
+    "Fracture": "Conchoidal",
+    "HeatSensitivity": ""
+  },
+  "OpticalProperties": {
+    "RefractiveIndex": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 1.491,
+          "Max": 1.524
+        }
+      ]
+    },
+    "Birefringence": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 0.022,
+          "Max": 0.026
+        }
+      ]
+    },
+    "Pleochroism": "",
+    "Dispersion": null
+  },
+  "ColourProperties": {
+    "General": "Yellow, orange, colourless, white, bluish, pink.",
+    "Daylight": "",
+    "ChelseaFilter": "",
+    "CausesOfColour": "",
+    "Transparency": "Transparent,Translucent"
+  },
+  "FlouresenceProperties": {
+    "General": "Inert"
+  },
+  "Crystallography": {
+    "CrystalSystem": "Hexagonal",
+    "Habit": "Fibrous aggregate"
+  },
+  "GeologicalEnvironment": {
+    "WhereFound": "Cancrinite is found in pegmatites in nepheline syenites"
+  },
+  "Inclusions": {
+    "Inclusions": "Cancrinite is found in pegmatites in nepheline syenites"
+  }
+}

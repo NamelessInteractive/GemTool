@@ -1,0 +1,62 @@
+{
+  "Name": "Analcime (Analcite)",
+  "Description": "Analcime is named after Greek \"analkis\" - weak, alluding to the weak electrostatic charge that develops when it is heated or rubbed.\r\n\r\nSmall colourless transparent crystals of analcime have occasionally been cut for collectors.\r\n\r\nAnalcime Cat's eye is known.",
+  "PhysicalProperties": {
+    "MohsHardness": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 5.0,
+          "Max": 5.5
+        }
+      ]
+    },
+    "SpecificGravity": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 2.22,
+          "Max": 2.3
+        }
+      ]
+    },
+    "Tenacity": "Brittle",
+    "CleavageQuality": "Indistinct",
+    "Fracture": "Sub-Conchoidal",
+    "HeatSensitivity": "Sensitive to heat"
+  },
+  "OpticalProperties": {
+    "RefractiveIndex": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 1.487,
+          "Max": 1.487
+        }
+      ]
+    },
+    "Birefringence": null,
+    "Pleochroism": "",
+    "Dispersion": null
+  },
+  "ColourProperties": {
+    "General": "Colourless, white, pink, yellowish, greenish.",
+    "Daylight": "",
+    "ChelseaFilter": "",
+    "CausesOfColour": "",
+    "Transparency": "Transparent,Translucent,Opaque"
+  },
+  "FlouresenceProperties": {
+    "General": ""
+  },
+  "Crystallography": {
+    "CrystalSystem": "Isometric",
+    "Habit": "Icositetrahedral crystals"
+  },
+  "GeologicalEnvironment": {
+    "WhereFound": "Occurs as a low temperature mineral in vesicular cavities in basalt, diabase and other igneous rocks."
+  },
+  "Inclusions": {
+    "Inclusions": "Occurs as a low temperature mineral in vesicular cavities in basalt, diabase and other igneous rocks."
+  }
+}

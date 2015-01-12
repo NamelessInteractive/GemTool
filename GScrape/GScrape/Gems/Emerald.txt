@@ -1,0 +1,78 @@
+{
+  "Name": "Emerald",
+  "Description": "The name emerald derives from Greek \"smaragdos\" - green stone. It is the most precious stone in the beryl group. Its green is incomparable, and is therefore called \"emerald green\". Emerald is highly evaluated for its deep bright green colour, transparency and rather high hardness. It has maintained, along with diamond and ruby, the dominant position among gemstones since ancient times.\r\n\r\nThe crystals are usually small with average length of 2 - 5 cm and width of 1 - 1.5 cm. Larger crystals are usually semitransparent to opaque. Flawless faceted emeralds exceeding 5 carats are rather rare.\r\n\r\nThe emerald is often clouded by inclusions, they are not classified as faults but show the difference between natural and synthetic stone.",
+  "PhysicalProperties": {
+    "MohsHardness": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 7.5,
+          "Max": 8.0
+        }
+      ]
+    },
+    "SpecificGravity": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 2.67,
+          "Max": 2.78
+        }
+      ]
+    },
+    "Tenacity": "Brittle",
+    "CleavageQuality": "Indistinct",
+    "Fracture": "Uneven,Conchoidal",
+    "HeatSensitivity": ""
+  },
+  "OpticalProperties": {
+    "RefractiveIndex": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 1.565,
+          "Max": 1.602
+        }
+      ]
+    },
+    "Birefringence": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 0.004,
+          "Max": 0.01
+        }
+      ]
+    },
+    "Pleochroism": "Strong dichroism: yellow green - blue green",
+    "Dispersion": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 0.014,
+          "Max": 0.014
+        }
+      ]
+    }
+  },
+  "ColourProperties": {
+    "General": "Emerald green, green, slightly yellowish-green",
+    "Daylight": "",
+    "ChelseaFilter": "Pinkish to \"wine red\", depending on chromium content (may remain greenish).",
+    "CausesOfColour": "Green, Cr3+ and/or V3+ in octahedral coordination.",
+    "Transparency": "Transparent,Translucent,Opaque"
+  },
+  "FlouresenceProperties": {
+    "General": "Usually inert"
+  },
+  "Crystallography": {
+    "CrystalSystem": "Hexagonal",
+    "Habit": "Hexagonal prisms"
+  },
+  "GeologicalEnvironment": {
+    "WhereFound": "Emeralds are formed by hydrothermal processes associated with magma and also by metamorphism. Deposits are found in biotite schists, clay shales, in limestones, with pegmatites. Mining is nearly from host rock, where the emerald has grown into small veins or on walls of cavities. Alluvial placers are very unlikely to come about as the density of emerald is near that of quartz. Therefore, rare secondary deposits are mostly formed by weathering."
+  },
+  "Inclusions": {
+    "Inclusions": "Emeralds are formed by hydrothermal processes associated with magma and also by metamorphism. Deposits are found in biotite schists, clay shales, in limestones, with pegmatites. Mining is nearly from host rock, where the emerald has grown into small veins or on walls of cavities. Alluvial placers are very unlikely to come about as the density of emerald is near that of quartz. Therefore, rare secondary deposits are mostly formed by weathering."
+  }
+}

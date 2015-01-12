@@ -1,0 +1,70 @@
+{
+  "Name": "Albite",
+  "Description": "Albite is a plagioclase feldspar consisting of 90% or more of sodium-rich molecule.\r\nThe name Albite derives from Latin - albus, because its colour is usually pure white.",
+  "PhysicalProperties": {
+    "MohsHardness": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 6.0,
+          "Max": 6.5
+        }
+      ]
+    },
+    "SpecificGravity": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 2.6,
+          "Max": 2.65
+        }
+      ]
+    },
+    "Tenacity": "Brittle",
+    "CleavageQuality": "Perfect",
+    "Fracture": "Uneven,Conchoidal",
+    "HeatSensitivity": ""
+  },
+  "OpticalProperties": {
+    "RefractiveIndex": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 1.525,
+          "Max": 1.542
+        }
+      ]
+    },
+    "Birefringence": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 0.008,
+          "Max": 0.011
+        }
+      ]
+    },
+    "Pleochroism": "",
+    "Dispersion": null
+  },
+  "ColourProperties": {
+    "General": "Colourless, greenish, bluish, black (adularescent)",
+    "Daylight": "",
+    "ChelseaFilter": "",
+    "CausesOfColour": "",
+    "Transparency": "Transparent,Translucent,Opaque"
+  },
+  "FlouresenceProperties": {
+    "General": ""
+  },
+  "Crystallography": {
+    "CrystalSystem": "Triclinic",
+    "Habit": ""
+  },
+  "GeologicalEnvironment": {
+    "WhereFound": "Found widely in greenschist facies metamorphic rocks. In igneous rocks, it\r\noccurs principally in pegmatites and in alkali-rich rocks such as nepheline syenites and other feldspathoidal types. Common in spilites and keratophyres."
+  },
+  "Inclusions": {
+    "Inclusions": "Found widely in greenschist facies metamorphic rocks. In igneous rocks, it\r\noccurs principally in pegmatites and in alkali-rich rocks such as nepheline syenites and other feldspathoidal types. Common in spilites and keratophyres."
+  }
+}

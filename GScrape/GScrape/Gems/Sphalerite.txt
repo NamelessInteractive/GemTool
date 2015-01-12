@@ -1,0 +1,62 @@
+{
+  "Name": "Sphalerite",
+  "Description": "Sphalerite is named after Greek word for \"mistaken\", because the mineral was often mistaken for galena, but contained no lead.\r\n\r\nSphalerite forms clear crystals with colours ranging from pale yellow to orange and red shades, with the presence of iron it forms dark, opaque metallic crystals.\r\n\r\nGem-quality material often has yellowish to honey brown, red to orange, or green colour. The brilliant cut best displays sphalerite's high dispersion of 0.156 (three times as high as for diamond). Because of its softness and fragility sphalerite gems are usually used as collector's pieces and sometomes set into pendants.",
+  "PhysicalProperties": {
+    "MohsHardness": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 3.5,
+          "Max": 4.0
+        }
+      ]
+    },
+    "SpecificGravity": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 3.95,
+          "Max": 4.1
+        }
+      ]
+    },
+    "Tenacity": "Brittle",
+    "CleavageQuality": "Perfect",
+    "Fracture": "Uneven",
+    "HeatSensitivity": ""
+  },
+  "OpticalProperties": {
+    "RefractiveIndex": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 2.368,
+          "Max": 2.371
+        }
+      ]
+    },
+    "Birefringence": null,
+    "Pleochroism": "Absent",
+    "Dispersion": null
+  },
+  "ColourProperties": {
+    "General": "Opaque: black, gray-brown, cinnamon-colour. Translucent to transparent: yellow, yellow-green, green, red-yellow, yellowish-brown",
+    "Daylight": "",
+    "ChelseaFilter": "",
+    "CausesOfColour": "Yellow to black, iron → sulfur charge transfer. Green, Co2+ in tetrahedral coordination",
+    "Transparency": "Transparent,Translucent,Opaque"
+  },
+  "FlouresenceProperties": {
+    "General": "Inert to strong orangy red"
+  },
+  "Crystallography": {
+    "CrystalSystem": "Isometric",
+    "Habit": "Tetrahedral, dodecahedral"
+  },
+  "GeologicalEnvironment": {
+    "WhereFound": "Sphalerite occurs in a variety of hydrothermal conditions and is the chief ore of zinc."
+  },
+  "Inclusions": {
+    "Inclusions": "Sphalerite occurs in a variety of hydrothermal conditions and is the chief ore of zinc."
+  }
+}

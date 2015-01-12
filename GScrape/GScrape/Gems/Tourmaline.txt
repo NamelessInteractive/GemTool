@@ -1,0 +1,78 @@
+{
+  "Name": "Tourmaline",
+  "Description": "Even though tourmaline has been known since antiquity in the Mediterranean region, the Dutch imported it only in 1703 from Sri Lanka to Western and Central Europe. They gave the new gems a Sinhalese name, Turamali, which is thought to mean \"stone with mixed colours\".\r\n\r\nTourmaline varies in transparency and colour to a considerable extent. Crystals of tourmaline may be of uniform colour throughout or differently coloured in different portions. The dichroism is a very prominent feature; it is apparent in quite pale-coloured stones, but is more marked in the darker varieties.\r\n\r\nA very characteristic feature of tourmaline is the readiness with which it becomes electrified. By heating and subsequent cooling, as well as by applying pressure, e.i. by rubbing, a tourmaline crystal will become electrically charged. It will then attract dust particles as well as small pieces of paper (pyro- and piezo-electricity).",
+  "PhysicalProperties": {
+    "MohsHardness": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 7.0,
+          "Max": 7.5
+        }
+      ]
+    },
+    "SpecificGravity": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 2.85,
+          "Max": 3.35
+        }
+      ]
+    },
+    "Tenacity": "Brittle",
+    "CleavageQuality": "Poor",
+    "Fracture": "Sub-Conchoidal",
+    "HeatSensitivity": ""
+  },
+  "OpticalProperties": {
+    "RefractiveIndex": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 1.614,
+          "Max": 1.666
+        }
+      ]
+    },
+    "Birefringence": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 0.014,
+          "Max": 0.04
+        }
+      ]
+    },
+    "Pleochroism": "Pink tourmaline - distinct: colorless-pink - pinkish-red; Orange/brown tourmaline - strong: yellowish-brown - dark(greenish)-brown; Yellow tourmaline - distinct: pale yellow - dark yellow; Violet/purple tourmaline - strong: light purple - purple; Blue - strong: light blue - dark blue; Green - strong: yellow-green - dark green",
+    "Dispersion": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 0.017,
+          "Max": 0.017
+        }
+      ]
+    }
+  },
+  "ColourProperties": {
+    "General": "Multi-colored crystals are common",
+    "Daylight": "",
+    "ChelseaFilter": "",
+    "CausesOfColour": "",
+    "Transparency": "Transparent,Translucent,Opaque"
+  },
+  "FlouresenceProperties": {
+    "General": "Mostly inert"
+  },
+  "Crystallography": {
+    "CrystalSystem": "Trigonal",
+    "Habit": "Prismatic to acicular crystals"
+  },
+  "GeologicalEnvironment": {
+    "WhereFound": ""
+  },
+  "Inclusions": {
+    "Inclusions": "Mostly inert"
+  }
+}

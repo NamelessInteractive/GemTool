@@ -1,0 +1,62 @@
+{
+  "Name": "Gedrite",
+  "Description": "Gedrite is named after its discovery locality, the Héas Valley, near Gédre, Hautes-Pyrénées, France.\r\n\r\nGedrite forms white, gray, brown, green, prismatic crystals or fibrous aggregates with vitreous lustre.",
+  "PhysicalProperties": {
+    "MohsHardness": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 5.5,
+          "Max": 6.0
+        }
+      ]
+    },
+    "SpecificGravity": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 3.15,
+          "Max": 3.259
+        }
+      ]
+    },
+    "Tenacity": "Brittle",
+    "CleavageQuality": "Perfect,Imperfect",
+    "Fracture": "",
+    "HeatSensitivity": ""
+  },
+  "OpticalProperties": {
+    "RefractiveIndex": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 1.625,
+          "Max": 1.718
+        }
+      ]
+    },
+    "Birefringence": null,
+    "Pleochroism": "Weak to moderate, in browns, yellows, or gray.",
+    "Dispersion": null
+  },
+  "ColourProperties": {
+    "General": "White, gray, brown, green; colorless, gray, or brown in thin section.",
+    "Daylight": "",
+    "ChelseaFilter": "",
+    "CausesOfColour": "",
+    "Transparency": "Transparent,Translucent"
+  },
+  "FlouresenceProperties": {
+    "General": ""
+  },
+  "Crystallography": {
+    "CrystalSystem": "Orthorhombic",
+    "Habit": "As bladed and prismatic crystals; fibrous and semi-sheaflike aggregates."
+  },
+  "GeologicalEnvironment": {
+    "WhereFound": "Widespread in medium- to high-grade metamorphic rocks; in metasomatized contact metamorphic rocks."
+  },
+  "Inclusions": {
+    "Inclusions": "Widespread in medium- to high-grade metamorphic rocks; in metasomatized contact metamorphic rocks."
+  }
+}

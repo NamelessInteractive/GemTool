@@ -1,0 +1,70 @@
+{
+  "Name": "Prehnite",
+  "Description": "Prehnite is named after Dutch Colonel Hendrik Von Prehn, and was first described in 1789 for an occurrence in Haslach, Harzburg and Oberstein, Germany.\r\n\r\nIndividual crystals are rare. Faceted gems are seldom fully transparent and don't show \"fire\". Prehnite is usually cut into cabochons or carved.\r\n\r\nExtensive deposits of gem quality prehnite occur near Wave Hill Station in the central Northern Territory, of Australia.\r\n\r\nPrehnite cat's is known.",
+  "PhysicalProperties": {
+    "MohsHardness": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 6.0,
+          "Max": 6.5
+        }
+      ]
+    },
+    "SpecificGravity": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 2.8,
+          "Max": 2.95
+        }
+      ]
+    },
+    "Tenacity": "Brittle",
+    "CleavageQuality": "Good",
+    "Fracture": "Uneven",
+    "HeatSensitivity": ""
+  },
+  "OpticalProperties": {
+    "RefractiveIndex": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 1.611,
+          "Max": 1.673
+        }
+      ]
+    },
+    "Birefringence": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 0.021,
+          "Max": 0.039
+        }
+      ]
+    },
+    "Pleochroism": "Absent",
+    "Dispersion": null
+  },
+  "ColourProperties": {
+    "General": "Oily yellowish-(greenish)",
+    "Daylight": "",
+    "ChelseaFilter": "",
+    "CausesOfColour": "",
+    "Transparency": "Translucent"
+  },
+  "FlouresenceProperties": {
+    "General": "None"
+  },
+  "Crystallography": {
+    "CrystalSystem": "Orthorhombic",
+    "Habit": "Radiating fibrous aggregate"
+  },
+  "GeologicalEnvironment": {
+    "WhereFound": "Occurs as a secondary or hydrothermal mineral in veins or cavities in mafic volcanic rocks or in granite gneisses or syenites"
+  },
+  "Inclusions": {
+    "Inclusions": "Occurs as a secondary or hydrothermal mineral in veins or cavities in mafic volcanic rocks or in granite gneisses or syenites"
+  }
+}

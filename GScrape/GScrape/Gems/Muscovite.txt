@@ -1,0 +1,62 @@
+{
+  "Name": "Muscovite",
+  "Description": "The name Muscovite derives from its use in windows as muscovy glass, Muscovy being an old Russian Province.\r\n\r\nMuscovite is the most common member of the Mica Group. It typically occurs as massively crystalline material in \"books\" or in flaky grains.\r\n\r\nMuscovite can be pink, colourless, silver-white, yellowish, greenish with a pearly luster on cleavage faces. It often has a sparkly look.\r\n\r\nBecause of its silvery sheen, Muscovite is sometimes called cat's silver.",
+  "PhysicalProperties": {
+    "MohsHardness": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 2.0,
+          "Max": 3.0
+        }
+      ]
+    },
+    "SpecificGravity": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 2.78,
+          "Max": 2.88
+        }
+      ]
+    },
+    "Tenacity": "Flexible,Elastic",
+    "CleavageQuality": "Perfect",
+    "Fracture": "",
+    "HeatSensitivity": ""
+  },
+  "OpticalProperties": {
+    "RefractiveIndex": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 1.552,
+          "Max": 1.618
+        }
+      ]
+    },
+    "Birefringence": null,
+    "Pleochroism": "Weak when colored.",
+    "Dispersion": null
+  },
+  "ColourProperties": {
+    "General": "Pink, colourless, silver-white, yellowish, greenish.",
+    "Daylight": "",
+    "ChelseaFilter": "",
+    "CausesOfColour": "",
+    "Transparency": "Transparent,Translucent"
+  },
+  "FlouresenceProperties": {
+    "General": ""
+  },
+  "Crystallography": {
+    "CrystalSystem": "Monoclinic",
+    "Habit": "Crystals tabular to columnar, striated, pseudohexagonal or diamond-shaped. As stellate aggregates, plumose, globular; scaly, granular, compact massive."
+  },
+  "GeologicalEnvironment": {
+    "WhereFound": "A common rock-forming mineral, in phyllites, schists, and gneisses; in granites, granite pegmatites, and aplites. Formed from other minerals under hydrothermal conditions; may be detrital or authigenic."
+  },
+  "Inclusions": {
+    "Inclusions": "A common rock-forming mineral, in phyllites, schists, and gneisses; in granites, granite pegmatites, and aplites. Formed from other minerals under hydrothermal conditions; may be detrital or authigenic."
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "Name": "Schorlomite",
+  "Description": "Schorlomite is so named in 1846 because of its resemblance to schorl.\r\n\r\nSchorlomite forms dark brown, reddish brown to black crystals up to 2 cm, masses are common.\r\n\r\nSchorlomite has been cut into black cabochons.",
+  "PhysicalProperties": {
+    "MohsHardness": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 7.0,
+          "Max": 7.5
+        }
+      ]
+    },
+    "SpecificGravity": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 3.77,
+          "Max": 3.93
+        }
+      ]
+    },
+    "Tenacity": "Brittle",
+    "CleavageQuality": "",
+    "Fracture": "Conchoidal",
+    "HeatSensitivity": ""
+  },
+  "OpticalProperties": {
+    "RefractiveIndex": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 1.94,
+          "Max": 1.98
+        }
+      ]
+    },
+    "Birefringence": null,
+    "Pleochroism": "",
+    "Dispersion": null
+  },
+  "ColourProperties": {
+    "General": "Dark brown, reddish brown to black.",
+    "Daylight": "",
+    "ChelseaFilter": "",
+    "CausesOfColour": "",
+    "Transparency": "Translucent,Opaque"
+  },
+  "FlouresenceProperties": {
+    "General": ""
+  },
+  "Crystallography": {
+    "CrystalSystem": "Isometric",
+    "Habit": "As trapezohedra and dodecahedra, up to 2 cm; more commonly massive."
+  },
+  "GeologicalEnvironment": {
+    "WhereFound": "Occurs principally in alkaline igneous rocks such as nepheline-syenite and related types; also in skarns."
+  },
+  "Inclusions": {
+    "Inclusions": "Occurs principally in alkaline igneous rocks such as nepheline-syenite and related types; also in skarns."
+  }
+}

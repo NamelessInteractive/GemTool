@@ -1,0 +1,70 @@
+{
+  "Name": "Chrome-Diopside",
+  "Description": "Chrome-Diopside is a chrome-bearing variety of Diopside with strong emerald green colour.",
+  "PhysicalProperties": {
+    "MohsHardness": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 5.0,
+          "Max": 6.0
+        }
+      ]
+    },
+    "SpecificGravity": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 3.22,
+          "Max": 3.4
+        }
+      ]
+    },
+    "Tenacity": "",
+    "CleavageQuality": "Distinct",
+    "Fracture": "Conchoidal",
+    "HeatSensitivity": ""
+  },
+  "OpticalProperties": {
+    "RefractiveIndex": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 1.668,
+          "Max": 1.703
+        }
+      ]
+    },
+    "Birefringence": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 0.024,
+          "Max": 0.03
+        }
+      ]
+    },
+    "Pleochroism": "",
+    "Dispersion": null
+  },
+  "ColourProperties": {
+    "General": "Emerald green",
+    "Daylight": "",
+    "ChelseaFilter": "Reddish",
+    "CausesOfColour": "Green, Cr3+ in octahedral coordination",
+    "Transparency": "Transparent"
+  },
+  "FlouresenceProperties": {
+    "General": ""
+  },
+  "Crystallography": {
+    "CrystalSystem": "Monoclinic",
+    "Habit": "Prismatic, massive"
+  },
+  "GeologicalEnvironment": {
+    "WhereFound": "Kimberlites and apoultramafic metasomatites Xenoliths in alkali basalts."
+  },
+  "Inclusions": {
+    "Inclusions": "Kimberlites and apoultramafic metasomatites Xenoliths in alkali basalts."
+  }
+}

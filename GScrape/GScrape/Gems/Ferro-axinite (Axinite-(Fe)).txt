@@ -1,0 +1,62 @@
+{
+  "Name": "Ferro-axinite (Axinite-(Fe))",
+  "Description": "Ferro-axinite is a clove-brown iron-rich member of Axinite group. Flawless crystals are rare, but they have rich colour and brilliance.",
+  "PhysicalProperties": {
+    "MohsHardness": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 6.5,
+          "Max": 7.0
+        }
+      ]
+    },
+    "SpecificGravity": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 3.25,
+          "Max": 3.28
+        }
+      ]
+    },
+    "Tenacity": "Brittle",
+    "CleavageQuality": "Distinct,Good",
+    "Fracture": "Uneven,Irregular,Conchoidal",
+    "HeatSensitivity": ""
+  },
+  "OpticalProperties": {
+    "RefractiveIndex": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 1.674,
+          "Max": 1.693
+        }
+      ]
+    },
+    "Birefringence": null,
+    "Pleochroism": "",
+    "Dispersion": null
+  },
+  "ColourProperties": {
+    "General": "Brown, clove-brown, plum blue, pearl gray",
+    "Daylight": "",
+    "ChelseaFilter": "",
+    "CausesOfColour": "",
+    "Transparency": "Transparent,Translucent"
+  },
+  "FlouresenceProperties": {
+    "General": ""
+  },
+  "Crystallography": {
+    "CrystalSystem": "Triclinic",
+    "Habit": "Crystals typically flattened, axe-head shaped, to 20 cm; granular, massive."
+  },
+  "GeologicalEnvironment": {
+    "WhereFound": "In low- to high-grade regionally metamorphosed rocks, in contact metamorphosed rocks, and in pegmatites."
+  },
+  "Inclusions": {
+    "Inclusions": "In low- to high-grade regionally metamorphosed rocks, in contact metamorphosed rocks, and in pegmatites."
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "Name": "Hypersthene",
+  "Description": "Hypersthene is named after Greek word for \"over strength\", alluding to its greater hardness than hornblende, a mineral with which it is often confused.\r\n\r\nWell-developed crystals are rare, the mineral is usually found as foliated masses.\r\n\r\nColour is brown, green or grey and the luster is vitreous to pearly. Hypersthene displays a brilliant copper-red metallic sheen or schiller on certain surfaces.",
+  "PhysicalProperties": {
+    "MohsHardness": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 5.0,
+          "Max": 6.0
+        }
+      ]
+    },
+    "SpecificGravity": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 3.45,
+          "Max": 3.55
+        }
+      ]
+    },
+    "Tenacity": "",
+    "CleavageQuality": "Distinct",
+    "Fracture": "",
+    "HeatSensitivity": ""
+  },
+  "OpticalProperties": {
+    "RefractiveIndex": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 1.673,
+          "Max": 1.731
+        }
+      ]
+    },
+    "Birefringence": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 0.016,
+          "Max": 0.016
+        }
+      ]
+    },
+    "Pleochroism": "Green stones - strong: (dark) bluish-green - brownish-red - (yellowish)",
+    "Dispersion": null
+  },
+  "ColourProperties": {
+    "General": "Black, black-brown, black-green",
+    "Daylight": "",
+    "ChelseaFilter": "",
+    "CausesOfColour": "",
+    "Transparency": "Transparent,Translucent,Opaque"
+  },
+  "FlouresenceProperties": {
+    "General": ""
+  },
+  "Crystallography": {
+    "CrystalSystem": "Orthorhombic",
+    "Habit": ""
+  },
+  "GeologicalEnvironment": {
+    "WhereFound": ""
+  },
+  "Inclusions": {
+    "Inclusions": "Black, black-brown, black-green"
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "Name": "Prasiolite",
+  "Description": "Prasiolite (Greek - leek-green stone) is a rare stone in nature. It can be produced artificially from violet amethyst or yellowish quartz by a combination of heat treatment and cobalt-60 or E-beam Gamma irradiation.\r\n\r\nIn sunlight, the colour commonly fades.",
+  "PhysicalProperties": {
+    "MohsHardness": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 7.0,
+          "Max": 7.0
+        }
+      ]
+    },
+    "SpecificGravity": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 2.65,
+          "Max": 2.65
+        }
+      ]
+    },
+    "Tenacity": "Brittle",
+    "CleavageQuality": "None",
+    "Fracture": "Conchoidal",
+    "HeatSensitivity": ""
+  },
+  "OpticalProperties": {
+    "RefractiveIndex": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 1.544,
+          "Max": 1.553
+        }
+      ]
+    },
+    "Birefringence": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 0.009,
+          "Max": 0.009
+        }
+      ]
+    },
+    "Pleochroism": "Very weak: light green - pale green",
+    "Dispersion": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 0.013,
+          "Max": 0.013
+        }
+      ]
+    }
+  },
+  "ColourProperties": {
+    "General": "Leek-green",
+    "Daylight": "",
+    "ChelseaFilter": "",
+    "CausesOfColour": "Green, Fe2+.",
+    "Transparency": "Transparent,Translucent,Opaque"
+  },
+  "FlouresenceProperties": {
+    "General": "None"
+  },
+  "Crystallography": {
+    "CrystalSystem": "Trigonal",
+    "Habit": "Hexagonal prisms"
+  },
+  "GeologicalEnvironment": {
+    "WhereFound": ""
+  },
+  "Inclusions": {
+    "Inclusions": "None"
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "Name": "Spessartine",
+  "Description": "The name is a derivative of Spessart in Bavaria, Germany, the type locality of the mineral.\r\n\r\nSpessartine is an orange to red-brown colour variety of Garnet.",
+  "PhysicalProperties": {
+    "MohsHardness": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 7.0,
+          "Max": 7.5
+        }
+      ]
+    },
+    "SpecificGravity": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 4.12,
+          "Max": 4.18
+        }
+      ]
+    },
+    "Tenacity": "Brittle",
+    "CleavageQuality": "None",
+    "Fracture": "Conchoidal",
+    "HeatSensitivity": ""
+  },
+  "OpticalProperties": {
+    "RefractiveIndex": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 1.789,
+          "Max": 1.82
+        }
+      ]
+    },
+    "Birefringence": null,
+    "Pleochroism": "",
+    "Dispersion": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 0.027,
+          "Max": 0.027
+        }
+      ]
+    }
+  },
+  "ColourProperties": {
+    "General": "Yellowish-orange, orange, orange-red, red, brownish-red",
+    "Daylight": "",
+    "ChelseaFilter": "",
+    "CausesOfColour": "Orange, Mn2+ in distorted cubic coordination",
+    "Transparency": "Transparent"
+  },
+  "FlouresenceProperties": {
+    "General": "Inert"
+  },
+  "Crystallography": {
+    "CrystalSystem": "Isometric",
+    "Habit": "Dodecahedral, trapezohedral"
+  },
+  "GeologicalEnvironment": {
+    "WhereFound": "Common in granite pegmatites, granites, and rhyolites. Formed in some skarns and metasomatic manganese-rich rocks adjacent to igneous intrusions or in regionally metasomatized areas."
+  },
+  "Inclusions": {
+    "Inclusions": "Common in granite pegmatites, granites, and rhyolites. Formed in some skarns and metasomatic manganese-rich rocks adjacent to igneous intrusions or in regionally metasomatized areas."
+  }
+}

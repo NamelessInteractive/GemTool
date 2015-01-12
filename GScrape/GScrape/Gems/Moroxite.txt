@@ -1,0 +1,70 @@
+{
+  "Name": "Moroxite",
+  "Description": "Moroxite is a bluish-green variety of Apatite, found originally at Arendal in Norway. The name is derived from a certain Greek word applied to a stone used by the Ancients in bleaching linen. Clear crystals of Moroxite have occasionally been cut and polished, but their softness renders them ill-suited for jewellery.",
+  "PhysicalProperties": {
+    "MohsHardness": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 5.0,
+          "Max": 0.0
+        }
+      ]
+    },
+    "SpecificGravity": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 3.13,
+          "Max": 3.26
+        }
+      ]
+    },
+    "Tenacity": "",
+    "CleavageQuality": "Fair",
+    "Fracture": "Conchoidal",
+    "HeatSensitivity": ""
+  },
+  "OpticalProperties": {
+    "RefractiveIndex": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 1.628,
+          "Max": 1.651
+        }
+      ]
+    },
+    "Birefringence": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 0.002,
+          "Max": 0.008
+        }
+      ]
+    },
+    "Pleochroism": "",
+    "Dispersion": null
+  },
+  "ColourProperties": {
+    "General": "Blue-green",
+    "Daylight": "",
+    "ChelseaFilter": "",
+    "CausesOfColour": "",
+    "Transparency": "Transparent"
+  },
+  "FlouresenceProperties": {
+    "General": ""
+  },
+  "Crystallography": {
+    "CrystalSystem": "Hexagonal",
+    "Habit": "Prismatic"
+  },
+  "GeologicalEnvironment": {
+    "WhereFound": ""
+  },
+  "Inclusions": {
+    "Inclusions": "Blue-green"
+  }
+}

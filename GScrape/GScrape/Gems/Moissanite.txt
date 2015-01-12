@@ -1,0 +1,78 @@
+{
+  "Name": "Moissanite",
+  "Description": "In gemology moissanite is classified as synthetic - although it is found in nature, but the natural crystals are of no practical importance because of their small size.\r\n\r\nThe natural mineral was first found as tiny crystals - small green platelets of silicon carbide, in iron meteorite fragments at Diablo Canyon in Arizona by Dr. Ferdinand H. Moissan. The mineral was named in his honour.\r\n\r\nSynthetic moissanite is a Diamond simulant. Most of the properties of diamond are quite well imitated, but moissanite may be detected easily by a gemmologist with simple equipment. Synthetic moissanite is often colourless, sometimes brown, green, yellow and blue but the colours are not very strong.",
+  "PhysicalProperties": {
+    "MohsHardness": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 9.0,
+          "Max": 9.5
+        }
+      ]
+    },
+    "SpecificGravity": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 3.17,
+          "Max": 3.24
+        }
+      ]
+    },
+    "Tenacity": "",
+    "CleavageQuality": "None",
+    "Fracture": "Conchoidal",
+    "HeatSensitivity": "May turn yellowish if heated (250 watt bulb)"
+  },
+  "OpticalProperties": {
+    "RefractiveIndex": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 2.648,
+          "Max": 2.691
+        }
+      ]
+    },
+    "Birefringence": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 0.043,
+          "Max": 0.043
+        }
+      ]
+    },
+    "Pleochroism": "Nil",
+    "Dispersion": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 0.104,
+          "Max": 0.104
+        }
+      ]
+    }
+  },
+  "ColourProperties": {
+    "General": "Colourless, greenish, yellowish",
+    "Daylight": "",
+    "ChelseaFilter": "",
+    "CausesOfColour": "",
+    "Transparency": "Transparent"
+  },
+  "FlouresenceProperties": {
+    "General": "Usually dark orange or light blue"
+  },
+  "Crystallography": {
+    "CrystalSystem": "Hexagonal",
+    "Habit": "Tabular"
+  },
+  "GeologicalEnvironment": {
+    "WhereFound": "A rare mineral: formed in an iron meteorite; as inclusions in diamond; in diamondiferous kimberlites and lamproites, and in eclogite; in volcanic breccias and rhyolite; in alluvium."
+  },
+  "Inclusions": {
+    "Inclusions": "A rare mineral: formed in an iron meteorite; as inclusions in diamond; in diamondiferous kimberlites and lamproites, and in eclogite; in volcanic breccias and rhyolite; in alluvium."
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "Name": "Ammolite",
+  "Description": "Ammolite is the fossilized shell of ammonites, which are composed primarily of aragonite or calcite.\r\n\r\nAmmolite is typically used to create doublets or triplets that are suitable for making durable jewelry.\r\n\r\nAmmolite is famous for its remarkably vivid play of colour, caused by lamellar structure of the glass-like shell.",
+  "PhysicalProperties": {
+    "MohsHardness": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 4.0,
+          "Max": 4.0
+        }
+      ]
+    },
+    "SpecificGravity": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 2.75,
+          "Max": 2.8
+        }
+      ]
+    },
+    "Tenacity": "",
+    "CleavageQuality": "",
+    "Fracture": "",
+    "HeatSensitivity": ""
+  },
+  "OpticalProperties": {
+    "RefractiveIndex": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 1.52,
+          "Max": 1.67
+        }
+      ]
+    },
+    "Birefringence": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 0.15,
+          "Max": 0.15
+        }
+      ]
+    },
+    "Pleochroism": "",
+    "Dispersion": null
+  },
+  "ColourProperties": {
+    "General": "Play-of-color - mostly red-green mosaic-like",
+    "Daylight": "",
+    "ChelseaFilter": "",
+    "CausesOfColour": "",
+    "Transparency": ""
+  },
+  "FlouresenceProperties": {
+    "General": "Common mustard yellow"
+  },
+  "Crystallography": {
+    "CrystalSystem": "",
+    "Habit": ""
+  },
+  "GeologicalEnvironment": {
+    "WhereFound": ""
+  },
+  "Inclusions": {
+    "Inclusions": "Common mustard yellow"
+  }
+}

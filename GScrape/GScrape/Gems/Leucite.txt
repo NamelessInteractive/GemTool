@@ -1,0 +1,78 @@
+{
+  "Name": "Leucite",
+  "Description": "Leucite is named after Greek \"leukos\" - white, alluding to its typical colour.\r\n\r\nCrystals are often twinned. Transparent facet rough is very rare.\r\n\r\nLeucite is a rare mineral, the volcanic lava of Mount Vesuvius in Italy is the principal source of this material.",
+  "PhysicalProperties": {
+    "MohsHardness": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 5.5,
+          "Max": 6.0
+        }
+      ]
+    },
+    "SpecificGravity": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 2.45,
+          "Max": 2.5
+        }
+      ]
+    },
+    "Tenacity": "",
+    "CleavageQuality": "Poor",
+    "Fracture": "Conchoidal",
+    "HeatSensitivity": ""
+  },
+  "OpticalProperties": {
+    "RefractiveIndex": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 1.504,
+          "Max": 1.51
+        }
+      ]
+    },
+    "Birefringence": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 0.0,
+          "Max": 0.001
+        }
+      ]
+    },
+    "Pleochroism": "",
+    "Dispersion": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 0.01,
+          "Max": 0.01
+        }
+      ]
+    }
+  },
+  "ColourProperties": {
+    "General": "Colourless, white, yellowish",
+    "Daylight": "",
+    "ChelseaFilter": "",
+    "CausesOfColour": "",
+    "Transparency": "Transparent"
+  },
+  "FlouresenceProperties": {
+    "General": ""
+  },
+  "Crystallography": {
+    "CrystalSystem": "Tetragonal",
+    "Habit": "Pseudo-cubic"
+  },
+  "GeologicalEnvironment": {
+    "WhereFound": "Occurs with potassium-rich mafic and ultramafic lavas"
+  },
+  "Inclusions": {
+    "Inclusions": "Occurs with potassium-rich mafic and ultramafic lavas"
+  }
+}

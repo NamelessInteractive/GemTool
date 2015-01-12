@@ -1,0 +1,70 @@
+{
+  "Name": "Rutile",
+  "Description": "Rutile is named after Latin \"rutilas\" - golden red, alluding to its common colour, especially in transmitted light.\r\n\r\nGolden-coloured rutile typically occurs in a slender acicular form. The small needles of rutile found in gems cause an optical phenomenon known as asterism. Asterated gems are known as \"star\" gems (Star sapphire, Star rubies, etc.).\r\n\r\nRutile has high refractive index and strong dispersion, it gives an adamantine lustre and a diamond-like appearance to its crystals.\r\n\r\nRutile crystals frequently form as elbow or cyclic twins.",
+  "PhysicalProperties": {
+    "MohsHardness": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 6.0,
+          "Max": 6.5
+        }
+      ]
+    },
+    "SpecificGravity": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 4.2,
+          "Max": 4.3
+        }
+      ]
+    },
+    "Tenacity": "",
+    "CleavageQuality": "Distinct",
+    "Fracture": "Sub-Conchoidal",
+    "HeatSensitivity": ""
+  },
+  "OpticalProperties": {
+    "RefractiveIndex": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 2.609,
+          "Max": 2.903
+        }
+      ]
+    },
+    "Birefringence": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 0.287,
+          "Max": 0.287
+        }
+      ]
+    },
+    "Pleochroism": "Strong",
+    "Dispersion": null
+  },
+  "ColourProperties": {
+    "General": "(Dark) yellowish brown, reddish brown, black",
+    "Daylight": "",
+    "ChelseaFilter": "",
+    "CausesOfColour": "Blue (synthetic rutile), Band transition due to the presence of Ti3+",
+    "Transparency": "Transparent,Translucent,Opaque"
+  },
+  "FlouresenceProperties": {
+    "General": "Inert"
+  },
+  "Crystallography": {
+    "CrystalSystem": "Tetragonal",
+    "Habit": "slender prismatic striated lengthways, variably terminated and often geniculate twinned crystals"
+  },
+  "GeologicalEnvironment": {
+    "WhereFound": "Rutile occurs as a common high-temperature, highpressure accessory mineral in igneous rocks and granite pegmatites and in regionally metamorphosed rocks including crystalline limestones. Rutile needles are common inclusions in a number of gem minerals."
+  },
+  "Inclusions": {
+    "Inclusions": "Rutile occurs as a common high-temperature, highpressure accessory mineral in igneous rocks and granite pegmatites and in regionally metamorphosed rocks including crystalline limestones. Rutile needles are common inclusions in a number of gem minerals."
+  }
+}

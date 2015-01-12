@@ -1,0 +1,54 @@
+{
+  "Name": "Romanèchite",
+  "Description": "Romanèchite is named after its discovery locality, at Romanèche (now Romanèche-Thorins), 20 km west of Villefranche, Saône-et-Loire, France.\r\n\r\nRomanèchite forms iron-black, dark steel-gray masses, crystals are very rare.\r\n\r\nRomanèchite is used for ornamental purposes.",
+  "PhysicalProperties": {
+    "MohsHardness": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 5.0,
+          "Max": 6.0
+        }
+      ]
+    },
+    "SpecificGravity": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 4.7,
+          "Max": 4.74
+        }
+      ]
+    },
+    "Tenacity": "",
+    "CleavageQuality": "",
+    "Fracture": "",
+    "HeatSensitivity": ""
+  },
+  "OpticalProperties": {
+    "RefractiveIndex": null,
+    "Birefringence": null,
+    "Pleochroism": "",
+    "Dispersion": null
+  },
+  "ColourProperties": {
+    "General": "Iron-black, dark steel-gray; gray-white in reflected light.",
+    "Daylight": "",
+    "ChelseaFilter": "",
+    "CausesOfColour": "",
+    "Transparency": "Opaque"
+  },
+  "FlouresenceProperties": {
+    "General": ""
+  },
+  "Crystallography": {
+    "CrystalSystem": "Monoclinic",
+    "Habit": "Euhedral crystals very rare, flat, ridged, to 200 µm; acicular to fibrous, divergent; commonly reniform, botryoidal, stalactitic, colloform banded; very fine-grained massive."
+  },
+  "GeologicalEnvironment": {
+    "WhereFound": "A product of weathering of manganese bearing oxides, carbonates, silicates; in sedimentary deposits; as replacement deposits in limestones and dolostones; a principal component of \"psilomelane\" and \"desert varnish\" (manganese oxide-rich coatings formed on rocks in arid regions); in some plume agates."
+  },
+  "Inclusions": {
+    "Inclusions": "A product of weathering of manganese bearing oxides, carbonates, silicates; in sedimentary deposits; as replacement deposits in limestones and dolostones; a principal component of \"psilomelane\" and \"desert varnish\" (manganese oxide-rich coatings formed on rocks in arid regions); in some plume agates."
+  }
+}

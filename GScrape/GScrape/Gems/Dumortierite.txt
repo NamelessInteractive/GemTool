@@ -1,0 +1,70 @@
+{
+  "Name": "Dumortierite",
+  "Description": "Dumortierite was named after French paleontologist E. Dumortier. It is widely used as ornamental stone in its massive form. The deep violet to blue colour stones can be cut into attractive cabochons.",
+  "PhysicalProperties": {
+    "MohsHardness": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 7.0,
+          "Max": 8.5
+        }
+      ]
+    },
+    "SpecificGravity": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 3.26,
+          "Max": 3.41
+        }
+      ]
+    },
+    "Tenacity": "",
+    "CleavageQuality": "Good",
+    "Fracture": "Conchoidal",
+    "HeatSensitivity": ""
+  },
+  "OpticalProperties": {
+    "RefractiveIndex": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 1.669,
+          "Max": 1.723
+        }
+      ]
+    },
+    "Birefringence": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 0.011,
+          "Max": 0.037
+        }
+      ]
+    },
+    "Pleochroism": "Strong trichroism for rare red-brown crystals: black - red brown - brown",
+    "Dispersion": null
+  },
+  "ColourProperties": {
+    "General": "Dark blue, violet-blue, red-brown, colourless",
+    "Daylight": "",
+    "ChelseaFilter": "",
+    "CausesOfColour": "",
+    "Transparency": "Translucent,Opaque"
+  },
+  "FlouresenceProperties": {
+    "General": "Weak; blue - blue-white - violet"
+  },
+  "Crystallography": {
+    "CrystalSystem": "Orthorhombic",
+    "Habit": "Commonly fibrous aggregate"
+  },
+  "GeologicalEnvironment": {
+    "WhereFound": "Dumortierite occurs in pegmatite veins or in aluminium-rich regionally metamorphosed rocks."
+  },
+  "Inclusions": {
+    "Inclusions": "Dumortierite occurs in pegmatite veins or in aluminium-rich regionally metamorphosed rocks."
+  }
+}

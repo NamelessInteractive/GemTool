@@ -1,0 +1,70 @@
+{
+  "Name": "Anatase",
+  "Description": "Anatase is named after Greek \"anatasis\" - extension, alluding to the greater length of the common pyramid as compared to other tetragonal minerals.\r\n\r\nAnatase is polymorphous with rutile and brookite. It is very similar to rutile in lustre, hardness and density, but differs in its crystal habit and cleavage. When exposed to high temperature anatase transforms into rutile.\r\n\r\nRare transparent specimens are faceted into brilliant gems.",
+  "PhysicalProperties": {
+    "MohsHardness": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 5.5,
+          "Max": 6.0
+        }
+      ]
+    },
+    "SpecificGravity": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 3.82,
+          "Max": 3.97
+        }
+      ]
+    },
+    "Tenacity": "",
+    "CleavageQuality": "Perfect",
+    "Fracture": "Sub-Conchoidal",
+    "HeatSensitivity": "Sensitive"
+  },
+  "OpticalProperties": {
+    "RefractiveIndex": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 2.488,
+          "Max": 2.562
+        }
+      ]
+    },
+    "Birefringence": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 0.073,
+          "Max": 0.073
+        }
+      ]
+    },
+    "Pleochroism": "Orange/brown stones - distinct: yellow - orange",
+    "Dispersion": null
+  },
+  "ColourProperties": {
+    "General": "Dark brown, colourless, yellow, blue, reddish, black.",
+    "Daylight": "",
+    "ChelseaFilter": "",
+    "CausesOfColour": "",
+    "Transparency": "Transparent,Translucent"
+  },
+  "FlouresenceProperties": {
+    "General": "Inert"
+  },
+  "Crystallography": {
+    "CrystalSystem": "Tetragonal",
+    "Habit": "Usually as bipyramids"
+  },
+  "GeologicalEnvironment": {
+    "WhereFound": "Anatase results from the alteration of other titanium-bearing minerals and is also found in hydrothermal veins."
+  },
+  "Inclusions": {
+    "Inclusions": "Anatase results from the alteration of other titanium-bearing minerals and is also found in hydrothermal veins."
+  }
+}

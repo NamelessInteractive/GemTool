@@ -1,0 +1,62 @@
+{
+  "Name": "Williamsite",
+  "Description": "Williamsite is a variety of Antigorite that has oil-green colour and is often included with black crystals of chromite or magnetite.\r\n\r\nWilliamsite is cut into cabochons and beads. It is also used as Jade simulant.",
+  "PhysicalProperties": {
+    "MohsHardness": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 4.0,
+          "Max": 4.0
+        }
+      ]
+    },
+    "SpecificGravity": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 2.51,
+          "Max": 2.63
+        }
+      ]
+    },
+    "Tenacity": "",
+    "CleavageQuality": "Perfect",
+    "Fracture": "Conchoidal,Splintery",
+    "HeatSensitivity": ""
+  },
+  "OpticalProperties": {
+    "RefractiveIndex": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 1.53,
+          "Max": 1.575
+        }
+      ]
+    },
+    "Birefringence": null,
+    "Pleochroism": "",
+    "Dispersion": null
+  },
+  "ColourProperties": {
+    "General": "Intense green",
+    "Daylight": "",
+    "ChelseaFilter": "",
+    "CausesOfColour": "Green, Cr3+ around chromite inclusions",
+    "Transparency": "Translucent"
+  },
+  "FlouresenceProperties": {
+    "General": ""
+  },
+  "Crystallography": {
+    "CrystalSystem": "Monoclinic",
+    "Habit": ""
+  },
+  "GeologicalEnvironment": {
+    "WhereFound": ""
+  },
+  "Inclusions": {
+    "Inclusions": "Weak whitish-green"
+  }
+}

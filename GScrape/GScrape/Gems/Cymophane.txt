@@ -1,0 +1,62 @@
+{
+  "Name": "Cymophane",
+  "Description": "Cymophane has its derivation also from the Greek words meaning 'wave' and 'appearance', in reference to the chatoyancy sometimes exhibited.\r\n\r\nCymophane is an opalescent variety of Chrysoberyl. It exhibits a bluish (or yellowish according to other sources) chatoyancy which is caused by microscopic tube-like cavities or needle-like inclusions of rutile in an orientation parallel to the c-axis.",
+  "PhysicalProperties": {
+    "MohsHardness": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 8.5,
+          "Max": 8.5
+        }
+      ]
+    },
+    "SpecificGravity": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 3.69,
+          "Max": 3.81
+        }
+      ]
+    },
+    "Tenacity": "",
+    "CleavageQuality": "",
+    "Fracture": "",
+    "HeatSensitivity": ""
+  },
+  "OpticalProperties": {
+    "RefractiveIndex": null,
+    "Birefringence": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 0.007,
+          "Max": 0.013
+        }
+      ]
+    },
+    "Pleochroism": "",
+    "Dispersion": null
+  },
+  "ColourProperties": {
+    "General": "Yellow, green",
+    "Daylight": "",
+    "ChelseaFilter": "",
+    "CausesOfColour": "",
+    "Transparency": "Transparent,Translucent"
+  },
+  "FlouresenceProperties": {
+    "General": ""
+  },
+  "Crystallography": {
+    "CrystalSystem": "Orthorhombic",
+    "Habit": ""
+  },
+  "GeologicalEnvironment": {
+    "WhereFound": ""
+  },
+  "Inclusions": {
+    "Inclusions": "Yellow, green"
+  }
+}

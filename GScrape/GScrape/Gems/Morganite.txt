@@ -1,0 +1,70 @@
+{
+  "Name": "Morganite",
+  "Description": "Morganite is named after the American banker and collector J.P Morgan.\r\n\r\nMorganite, also known as \"pink beryl\", \"rose beryl\", \"pink emerald\", and \"cesian (or caesian) beryl\", is a rare light pink to rose-coloured gem-quality variety of beryl. Orange/yellow varieties of morganite can also be found, and colour banding is common.\r\n\r\nThe pink colour of Morganite is unstable and fades when heated to 500°C. The colour can be restored by radioactive bombardment.",
+  "PhysicalProperties": {
+    "MohsHardness": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 7.5,
+          "Max": 8.0
+        }
+      ]
+    },
+    "SpecificGravity": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 2.71,
+          "Max": 2.9
+        }
+      ]
+    },
+    "Tenacity": "",
+    "CleavageQuality": "",
+    "Fracture": "",
+    "HeatSensitivity": ""
+  },
+  "OpticalProperties": {
+    "RefractiveIndex": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 1.573,
+          "Max": 1.6
+        }
+      ]
+    },
+    "Birefringence": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 0.005,
+          "Max": 0.009
+        }
+      ]
+    },
+    "Pleochroism": "Distinct: pale pink - bluish-pink",
+    "Dispersion": null
+  },
+  "ColourProperties": {
+    "General": "Soft pink to violet, also salmon-colored.",
+    "Daylight": "",
+    "ChelseaFilter": "",
+    "CausesOfColour": "Pink, Mn2+ in octahedral coordination",
+    "Transparency": ""
+  },
+  "FlouresenceProperties": {
+    "General": "Inert to weak pink to purplish"
+  },
+  "Crystallography": {
+    "CrystalSystem": "Hexagonal",
+    "Habit": "Crystals are short-prismatic to thick-tabular form."
+  },
+  "GeologicalEnvironment": {
+    "WhereFound": ""
+  },
+  "Inclusions": {
+    "Inclusions": "Inert to weak pink to purplish"
+  }
+}

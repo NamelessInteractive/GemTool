@@ -1,0 +1,38 @@
+{
+  "Name": "Dendritic Agate",
+  "Description": "Dendritic Agate is a colourless or white-grey, translucent Chalcedony with tree- or fern-like inclusions - dendrites (from Greek - tree-like). The dendrites are iron or manganese inclusions of brown or black colour.",
+  "PhysicalProperties": {
+    "MohsHardness": null,
+    "SpecificGravity": null,
+    "Tenacity": "",
+    "CleavageQuality": "",
+    "Fracture": "",
+    "HeatSensitivity": ""
+  },
+  "OpticalProperties": {
+    "RefractiveIndex": null,
+    "Birefringence": null,
+    "Pleochroism": "",
+    "Dispersion": null
+  },
+  "ColourProperties": {
+    "General": "Colourless or whitish-grey body with black or brown tree- or fern-like markings.",
+    "Daylight": "",
+    "ChelseaFilter": "",
+    "CausesOfColour": "",
+    "Transparency": "Translucent"
+  },
+  "FlouresenceProperties": {
+    "General": ""
+  },
+  "Crystallography": {
+    "CrystalSystem": "",
+    "Habit": ""
+  },
+  "GeologicalEnvironment": {
+    "WhereFound": ""
+  },
+  "Inclusions": {
+    "Inclusions": "Colourless or whitish-grey body with black or brown tree- or fern-like markings."
+  }
+}

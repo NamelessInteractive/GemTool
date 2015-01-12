@@ -1,0 +1,54 @@
+{
+  "Name": "Jasper",
+  "Description": "Jasper is usually considered as Chalcedony; sometimes, however, scientists put it in a group by itself within the quartz group because of its grainy structure.\r\n\r\nThe name jasper is derived from the Greek and means \"spotted stone\".\r\n\r\nThe finely grained, dense jasper contains up to 20 percent foreign materials, which determine its colour, streak, and appearance. Uniformly colored jasper is rare, usually it is multicolored, striped, or flamed. Sometimes jasper can be grown together with agate or opal. There is also some fossilized material.",
+  "PhysicalProperties": {
+    "MohsHardness": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 6.5,
+          "Max": 7.0
+        }
+      ]
+    },
+    "SpecificGravity": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 2.58,
+          "Max": 2.91
+        }
+      ]
+    },
+    "Tenacity": "",
+    "CleavageQuality": "None",
+    "Fracture": "Conchoidal,Splintery",
+    "HeatSensitivity": ""
+  },
+  "OpticalProperties": {
+    "RefractiveIndex": null,
+    "Birefringence": null,
+    "Pleochroism": "Absent",
+    "Dispersion": null
+  },
+  "ColourProperties": {
+    "General": "All colors, mostly striped or spotted.",
+    "Daylight": "",
+    "ChelseaFilter": "",
+    "CausesOfColour": "Orange to red, submicroscopic to microscopic inclusions of hydrous Fe oxides",
+    "Transparency": "Opaque"
+  },
+  "FlouresenceProperties": {
+    "General": "None"
+  },
+  "Crystallography": {
+    "CrystalSystem": "Trigonal",
+    "Habit": "Microcrystalline aggregate"
+  },
+  "GeologicalEnvironment": {
+    "WhereFound": "Occurs as extensive beds of sedimentary or metamorphic origin. Jasper occurs as a cavity filling or as nodules or veins in iron ores. It occurs in altered igneous rocks and in detrital deposits. It may occur in variegated red to brown colours as a petrifying agent of wood."
+  },
+  "Inclusions": {
+    "Inclusions": "Occurs as extensive beds of sedimentary or metamorphic origin. Jasper occurs as a cavity filling or as nodules or veins in iron ores. It occurs in altered igneous rocks and in detrital deposits. It may occur in variegated red to brown colours as a petrifying agent of wood."
+  }
+}

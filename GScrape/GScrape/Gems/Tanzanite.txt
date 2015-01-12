@@ -1,0 +1,78 @@
+{
+  "Name": "Tanzanite",
+  "Description": "Tanzanite is called after the East African state of Tanzania, it was discovered in the Mererani Hills of Northern Tanzania in 1967.\r\n\r\nTanzanite is the blue-purple variety of Zoisite, it is noted for its remarkably strong trichroism, appearing sapphire blue, violet and burgundy depending on the position of crystal. Tanzanite also appears differently when viewed under alternate lighting conditions. In good quality the colour is ultramarine to sapphire blue; in artificial light, it appears more amethyst violet.\r\n\r\nTanzanite is universally heat treated to produce a range of hues between bluish-violet to violetish-blue, it has no effect on price.",
+  "PhysicalProperties": {
+    "MohsHardness": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 6.5,
+          "Max": 7.0
+        }
+      ]
+    },
+    "SpecificGravity": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 3.35,
+          "Max": 3.35
+        }
+      ]
+    },
+    "Tenacity": "Brittle",
+    "CleavageQuality": "Perfect",
+    "Fracture": "Uneven",
+    "HeatSensitivity": ""
+  },
+  "OpticalProperties": {
+    "RefractiveIndex": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 1.685,
+          "Max": 1.707
+        }
+      ]
+    },
+    "Birefringence": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 0.006,
+          "Max": 0.013
+        }
+      ]
+    },
+    "Pleochroism": "Violet/purple stones - strong trichroism: strong blue - purple - greenish (to brownish) yellow; Blue stones - strong: strong blue - purple - greenish-yellow",
+    "Dispersion": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 0.03,
+          "Max": 0.03
+        }
+      ]
+    }
+  },
+  "ColourProperties": {
+    "General": "Sapphire blue, amethyst, violet",
+    "Daylight": "",
+    "ChelseaFilter": "",
+    "CausesOfColour": "Blue, (heat treated), V4+ in octahedral coordination; with V3+ in octahedral coordination. Brown-violet, V3+ in octahedral coordination (treatment turns blue). Green, Cr3+ in octahedral coordination.",
+    "Transparency": "Transparent"
+  },
+  "FlouresenceProperties": {
+    "General": "Inert"
+  },
+  "Crystallography": {
+    "CrystalSystem": "Orthorhombic",
+    "Habit": "Multifaced prisms, mostly striated"
+  },
+  "GeologicalEnvironment": {
+    "WhereFound": "Tanzanite occurs in calcareous rocks,\r\nincluding metamorphosed dolomite and calcareous shales subjected to regional metamorphism."
+  },
+  "Inclusions": {
+    "Inclusions": "Tanzanite occurs in calcareous rocks,\r\nincluding metamorphosed dolomite and calcareous shales subjected to regional metamorphism."
+  }
+}

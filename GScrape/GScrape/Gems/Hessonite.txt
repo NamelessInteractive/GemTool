@@ -1,0 +1,62 @@
+{
+  "Name": "Hessonite",
+  "Description": "Hessonite, also known as the 'cinnamon stone', is a golden orange variety of grossular garnet.",
+  "PhysicalProperties": {
+    "MohsHardness": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 7.0,
+          "Max": 7.5
+        }
+      ]
+    },
+    "SpecificGravity": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 3.55,
+          "Max": 3.73
+        }
+      ]
+    },
+    "Tenacity": "",
+    "CleavageQuality": "",
+    "Fracture": "Uneven,Conchoidal",
+    "HeatSensitivity": ""
+  },
+  "OpticalProperties": {
+    "RefractiveIndex": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 1.742,
+          "Max": 1.748
+        }
+      ]
+    },
+    "Birefringence": null,
+    "Pleochroism": "",
+    "Dispersion": null
+  },
+  "ColourProperties": {
+    "General": "Brownish, brownish-yellow, orange-red, brown, yellow",
+    "Daylight": "",
+    "ChelseaFilter": "",
+    "CausesOfColour": "Orange, Mn2+ in distorted cubic coordination, Fe3+",
+    "Transparency": "Transparent"
+  },
+  "FlouresenceProperties": {
+    "General": "Inert"
+  },
+  "Crystallography": {
+    "CrystalSystem": "Isometric",
+    "Habit": ""
+  },
+  "GeologicalEnvironment": {
+    "WhereFound": ""
+  },
+  "Inclusions": {
+    "Inclusions": "Inert"
+  }
+}

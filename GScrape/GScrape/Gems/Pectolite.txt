@@ -1,0 +1,70 @@
+{
+  "Name": "Pectolite",
+  "Description": "Pectolite is named after Greek \"pektos\" - well put together, alluding to its compact structure.\r\n\r\nPectolite usually occurs as translucent globular masses or crystals showing tabular habit. The material is colourless, white, bluish, greenish.\r\n\r\nMassive pectolite from the Dominican Republic of light blue to sky-blue colour may be offered as a turquoise substitute under the trade name Larimar. Pectolite from Alaska has been used as a jade substitute.",
+  "PhysicalProperties": {
+    "MohsHardness": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 4.5,
+          "Max": 5.0
+        }
+      ]
+    },
+    "SpecificGravity": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 2.74,
+          "Max": 2.9
+        }
+      ]
+    },
+    "Tenacity": "Brittle",
+    "CleavageQuality": "Perfect",
+    "Fracture": "Splintery",
+    "HeatSensitivity": ""
+  },
+  "OpticalProperties": {
+    "RefractiveIndex": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 1.595,
+          "Max": 1.645
+        }
+      ]
+    },
+    "Birefringence": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 0.028,
+          "Max": 0.038
+        }
+      ]
+    },
+    "Pleochroism": "Nil",
+    "Dispersion": null
+  },
+  "ColourProperties": {
+    "General": "Light blue, light green, colourless, gray.",
+    "Daylight": "",
+    "ChelseaFilter": "",
+    "CausesOfColour": "Blue, Cu2+ in octahedral coordination",
+    "Transparency": "Transparent,Translucent"
+  },
+  "FlouresenceProperties": {
+    "General": ""
+  },
+  "Crystallography": {
+    "CrystalSystem": "Triclinic",
+    "Habit": "Globular masses, the rarer crystals showing tabular habit"
+  },
+  "GeologicalEnvironment": {
+    "WhereFound": "Occurs in nepheline syenites."
+  },
+  "Inclusions": {
+    "Inclusions": "Occurs in nepheline syenites."
+  }
+}

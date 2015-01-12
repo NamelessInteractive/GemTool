@@ -1,0 +1,78 @@
+{
+  "Name": "Cerussite",
+  "Description": "Cerussite is named after Latin \"cerussa\" meaning \"white lead\", an ancient term for artificial lead carbonate.\r\n\r\nCerussite is usually transparent to translucent, colourless or white, sometimes has gray, brownish or greenish tint. The mineral occurs as compact granular masses, and sometimes in fibrous forms. Very bright crystals are often.\r\n\r\nCerussite is frequently twinned: elbow- or chevron-shaped twins, cyclic twins and reticulated twins. Three crystals are often twinned together to produce six-rayed stellate groups with the individual crystals crossing at a 60°angle.",
+  "PhysicalProperties": {
+    "MohsHardness": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 3.0,
+          "Max": 3.5
+        }
+      ]
+    },
+    "SpecificGravity": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 6.46,
+          "Max": 6.57
+        }
+      ]
+    },
+    "Tenacity": "Brittle",
+    "CleavageQuality": "Good",
+    "Fracture": "Uneven,Conchoidal",
+    "HeatSensitivity": "High"
+  },
+  "OpticalProperties": {
+    "RefractiveIndex": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 1.803,
+          "Max": 2.078
+        }
+      ]
+    },
+    "Birefringence": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 0.274,
+          "Max": 0.274
+        }
+      ]
+    },
+    "Pleochroism": "Absent",
+    "Dispersion": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 0.055,
+          "Max": 0.055
+        }
+      ]
+    }
+  },
+  "ColourProperties": {
+    "General": "White, brownish, gray, black, blue-green, colourless",
+    "Daylight": "",
+    "ChelseaFilter": "",
+    "CausesOfColour": "",
+    "Transparency": "Transparent,Translucent,Opaque"
+  },
+  "FlouresenceProperties": {
+    "General": "Yellow, pink, green, bluish"
+  },
+  "Crystallography": {
+    "CrystalSystem": "Orthorhombic",
+    "Habit": "Tabular, columnar"
+  },
+  "GeologicalEnvironment": {
+    "WhereFound": "It is found in the oxidation zone of lead deposits, usually in association with galena and other ore minerals."
+  },
+  "Inclusions": {
+    "Inclusions": "It is found in the oxidation zone of lead deposits, usually in association with galena and other ore minerals."
+  }
+}

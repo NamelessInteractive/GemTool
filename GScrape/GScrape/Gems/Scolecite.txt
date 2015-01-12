@@ -1,0 +1,70 @@
+{
+  "Name": "Scolecite",
+  "Description": "Scolecite is named after Greek \"skolex\" - worm, because the borax bead containing the mineral in some cases curls up like a worm in the blowpipe flame.\r\n\r\nScolecite forms pyroelectric and piezoelectric colourless to white slender crystals.",
+  "PhysicalProperties": {
+    "MohsHardness": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 5.0,
+          "Max": 5.5
+        }
+      ]
+    },
+    "SpecificGravity": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 2.2,
+          "Max": 2.23
+        }
+      ]
+    },
+    "Tenacity": "Brittle",
+    "CleavageQuality": "Perfect",
+    "Fracture": "Uneven",
+    "HeatSensitivity": ""
+  },
+  "OpticalProperties": {
+    "RefractiveIndex": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 1.512,
+          "Max": 1.523
+        }
+      ]
+    },
+    "Birefringence": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 0.011,
+          "Max": 0.011
+        }
+      ]
+    },
+    "Pleochroism": "",
+    "Dispersion": null
+  },
+  "ColourProperties": {
+    "General": "Colourless, white",
+    "Daylight": "",
+    "ChelseaFilter": "",
+    "CausesOfColour": "",
+    "Transparency": "Transparent,Translucent,Opaque"
+  },
+  "FlouresenceProperties": {
+    "General": "There may be a yellow to brown fluorescence"
+  },
+  "Crystallography": {
+    "CrystalSystem": "Monoclinic",
+    "Habit": "Pseudotetragonal"
+  },
+  "GeologicalEnvironment": {
+    "WhereFound": "Scolecite occurs with other zeolites primarily as a cavity mineral in basalts."
+  },
+  "Inclusions": {
+    "Inclusions": "Scolecite occurs with other zeolites primarily as a cavity mineral in basalts."
+  }
+}

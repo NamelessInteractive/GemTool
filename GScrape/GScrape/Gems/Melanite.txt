@@ -1,0 +1,70 @@
+{
+  "Name": "Melanite",
+  "Description": "Opaque, black variety (Greek - black) of Andradite, referred to as \"titanian andradite\".\r\n\r\nMelanite forms jet-black crystals with subadamantine to vitreous lustre. The material has been faceted",
+  "PhysicalProperties": {
+    "MohsHardness": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 6.5,
+          "Max": 7.0
+        }
+      ]
+    },
+    "SpecificGravity": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 3.7,
+          "Max": 4.1
+        }
+      ]
+    },
+    "Tenacity": "",
+    "CleavageQuality": "None",
+    "Fracture": "Conchoidal",
+    "HeatSensitivity": ""
+  },
+  "OpticalProperties": {
+    "RefractiveIndex": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 1.855,
+          "Max": 1.895
+        }
+      ]
+    },
+    "Birefringence": null,
+    "Pleochroism": "",
+    "Dispersion": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 0.057,
+          "Max": 0.057
+        }
+      ]
+    }
+  },
+  "ColourProperties": {
+    "General": "Jet-black",
+    "Daylight": "",
+    "ChelseaFilter": "",
+    "CausesOfColour": "Black, various charge transfer processes and dispersed ion absorption involving Fe and Ti.",
+    "Transparency": "Translucent,Opaque"
+  },
+  "FlouresenceProperties": {
+    "General": ""
+  },
+  "Crystallography": {
+    "CrystalSystem": "Isometric",
+    "Habit": "Dodecahedral, trapezohedral"
+  },
+  "GeologicalEnvironment": {
+    "WhereFound": ""
+  },
+  "Inclusions": {
+    "Inclusions": "Jet-black"
+  }
+}

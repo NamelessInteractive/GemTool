@@ -1,0 +1,62 @@
+{
+  "Name": "Hercynite",
+  "Description": "Hercynite is named after Silva Hercynia, the Latin name for the Bohemian Forest, where the mineral was discovered.\r\n\r\nHercynite is a mineral of spinel group. It forms dark blue-green, yellow, brown crystals with vitreous lustre.",
+  "PhysicalProperties": {
+    "MohsHardness": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 7.5,
+          "Max": 8.0
+        }
+      ]
+    },
+    "SpecificGravity": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 4.39,
+          "Max": 4.39
+        }
+      ]
+    },
+    "Tenacity": "Brittle",
+    "CleavageQuality": "",
+    "Fracture": "Conchoidal",
+    "HeatSensitivity": ""
+  },
+  "OpticalProperties": {
+    "RefractiveIndex": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 1.8,
+          "Max": 1.83
+        }
+      ]
+    },
+    "Birefringence": null,
+    "Pleochroism": "",
+    "Dispersion": null
+  },
+  "ColourProperties": {
+    "General": "Dark blue-green, yellow, brown",
+    "Daylight": "",
+    "ChelseaFilter": "",
+    "CausesOfColour": "",
+    "Transparency": "Translucent,Opaque"
+  },
+  "FlouresenceProperties": {
+    "General": ""
+  },
+  "Crystallography": {
+    "CrystalSystem": "Isometric",
+    "Habit": "Crystals usually octahedral"
+  },
+  "GeologicalEnvironment": {
+    "WhereFound": "In high-grade metamorphosed ferruginous argillaceous sediments and in some mafic and ultramafic igneous rocks. Also in placers."
+  },
+  "Inclusions": {
+    "Inclusions": "In high-grade metamorphosed ferruginous argillaceous sediments and in some mafic and ultramafic igneous rocks. Also in placers."
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "Name": "Tektite",
+  "Description": "Tektite is a natural glass formed from a meteorite impact melting the local rock.\r\n\r\nMany varietal names are given to Tektites from different localities.\r\n\r\nMoldavites are oval or spherical specimens of pale or bottle-green colour with few included bubbles and less obviously flattened from the Radomilice area of southern Bohemia, Czech Republic.\r\n\r\nBikolite is a name given to Tektites from the Bikol area of the Philippines.\r\n\r\nAustralites are button-shaped glass pieces found in South Australia and Tasmania. Billitonites are dark brown specimens found on Billiton Island between Sumatra and Borneo.\r\n\r\nDarwinites or Queenstownites are silica-rich and alumina-poor colourless to olive green to black specimens from Jukes-Darwin field near Queenstown, Tasmania.\r\n\r\nTektites can be distinguished from the much more abundant volcanic glasses (obsidian) by their negligible water content. A small splinter of tektite will fuse quietly in a flame to a droplet of glass, whereas a splinter of obsidian will froth up and expand in a flame owing to its small water content turning into steam.",
+  "PhysicalProperties": {
+    "MohsHardness": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 5.5,
+          "Max": 0.0
+        }
+      ]
+    },
+    "SpecificGravity": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 2.34,
+          "Max": 2.51
+        }
+      ]
+    },
+    "Tenacity": "",
+    "CleavageQuality": "",
+    "Fracture": "",
+    "HeatSensitivity": ""
+  },
+  "OpticalProperties": {
+    "RefractiveIndex": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 1.49,
+          "Max": 1.52
+        }
+      ]
+    },
+    "Birefringence": null,
+    "Pleochroism": "",
+    "Dispersion": null
+  },
+  "ColourProperties": {
+    "General": "Green",
+    "Daylight": "",
+    "ChelseaFilter": "",
+    "CausesOfColour": "Yellowish green, Fe2+ in octahedral coordination. Brown Fe3+ in octahedral coordination",
+    "Transparency": ""
+  },
+  "FlouresenceProperties": {
+    "General": ""
+  },
+  "Crystallography": {
+    "CrystalSystem": "Amorphous",
+    "Habit": ""
+  },
+  "GeologicalEnvironment": {
+    "WhereFound": ""
+  },
+  "Inclusions": {
+    "Inclusions": "Green"
+  }
+}

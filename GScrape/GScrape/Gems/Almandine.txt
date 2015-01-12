@@ -1,0 +1,70 @@
+{
+  "Name": "Almandine",
+  "Description": "A species of mineral belonging to the Garnet group. The name derived from the town Alabanda, Caria in Asia Minor. Almandine is an iron alumina Garnet, of deep red color, inclining to purple.",
+  "PhysicalProperties": {
+    "MohsHardness": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 7.0,
+          "Max": 7.5
+        }
+      ]
+    },
+    "SpecificGravity": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 3.95,
+          "Max": 4.3
+        }
+      ]
+    },
+    "Tenacity": "Brittle",
+    "CleavageQuality": "Indistinct",
+    "Fracture": "Conchoidal",
+    "HeatSensitivity": ""
+  },
+  "OpticalProperties": {
+    "RefractiveIndex": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 1.77,
+          "Max": 1.82
+        }
+      ]
+    },
+    "Birefringence": null,
+    "Pleochroism": "Absent",
+    "Dispersion": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 0.027,
+          "Max": 0.027
+        }
+      ]
+    }
+  },
+  "ColourProperties": {
+    "General": "Red, violet-red",
+    "Daylight": "",
+    "ChelseaFilter": "",
+    "CausesOfColour": "Red, Fe2+ in distorted cubic coordination",
+    "Transparency": "Transparent"
+  },
+  "FlouresenceProperties": {
+    "General": "Inert"
+  },
+  "Crystallography": {
+    "CrystalSystem": "Isometric",
+    "Habit": "Trapezohedral, dodecahedral"
+  },
+  "GeologicalEnvironment": {
+    "WhereFound": ""
+  },
+  "Inclusions": {
+    "Inclusions": "Inert"
+  }
+}

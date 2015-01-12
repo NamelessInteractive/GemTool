@@ -1,0 +1,70 @@
+{
+  "Name": "Andradite",
+  "Description": "Andradite is a species of the garnet group. It was named after the Brazilian mineralogist José Bonifácio de Andrade e Silva (1763–1838).",
+  "PhysicalProperties": {
+    "MohsHardness": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 6.5,
+          "Max": 7.0
+        }
+      ]
+    },
+    "SpecificGravity": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 3.7,
+          "Max": 4.1
+        }
+      ]
+    },
+    "Tenacity": "",
+    "CleavageQuality": "None",
+    "Fracture": "Conchoidal",
+    "HeatSensitivity": ""
+  },
+  "OpticalProperties": {
+    "RefractiveIndex": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 1.88,
+          "Max": 1.94
+        }
+      ]
+    },
+    "Birefringence": null,
+    "Pleochroism": "",
+    "Dispersion": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 0.057,
+          "Max": 0.057
+        }
+      ]
+    }
+  },
+  "ColourProperties": {
+    "General": "Black, colourless, green, yellow-green, yellow",
+    "Daylight": "",
+    "ChelseaFilter": "",
+    "CausesOfColour": "Yellow-green, Fe3+ in octahedral coordination. Green (demantoid), Cr3+ in octahedral coordination. Yellow (topazolite), to black (melanite), various charge transfer processes and dispersed ion absorption involving Fe and Ti. Multicolors, diffraction",
+    "Transparency": "Transparent,Translucent"
+  },
+  "FlouresenceProperties": {
+    "General": "Inert"
+  },
+  "Crystallography": {
+    "CrystalSystem": "Isometric",
+    "Habit": "Dodecahedral, trapezohedral"
+  },
+  "GeologicalEnvironment": {
+    "WhereFound": "In skarns from contact metamorphosed impure limestones or calcic igneous rocks; in chlorite schists and serpentinites; in alkalic igneous rocks, then typically titaniferous."
+  },
+  "Inclusions": {
+    "Inclusions": "In skarns from contact metamorphosed impure limestones or calcic igneous rocks; in chlorite schists and serpentinites; in alkalic igneous rocks, then typically titaniferous."
+  }
+}

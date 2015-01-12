@@ -1,0 +1,70 @@
+{
+  "Name": "Crocoite",
+  "Description": "Crocoite was named crocoise in 1832, from the Greek \"krokos\" - saffron, in allusion to its colour. The name was first altered to crocoisite and afterwards to crocoite. It was discovered at Berezovsky deposit near Ekaterinburg in the Urals in 1766.\r\n\r\nCrocoite is commonly found as well-developed crystals of a bright hyacinth-red, orange, or yellow colour, near transparent to translucent, and have an adamantine to vitreous lustre.\r\n\r\nThe material is brittle, has good cleavage and very sensitive to heat. Transparent crystals of crocoite have been faceted into brilliant stones for collectors.",
+  "PhysicalProperties": {
+    "MohsHardness": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 2.5,
+          "Max": 3.0
+        }
+      ]
+    },
+    "SpecificGravity": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 5.9,
+          "Max": 6.1
+        }
+      ]
+    },
+    "Tenacity": "",
+    "CleavageQuality": "Distinct",
+    "Fracture": "Conchoidal",
+    "HeatSensitivity": ""
+  },
+  "OpticalProperties": {
+    "RefractiveIndex": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 2.31,
+          "Max": 2.66
+        }
+      ]
+    },
+    "Birefringence": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 0.35,
+          "Max": 0.35
+        }
+      ]
+    },
+    "Pleochroism": "Distinctly trichroic",
+    "Dispersion": null
+  },
+  "ColourProperties": {
+    "General": "Yellowish-red, orange",
+    "Daylight": "",
+    "ChelseaFilter": "",
+    "CausesOfColour": "Yellow to red, O2-→Cr6+ charge transfer",
+    "Transparency": "Transparent,Translucent"
+  },
+  "FlouresenceProperties": {
+    "General": "A reddish to dark-brown fluorescence may sometimes be seen"
+  },
+  "Crystallography": {
+    "CrystalSystem": "Monoclinic",
+    "Habit": "Prismatic"
+  },
+  "GeologicalEnvironment": {
+    "WhereFound": "It is found in the oxidized zone of lead deposits in association with chromium-bearing rocks."
+  },
+  "Inclusions": {
+    "Inclusions": "It is found in the oxidized zone of lead deposits in association with chromium-bearing rocks."
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "Name": "Jeremejevite",
+  "Description": "Jeremejevite is named after P.V. Jeremejev, Russian mineralogist and engineer, who first recognized the mineral.\r\n\r\nJeremejevite forms pale blue-green, cornflower-blue, brown or colourless transparent crystals, usually zoned in light hues.\r\n\r\nMost gem material comes from Namibia. Jeremejevite produces attractive colourless, yellowish and blue faceted stones which rarely exceed 1 carat in weight.",
+  "PhysicalProperties": {
+    "MohsHardness": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 6.5,
+          "Max": 7.5
+        }
+      ]
+    },
+    "SpecificGravity": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 3.28,
+          "Max": 3.31
+        }
+      ]
+    },
+    "Tenacity": "",
+    "CleavageQuality": "None",
+    "Fracture": "Conchoidal",
+    "HeatSensitivity": ""
+  },
+  "OpticalProperties": {
+    "RefractiveIndex": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 1.638,
+          "Max": 1.65
+        }
+      ]
+    },
+    "Birefringence": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 0.007,
+          "Max": 0.009
+        }
+      ]
+    },
+    "Pleochroism": "Dichroism: colorless - body color",
+    "Dispersion": null
+  },
+  "ColourProperties": {
+    "General": "Colourless, yellow, blue, violet",
+    "Daylight": "",
+    "ChelseaFilter": "",
+    "CausesOfColour": "",
+    "Transparency": "Transparent"
+  },
+  "FlouresenceProperties": {
+    "General": "Inert"
+  },
+  "Crystallography": {
+    "CrystalSystem": "Hexagonal",
+    "Habit": "Hexagonal prisms, sometimes tapered with vicinal forms and with pyramidal terminations"
+  },
+  "GeologicalEnvironment": {
+    "WhereFound": "A rare late hydrothermal mineral formed in granite pegmatites"
+  },
+  "Inclusions": {
+    "Inclusions": "A rare late hydrothermal mineral formed in granite pegmatites"
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "Name": "Pyrope",
+  "Description": "Pyrope is the only member of the garnet family to always display red coloration in natural samples, and it is from this characteristic that it gets its name: from the Greek for fire and eye.",
+  "PhysicalProperties": {
+    "MohsHardness": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 7.0,
+          "Max": 7.5
+        }
+      ]
+    },
+    "SpecificGravity": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 3.62,
+          "Max": 3.87
+        }
+      ]
+    },
+    "Tenacity": "Brittle",
+    "CleavageQuality": "Indistinct",
+    "Fracture": "Conchoidal",
+    "HeatSensitivity": ""
+  },
+  "OpticalProperties": {
+    "RefractiveIndex": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 1.72,
+          "Max": 1.756
+        }
+      ]
+    },
+    "Birefringence": null,
+    "Pleochroism": "Absent",
+    "Dispersion": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 0.022,
+          "Max": 0.022
+        }
+      ]
+    }
+  },
+  "ColourProperties": {
+    "General": "Red, brownish-red",
+    "Daylight": "",
+    "ChelseaFilter": "",
+    "CausesOfColour": "Brownish-red, Fe2+ in distorted cubic coordination. Red, Fe2+ in distorted cubic site plus Cr3+ in octahedral coordination. Color change (in pyrope and pyrope-spessartine), V3+ and/or Cr3+ in octahedral coordination",
+    "Transparency": "Transparent"
+  },
+  "FlouresenceProperties": {
+    "General": "Mostly none"
+  },
+  "Crystallography": {
+    "CrystalSystem": "Isometric",
+    "Habit": "Rare in crystal form"
+  },
+  "GeologicalEnvironment": {
+    "WhereFound": "In ultramafic rocks, as peridotites, kimberlites, eclogites, serpentinites, and in \"hornblende\"-garnet-plagioclase rocks and anorthosites. Also in amphibole and biotite schists, and as a detrital mineral."
+  },
+  "Inclusions": {
+    "Inclusions": "In ultramafic rocks, as peridotites, kimberlites, eclogites, serpentinites, and in \"hornblende\"-garnet-plagioclase rocks and anorthosites. Also in amphibole and biotite schists, and as a detrital mineral."
+  }
+}

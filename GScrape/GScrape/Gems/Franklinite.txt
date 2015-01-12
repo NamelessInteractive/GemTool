@@ -1,0 +1,54 @@
+{
+  "Name": "Franklinite",
+  "Description": "Franklinite is named is named after its discovery locality, at Franklin and Sterling Hill, Sussex County, New Jersey, and ultimately for Benjamin Franklin, after whom the town of Franklin was named.\r\n\r\nFranklinite forms iron-black, brown, red crystals with metallic lustre. Large crystals suitable for faceting are rare.",
+  "PhysicalProperties": {
+    "MohsHardness": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 6.0,
+          "Max": 0.0
+        }
+      ]
+    },
+    "SpecificGravity": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 5.05,
+          "Max": 5.22
+        }
+      ]
+    },
+    "Tenacity": "Brittle",
+    "CleavageQuality": "Fair",
+    "Fracture": "Uneven,Sub-Conchoidal",
+    "HeatSensitivity": ""
+  },
+  "OpticalProperties": {
+    "RefractiveIndex": null,
+    "Birefringence": null,
+    "Pleochroism": "",
+    "Dispersion": null
+  },
+  "ColourProperties": {
+    "General": "Iron-black, brown, red, may be tarnished; in reflected light, white to gray, with dark red internal reflections",
+    "Daylight": "",
+    "ChelseaFilter": "",
+    "CausesOfColour": "",
+    "Transparency": "Translucent,Opaque"
+  },
+  "FlouresenceProperties": {
+    "General": ""
+  },
+  "Crystallography": {
+    "CrystalSystem": "Isometric",
+    "Habit": "Typically as octahedra, commonly with rounded edges, to 22 cm. Also exsolved within other minerals; coarse to fine granular, massive."
+  },
+  "GeologicalEnvironment": {
+    "WhereFound": "In beds and veins formed by high temperature metamorphism of Fe, Zn, Mn rich marine carbonate sediments. As a minor mineral in some manganese and iron deposits."
+  },
+  "Inclusions": {
+    "Inclusions": "In beds and veins formed by high temperature metamorphism of Fe, Zn, Mn rich marine carbonate sediments. As a minor mineral in some manganese and iron deposits."
+  }
+}

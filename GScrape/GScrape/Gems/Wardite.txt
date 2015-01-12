@@ -1,0 +1,70 @@
+{
+  "Name": "Wardite",
+  "Description": "Wardite is named after H.A. Ward, Professor of Natural Sciences, University of Rochester, New York, USA, mineral collector and dealer; founder of Ward's Natural Science Establishment.\r\n\r\nWardite forms transparent to translucent colourless to white, pale green or blue-green typically striated dipyramidal pseudo-octahedral crystals.\r\n\r\nWardite is cut into cabochons and rare crystals can make attractive gems.",
+  "PhysicalProperties": {
+    "MohsHardness": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 4.5,
+          "Max": 5.0
+        }
+      ]
+    },
+    "SpecificGravity": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 2.81,
+          "Max": 2.81
+        }
+      ]
+    },
+    "Tenacity": "",
+    "CleavageQuality": "Perfect",
+    "Fracture": "Conchoidal",
+    "HeatSensitivity": ""
+  },
+  "OpticalProperties": {
+    "RefractiveIndex": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 1.59,
+          "Max": 1.599
+        }
+      ]
+    },
+    "Birefringence": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 0.009,
+          "Max": 0.009
+        }
+      ]
+    },
+    "Pleochroism": "",
+    "Dispersion": null
+  },
+  "ColourProperties": {
+    "General": "Blue-green",
+    "Daylight": "",
+    "ChelseaFilter": "",
+    "CausesOfColour": "",
+    "Transparency": "Transparent,Translucent"
+  },
+  "FlouresenceProperties": {
+    "General": ""
+  },
+  "Crystallography": {
+    "CrystalSystem": "Tetragonal",
+    "Habit": "Dipyramidal pseudo-octahedral crystals"
+  },
+  "GeologicalEnvironment": {
+    "WhereFound": "Wardite occurs in complex-zoned pegmatites. Some wardite occurs with large\r\ngreen variscite nodules."
+  },
+  "Inclusions": {
+    "Inclusions": "Wardite occurs in complex-zoned pegmatites. Some wardite occurs with large\r\ngreen variscite nodules."
+  }
+}

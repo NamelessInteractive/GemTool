@@ -1,0 +1,70 @@
+{
+  "Name": "Clinozoisite",
+  "Description": "Clinozoisite was discovered in 1896 in Tyrol, Austria, and is named because of its monoclinic crystallography and resemblance to zoisite.\r\n\r\nClinozoisite is colourless, yellow, greenish or pale rose-red mineral similar to Epidote, but containing little iron.",
+  "PhysicalProperties": {
+    "MohsHardness": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 6.0,
+          "Max": 7.0
+        }
+      ]
+    },
+    "SpecificGravity": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 3.21,
+          "Max": 3.38
+        }
+      ]
+    },
+    "Tenacity": "",
+    "CleavageQuality": "Perfect",
+    "Fracture": "",
+    "HeatSensitivity": ""
+  },
+  "OpticalProperties": {
+    "RefractiveIndex": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 1.67,
+          "Max": 1.734
+        }
+      ]
+    },
+    "Birefringence": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 0.005,
+          "Max": 0.015
+        }
+      ]
+    },
+    "Pleochroism": "",
+    "Dispersion": null
+  },
+  "ColourProperties": {
+    "General": "Yellow to yellow-brown, colourless, greenish, pink.",
+    "Daylight": "",
+    "ChelseaFilter": "",
+    "CausesOfColour": "Green (tawmawite), Cr3+ in octahedral coordination",
+    "Transparency": "Transparent,Translucent"
+  },
+  "FlouresenceProperties": {
+    "General": ""
+  },
+  "Crystallography": {
+    "CrystalSystem": "Monoclinic",
+    "Habit": "Elongated prismatic crystals"
+  },
+  "GeologicalEnvironment": {
+    "WhereFound": "Typically in low- to medium-grade regionally metamorphosed igneous and sedimentary rocks, as well as in contact metamorphosed calcium-rich sediments; an alteration product of plagioclase feldspars (saussuritization)."
+  },
+  "Inclusions": {
+    "Inclusions": "Typically in low- to medium-grade regionally metamorphosed igneous and sedimentary rocks, as well as in contact metamorphosed calcium-rich sediments; an alteration product of plagioclase feldspars (saussuritization)."
+  }
+}

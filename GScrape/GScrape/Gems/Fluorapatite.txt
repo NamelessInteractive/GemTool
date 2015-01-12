@@ -1,0 +1,54 @@
+{
+  "Name": "Fluorapatite",
+  "Description": "Fluorapatite is the fluorine end-member of the Apatite Group.",
+  "PhysicalProperties": {
+    "MohsHardness": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 5.0,
+          "Max": 0.0
+        }
+      ]
+    },
+    "SpecificGravity": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 3.1,
+          "Max": 3.25
+        }
+      ]
+    },
+    "Tenacity": "Brittle",
+    "CleavageQuality": "Poor",
+    "Fracture": "Uneven,Conchoidal",
+    "HeatSensitivity": ""
+  },
+  "OpticalProperties": {
+    "RefractiveIndex": null,
+    "Birefringence": null,
+    "Pleochroism": "Weak to strong if colored",
+    "Dispersion": null
+  },
+  "ColourProperties": {
+    "General": "Sea-green, violet, purple, blue, pink, yellow, brown, white, colorless, may be zoned; colorless or faintly tinted in thin section",
+    "Daylight": "",
+    "ChelseaFilter": "",
+    "CausesOfColour": "",
+    "Transparency": "Transparent,Translucent"
+  },
+  "FlouresenceProperties": {
+    "General": ""
+  },
+  "Crystallography": {
+    "CrystalSystem": "Hexagonal,Monoclinic",
+    "Habit": "As prismatic hexagonal crystals, elongated, to 2 m; as complex tabular to discoidal crystals ?attened, typically with many forms; granular, globular to reniform, nodular, massive."
+  },
+  "GeologicalEnvironment": {
+    "WhereFound": "Accessory in most igneous rocks, important in syenites, alkaline rocks, carbonatites, granite pegmatites. Common in marbles and skarns, Ca-rich regional metamorphic rocks, Alpine-type fissures, and hydrothermal tin veins. An essential component of sedimentary phosphorites, common as a detrital or diagenetic component in oolitic ironstones and phosphatic carbonate rocks and shales. Residual in laterites."
+  },
+  "Inclusions": {
+    "Inclusions": "Accessory in most igneous rocks, important in syenites, alkaline rocks, carbonatites, granite pegmatites. Common in marbles and skarns, Ca-rich regional metamorphic rocks, Alpine-type fissures, and hydrothermal tin veins. An essential component of sedimentary phosphorites, common as a detrital or diagenetic component in oolitic ironstones and phosphatic carbonate rocks and shales. Residual in laterites."
+  }
+}

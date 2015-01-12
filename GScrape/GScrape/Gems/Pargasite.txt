@@ -1,0 +1,70 @@
+{
+  "Name": "Pargasite",
+  "Description": "Pargasite is named after its discovery locality, at Pargas, 10 km south of Turku, Finland.\r\n\r\nPargasite forms transparent to translucent bluish green or chrome (emerald)-green to light brown stout prismatic crystals.\r\n\r\nFine crystals have been faceted.",
+  "PhysicalProperties": {
+    "MohsHardness": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 5.0,
+          "Max": 6.0
+        }
+      ]
+    },
+    "SpecificGravity": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 3.04,
+          "Max": 3.26
+        }
+      ]
+    },
+    "Tenacity": "Brittle",
+    "CleavageQuality": "Perfect",
+    "Fracture": "",
+    "HeatSensitivity": ""
+  },
+  "OpticalProperties": {
+    "RefractiveIndex": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 1.613,
+          "Max": 1.663
+        }
+      ]
+    },
+    "Birefringence": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 0.02,
+          "Max": 0.024
+        }
+      ]
+    },
+    "Pleochroism": "Orange/brown stones - distinct: colorless to yellow - light brown - brown; Green stones - distinct: greenish-yellow - emerald-green - greenish-blue",
+    "Dispersion": null
+  },
+  "ColourProperties": {
+    "General": "Bluish green or chrome (emerald)-green to light brown",
+    "Daylight": "",
+    "ChelseaFilter": "",
+    "CausesOfColour": "Green to brown, Fe2+ in various sites",
+    "Transparency": "Transparent,Translucent"
+  },
+  "FlouresenceProperties": {
+    "General": ""
+  },
+  "Crystallography": {
+    "CrystalSystem": "Monoclinic",
+    "Habit": "Stout prismatic crystals"
+  },
+  "GeologicalEnvironment": {
+    "WhereFound": "Pargasite occurs in igneous and metamorphic rocks"
+  },
+  "Inclusions": {
+    "Inclusions": "Pargasite occurs in igneous and metamorphic rocks"
+  }
+}

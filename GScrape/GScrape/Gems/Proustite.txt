@@ -1,0 +1,70 @@
+{
+  "Name": "Proustite",
+  "Description": "Proustite is named after Joseph L. Proust, French chemist.\r\n\r\nProustite forms beautiful prismatic transparent adamantine dark red crystals, but they become dull black and opaque on exposure to light, therefore they must be kept in darkness.\r\n\r\nProustite is a rare stone. It is cut into brilliant faceted stones, but they are too soft to be set in jewelry.",
+  "PhysicalProperties": {
+    "MohsHardness": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 2.5,
+          "Max": 2.5
+        }
+      ]
+    },
+    "SpecificGravity": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 5.51,
+          "Max": 5.64
+        }
+      ]
+    },
+    "Tenacity": "Brittle",
+    "CleavageQuality": "Distinct",
+    "Fracture": "Uneven,Conchoidal",
+    "HeatSensitivity": ""
+  },
+  "OpticalProperties": {
+    "RefractiveIndex": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 2.792,
+          "Max": 3.087
+        }
+      ]
+    },
+    "Birefringence": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 0.295,
+          "Max": 0.295
+        }
+      ]
+    },
+    "Pleochroism": "Strong",
+    "Dispersion": null
+  },
+  "ColourProperties": {
+    "General": "Cinnabar to scarlet-red",
+    "Daylight": "",
+    "ChelseaFilter": "",
+    "CausesOfColour": "",
+    "Transparency": "Opaque"
+  },
+  "FlouresenceProperties": {
+    "General": ""
+  },
+  "Crystallography": {
+    "CrystalSystem": "Trigonal",
+    "Habit": "Rhombohedral, prismatic"
+  },
+  "GeologicalEnvironment": {
+    "WhereFound": "Proustite occurs as a late-forming mineral in hydrothermal deposits in the oxidized and enriched zone, with other silver minerals and sulphides."
+  },
+  "Inclusions": {
+    "Inclusions": "Proustite occurs as a late-forming mineral in hydrothermal deposits in the oxidized and enriched zone, with other silver minerals and sulphides."
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "Name": "Chlorapatite",
+  "Description": "Chlorapatite is the chlorine end-member of the Apatite Group.",
+  "PhysicalProperties": {
+    "MohsHardness": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 5.0,
+          "Max": 0.0
+        }
+      ]
+    },
+    "SpecificGravity": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 3.17,
+          "Max": 3.18
+        }
+      ]
+    },
+    "Tenacity": "Brittle",
+    "CleavageQuality": "Poor",
+    "Fracture": "",
+    "HeatSensitivity": ""
+  },
+  "OpticalProperties": {
+    "RefractiveIndex": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 1.665,
+          "Max": 1.667
+        }
+      ]
+    },
+    "Birefringence": null,
+    "Pleochroism": "Weak to moderate; in pale colors.",
+    "Dispersion": null
+  },
+  "ColourProperties": {
+    "General": "Greenish yellow, pinkish white, light greenish gray",
+    "Daylight": "",
+    "ChelseaFilter": "",
+    "CausesOfColour": "",
+    "Transparency": "Transparent,Translucent"
+  },
+  "FlouresenceProperties": {
+    "General": ""
+  },
+  "Crystallography": {
+    "CrystalSystem": "Hexagonal,Monoclinic",
+    "Habit": "As prismatic hexagonal crystals, to 5 cm; granular, massive, may be in zoned intergrowths with fluorapatite."
+  },
+  "GeologicalEnvironment": {
+    "WhereFound": "Relatively much rarer than fluorapatite or hydroxylapatite, formed in F-deficient environments. In calcsilicate marble; an accessory mineral in layered mafic intrusions; in veins through diabase; replacing triphylite in granite pegmatite. In meteorites."
+  },
+  "Inclusions": {
+    "Inclusions": "Relatively much rarer than fluorapatite or hydroxylapatite, formed in F-deficient environments. In calcsilicate marble; an accessory mineral in layered mafic intrusions; in veins through diabase; replacing triphylite in granite pegmatite. In meteorites."
+  }
+}

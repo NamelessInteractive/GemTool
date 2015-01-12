@@ -1,0 +1,70 @@
+{
+  "Name": "Paraíba Tourmaline (Cuprian Elbaite)",
+  "Description": "The cuprian tourmaline from the Mina da Batalha in the Federal Brazilian State of Paraiba. An electrifying blue-to-green coloured, gemmy, variety of cuprian Elbaite.",
+  "PhysicalProperties": {
+    "MohsHardness": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 7.0,
+          "Max": 7.5
+        }
+      ]
+    },
+    "SpecificGravity": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 3.04,
+          "Max": 3.13
+        }
+      ]
+    },
+    "Tenacity": "",
+    "CleavageQuality": "",
+    "Fracture": "",
+    "HeatSensitivity": ""
+  },
+  "OpticalProperties": {
+    "RefractiveIndex": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 1.618,
+          "Max": 1.643
+        }
+      ]
+    },
+    "Birefringence": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 0.018,
+          "Max": 0.021
+        }
+      ]
+    },
+    "Pleochroism": "",
+    "Dispersion": null
+  },
+  "ColourProperties": {
+    "General": "Intense \"electrical\" colors: typically mint-green to sky-blue, sapphire-blue, violet to purplish",
+    "Daylight": "",
+    "ChelseaFilter": "",
+    "CausesOfColour": "",
+    "Transparency": ""
+  },
+  "FlouresenceProperties": {
+    "General": ""
+  },
+  "Crystallography": {
+    "CrystalSystem": "Trigonal",
+    "Habit": ""
+  },
+  "GeologicalEnvironment": {
+    "WhereFound": ""
+  },
+  "Inclusions": {
+    "Inclusions": "Intense \"electrical\" colors: typically mint-green to sky-blue, sapphire-blue, violet to purplish"
+  }
+}

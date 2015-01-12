@@ -1,0 +1,54 @@
+{
+  "Name": "Hyalite",
+  "Description": "Hyalite (Greek - glass stone) is water-clear, glass-like and is generally considered the purest and clearest Opal variety. As a cut gem, it can be confused with glass.",
+  "PhysicalProperties": {
+    "MohsHardness": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 5.5,
+          "Max": 6.5
+        }
+      ]
+    },
+    "SpecificGravity": null,
+    "Tenacity": "Brittle",
+    "CleavageQuality": "None",
+    "Fracture": "Conchoidal,Splintery",
+    "HeatSensitivity": "Sensitive, becomes soft and breaks up"
+  },
+  "OpticalProperties": {
+    "RefractiveIndex": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 1.37,
+          "Max": 1.52
+        }
+      ]
+    },
+    "Birefringence": null,
+    "Pleochroism": "",
+    "Dispersion": null
+  },
+  "ColourProperties": {
+    "General": "Colourless with strong sheen",
+    "Daylight": "",
+    "ChelseaFilter": "",
+    "CausesOfColour": "",
+    "Transparency": "Transparent,Translucent"
+  },
+  "FlouresenceProperties": {
+    "General": "Shows brilliant green fluorescence, especially under SW, due to uranium impurities."
+  },
+  "Crystallography": {
+    "CrystalSystem": "Amorphous",
+    "Habit": "Usually takes globular, botryoidal forms"
+  },
+  "GeologicalEnvironment": {
+    "WhereFound": ""
+  },
+  "Inclusions": {
+    "Inclusions": "Shows brilliant green fluorescence, especially under SW, due to uranium impurities."
+  }
+}

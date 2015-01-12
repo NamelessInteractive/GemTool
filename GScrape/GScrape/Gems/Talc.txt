@@ -1,0 +1,70 @@
+{
+  "Name": "Talc",
+  "Description": "Talc is named after Arabic \"talq\" - pure (white), probably alluding to the colour of its powder.\r\n\r\nTalc is the world's softest mineral with the Mohs hardness 1. It can be easily scratched by a fingernail. Talc is translucent to opaque with mother-of-pearl, greasy or dull lustre.\r\n\r\nA coarse grayish-green high-talc rock soapstone or steatite is used for carvings and ornamental objects.",
+  "PhysicalProperties": {
+    "MohsHardness": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 1.0,
+          "Max": 0.0
+        }
+      ]
+    },
+    "SpecificGravity": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 2.55,
+          "Max": 2.8
+        }
+      ]
+    },
+    "Tenacity": "",
+    "CleavageQuality": "Perfect",
+    "Fracture": "",
+    "HeatSensitivity": ""
+  },
+  "OpticalProperties": {
+    "RefractiveIndex": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 1.539,
+          "Max": 1.596
+        }
+      ]
+    },
+    "Birefringence": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 0.046,
+          "Max": 0.05
+        }
+      ]
+    },
+    "Pleochroism": "",
+    "Dispersion": null
+  },
+  "ColourProperties": {
+    "General": "Gray-green, pearl-white, blue-green, yellowish.",
+    "Daylight": "",
+    "ChelseaFilter": "",
+    "CausesOfColour": "",
+    "Transparency": "Translucent,Opaque"
+  },
+  "FlouresenceProperties": {
+    "General": ""
+  },
+  "Crystallography": {
+    "CrystalSystem": "Monoclinic",
+    "Habit": ""
+  },
+  "GeologicalEnvironment": {
+    "WhereFound": ""
+  },
+  "Inclusions": {
+    "Inclusions": "Gray-green, pearl-white, blue-green, yellowish."
+  }
+}

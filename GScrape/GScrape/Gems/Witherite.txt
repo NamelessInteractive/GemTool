@@ -1,0 +1,70 @@
+{
+  "Name": "Witherite",
+  "Description": "Witherite is named after William Withering, English physician and naturalist who originally described the mineral.\r\n\r\nCrystals are always twinned. Facetable pieces are usually small, gem rough rarely exceeds 5 grams. The translucent material is cut into cabochons.\r\n\r\nWitherite dust is toxic, it is dangerous to inhale it.",
+  "PhysicalProperties": {
+    "MohsHardness": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 3.0,
+          "Max": 3.5
+        }
+      ]
+    },
+    "SpecificGravity": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 4.27,
+          "Max": 4.35
+        }
+      ]
+    },
+    "Tenacity": "",
+    "CleavageQuality": "Distinct",
+    "Fracture": "Uneven",
+    "HeatSensitivity": ""
+  },
+  "OpticalProperties": {
+    "RefractiveIndex": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 1.529,
+          "Max": 1.68
+        }
+      ]
+    },
+    "Birefringence": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 0.148,
+          "Max": 0.148
+        }
+      ]
+    },
+    "Pleochroism": "Nil",
+    "Dispersion": null
+  },
+  "ColourProperties": {
+    "General": "Yellowish-white to colourless",
+    "Daylight": "",
+    "ChelseaFilter": "",
+    "CausesOfColour": "",
+    "Transparency": "Transparent,Translucent,Opaque"
+  },
+  "FlouresenceProperties": {
+    "General": "Fluorescent and phosphorescent under UV"
+  },
+  "Crystallography": {
+    "CrystalSystem": "Orthorhombic",
+    "Habit": "Botryoidal to spherical fibrous or granular masses"
+  },
+  "GeologicalEnvironment": {
+    "WhereFound": "Witherite occurs in hydrothermal veins as a low-temperature mineral"
+  },
+  "Inclusions": {
+    "Inclusions": "Witherite occurs in hydrothermal veins as a low-temperature mineral"
+  }
+}

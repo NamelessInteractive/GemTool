@@ -1,0 +1,54 @@
+{
+  "Name": "Satin Spar",
+  "Description": "In modern usage Satin Spar is a compact fibrous variety of Gypsum. It is generally white, silky and translucent with pearly or milky appearance.\r\n\r\nSatin Spar can be cut into very striking chatoyant cabochons.\r\n\r\nHistorically, the name Satin Spar was first applied to a variety of calcite - see Calcite Satin Spar.",
+  "PhysicalProperties": {
+    "MohsHardness": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 2.0,
+          "Max": 2.0
+        }
+      ]
+    },
+    "SpecificGravity": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 1.52,
+          "Max": 1.53
+        }
+      ]
+    },
+    "Tenacity": "",
+    "CleavageQuality": "",
+    "Fracture": "",
+    "HeatSensitivity": ""
+  },
+  "OpticalProperties": {
+    "RefractiveIndex": null,
+    "Birefringence": null,
+    "Pleochroism": "",
+    "Dispersion": null
+  },
+  "ColourProperties": {
+    "General": "White",
+    "Daylight": "",
+    "ChelseaFilter": "",
+    "CausesOfColour": "",
+    "Transparency": ""
+  },
+  "FlouresenceProperties": {
+    "General": ""
+  },
+  "Crystallography": {
+    "CrystalSystem": "Monoclinic",
+    "Habit": "Fibrous aggregates"
+  },
+  "GeologicalEnvironment": {
+    "WhereFound": "Occurs filling veins in rock formations with parallel fibrous crystals stretching across the vein from side to side."
+  },
+  "Inclusions": {
+    "Inclusions": "Occurs filling veins in rock formations with parallel fibrous crystals stretching across the vein from side to side."
+  }
+}

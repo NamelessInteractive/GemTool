@@ -1,0 +1,70 @@
+{
+  "Name": "Phosgenite",
+  "Description": "The name phosgenite derives from the chemical term \"phosgene\", carbonyl chloride, which elements are present in the mineral.\r\n\r\nPhosgenite forms transparent to translucent colourless, white, yellowish, greenish, pinkish prismatic crystals with high adamantine lustre, which is caused by its lead content.\r\n\r\nFacet-grade rough is rare.",
+  "PhysicalProperties": {
+    "MohsHardness": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 2.0,
+          "Max": 3.0
+        }
+      ]
+    },
+    "SpecificGravity": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 6.13,
+          "Max": 6.13
+        }
+      ]
+    },
+    "Tenacity": "",
+    "CleavageQuality": "Perfect",
+    "Fracture": "Conchoidal",
+    "HeatSensitivity": ""
+  },
+  "OpticalProperties": {
+    "RefractiveIndex": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 2.117,
+          "Max": 2.145
+        }
+      ]
+    },
+    "Birefringence": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 0.028,
+          "Max": 0.028
+        }
+      ]
+    },
+    "Pleochroism": "Weak",
+    "Dispersion": null
+  },
+  "ColourProperties": {
+    "General": "Colourless, white, yellowish, greenish.",
+    "Daylight": "",
+    "ChelseaFilter": "",
+    "CausesOfColour": "",
+    "Transparency": "Transparent"
+  },
+  "FlouresenceProperties": {
+    "General": "LW and SW: strong yellow with yellow phosphorescence"
+  },
+  "Crystallography": {
+    "CrystalSystem": "Tetragonal",
+    "Habit": "Short prismatic to prismatic"
+  },
+  "GeologicalEnvironment": {
+    "WhereFound": "Phosgenite occurs from the alteration of galena in the oxidized zone of lead ore deposits."
+  },
+  "Inclusions": {
+    "Inclusions": "Phosgenite occurs from the alteration of galena in the oxidized zone of lead ore deposits."
+  }
+}

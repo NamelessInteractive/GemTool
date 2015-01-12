@@ -1,0 +1,62 @@
+{
+  "Name": "Humite",
+  "Description": "Humite was named after Sir Abraham Hume, English connoisseur and collector artwork, precious stones and minerals. It was found in the volcanically ejected masses of Mt Vesuvius.\r\n\r\nTransparent to translucent, yellow and intense orange crystals of gem-quality Humite are very small and are rarely faceted.",
+  "PhysicalProperties": {
+    "MohsHardness": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 6.0,
+          "Max": 0.0
+        }
+      ]
+    },
+    "SpecificGravity": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 3.2,
+          "Max": 3.32
+        }
+      ]
+    },
+    "Tenacity": "Brittle",
+    "CleavageQuality": "Poor",
+    "Fracture": "Uneven,Sub-Conchoidal",
+    "HeatSensitivity": ""
+  },
+  "OpticalProperties": {
+    "RefractiveIndex": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 1.607,
+          "Max": 1.675
+        }
+      ]
+    },
+    "Birefringence": null,
+    "Pleochroism": "Very pale yellow to dark yellow - colorless, pale yellow.",
+    "Dispersion": null
+  },
+  "ColourProperties": {
+    "General": "White, yellow, dark orange, brown; colorless to yellow-brown in thin section.",
+    "Daylight": "",
+    "ChelseaFilter": "",
+    "CausesOfColour": "",
+    "Transparency": "Transparent,Translucent"
+  },
+  "FlouresenceProperties": {
+    "General": ""
+  },
+  "Crystallography": {
+    "CrystalSystem": "Orthorhombic",
+    "Habit": "Crystals typically highly modified, to 1 cm; granular."
+  },
+  "GeologicalEnvironment": {
+    "WhereFound": "Typically in contact metamorphic zones in limestones and dolostones associated with felsic, or more rarely, alkalic plutonic rocks, especially where metasomatism has introduced Fe, B, and F."
+  },
+  "Inclusions": {
+    "Inclusions": "Typically in contact metamorphic zones in limestones and dolostones associated with felsic, or more rarely, alkalic plutonic rocks, especially where metasomatism has introduced Fe, B, and F."
+  }
+}

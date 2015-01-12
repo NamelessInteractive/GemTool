@@ -1,0 +1,70 @@
+{
+  "Name": "Variscite",
+  "Description": "Variscite was first described in 1837 and named after Variscia, the historical name of the Vogtland, Germany.\r\n\r\nVariscite can be cut into cabochons, used for carvings and ornamental objects. It is sometimes confused with turquoise, but variscite usually has greener colour.",
+  "PhysicalProperties": {
+    "MohsHardness": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 4.0,
+          "Max": 5.0
+        }
+      ]
+    },
+    "SpecificGravity": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 2.42,
+          "Max": 2.58
+        }
+      ]
+    },
+    "Tenacity": "Brittle",
+    "CleavageQuality": "Perfect",
+    "Fracture": "Conchoidal",
+    "HeatSensitivity": ""
+  },
+  "OpticalProperties": {
+    "RefractiveIndex": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 1.56,
+          "Max": 1.594
+        }
+      ]
+    },
+    "Birefringence": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 0.031,
+          "Max": 0.031
+        }
+      ]
+    },
+    "Pleochroism": "Missing",
+    "Dispersion": null
+  },
+  "ColourProperties": {
+    "General": "Green, yellow-green, green-blue",
+    "Daylight": "",
+    "ChelseaFilter": "Pinkish to red",
+    "CausesOfColour": "Green, Cr3+ presumably in octahedral coordination",
+    "Transparency": "Translucent,Opaque"
+  },
+  "FlouresenceProperties": {
+    "General": "Strong; pale green, green"
+  },
+  "Crystallography": {
+    "CrystalSystem": "Orthorhombic",
+    "Habit": "Massive"
+  },
+  "GeologicalEnvironment": {
+    "WhereFound": "Variscite is typically deposited from phosphate-bearing waters in contact with aluminous rocks."
+  },
+  "Inclusions": {
+    "Inclusions": "Variscite is typically deposited from phosphate-bearing waters in contact with aluminous rocks."
+  }
+}

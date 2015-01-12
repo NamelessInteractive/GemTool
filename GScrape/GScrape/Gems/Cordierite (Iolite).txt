@@ -1,0 +1,78 @@
+{
+  "Name": "Cordierite (Iolite)",
+  "Description": "Cordierite was discovered in 1813 and is named after the French geologist Louis Cordier. It is also called Iolite (Greek - violet), and is sometimes misleadingly termed \"Water sapphire\".\r\n\r\nCordierite is famous for its remarkable trichroism: deep violet-blue (looking down the length of the prism) - blue-gray or yellowish-brown (when viewed through the sides). Oriented correctly Cordierite can be cut into attractive deep blue faceted gems.\r\n\r\n\"Bloodshot Iolite\" originates from Sri Lanka. It has a distinct reddish sheen or aventurescence, caused by hematite and goethite inclusions.\r\n\r\nVarieties with Cat's eye effect and weak asterism are known.",
+  "PhysicalProperties": {
+    "MohsHardness": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 7.0,
+          "Max": 7.5
+        }
+      ]
+    },
+    "SpecificGravity": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 2.56,
+          "Max": 2.66
+        }
+      ]
+    },
+    "Tenacity": "Brittle",
+    "CleavageQuality": "Good",
+    "Fracture": "Uneven,Conchoidal",
+    "HeatSensitivity": ""
+  },
+  "OpticalProperties": {
+    "RefractiveIndex": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 1.542,
+          "Max": 1.578
+        }
+      ]
+    },
+    "Birefringence": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 0.008,
+          "Max": 0.012
+        }
+      ]
+    },
+    "Pleochroism": "Strong trichroism: colorless to yellowish - pale blue - dark (violet)-blue",
+    "Dispersion": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 0.017,
+          "Max": 0.017
+        }
+      ]
+    }
+  },
+  "ColourProperties": {
+    "General": "Mostly (violet)-blue",
+    "Daylight": "",
+    "ChelseaFilter": "",
+    "CausesOfColour": "Violet to blue, Fe2+-O-Fe3+ charge transfer. Red, hematite and/or lepidocrocite inclusions",
+    "Transparency": "Transparent,Translucent"
+  },
+  "FlouresenceProperties": {
+    "General": "None"
+  },
+  "Crystallography": {
+    "CrystalSystem": "Orthorhombic",
+    "Habit": "Short prismatic crystals and may be pseudohexagonal"
+  },
+  "GeologicalEnvironment": {
+    "WhereFound": "Most gem material occurs as water-worn pebbles. Apart from alluvial, occurs in a variety of environments, including altered aluminous and igneous rocks."
+  },
+  "Inclusions": {
+    "Inclusions": "Most gem material occurs as water-worn pebbles. Apart from alluvial, occurs in a variety of environments, including altered aluminous and igneous rocks."
+  }
+}

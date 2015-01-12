@@ -1,0 +1,54 @@
+{
+  "Name": "Larvikite",
+  "Description": "Larvikite is named after the town of Larvik in Norway, where this type of igneous rock is found.\r\n\r\nLarvikite is a relatively coarse-grained anorthoclase-rich igneous rock. Anorthoclase constitutes 90 or more percent of this rock. The presence of the alternating alkali feldspar and plagioclase layers give characteristic silver blue sheen (Schiller effect) on polished surfaces.\r\n\r\nLarvikite is used throughout the world as a facing stone. It is frequently found fronting the facades of buildings. Larvikite can be used for making ornaments, such as paper weights, bookends, etc.\r\n\r\nLarvikite is sometimes known informally as Blue Granite or Birds eye Granite, although this is not an accurate description.\r\n\r\nNorwegian Pearl granite – trade name sometimes applied to the lighter coloured variety of Larvikite.\r\n\r\nRoyal blue pearl granite – trade name sometimes applied to the darker coloured variety of Larvikite.",
+  "PhysicalProperties": {
+    "MohsHardness": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 6.0,
+          "Max": 6.5
+        }
+      ]
+    },
+    "SpecificGravity": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 2.59,
+          "Max": 2.59
+        }
+      ]
+    },
+    "Tenacity": "",
+    "CleavageQuality": "",
+    "Fracture": "",
+    "HeatSensitivity": ""
+  },
+  "OpticalProperties": {
+    "RefractiveIndex": null,
+    "Birefringence": null,
+    "Pleochroism": "",
+    "Dispersion": null
+  },
+  "ColourProperties": {
+    "General": "Bluish grey with two more-or-less distinct colour varieties, one light bluish grey, the other dark bluish grey with golden brown overtones.",
+    "Daylight": "",
+    "ChelseaFilter": "",
+    "CausesOfColour": "",
+    "Transparency": "Transparent,Translucent,Opaque"
+  },
+  "FlouresenceProperties": {
+    "General": ""
+  },
+  "Crystallography": {
+    "CrystalSystem": "",
+    "Habit": ""
+  },
+  "GeologicalEnvironment": {
+    "WhereFound": ""
+  },
+  "Inclusions": {
+    "Inclusions": "Bluish grey with two more-or-less distinct colour varieties, one light bluish grey, the other dark bluish grey with golden brown overtones."
+  }
+}

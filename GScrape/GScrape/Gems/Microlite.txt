@@ -1,0 +1,62 @@
+{
+  "Name": "Microlite",
+  "Description": "Microlite is named from Greek \"mikro\" - small, alluding to the minute size of the crystals in the original sample, that was found in Chesterfield, Hampshire County, Massachusetts, USA.\r\n\r\nMicrolite forms opaque to translucent pale yellow to brown, reddish or green crystals. Crystals up to 2 cms have been found. The material is often slightly radioactive because of the presence of rare earth elements in its composition.\r\n\r\nFacet rough is seldom available. Attractive gems have been cut from orange-red material. A transparent garnet-red specimen found in 1885 was faceted into a stone resembling red zircon (Arem, Color Encyclopedia of Gemstones, second edition, 1987).\r\n\r\nIn mineralogy, microlite is the name given to a group of related minerals, themselves part of the larger pyrochlore supergroup.",
+  "PhysicalProperties": {
+    "MohsHardness": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 5.0,
+          "Max": 5.5
+        }
+      ]
+    },
+    "SpecificGravity": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 5.5,
+          "Max": 5.5
+        }
+      ]
+    },
+    "Tenacity": "",
+    "CleavageQuality": "Indistinct",
+    "Fracture": "Sub-Conchoidal",
+    "HeatSensitivity": ""
+  },
+  "OpticalProperties": {
+    "RefractiveIndex": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 1.993,
+          "Max": 2.02
+        }
+      ]
+    },
+    "Birefringence": null,
+    "Pleochroism": "",
+    "Dispersion": null
+  },
+  "ColourProperties": {
+    "General": "Pale yellow to brown, reddish or green",
+    "Daylight": "",
+    "ChelseaFilter": "",
+    "CausesOfColour": "",
+    "Transparency": "Translucent,Opaque"
+  },
+  "FlouresenceProperties": {
+    "General": ""
+  },
+  "Crystallography": {
+    "CrystalSystem": "Isometric",
+    "Habit": "Octahedral"
+  },
+  "GeologicalEnvironment": {
+    "WhereFound": "Microlite occurs as a primary mineral in lithium-bearing granite pegmatites."
+  },
+  "Inclusions": {
+    "Inclusions": "Microlite occurs as a primary mineral in lithium-bearing granite pegmatites."
+  }
+}

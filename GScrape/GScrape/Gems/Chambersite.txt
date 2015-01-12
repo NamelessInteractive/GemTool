@@ -1,0 +1,70 @@
+{
+  "Name": "Chambersite",
+  "Description": "Chambersite is named after its discovery locality, at Barkers Hill salt dome, Chambers County, Texas, USA. The material of sufficient size for cutting has (so far) been found only at this site, and the Venice Salt Dome, in Plaqueminers Parish, Louisiana.\r\n\r\nThere, very small transparent stones of pale brown to deep purple colour have been recovered. Crystals are nearly always tetrahedral shaped, and when faceted are more polished than actually cut.",
+  "PhysicalProperties": {
+    "MohsHardness": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 7.0,
+          "Max": 7.0
+        }
+      ]
+    },
+    "SpecificGravity": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 3.5,
+          "Max": 3.5
+        }
+      ]
+    },
+    "Tenacity": "",
+    "CleavageQuality": "",
+    "Fracture": "Uneven,Sub-Conchoidal",
+    "HeatSensitivity": ""
+  },
+  "OpticalProperties": {
+    "RefractiveIndex": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 1.735,
+          "Max": 1.745
+        }
+      ]
+    },
+    "Birefringence": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 0.01,
+          "Max": 0.01
+        }
+      ]
+    },
+    "Pleochroism": "",
+    "Dispersion": null
+  },
+  "ColourProperties": {
+    "General": "Colourless, red, brownish",
+    "Daylight": "",
+    "ChelseaFilter": "",
+    "CausesOfColour": "",
+    "Transparency": "Transparent"
+  },
+  "FlouresenceProperties": {
+    "General": ""
+  },
+  "Crystallography": {
+    "CrystalSystem": "Orthorhombic",
+    "Habit": "Pseudocubic"
+  },
+  "GeologicalEnvironment": {
+    "WhereFound": "In brine residues from extraction wells in salt domes."
+  },
+  "Inclusions": {
+    "Inclusions": "In brine residues from extraction wells in salt domes."
+  }
+}

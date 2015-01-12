@@ -1,0 +1,46 @@
+{
+  "Name": "Agalmatolite",
+  "Description": "An old 19th century name for a carving stone originally from China. A dense form of one or more of pinite, pyrophyllite and/or talc.\r\n\r\nIt is also called Figure Stone, Picture Stone, Pagodite.",
+  "PhysicalProperties": {
+    "MohsHardness": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 1.0,
+          "Max": 1.5
+        }
+      ]
+    },
+    "SpecificGravity": null,
+    "Tenacity": "",
+    "CleavageQuality": "",
+    "Fracture": "",
+    "HeatSensitivity": ""
+  },
+  "OpticalProperties": {
+    "RefractiveIndex": null,
+    "Birefringence": null,
+    "Pleochroism": "",
+    "Dispersion": null
+  },
+  "ColourProperties": {
+    "General": "Whitish, greenish, yellowish.",
+    "Daylight": "",
+    "ChelseaFilter": "",
+    "CausesOfColour": "",
+    "Transparency": ""
+  },
+  "FlouresenceProperties": {
+    "General": ""
+  },
+  "Crystallography": {
+    "CrystalSystem": "",
+    "Habit": "Dense aggregates"
+  },
+  "GeologicalEnvironment": {
+    "WhereFound": ""
+  },
+  "Inclusions": {
+    "Inclusions": "Whitish, greenish, yellowish."
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "Name": "Magnesio-axinite (Axinite-(Mg))",
+  "Description": "Magnesio-axinite is a rare violet-coloured magnesium-dominant member of Axinite group.",
+  "PhysicalProperties": {
+    "MohsHardness": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 6.5,
+          "Max": 6.5
+        }
+      ]
+    },
+    "SpecificGravity": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 3.178,
+          "Max": 3.178
+        }
+      ]
+    },
+    "Tenacity": "Brittle",
+    "CleavageQuality": "",
+    "Fracture": "Uneven,Conchoidal",
+    "HeatSensitivity": ""
+  },
+  "OpticalProperties": {
+    "RefractiveIndex": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 1.656,
+          "Max": 1.678
+        }
+      ]
+    },
+    "Birefringence": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 0.009,
+          "Max": 0.011
+        }
+      ]
+    },
+    "Pleochroism": "Pale blue to pale violet and pale gray.",
+    "Dispersion": null
+  },
+  "ColourProperties": {
+    "General": "Pale blue to pale violet; light brown to light pink",
+    "Daylight": "",
+    "ChelseaFilter": "",
+    "CausesOfColour": "",
+    "Transparency": "Transparent,Translucent"
+  },
+  "FlouresenceProperties": {
+    "General": ""
+  },
+  "Crystallography": {
+    "CrystalSystem": "Triclinic",
+    "Habit": "Axe-head-shaped crystals to 3 cm."
+  },
+  "GeologicalEnvironment": {
+    "WhereFound": "Typically a mineral formed during contact metamorphism and boron metasomatism."
+  },
+  "Inclusions": {
+    "Inclusions": "Typically a mineral formed during contact metamorphism and boron metasomatism."
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "Name": "Spodumene",
+  "Description": "The name refers to the mineral spodumene (Greek - ash-colored) because the common non-gem crystals are mostly opaque, white to yellowish.\r\n\r\nFor a long time gem verieties have been known as hiddenite and kunzite; since the 1970s some isolated transparent colorless varieties have been found. Most recently light yellow and green varieties have also been known.\r\n\r\nRarely displays the cat's eye effect.",
+  "PhysicalProperties": {
+    "MohsHardness": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 6.0,
+          "Max": 7.0
+        }
+      ]
+    },
+    "SpecificGravity": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 3.15,
+          "Max": 3.21
+        }
+      ]
+    },
+    "Tenacity": "Brittle",
+    "CleavageQuality": "Perfect",
+    "Fracture": "Splintery",
+    "HeatSensitivity": ""
+  },
+  "OpticalProperties": {
+    "RefractiveIndex": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 1.657,
+          "Max": 1.681
+        }
+      ]
+    },
+    "Birefringence": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 0.014,
+          "Max": 0.016
+        }
+      ]
+    },
+    "Pleochroism": "Yellow stones - distinct: very light yellow - yellow - deep yellow",
+    "Dispersion": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 0.017,
+          "Max": 0.017
+        }
+      ]
+    }
+  },
+  "ColourProperties": {
+    "General": "Colourless, green, lilac, pink, white, yellow",
+    "Daylight": "",
+    "ChelseaFilter": "",
+    "CausesOfColour": "Purple to pink (kunzite), Mn3+ in tetrahedral coordination, Mn3+ in octahedral coordination. Emerald green (hiddenite), Cr3+ in octahedral coordination with also unstable Mn4+ color center; V3+ in octahedral coordination. Paler green, unstable Mn4+ in octahedral coordination plus Fe2+→Fe3+ charge transfer; Fe3+ in octahedral coordination. Greenish yellow to brownish orange, color center of unknown structure",
+    "Transparency": "Transparent"
+  },
+  "FlouresenceProperties": {
+    "General": ""
+  },
+  "Crystallography": {
+    "CrystalSystem": "Monoclinic",
+    "Habit": "Highly characteristic flattened and striated prismatic"
+  },
+  "GeologicalEnvironment": {
+    "WhereFound": "Spodumene is a common constituent of lithium-rich granite pegmatites."
+  },
+  "Inclusions": {
+    "Inclusions": "Spodumene is a common constituent of lithium-rich granite pegmatites."
+  }
+}

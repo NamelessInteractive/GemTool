@@ -1,0 +1,70 @@
+{
+  "Name": "Phosphophyllite",
+  "Description": "The name Phosphophyllite reflects its phosphate content and Greek \"phyllon\" - a leaf, referring to its perfect leaf-like cleavage.\r\n\r\nPhosphophyllite forms bluish- or sea-green thick tabular crystals, fish-tail twinning is common.\r\n\r\nPhosphophyllite is highly valued by collectors for its delicate bluish green colour, but it is seldom cut because it is rare, fragile and brittle.",
+  "PhysicalProperties": {
+    "MohsHardness": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 3.0,
+          "Max": 3.5
+        }
+      ]
+    },
+    "SpecificGravity": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 3.07,
+          "Max": 3.13
+        }
+      ]
+    },
+    "Tenacity": "Brittle",
+    "CleavageQuality": "Perfect",
+    "Fracture": "Conchoidal",
+    "HeatSensitivity": ""
+  },
+  "OpticalProperties": {
+    "RefractiveIndex": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 1.595,
+          "Max": 1.621
+        }
+      ]
+    },
+    "Birefringence": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 0.021,
+          "Max": 0.021
+        }
+      ]
+    },
+    "Pleochroism": "Nil",
+    "Dispersion": null
+  },
+  "ColourProperties": {
+    "General": "Colourless, bluish-green, green",
+    "Daylight": "",
+    "ChelseaFilter": "",
+    "CausesOfColour": "Bluish green, Fe2+",
+    "Transparency": "Transparent"
+  },
+  "FlouresenceProperties": {
+    "General": ""
+  },
+  "Crystallography": {
+    "CrystalSystem": "Monoclinic",
+    "Habit": "Thick tabular crystals with numerous other forms, fish-tail and penetration twinning"
+  },
+  "GeologicalEnvironment": {
+    "WhereFound": "Occurs as a secondary mineral in zoned complex granite pegmatites or as an alteration product of sphalerite"
+  },
+  "Inclusions": {
+    "Inclusions": "Occurs as a secondary mineral in zoned complex granite pegmatites or as an alteration product of sphalerite"
+  }
+}

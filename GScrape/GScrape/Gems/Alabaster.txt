@@ -1,0 +1,70 @@
+{
+  "Name": "Alabaster",
+  "Description": "Alabaster is named after its supposed early source at Alabaston, a town in Egypt.\r\n\r\nAlabaster is the massive variety of Gypsum, which can occur as transparent crystals often twinned in swallow-tailed forms. The purest form of alabaster is white and translucent but the impurities (e.g. ferric oxide) can colour the stone in yellows, browns and black in veins or patches.\r\n\r\nAlabaster has been used as an ornamental stone for a long time.",
+  "PhysicalProperties": {
+    "MohsHardness": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 2.0,
+          "Max": 2.0
+        }
+      ]
+    },
+    "SpecificGravity": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 2.3,
+          "Max": 2.33
+        }
+      ]
+    },
+    "Tenacity": "",
+    "CleavageQuality": "Good",
+    "Fracture": "",
+    "HeatSensitivity": ""
+  },
+  "OpticalProperties": {
+    "RefractiveIndex": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 1.52,
+          "Max": 1.53
+        }
+      ]
+    },
+    "Birefringence": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 0.01,
+          "Max": 0.01
+        }
+      ]
+    },
+    "Pleochroism": "",
+    "Dispersion": null
+  },
+  "ColourProperties": {
+    "General": "White, pink, brownish.",
+    "Daylight": "",
+    "ChelseaFilter": "",
+    "CausesOfColour": "",
+    "Transparency": "Translucent,Opaque"
+  },
+  "FlouresenceProperties": {
+    "General": "Usually a brownish shade"
+  },
+  "Crystallography": {
+    "CrystalSystem": "Monoclinic",
+    "Habit": "Massive"
+  },
+  "GeologicalEnvironment": {
+    "WhereFound": "It may be formed in mineral veins where sulphuric acid, derived from the oxidation of pyrite and other sulphides, has acted upon limestone."
+  },
+  "Inclusions": {
+    "Inclusions": "It may be formed in mineral veins where sulphuric acid, derived from the oxidation of pyrite and other sulphides, has acted upon limestone."
+  }
+}

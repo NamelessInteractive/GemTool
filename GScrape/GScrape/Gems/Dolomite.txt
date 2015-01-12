@@ -1,0 +1,70 @@
+{
+  "Name": "Dolomite",
+  "Description": "Dolomite is named after Déodat Gratet de Dolomieu, who described its characteristics and occurences.\r\n\r\nDolomite forms white, gray to pink rhombohedral crystals, some of them exhibit curved growth, possibly a result of twinning. It can also be massive. Small amounts of iron in the structure cause a yellow to brown tint. A high manganese content gives the crystals a rosy pink colour.",
+  "PhysicalProperties": {
+    "MohsHardness": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 3.5,
+          "Max": 4.0
+        }
+      ]
+    },
+    "SpecificGravity": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 2.8,
+          "Max": 2.95
+        }
+      ]
+    },
+    "Tenacity": "Brittle",
+    "CleavageQuality": "Perfect",
+    "Fracture": "Sub-Conchoidal",
+    "HeatSensitivity": "Sensitive to heat"
+  },
+  "OpticalProperties": {
+    "RefractiveIndex": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 1.498,
+          "Max": 1.681
+        }
+      ]
+    },
+    "Birefringence": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 0.179,
+          "Max": 0.181
+        }
+      ]
+    },
+    "Pleochroism": "Nil",
+    "Dispersion": null
+  },
+  "ColourProperties": {
+    "General": "White, yellowish, brownish",
+    "Daylight": "",
+    "ChelseaFilter": "",
+    "CausesOfColour": "",
+    "Transparency": "Transparent,Translucent,Opaque"
+  },
+  "FlouresenceProperties": {
+    "General": "Inert to light orangy, bluish, greenish"
+  },
+  "Crystallography": {
+    "CrystalSystem": "Trigonal",
+    "Habit": "Rhombohedral, massive"
+  },
+  "GeologicalEnvironment": {
+    "WhereFound": "Dolomite occurs in a number of conditions: in sedimentary rocks, in altered Mg-rich igneous rocks or in geodes."
+  },
+  "Inclusions": {
+    "Inclusions": "Dolomite occurs in a number of conditions: in sedimentary rocks, in altered Mg-rich igneous rocks or in geodes."
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "Name": "Hureaulite",
+  "Description": "Hureaulite is named after its discovery locality, at the Huréaux quarry, St-Sylvestre, 21 km north of Limoges, Haute-Vienne, France.\r\n\r\nHureaulite forms transparent to translucent light rose to pink to rose-violet, orange or yellowish brown long to short prismatic elongated crystals with vitreous to greasy lustre.\r\n\r\nHureaulite gems are usually translucent and moderately included. Therefore faceted stones are very rare. Hureaulite can be used as ornamental material.",
+  "PhysicalProperties": {
+    "MohsHardness": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 3.5,
+          "Max": 3.5
+        }
+      ]
+    },
+    "SpecificGravity": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 3.19,
+          "Max": 3.19
+        }
+      ]
+    },
+    "Tenacity": "",
+    "CleavageQuality": "",
+    "Fracture": "",
+    "HeatSensitivity": ""
+  },
+  "OpticalProperties": {
+    "RefractiveIndex": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 1.647,
+          "Max": 1.667
+        }
+      ]
+    },
+    "Birefringence": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 0.012,
+          "Max": 0.012
+        }
+      ]
+    },
+    "Pleochroism": "Colorless - yellow to pale rose - reddish yellow to reddish brown.",
+    "Dispersion": null
+  },
+  "ColourProperties": {
+    "General": "Light rose to pink to rose-violet, orange or yellowish brown",
+    "Daylight": "",
+    "ChelseaFilter": "",
+    "CausesOfColour": "",
+    "Transparency": "Transparent,Translucent"
+  },
+  "FlouresenceProperties": {
+    "General": ""
+  },
+  "Crystallography": {
+    "CrystalSystem": "Monoclinic",
+    "Habit": "Long to short prismatic elongated crystals"
+  },
+  "GeologicalEnvironment": {
+    "WhereFound": "Occurs as a late-stage secondary mineral formed by the alteration of primary phosphates in complex granite pegmatites"
+  },
+  "Inclusions": {
+    "Inclusions": "Occurs as a late-stage secondary mineral formed by the alteration of primary phosphates in complex granite pegmatites"
+  }
+}

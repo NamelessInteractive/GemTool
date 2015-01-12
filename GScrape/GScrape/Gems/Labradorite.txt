@@ -1,0 +1,70 @@
+{
+  "Name": "Labradorite",
+  "Description": "A type of feldspar consisting of between 30-50% Albite and 50-70% Anorthite.\r\n\r\nLabradorite was named after peninsula of Labrador in Canada, where it was first found.\r\n\r\nIt shows labradorescence - a shiller effect in lustrous metallic tints, often blue and green, and sometimes the complete spectrum. This effect is caused by interference of light from lattice distortions resulting from alternating microscopic exsolution lamellae of high- and low-calcium plagioclase phases.",
+  "PhysicalProperties": {
+    "MohsHardness": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 6.0,
+          "Max": 6.5
+        }
+      ]
+    },
+    "SpecificGravity": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 2.69,
+          "Max": 2.72
+        }
+      ]
+    },
+    "Tenacity": "Brittle",
+    "CleavageQuality": "Perfect",
+    "Fracture": "Uneven",
+    "HeatSensitivity": ""
+  },
+  "OpticalProperties": {
+    "RefractiveIndex": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 1.554,
+          "Max": 1.573
+        }
+      ]
+    },
+    "Birefringence": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 0.007,
+          "Max": 0.011
+        }
+      ]
+    },
+    "Pleochroism": "From the Congo, red stones show weak pleochroism whilst greenstones have distinct greenish yellow to bluish green pleochroism",
+    "Dispersion": null
+  },
+  "ColourProperties": {
+    "General": "Dark gray, black-gray, labradorescent: blue-green, golden yellow, purple, bronze colour",
+    "Daylight": "",
+    "ChelseaFilter": "",
+    "CausesOfColour": "Multicolors, diffraction of light by the internal lamellar structure. Red (in the material from Oregon), submicroscopic metallic copper particles. Green and orange could be Cu+",
+    "Transparency": "Transparent,Translucent,Opaque"
+  },
+  "FlouresenceProperties": {
+    "General": ""
+  },
+  "Crystallography": {
+    "CrystalSystem": "Triclinic",
+    "Habit": "Platy, prismatic"
+  },
+  "GeologicalEnvironment": {
+    "WhereFound": "A common constituent of anorthosites, norites, basalts and gabbros as well as other igneous rocks. In the metamorphic environment it occurs in gneisses derived from basic rocks."
+  },
+  "Inclusions": {
+    "Inclusions": "A common constituent of anorthosites, norites, basalts and gabbros as well as other igneous rocks. In the metamorphic environment it occurs in gneisses derived from basic rocks."
+  }
+}

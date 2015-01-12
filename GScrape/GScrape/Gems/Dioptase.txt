@@ -1,0 +1,78 @@
+{
+  "Name": "Dioptase",
+  "Description": "Dioptase is named after Greek word for \"view through\" referring to the mineral's two cleavage directions that are visible inside unbroken crystals.\r\n\r\nDioptase is a popular collectors' mineral specimen and is smetimes cut into small emerald-like gems. The material is very soft to be worn as a ring-stone, but small specimens are sometimes mounted in pendants and brooches.",
+  "PhysicalProperties": {
+    "MohsHardness": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 5.0,
+          "Max": 5.0
+        }
+      ]
+    },
+    "SpecificGravity": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 3.25,
+          "Max": 3.35
+        }
+      ]
+    },
+    "Tenacity": "Brittle",
+    "CleavageQuality": "Perfect",
+    "Fracture": "Conchoidal",
+    "HeatSensitivity": ""
+  },
+  "OpticalProperties": {
+    "RefractiveIndex": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 1.644,
+          "Max": 1.72
+        }
+      ]
+    },
+    "Birefringence": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 0.051,
+          "Max": 0.053
+        }
+      ]
+    },
+    "Pleochroism": "Weak; dark emerald green, light emerald green.",
+    "Dispersion": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 0.036,
+          "Max": 0.036
+        }
+      ]
+    }
+  },
+  "ColourProperties": {
+    "General": "Dark vivid bluish-green",
+    "Daylight": "",
+    "ChelseaFilter": "",
+    "CausesOfColour": "Green, Cu2+ in octahedral coordination",
+    "Transparency": "Translucent"
+  },
+  "FlouresenceProperties": {
+    "General": "None"
+  },
+  "Crystallography": {
+    "CrystalSystem": "Trigonal",
+    "Habit": "Prismatic or rhombohedral crystals"
+  },
+  "GeologicalEnvironment": {
+    "WhereFound": "Dioptase is found in the oxidized zones of some copper deposits."
+  },
+  "Inclusions": {
+    "Inclusions": "Dioptase is found in the oxidized zones of some copper deposits."
+  }
+}

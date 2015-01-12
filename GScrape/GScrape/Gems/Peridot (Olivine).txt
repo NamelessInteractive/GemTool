@@ -1,0 +1,78 @@
+{
+  "Name": "Peridot (Olivine)",
+  "Description": "Peridot is a gem-quality Olivine. The name \"Peridot\" is believed to have originated from the Arabic word faridat, meaning \"gem\", or alternatively, as the Oxford English Dictionary suggests, it came from classical Latin pæderot - a kind of opal.\r\n\r\nThe colour of peridot gems can vary from yellow- to olive- to brownish-green, depending on quantity of iron in the crystal structure. The most valued colour is a dark olive-green.",
+  "PhysicalProperties": {
+    "MohsHardness": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 6.5,
+          "Max": 7.0
+        }
+      ]
+    },
+    "SpecificGravity": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 3.27,
+          "Max": 3.48
+        }
+      ]
+    },
+    "Tenacity": "Brittle",
+    "CleavageQuality": "Indistinct",
+    "Fracture": "Conchoidal",
+    "HeatSensitivity": ""
+  },
+  "OpticalProperties": {
+    "RefractiveIndex": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 1.65,
+          "Max": 1.71
+        }
+      ]
+    },
+    "Birefringence": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 0.035,
+          "Max": 0.038
+        }
+      ]
+    },
+    "Pleochroism": "Weak: yellow-green - green - (colorless)",
+    "Dispersion": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 0.02,
+          "Max": 0.02
+        }
+      ]
+    }
+  },
+  "ColourProperties": {
+    "General": "Green, yellow-green, brown-green",
+    "Daylight": "",
+    "ChelseaFilter": "",
+    "CausesOfColour": "Yellowish green, Fe2+ in octahedral series coordination. Green, Fe2+ with minor amounts of Cr3+ in octahedral coordination",
+    "Transparency": "Transparent"
+  },
+  "FlouresenceProperties": {
+    "General": "None"
+  },
+  "Crystallography": {
+    "CrystalSystem": "Orthorhombic",
+    "Habit": "Short, compact prisms, vertically striated."
+  },
+  "GeologicalEnvironment": {
+    "WhereFound": ""
+  },
+  "Inclusions": {
+    "Inclusions": "None"
+  }
+}

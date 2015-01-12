@@ -1,0 +1,62 @@
+{
+  "Name": "Magnetite",
+  "Description": "Natural magnets (lodestones) were known to ancient Greeks, who called this mineral \"magnet\", because it was found in the lands of the Magnetes (Magnesia) in Thessaly.\r\n\r\nMagnetite is a heavy material, black or brownish-black with a metallic luster. It is the most magnetic of all natural commonly occurring minerals on the Earth.\r\n\r\nThe originally bright black colour can gradually change to dark brown.\r\n\r\nMagnetite is often used in jewelry due to its supposed magnetic healing properties.",
+  "PhysicalProperties": {
+    "MohsHardness": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 5.5,
+          "Max": 6.5
+        }
+      ]
+    },
+    "SpecificGravity": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 5.2,
+          "Max": 5.2
+        }
+      ]
+    },
+    "Tenacity": "Brittle",
+    "CleavageQuality": "Good",
+    "Fracture": "Uneven,Irregular",
+    "HeatSensitivity": ""
+  },
+  "OpticalProperties": {
+    "RefractiveIndex": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 2.42,
+          "Max": 2.42
+        }
+      ]
+    },
+    "Birefringence": null,
+    "Pleochroism": "",
+    "Dispersion": null
+  },
+  "ColourProperties": {
+    "General": "Black",
+    "Daylight": "",
+    "ChelseaFilter": "",
+    "CausesOfColour": "",
+    "Transparency": "Opaque"
+  },
+  "FlouresenceProperties": {
+    "General": ""
+  },
+  "Crystallography": {
+    "CrystalSystem": "Isometric",
+    "Habit": ""
+  },
+  "GeologicalEnvironment": {
+    "WhereFound": ""
+  },
+  "Inclusions": {
+    "Inclusions": "Black"
+  }
+}

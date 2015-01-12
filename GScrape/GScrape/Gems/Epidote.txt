@@ -1,0 +1,78 @@
+{
+  "Name": "Epidote",
+  "Description": "Epidote (Greek - addition) is named after the numerous crystal faces.\r\n\r\nRelatively large crystals of flawless facet rough are not uncommon, but faceted stones are limited to small sizes and may appear black because of the dark tone of the material.",
+  "PhysicalProperties": {
+    "MohsHardness": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 6.0,
+          "Max": 7.0
+        }
+      ]
+    },
+    "SpecificGravity": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 3.25,
+          "Max": 3.5
+        }
+      ]
+    },
+    "Tenacity": "",
+    "CleavageQuality": "Perfect",
+    "Fracture": "Conchoidal,Splintery",
+    "HeatSensitivity": ""
+  },
+  "OpticalProperties": {
+    "RefractiveIndex": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 1.729,
+          "Max": 1.768
+        }
+      ]
+    },
+    "Birefringence": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 0.014,
+          "Max": 0.045
+        }
+      ]
+    },
+    "Pleochroism": "Orange/brown stones - strong trichroism: green to strong green - light brown to brown - yellow to colorless; Green stones - strong: green - brown - yellow to colorless",
+    "Dispersion": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 0.03,
+          "Max": 0.03
+        }
+      ]
+    }
+  },
+  "ColourProperties": {
+    "General": "Green, yellowish-green, brownish-green, brown, reddish",
+    "Daylight": "",
+    "ChelseaFilter": "",
+    "CausesOfColour": "",
+    "Transparency": "Transparent"
+  },
+  "FlouresenceProperties": {
+    "General": "None"
+  },
+  "Crystallography": {
+    "CrystalSystem": "Monoclinic",
+    "Habit": "Prismatic"
+  },
+  "GeologicalEnvironment": {
+    "WhereFound": "Most originate in low- to medium-grade metamorphic rocks."
+  },
+  "Inclusions": {
+    "Inclusions": "Most originate in low- to medium-grade metamorphic rocks."
+  }
+}

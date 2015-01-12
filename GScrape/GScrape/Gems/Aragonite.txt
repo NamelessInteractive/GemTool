@@ -1,0 +1,70 @@
+{
+  "Name": "Aragonite",
+  "Description": "Aragonite is named after the Aragon region, Spain, where pseudo-hexagonal twinned crystal forms were first recognized.\r\n\r\nAragonite is a polymorph of calcite, having the same chemical composition but a different physical structure. When aragonite is heated to 400°C it will convert to calcite.\r\n\r\nAragonite occurs in compact, granular, massive or radially fibrous forms. Crystals are often twinned and form pseudohexagonal prisms. They are usually white or colourless but may have brown, grey, green or violet hues. Transparent crystals of aragonite are found in many places, particularly in Bohemia, Spain and the north of England. Massive material is found in horizontal layers. A layered sedimentary marble-like material is sometimes referred to Mexican Onyx and is used for carvings and ornamental objects.\r\n\r\nAragonite forms the basis for many organic gems, such as coral, mother-of-pearl and pearl.",
+  "PhysicalProperties": {
+    "MohsHardness": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 3.5,
+          "Max": 4.0
+        }
+      ]
+    },
+    "SpecificGravity": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 2.93,
+          "Max": 2.96
+        }
+      ]
+    },
+    "Tenacity": "Brittle",
+    "CleavageQuality": "Distinct",
+    "Fracture": "Sub-Conchoidal",
+    "HeatSensitivity": "Moderate"
+  },
+  "OpticalProperties": {
+    "RefractiveIndex": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 1.525,
+          "Max": 1.686
+        }
+      ]
+    },
+    "Birefringence": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 0.155,
+          "Max": 0.155
+        }
+      ]
+    },
+    "Pleochroism": "Strong",
+    "Dispersion": null
+  },
+  "ColourProperties": {
+    "General": "White, yellowish, reddish, greenish, bluish, violet. Commonly banded",
+    "Daylight": "",
+    "ChelseaFilter": "",
+    "CausesOfColour": "",
+    "Transparency": "Transparent,Translucent,Opaque"
+  },
+  "FlouresenceProperties": {
+    "General": "Common orange or cream"
+  },
+  "Crystallography": {
+    "CrystalSystem": "Orthorhombic",
+    "Habit": "Frequently shows pseudohexagonal habit which is caused by combination and twinning"
+  },
+  "GeologicalEnvironment": {
+    "WhereFound": "Typical deposits occur at hot springs, in cavities in volcanic rocks and in cave formation."
+  },
+  "Inclusions": {
+    "Inclusions": "Typical deposits occur at hot springs, in cavities in volcanic rocks and in cave formation."
+  }
+}

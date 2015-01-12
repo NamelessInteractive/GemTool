@@ -1,0 +1,62 @@
+{
+  "Name": "Sonolite",
+  "Description": "Sonolite is named after its discovery locality, in the Sono manganese mine, Japan.\r\n\r\nSonolite forms transparent to translucent red-orange, reddish brown, pinkish brown to dark brown granular masses or prismatic to anhedral crystals up to 2.5 cm.\r\n\r\nSonolite is a very rare gem.",
+  "PhysicalProperties": {
+    "MohsHardness": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 5.5,
+          "Max": 5.5
+        }
+      ]
+    },
+    "SpecificGravity": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 3.82,
+          "Max": 4.0
+        }
+      ]
+    },
+    "Tenacity": "",
+    "CleavageQuality": "",
+    "Fracture": "",
+    "HeatSensitivity": ""
+  },
+  "OpticalProperties": {
+    "RefractiveIndex": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 1.763,
+          "Max": 1.793
+        }
+      ]
+    },
+    "Birefringence": null,
+    "Pleochroism": "",
+    "Dispersion": null
+  },
+  "ColourProperties": {
+    "General": "Brown, dark brown, reddish brown to reddish orange; colorless in thin section.",
+    "Daylight": "",
+    "ChelseaFilter": "",
+    "CausesOfColour": "",
+    "Transparency": "Transparent"
+  },
+  "FlouresenceProperties": {
+    "General": ""
+  },
+  "Crystallography": {
+    "CrystalSystem": "Monoclinic",
+    "Habit": "Crystals prismatic to anhedral, to 2.5 cm; granular."
+  },
+  "GeologicalEnvironment": {
+    "WhereFound": "In metamorphosed manganese-rich deposits."
+  },
+  "Inclusions": {
+    "Inclusions": "In metamorphosed manganese-rich deposits."
+  }
+}

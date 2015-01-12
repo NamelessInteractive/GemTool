@@ -1,0 +1,78 @@
+{
+  "Name": "Titanite (Sphene)",
+  "Description": "The mineralogical name Titanite comes from its titanium contents. It is also known as Sphene, from Greek word for \"wedge\", referring to the typical crystal shape of this mineral.\r\n\r\nTransparent specimens are noted for their strong trichroism, the three colours depend on the base stone colour. Its very high dispersion 0.051 (higher than Diamond 0.044) helps to give cut stones an intense fire. Usual weight of cut stones is 1-2 carats, occasionally to 10-12 carats.",
+  "PhysicalProperties": {
+    "MohsHardness": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 5.0,
+          "Max": 5.5
+        }
+      ]
+    },
+    "SpecificGravity": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 3.52,
+          "Max": 3.54
+        }
+      ]
+    },
+    "Tenacity": "Brittle",
+    "CleavageQuality": "Good",
+    "Fracture": "Conchoidal",
+    "HeatSensitivity": ""
+  },
+  "OpticalProperties": {
+    "RefractiveIndex": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 1.843,
+          "Max": 2.11
+        }
+      ]
+    },
+    "Birefringence": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 0.1,
+          "Max": 0.192
+        }
+      ]
+    },
+    "Pleochroism": "Green stones - strong trichroism: typically colorless - greenish yellow - brownish to yellow;\r\nOrange/brown stones - strong: colorless - yellow - reddish-orange; Yellow stones - distinct: colorless - green-yellow - brownish-orange",
+    "Dispersion": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 0.051,
+          "Max": 0.051
+        }
+      ]
+    }
+  },
+  "ColourProperties": {
+    "General": "Yellow, yellowish-green, green, brownish-green, brown",
+    "Daylight": "",
+    "ChelseaFilter": "",
+    "CausesOfColour": "Green, high Fe content. Green (chrome sphene), Cr3+ in octahedral coordination. Pink, Mn2+ in octahedral, for certain Mn/Fe ratios, as well as pink carbonate inclusions",
+    "Transparency": "Transparent,Translucent,Opaque"
+  },
+  "FlouresenceProperties": {
+    "General": "None"
+  },
+  "Crystallography": {
+    "CrystalSystem": "Monoclinic",
+    "Habit": "Wedge-shaped prisms"
+  },
+  "GeologicalEnvironment": {
+    "WhereFound": "A common accessory mineral in intermediate and felsic plutonic rocks, pegmatites, and alpine veins. In gneisses, schists, and some skarns; rarely detrital."
+  },
+  "Inclusions": {
+    "Inclusions": "A common accessory mineral in intermediate and felsic plutonic rocks, pegmatites, and alpine veins. In gneisses, schists, and some skarns; rarely detrital."
+  }
+}

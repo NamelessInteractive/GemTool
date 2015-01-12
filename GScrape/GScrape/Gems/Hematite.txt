@@ -1,0 +1,70 @@
+{
+  "Name": "Hematite",
+  "Description": "The name hematite (Greek - blood) is derived from the fact that, when cut, the saw coolant becomes coloured red. Hematite can be in reddish brown, ocherous masses, dark silvery-grey scaled masses, silvery-grey crystals, and dark-grey masses.\r\n\r\nFormerly used as mourning jewelry, but today mainly for rings, bead necklaces and intaglio (deepened engravings).",
+  "PhysicalProperties": {
+    "MohsHardness": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 6.0,
+          "Max": 6.0
+        }
+      ]
+    },
+    "SpecificGravity": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 5.0,
+          "Max": 5.3
+        }
+      ]
+    },
+    "Tenacity": "Brittle,Elastic",
+    "CleavageQuality": "None",
+    "Fracture": "Uneven,Conchoidal",
+    "HeatSensitivity": ""
+  },
+  "OpticalProperties": {
+    "RefractiveIndex": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 2.69,
+          "Max": 3.22
+        }
+      ]
+    },
+    "Birefringence": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 0.28,
+          "Max": 0.28
+        }
+      ]
+    },
+    "Pleochroism": "Brownish red - yellowish red.",
+    "Dispersion": null
+  },
+  "ColourProperties": {
+    "General": "Black, steel gray, partly reddish",
+    "Daylight": "",
+    "ChelseaFilter": "",
+    "CausesOfColour": "",
+    "Transparency": "Opaque"
+  },
+  "FlouresenceProperties": {
+    "General": "None"
+  },
+  "Crystallography": {
+    "CrystalSystem": "Trigonal",
+    "Habit": "Crystals complex rhombohedral, pseudocubic, prismatic, rarely scalenohedral, to 13 cm, with triangular striations; thin tabular, to micaceous or platy, commonly in rosettes; radiating fibrous, reniform, botryoidal or stalactitic masses, columnar; earthy, granular, oolitic, concretionary."
+  },
+  "GeologicalEnvironment": {
+    "WhereFound": "An accessory mineral in felsic igneous rocks, a late-stage sublimate in volcanic rocks, and in high-temperature hydrothermal veins. A product of contact metamorphism and in metamorphosed banded iron formations. A common cement in sedimentary rocks and a major constituent in oolitic iron formations. Abundant on weathered iron-bearing minerals."
+  },
+  "Inclusions": {
+    "Inclusions": "An accessory mineral in felsic igneous rocks, a late-stage sublimate in volcanic rocks, and in high-temperature hydrothermal veins. A product of contact metamorphism and in metamorphosed banded iron formations. A common cement in sedimentary rocks and a major constituent in oolitic iron formations. Abundant on weathered iron-bearing minerals."
+  }
+}

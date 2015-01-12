@@ -1,0 +1,70 @@
+{
+  "Name": "Cinnabar",
+  "Description": "Cinnabar is named after Greek \"kinnabaris\", the ancient name for the mineral; possibly from Arabic \"zinjafr\" or Persian \"zinjifrah\", dragon's blood, probably alluding to its colour.\r\n\r\nCinnabar usually occurs as masses or crusts. Well-formed crystals are very rare. The material has cochineal-red colour with adamantine to metallic lustre.\r\n\r\nClear cinnabar crystals are faceted into spectacular stones. Massive material is used for cabochons.",
+  "PhysicalProperties": {
+    "MohsHardness": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 2.0,
+          "Max": 2.5
+        }
+      ]
+    },
+    "SpecificGravity": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 8.0,
+          "Max": 8.2
+        }
+      ]
+    },
+    "Tenacity": "",
+    "CleavageQuality": "Perfect",
+    "Fracture": "Uneven,Splintery",
+    "HeatSensitivity": "High sensitivity"
+  },
+  "OpticalProperties": {
+    "RefractiveIndex": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 2.905,
+          "Max": 3.25
+        }
+      ]
+    },
+    "Birefringence": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 0.351,
+          "Max": 0.351
+        }
+      ]
+    },
+    "Pleochroism": "Nil",
+    "Dispersion": null
+  },
+  "ColourProperties": {
+    "General": "Red, pale-blue",
+    "Daylight": "",
+    "ChelseaFilter": "",
+    "CausesOfColour": "",
+    "Transparency": "Translucent,Opaque"
+  },
+  "FlouresenceProperties": {
+    "General": ""
+  },
+  "Crystallography": {
+    "CrystalSystem": "Trigonal",
+    "Habit": "Rhombohedral crystals. Masses and encrustations are more common"
+  },
+  "GeologicalEnvironment": {
+    "WhereFound": "Occurs in low-temperature ore deposits and is also found in veins and around hot springs"
+  },
+  "Inclusions": {
+    "Inclusions": "Occurs in low-temperature ore deposits and is also found in veins and around hot springs"
+  }
+}

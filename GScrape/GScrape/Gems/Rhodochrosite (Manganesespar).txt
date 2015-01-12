@@ -1,0 +1,78 @@
+{
+  "Name": "Rhodochrosite (Manganesespar)",
+  "Description": "Rhodochrosite (Greek - rose coloured) is usually raspberry red and pink colour. The aggregates are light-dark stripes with zigzag bands. Transparent crystals are rare.",
+  "PhysicalProperties": {
+    "MohsHardness": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 4.0,
+          "Max": 4.0
+        }
+      ]
+    },
+    "SpecificGravity": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 3.45,
+          "Max": 3.7
+        }
+      ]
+    },
+    "Tenacity": "Brittle",
+    "CleavageQuality": "Perfect",
+    "Fracture": "Uneven,Conchoidal",
+    "HeatSensitivity": ""
+  },
+  "OpticalProperties": {
+    "RefractiveIndex": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 1.578,
+          "Max": 1.82
+        }
+      ]
+    },
+    "Birefringence": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 0.208,
+          "Max": 0.22
+        }
+      ]
+    },
+    "Pleochroism": "Distinct: pinkish-red - colorless/light pink",
+    "Dispersion": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 0.015,
+          "Max": 0.015
+        }
+      ]
+    }
+  },
+  "ColourProperties": {
+    "General": "Pinkish to red",
+    "Daylight": "",
+    "ChelseaFilter": "",
+    "CausesOfColour": "Pink to red, Mn2+ in octahedral coordination, with minor Fe2+ Mn3+ in octahedral coordination",
+    "Transparency": "Transparent"
+  },
+  "FlouresenceProperties": {
+    "General": "Under both forms of UV there is a pink response from the mineral as a whole though individual specimens may not show much."
+  },
+  "Crystallography": {
+    "CrystalSystem": "Trigonal",
+    "Habit": "Commonly aggregates with botryoidal forms"
+  },
+  "GeologicalEnvironment": {
+    "WhereFound": "Rhodochrosite occurs as a primary mineral in low- to moderate-temperature hydrothermal veins, also in metamorphic deposits and in carbonatites."
+  },
+  "Inclusions": {
+    "Inclusions": "Rhodochrosite occurs as a primary mineral in low- to moderate-temperature hydrothermal veins, also in metamorphic deposits and in carbonatites."
+  }
+}

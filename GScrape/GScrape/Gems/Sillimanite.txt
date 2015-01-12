@@ -1,0 +1,70 @@
+{
+  "Name": "Sillimanite",
+  "Description": "Sillimanite is named after Benjamin Silliman, Professor of Chemistry and Geology, Yale University, New Haven, Connecticut, USA.\r\n\r\nSillimanite forms transparent, rather slate-blue or blue-green slender poorly terminated prismatic crystals, and some material is fibrous.\r\n\r\nViolet–blue stones have been reported from Mogok Stone Tract, Myanmar and greyish green chatoyant material is found in the Sri Lanka gem gravels.\r\n\r\nSillimanite is one of the most difficult gemstones to fashion.",
+  "PhysicalProperties": {
+    "MohsHardness": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 6.0,
+          "Max": 7.5
+        }
+      ]
+    },
+    "SpecificGravity": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 3.2,
+          "Max": 3.26
+        }
+      ]
+    },
+    "Tenacity": "",
+    "CleavageQuality": "Perfect",
+    "Fracture": "",
+    "HeatSensitivity": ""
+  },
+  "OpticalProperties": {
+    "RefractiveIndex": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 1.653,
+          "Max": 1.685
+        }
+      ]
+    },
+    "Birefringence": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 0.014,
+          "Max": 0.021
+        }
+      ]
+    },
+    "Pleochroism": "Strong trichroism is common for green stones: yellowish green - dark green - blue",
+    "Dispersion": null
+  },
+  "ColourProperties": {
+    "General": "Colourless, blue-green, blue, green, gray-green, brownish",
+    "Daylight": "",
+    "ChelseaFilter": "",
+    "CausesOfColour": "Blue, Fe2+-O-Ti4+, charge transfer, probably similar to blue kyanite. Yellow, Fe3+ or Cr3+ in tetrahedral coordination. Brown, Fe features of yellow sillimanite plus inclusions of iron rich phase",
+    "Transparency": "Transparent,Translucent,Opaque"
+  },
+  "FlouresenceProperties": {
+    "General": "May fluoresce reddish"
+  },
+  "Crystallography": {
+    "CrystalSystem": "Orthorhombic",
+    "Habit": "Prismatic, some material is fibrous"
+  },
+  "GeologicalEnvironment": {
+    "WhereFound": "Sillimanite is found in high-grade metamorphic schists and gneisses, sometimes in pegmatites. Probably most gem sillimanite is found in gem gravels."
+  },
+  "Inclusions": {
+    "Inclusions": "Sillimanite is found in high-grade metamorphic schists and gneisses, sometimes in pegmatites. Probably most gem sillimanite is found in gem gravels."
+  }
+}

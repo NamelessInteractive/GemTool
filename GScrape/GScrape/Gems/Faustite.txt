@@ -1,0 +1,62 @@
+{
+  "Name": "Faustite",
+  "Description": "Faustite is a massive, bright green, zinc-rich member of the Turquoise group that is mined near near Neynschabour, Iran. It is the same structure as Turquoise but the copper element has been replaced by zinc.",
+  "PhysicalProperties": {
+    "MohsHardness": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 4.5,
+          "Max": 4.5
+        }
+      ]
+    },
+    "SpecificGravity": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 2.9,
+          "Max": 2.9
+        }
+      ]
+    },
+    "Tenacity": "Brittle",
+    "CleavageQuality": "",
+    "Fracture": "Conchoidal",
+    "HeatSensitivity": ""
+  },
+  "OpticalProperties": {
+    "RefractiveIndex": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 1.612,
+          "Max": 1.612
+        }
+      ]
+    },
+    "Birefringence": null,
+    "Pleochroism": "",
+    "Dispersion": null
+  },
+  "ColourProperties": {
+    "General": "Apple-green and yellow-green, light bluish green",
+    "Daylight": "",
+    "ChelseaFilter": "",
+    "CausesOfColour": "",
+    "Transparency": "Translucent,Opaque"
+  },
+  "FlouresenceProperties": {
+    "General": ""
+  },
+  "Crystallography": {
+    "CrystalSystem": "Triclinic",
+    "Habit": "Masses or nodules"
+  },
+  "GeologicalEnvironment": {
+    "WhereFound": "Occurs as masses or nodules in argillized shales associated with copper mineralization."
+  },
+  "Inclusions": {
+    "Inclusions": "Occurs as masses or nodules in argillized shales associated with copper mineralization."
+  }
+}

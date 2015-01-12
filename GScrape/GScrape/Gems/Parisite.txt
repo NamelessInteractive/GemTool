@@ -1,0 +1,70 @@
+{
+  "Name": "Parisite",
+  "Description": "Parisite is named after J.J. Paris, mine owner at Muzo, Boyaca, Colombia, the discovery locality.\r\n\r\nParisite forms transparent to translucent brownish yellow, orange to brown crystals. The occasional star stone has been known.",
+  "PhysicalProperties": {
+    "MohsHardness": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 4.5,
+          "Max": 4.5
+        }
+      ]
+    },
+    "SpecificGravity": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 4.33,
+          "Max": 4.42
+        }
+      ]
+    },
+    "Tenacity": "",
+    "CleavageQuality": "Distinct",
+    "Fracture": "",
+    "HeatSensitivity": ""
+  },
+  "OpticalProperties": {
+    "RefractiveIndex": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 1.671,
+          "Max": 1.771
+        }
+      ]
+    },
+    "Birefringence": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 0.099,
+          "Max": 0.1
+        }
+      ]
+    },
+    "Pleochroism": "",
+    "Dispersion": null
+  },
+  "ColourProperties": {
+    "General": "Yellow-brown, reddish",
+    "Daylight": "",
+    "ChelseaFilter": "",
+    "CausesOfColour": "",
+    "Transparency": "Transparent"
+  },
+  "FlouresenceProperties": {
+    "General": ""
+  },
+  "Crystallography": {
+    "CrystalSystem": "Trigonal",
+    "Habit": "Pseudohexagonal crystals"
+  },
+  "GeologicalEnvironment": {
+    "WhereFound": "Occurs in carbonaceous shales including those hosting emeralds and as inclusions in the emeralds."
+  },
+  "Inclusions": {
+    "Inclusions": "Occurs in carbonaceous shales including those hosting emeralds and as inclusions in the emeralds."
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "Name": "Sodalite",
+  "Description": "Sodalite is named after its sodium content, it may be classed as a feldspathoid. Only blue stones are used in jewelry, sometimes they have violet tint. Sodalite may also be grey, yellow, green, or pink and is often mottled with white veins or patches.\r\n\r\nIt was first discovered in 1811 in Greenland, but became important as an ornamental stone in 1891 when vast deposits of fine material were discovered in Ontario, Canada.",
+  "PhysicalProperties": {
+    "MohsHardness": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 5.0,
+          "Max": 6.0
+        }
+      ]
+    },
+    "SpecificGravity": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 2.15,
+          "Max": 2.4
+        }
+      ]
+    },
+    "Tenacity": "Brittle",
+    "CleavageQuality": "Indistinct",
+    "Fracture": "Uneven",
+    "HeatSensitivity": ""
+  },
+  "OpticalProperties": {
+    "RefractiveIndex": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 1.478,
+          "Max": 1.488
+        }
+      ]
+    },
+    "Birefringence": null,
+    "Pleochroism": "Absent",
+    "Dispersion": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 0.018,
+          "Max": 0.018
+        }
+      ]
+    }
+  },
+  "ColourProperties": {
+    "General": "Blue, blue-violet",
+    "Daylight": "",
+    "ChelseaFilter": "",
+    "CausesOfColour": "Blue, interstitial oxygen ion O- near Al or Si. Pink, (hackmanite), unstable electron substituting for Cl- in a tetrahedron of Na+ ions",
+    "Transparency": "Transparent,Translucent,Opaque"
+  },
+  "FlouresenceProperties": {
+    "General": "Strong; orange"
+  },
+  "Crystallography": {
+    "CrystalSystem": "Isometric",
+    "Habit": "Polycrystalline aggregate, commonly with white veins"
+  },
+  "GeologicalEnvironment": {
+    "WhereFound": "Formed in nepheline syenites, phonolites, and related rock types. In metasomatized calcareous rocks, and in cavities in ejected volcanic blocks."
+  },
+  "Inclusions": {
+    "Inclusions": "Formed in nepheline syenites, phonolites, and related rock types. In metasomatized calcareous rocks, and in cavities in ejected volcanic blocks."
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "Name": "Sunstone (Aventurine feldspar)",
+  "Description": "Sunstone is a plagioclase feldspar that has red, more rarely green or blue glitter which is caused by light reflections from tiny hematite or goethite platelets.\r\n\r\nThe name derives from sunstones believed to have been used for navigation in the Middle Ages.\r\n\r\nSunstone is the official gemstone of Oregon, USA.",
+  "PhysicalProperties": {
+    "MohsHardness": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 6.0,
+          "Max": 6.5
+        }
+      ]
+    },
+    "SpecificGravity": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 2.62,
+          "Max": 2.67
+        }
+      ]
+    },
+    "Tenacity": "Brittle",
+    "CleavageQuality": "Perfect",
+    "Fracture": "Splintery",
+    "HeatSensitivity": ""
+  },
+  "OpticalProperties": {
+    "RefractiveIndex": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 1.525,
+          "Max": 1.552
+        }
+      ]
+    },
+    "Birefringence": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 0.007,
+          "Max": 0.01
+        }
+      ]
+    },
+    "Pleochroism": "Weak or absent",
+    "Dispersion": null
+  },
+  "ColourProperties": {
+    "General": "Reddish-brown, brownish-red, golden brown. Aventurescent",
+    "Daylight": "",
+    "ChelseaFilter": "",
+    "CausesOfColour": "",
+    "Transparency": "Translucent,Opaque"
+  },
+  "FlouresenceProperties": {
+    "General": "Dark brown-red"
+  },
+  "Crystallography": {
+    "CrystalSystem": "Triclinic",
+    "Habit": "Rare, solid aggregates"
+  },
+  "GeologicalEnvironment": {
+    "WhereFound": ""
+  },
+  "Inclusions": {
+    "Inclusions": "Dark brown-red"
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "Name": "Moss Agate",
+  "Description": "Moss agate is a colourless, translucent Dendritic Agate variety of Chalcedony with inclusions of green hornblende (or chlorite) in moss-like patterns (therefore the name).\r\n\r\nMoss agate, although primarily green, can also show brown and red patterns due to the oxidation of the iron in the hornblende/chlorite.\r\n\r\nThe name 'Agate' is generally accepted even though the stone is not banded as a true agate should be.",
+  "PhysicalProperties": {
+    "MohsHardness": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 6.5,
+          "Max": 7.0
+        }
+      ]
+    },
+    "SpecificGravity": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 2.58,
+          "Max": 2.64
+        }
+      ]
+    },
+    "Tenacity": "",
+    "CleavageQuality": "None",
+    "Fracture": "",
+    "HeatSensitivity": ""
+  },
+  "OpticalProperties": {
+    "RefractiveIndex": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 1.53,
+          "Max": 1.54
+        }
+      ]
+    },
+    "Birefringence": null,
+    "Pleochroism": "Absent",
+    "Dispersion": null
+  },
+  "ColourProperties": {
+    "General": "Translucent to white with green veins/streaks.",
+    "Daylight": "",
+    "ChelseaFilter": "",
+    "CausesOfColour": "Green streaks are inclusions of green amphibole or chlorite-group minerals.",
+    "Transparency": "Translucent"
+  },
+  "FlouresenceProperties": {
+    "General": "Variable, cannot be used for a diagnosis"
+  },
+  "Crystallography": {
+    "CrystalSystem": "Trigonal",
+    "Habit": "Microcrystalline"
+  },
+  "GeologicalEnvironment": {
+    "WhereFound": "It occurs as filler in fissures or as pebbles."
+  },
+  "Inclusions": {
+    "Inclusions": "It occurs as filler in fissures or as pebbles."
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "Name": "Sapphirine",
+  "Description": "Sapphirine is named after its sapphire-blue colour.\r\n\r\nSapphirine forms irregular tabular transparent to translucent light to dark blue crystals. An orange-red variety has been reported from Tanzania.\r\n\r\nSapphirine has a strong pleochroism: shades of blue, pale reddish or yellowish green.\r\n\r\nVery small stones are faceted for collectors.",
+  "PhysicalProperties": {
+    "MohsHardness": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 7.5,
+          "Max": 7.5
+        }
+      ]
+    },
+    "SpecificGravity": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 3.4,
+          "Max": 3.58
+        }
+      ]
+    },
+    "Tenacity": "",
+    "CleavageQuality": "None",
+    "Fracture": "Conchoidal",
+    "HeatSensitivity": ""
+  },
+  "OpticalProperties": {
+    "RefractiveIndex": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 1.701,
+          "Max": 1.724
+        }
+      ]
+    },
+    "Birefringence": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 0.005,
+          "Max": 0.007
+        }
+      ]
+    },
+    "Pleochroism": "Gray to bluish gray: strong trichroism (according to body color): greenish blue/gray - blue - dark blue. Purplish-pink variety: yellow - pinkish - purplish pink.",
+    "Dispersion": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 0.019,
+          "Max": 0.019
+        }
+      ]
+    }
+  },
+  "ColourProperties": {
+    "General": "Dark blue, colourless, greenish, pink, violet.",
+    "Daylight": "",
+    "ChelseaFilter": "",
+    "CausesOfColour": "",
+    "Transparency": "Transparent,Translucent"
+  },
+  "FlouresenceProperties": {
+    "General": "Inert"
+  },
+  "Crystallography": {
+    "CrystalSystem": "Monoclinic",
+    "Habit": "Indistinct tabular"
+  },
+  "GeologicalEnvironment": {
+    "WhereFound": "Sapphirine occurs in high-temperature rocks or xenoliths with abundant aluminium and magnesium and low silicon."
+  },
+  "Inclusions": {
+    "Inclusions": "Sapphirine occurs in high-temperature rocks or xenoliths with abundant aluminium and magnesium and low silicon."
+  }
+}

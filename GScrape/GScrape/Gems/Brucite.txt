@@ -1,0 +1,70 @@
+{
+  "Name": "Brucite",
+  "Description": "Brucite is named after Archibald Bruce, discoverer of the mineral, physician and professor at Yale University.\r\n\r\nBrucite forms white, pale green, blue, brownish-red or brown, transparent tabular crystals, platy or foliated or granular masses.",
+  "PhysicalProperties": {
+    "MohsHardness": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 2.5,
+          "Max": 2.5
+        }
+      ]
+    },
+    "SpecificGravity": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 2.39,
+          "Max": 2.39
+        }
+      ]
+    },
+    "Tenacity": "",
+    "CleavageQuality": "Perfect",
+    "Fracture": "",
+    "HeatSensitivity": ""
+  },
+  "OpticalProperties": {
+    "RefractiveIndex": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 1.56,
+          "Max": 1.6
+        }
+      ]
+    },
+    "Birefringence": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 0.01,
+          "Max": 0.02
+        }
+      ]
+    },
+    "Pleochroism": "",
+    "Dispersion": null
+  },
+  "ColourProperties": {
+    "General": "Ranges from white through pale green or blue to brownish red and brown",
+    "Daylight": "",
+    "ChelseaFilter": "",
+    "CausesOfColour": "",
+    "Transparency": "Transparent"
+  },
+  "FlouresenceProperties": {
+    "General": ""
+  },
+  "Crystallography": {
+    "CrystalSystem": "Trigonal",
+    "Habit": "Tabular crystals, platy or foliated or granular masses"
+  },
+  "GeologicalEnvironment": {
+    "WhereFound": "Occurs as a common alteration of periclase in marble and in low-temperature hydrothermal veins in metamorphic limestones and chlorite schists"
+  },
+  "Inclusions": {
+    "Inclusions": "Occurs as a common alteration of periclase in marble and in low-temperature hydrothermal veins in metamorphic limestones and chlorite schists"
+  }
+}

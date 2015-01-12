@@ -1,0 +1,70 @@
+{
+  "Name": "Forsterite",
+  "Description": "Forsterite is named after Adolarius Jacob Forster, English mineral collector and dealer.\r\n\r\nForsterite is a magnesium-rich olivine mineral. It forms colourless, green, yellow, yellow green, white, transparent to translucent crystals with vitreous lustre.",
+  "PhysicalProperties": {
+    "MohsHardness": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 6.5,
+          "Max": 7.0
+        }
+      ]
+    },
+    "SpecificGravity": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 3.23,
+          "Max": 3.26
+        }
+      ]
+    },
+    "Tenacity": "Brittle",
+    "CleavageQuality": "Imperfect",
+    "Fracture": "Conchoidal",
+    "HeatSensitivity": ""
+  },
+  "OpticalProperties": {
+    "RefractiveIndex": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 1.635,
+          "Max": 1.671
+        }
+      ]
+    },
+    "Birefringence": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 0.034,
+          "Max": 0.035
+        }
+      ]
+    },
+    "Pleochroism": "",
+    "Dispersion": null
+  },
+  "ColourProperties": {
+    "General": "Colorless to greenish",
+    "Daylight": "",
+    "ChelseaFilter": "Neutral",
+    "CausesOfColour": "",
+    "Transparency": "Transparent,Translucent"
+  },
+  "FlouresenceProperties": {
+    "General": ""
+  },
+  "Crystallography": {
+    "CrystalSystem": "Orthorhombic",
+    "Habit": "In euhedral or subhedral crystals, typically thick, with wedge-shaped terminations, to 17 cm. Commonly granular or compact massive."
+  },
+  "GeologicalEnvironment": {
+    "WhereFound": "In mafic and ultramafic igneous rocks and thermally metamorphosed impure\r\ndolomitic limestones."
+  },
+  "Inclusions": {
+    "Inclusions": "In mafic and ultramafic igneous rocks and thermally metamorphosed impure\r\ndolomitic limestones."
+  }
+}

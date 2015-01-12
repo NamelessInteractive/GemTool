@@ -1,0 +1,70 @@
+{
+  "Name": "Thaumasite",
+  "Description": "Thaumasite is named after Greek \"thaumazein\" - to be surprised, alluding to its unusual composition, which includes silicate, carbonate and sulfate radicals.\r\n\r\nThaumasite forms transparent to translucent white, yellowish, sometimes pink or brown acicular prismatic crystals or compact masses.\r\n\r\nYellow material from South Africa has been faceted.",
+  "PhysicalProperties": {
+    "MohsHardness": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 3.5,
+          "Max": 3.5
+        }
+      ]
+    },
+    "SpecificGravity": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 1.91,
+          "Max": 1.91
+        }
+      ]
+    },
+    "Tenacity": "Brittle",
+    "CleavageQuality": "Poor",
+    "Fracture": "Sub-Conchoidal",
+    "HeatSensitivity": ""
+  },
+  "OpticalProperties": {
+    "RefractiveIndex": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 1.467,
+          "Max": 1.505
+        }
+      ]
+    },
+    "Birefringence": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 0.038,
+          "Max": 0.038
+        }
+      ]
+    },
+    "Pleochroism": "",
+    "Dispersion": null
+  },
+  "ColourProperties": {
+    "General": "Colourless, light yellow, white.",
+    "Daylight": "",
+    "ChelseaFilter": "",
+    "CausesOfColour": "",
+    "Transparency": "Transparent"
+  },
+  "FlouresenceProperties": {
+    "General": ""
+  },
+  "Crystallography": {
+    "CrystalSystem": "Hexagonal",
+    "Habit": "Acicular prismatic crystals or compact masses"
+  },
+  "GeologicalEnvironment": {
+    "WhereFound": "Occurs as a very late-stage mineral in some sulphide ore deposits."
+  },
+  "Inclusions": {
+    "Inclusions": "Occurs as a very late-stage mineral in some sulphide ore deposits."
+  }
+}

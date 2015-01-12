@@ -1,0 +1,70 @@
+{
+  "Name": "Calcite",
+  "Description": "Calcite is named after Latin \"calx\" - lime. It is a very common mineral with wide range of colours and forms.\r\n\r\nAttractive specimens are faceted or used for cabochons and carved ornamental objects.\r\n\r\nCalcite may exhibit fluorescence, phosphorescence, thermoluminescence and/or triboluminescence.",
+  "PhysicalProperties": {
+    "MohsHardness": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 3.0,
+          "Max": 0.0
+        }
+      ]
+    },
+    "SpecificGravity": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 2.67,
+          "Max": 2.73
+        }
+      ]
+    },
+    "Tenacity": "",
+    "CleavageQuality": "Perfect",
+    "Fracture": "Conchoidal",
+    "HeatSensitivity": ""
+  },
+  "OpticalProperties": {
+    "RefractiveIndex": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 1.486,
+          "Max": 1.658
+        }
+      ]
+    },
+    "Birefringence": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 0.172,
+          "Max": 0.172
+        }
+      ]
+    },
+    "Pleochroism": "Nil",
+    "Dispersion": null
+  },
+  "ColourProperties": {
+    "General": "White, yellowish, pink, bluish, orange, colourless",
+    "Daylight": "",
+    "ChelseaFilter": "",
+    "CausesOfColour": "Pink, CO2+",
+    "Transparency": "Transparent,Translucent,Opaque"
+  },
+  "FlouresenceProperties": {
+    "General": ""
+  },
+  "Crystallography": {
+    "CrystalSystem": "Trigonal",
+    "Habit": "Scalenohedrons, rhombohedrons, stalactite"
+  },
+  "GeologicalEnvironment": {
+    "WhereFound": "A major rock-forming mineral. It occurs in limestones, marbles, chalks, a common cement in clastic sedimentary rocks, and as gangue in hydrothermal veins; in alkalic to mafic igneous rocks; common as speleothems in caves."
+  },
+  "Inclusions": {
+    "Inclusions": "A major rock-forming mineral. It occurs in limestones, marbles, chalks, a common cement in clastic sedimentary rocks, and as gangue in hydrothermal veins; in alkalic to mafic igneous rocks; common as speleothems in caves."
+  }
+}

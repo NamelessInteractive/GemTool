@@ -1,0 +1,62 @@
+{
+  "Name": "Hibonite",
+  "Description": "Hibonite is named after Paul Hibon, a French prospector who discovered the mineral in Madagascar.\r\n\r\nHibonite is a very rare gem. Stones which are large enough or transparent enough for faceting are very sparse.\r\n\r\nHibonite is slightly radioactive.",
+  "PhysicalProperties": {
+    "MohsHardness": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 7.5,
+          "Max": 8.0
+        }
+      ]
+    },
+    "SpecificGravity": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 3.84,
+          "Max": 3.84
+        }
+      ]
+    },
+    "Tenacity": "",
+    "CleavageQuality": "Good",
+    "Fracture": "Sub-Conchoidal",
+    "HeatSensitivity": ""
+  },
+  "OpticalProperties": {
+    "RefractiveIndex": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 1.79,
+          "Max": 1.807
+        }
+      ]
+    },
+    "Birefringence": null,
+    "Pleochroism": "Brownish gray - gray",
+    "Dispersion": null
+  },
+  "ColourProperties": {
+    "General": "Brownish black to black; reddish brown in thin fragments.",
+    "Daylight": "",
+    "ChelseaFilter": "",
+    "CausesOfColour": "",
+    "Transparency": "Translucent"
+  },
+  "FlouresenceProperties": {
+    "General": ""
+  },
+  "Crystallography": {
+    "CrystalSystem": "Hexagonal",
+    "Habit": "Prisms, platy or steep pyramidal, to 4 cm."
+  },
+  "GeologicalEnvironment": {
+    "WhereFound": "In metamorphosed limestone, pyroxenite, gneiss, and granulite of the amphibolite to granulite facies; also alluvial. A common accessory in Ca–Al-rich inclusions in some carbonaceous chondrites."
+  },
+  "Inclusions": {
+    "Inclusions": "In metamorphosed limestone, pyroxenite, gneiss, and granulite of the amphibolite to granulite facies; also alluvial. A common accessory in Ca–Al-rich inclusions in some carbonaceous chondrites."
+  }
+}

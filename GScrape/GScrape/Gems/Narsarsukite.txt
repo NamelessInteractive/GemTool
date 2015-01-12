@@ -1,0 +1,70 @@
+{
+  "Name": "Narsarsukite",
+  "Description": "Narsarsukite is named after its discovery locality, at Narsarsuk, southern Greenland.\r\n\r\nNarsarsukite forms olive-green, honey-yellow to lemon-yellow, reddish brown, brownish gray, tan, pink crystals of small size. The material can be faceted into small attractive gems.",
+  "PhysicalProperties": {
+    "MohsHardness": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 6.0,
+          "Max": 7.0
+        }
+      ]
+    },
+    "SpecificGravity": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 2.72,
+          "Max": 2.83
+        }
+      ]
+    },
+    "Tenacity": "Brittle",
+    "CleavageQuality": "Perfect",
+    "Fracture": "Uneven,Sub-Conchoidal",
+    "HeatSensitivity": ""
+  },
+  "OpticalProperties": {
+    "RefractiveIndex": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 1.61,
+          "Max": 1.647
+        }
+      ]
+    },
+    "Birefringence": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 0.033,
+          "Max": 0.033
+        }
+      ]
+    },
+    "Pleochroism": "",
+    "Dispersion": null
+  },
+  "ColourProperties": {
+    "General": "Green",
+    "Daylight": "",
+    "ChelseaFilter": "",
+    "CausesOfColour": "",
+    "Transparency": "Transparent,Translucent,Opaque"
+  },
+  "FlouresenceProperties": {
+    "General": ""
+  },
+  "Crystallography": {
+    "CrystalSystem": "Tetragonal",
+    "Habit": "Crystals, commonly flat tabular to equant, rarely prismatic, striated, to 3 cm. In divergent, radiating groups; as fine grained segregations, massive."
+  },
+  "GeologicalEnvironment": {
+    "WhereFound": "In pegmatite (Narssarssuk, Greenland); in quartz veins in syenite intruding limestone (Sweetgrass Hills, Montana, USA); in hornfels, igneous breccia, and marble xenoliths in an intrusive alkalic gabbro-syenite complex (Mont Saint Hilaire, Canada)."
+  },
+  "Inclusions": {
+    "Inclusions": "In pegmatite (Narssarssuk, Greenland); in quartz veins in syenite intruding limestone (Sweetgrass Hills, Montana, USA); in hornfels, igneous breccia, and marble xenoliths in an intrusive alkalic gabbro-syenite complex (Mont Saint Hilaire, Canada)."
+  }
+}

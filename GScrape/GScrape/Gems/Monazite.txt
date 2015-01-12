@@ -1,0 +1,70 @@
+{
+  "Name": "Monazite",
+  "Description": "Monazite is named after Greek \"monazein\" - to be solitary, alluding to its rare occurence as isolated crystals in the mineral's discovery material. The three minerals are monazite-(Ce), monazite-(La) and monazite-(Nd).\r\n\r\nMonazite forms tabular or prismatic crystals of yellow, yellow-brown, brown, rose-red, reddish-brown colour. Colour change from reddish orange in daylight to pinkish brown in tungsten light has been reported.\r\n\r\nMonazite usually contains small amounts of Th or sometimes U, both making it radioactive.",
+  "PhysicalProperties": {
+    "MohsHardness": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 5.0,
+          "Max": 5.5
+        }
+      ]
+    },
+    "SpecificGravity": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 4.8,
+          "Max": 5.5
+        }
+      ]
+    },
+    "Tenacity": "",
+    "CleavageQuality": "Perfect",
+    "Fracture": "",
+    "HeatSensitivity": ""
+  },
+  "OpticalProperties": {
+    "RefractiveIndex": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 1.796,
+          "Max": 1.841
+        }
+      ]
+    },
+    "Birefringence": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 0.045,
+          "Max": 0.045
+        }
+      ]
+    },
+    "Pleochroism": "",
+    "Dispersion": null
+  },
+  "ColourProperties": {
+    "General": "Yellow, yellow-brown, brown",
+    "Daylight": "Colour change (reddish orange in daylight to pinkish brown in tungsten light) is reported but is common enough when RE are involved in the composition.",
+    "ChelseaFilter": "",
+    "CausesOfColour": "",
+    "Transparency": "Transparent"
+  },
+  "FlouresenceProperties": {
+    "General": ""
+  },
+  "Crystallography": {
+    "CrystalSystem": "Monoclinic",
+    "Habit": "Tabular, prismatic"
+  },
+  "GeologicalEnvironment": {
+    "WhereFound": "Is found in igneous rocks including granite pegmatites"
+  },
+  "Inclusions": {
+    "Inclusions": "Is found in igneous rocks including granite pegmatites"
+  }
+}

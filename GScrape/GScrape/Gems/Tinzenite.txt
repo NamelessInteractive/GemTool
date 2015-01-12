@@ -1,0 +1,62 @@
+{
+  "Name": "Tinzenite",
+  "Description": "Tinzenite is named after its discovery locality, at Tinzen, Grischun, Switzerland.\r\n\r\nTinzenite forms transparent to translucent yellow, brownish yellow-green, orange, red prismatic crystals to 5 mm or masses with vitreous lustre.\r\n\r\nTinzenite makes attractive faceted stones that can be used in the jewellery.",
+  "PhysicalProperties": {
+    "MohsHardness": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 6.5,
+          "Max": 0.0
+        }
+      ]
+    },
+    "SpecificGravity": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 3.355,
+          "Max": 3.433
+        }
+      ]
+    },
+    "Tenacity": "Brittle",
+    "CleavageQuality": "Good,Poor",
+    "Fracture": "Uneven,Conchoidal",
+    "HeatSensitivity": ""
+  },
+  "OpticalProperties": {
+    "RefractiveIndex": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 1.69,
+          "Max": 1.705
+        }
+      ]
+    },
+    "Birefringence": null,
+    "Pleochroism": "In thick sections, weak: light brown - violet - light yellow or colorless",
+    "Dispersion": null
+  },
+  "ColourProperties": {
+    "General": "Yellow, brownish yellow-green; orange to red in thin section.",
+    "Daylight": "",
+    "ChelseaFilter": "",
+    "CausesOfColour": "",
+    "Transparency": "Transparent,Translucent"
+  },
+  "FlouresenceProperties": {
+    "General": ""
+  },
+  "Crystallography": {
+    "CrystalSystem": "Triclinic",
+    "Habit": "As aggregates of prismatic crystals, to 5 mm; massive."
+  },
+  "GeologicalEnvironment": {
+    "WhereFound": "In metamorphosed manganese-bearing ophiolites (Liguria, Italy); in quartz veins in cherts of the greenschist facies (Akatore, New Zealand)."
+  },
+  "Inclusions": {
+    "Inclusions": "In metamorphosed manganese-bearing ophiolites (Liguria, Italy); in quartz veins in cherts of the greenschist facies (Akatore, New Zealand)."
+  }
+}

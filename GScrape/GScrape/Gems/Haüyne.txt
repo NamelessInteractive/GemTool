@@ -1,0 +1,62 @@
+{
+  "Name": "Haüyne",
+  "Description": "Haüyne was first described in 1807 from samples discovered in Vesuvian lavas in Monte Somma, Italy. It was named after René Just Haüy, French crystallographer.\r\n\r\nThe crystals are transparent to translucent, with a vitreous to greasy luster. The colour is usually bright blue, but it can also be white, gray, yellow, green and pink.\r\n\r\nFine crystal specimens come from the Eifel Mountains, Germany.\r\n\r\nLazurite, the primary constituent of lapis lazuli, is a sulfide-rich variety of Haüyne.",
+  "PhysicalProperties": {
+    "MohsHardness": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 5.5,
+          "Max": 6.0
+        }
+      ]
+    },
+    "SpecificGravity": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 2.4,
+          "Max": 2.5
+        }
+      ]
+    },
+    "Tenacity": "Brittle",
+    "CleavageQuality": "Perfect",
+    "Fracture": "Conchoidal",
+    "HeatSensitivity": ""
+  },
+  "OpticalProperties": {
+    "RefractiveIndex": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 1.49,
+          "Max": 1.51
+        }
+      ]
+    },
+    "Birefringence": null,
+    "Pleochroism": "",
+    "Dispersion": null
+  },
+  "ColourProperties": {
+    "General": "Lazure blue, green-blue, blue-white.",
+    "Daylight": "",
+    "ChelseaFilter": "",
+    "CausesOfColour": "",
+    "Transparency": "Transparent,Translucent,Opaque"
+  },
+  "FlouresenceProperties": {
+    "General": "May fluoresce orangy red (weaker to SW)"
+  },
+  "Crystallography": {
+    "CrystalSystem": "Isometric",
+    "Habit": "Dodecahedral or pseudooctahedral"
+  },
+  "GeologicalEnvironment": {
+    "WhereFound": "Haüyne occurs in alkaline nepheline or leucite-rich igneous rocks"
+  },
+  "Inclusions": {
+    "Inclusions": "Haüyne occurs in alkaline nepheline or leucite-rich igneous rocks"
+  }
+}

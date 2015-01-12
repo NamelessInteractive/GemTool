@@ -1,0 +1,70 @@
+{
+  "Name": "Stibiotantalite",
+  "Description": "The name Stibiotantalite reflects its antimony (Greek - stibi) content and similarity to Tantalite.\r\n\r\nStibiotantalite forms transparent or semi-transparent yellowish to brownish equant or flattened prismatic crystals. It is heavier, softer and brighter than tantalite.\r\n\r\nStibiotantalite can be cut into bright fiery golden-brown gems which have some resemblance to sphalerite.",
+  "PhysicalProperties": {
+    "MohsHardness": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 5.5,
+          "Max": 6.0
+        }
+      ]
+    },
+    "SpecificGravity": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 7.2,
+          "Max": 7.9
+        }
+      ]
+    },
+    "Tenacity": "Brittle",
+    "CleavageQuality": "Distinct",
+    "Fracture": "Sub-Conchoidal",
+    "HeatSensitivity": ""
+  },
+  "OpticalProperties": {
+    "RefractiveIndex": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 2.37,
+          "Max": 2.45
+        }
+      ]
+    },
+    "Birefringence": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 0.08,
+          "Max": 0.08
+        }
+      ]
+    },
+    "Pleochroism": "",
+    "Dispersion": null
+  },
+  "ColourProperties": {
+    "General": "Brown, yellow-brown, reddish, greenish",
+    "Daylight": "",
+    "ChelseaFilter": "",
+    "CausesOfColour": "",
+    "Transparency": "Transparent"
+  },
+  "FlouresenceProperties": {
+    "General": ""
+  },
+  "Crystallography": {
+    "CrystalSystem": "Orthorhombic",
+    "Habit": "Equant or flattened prismatic crystals"
+  },
+  "GeologicalEnvironment": {
+    "WhereFound": "Stibiotantalite occurs in complex granite pegmatites."
+  },
+  "Inclusions": {
+    "Inclusions": "Stibiotantalite occurs in complex granite pegmatites."
+  }
+}

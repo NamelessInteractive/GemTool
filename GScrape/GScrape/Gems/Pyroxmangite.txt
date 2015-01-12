@@ -1,0 +1,70 @@
+{
+  "Name": "Pyroxmangite",
+  "Description": "Pyroxmangite is misnamed as being a manganese member of the pyroxene group; it is a pyroxenoid.\r\n\r\nPyroxmangite forms translucent red, red-brown, dark-brown, pink, brownish, yellowish, purplish tabular crystals with vitreous to pearly lustre. Crystals are frequently twinned.\r\n\r\nFine crystals have been faceted, but it is usually more suitable for cabochons.",
+  "PhysicalProperties": {
+    "MohsHardness": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 5.0,
+          "Max": 6.0
+        }
+      ]
+    },
+    "SpecificGravity": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 3.76,
+          "Max": 3.77
+        }
+      ]
+    },
+    "Tenacity": "",
+    "CleavageQuality": "Perfect",
+    "Fracture": "Uneven",
+    "HeatSensitivity": ""
+  },
+  "OpticalProperties": {
+    "RefractiveIndex": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 1.735,
+          "Max": 1.756
+        }
+      ]
+    },
+    "Birefringence": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 0.017,
+          "Max": 0.019
+        }
+      ]
+    },
+    "Pleochroism": "",
+    "Dispersion": null
+  },
+  "ColourProperties": {
+    "General": "Red, pink, brownish",
+    "Daylight": "",
+    "ChelseaFilter": "",
+    "CausesOfColour": "",
+    "Transparency": "Transparent"
+  },
+  "FlouresenceProperties": {
+    "General": ""
+  },
+  "Crystallography": {
+    "CrystalSystem": "Triclinic",
+    "Habit": "Tabular"
+  },
+  "GeologicalEnvironment": {
+    "WhereFound": "Pyroxmangite occurs in regionally metamorphosed manganese ore deposits and in manganiferous rocks."
+  },
+  "Inclusions": {
+    "Inclusions": "Pyroxmangite occurs in regionally metamorphosed manganese ore deposits and in manganiferous rocks."
+  }
+}

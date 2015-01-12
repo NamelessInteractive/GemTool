@@ -1,0 +1,70 @@
+{
+  "Name": "Blue Beryl (Maxixe)",
+  "Description": "Maxixe Beryl is a variety of beryl that has a bright or dark blue colour. The colour gradually fades in daylight to a brown-yellow colour, which diminishes its value as a gemstone.\r\n\r\nOriginally (since 1917) it came only from the Maxixe Mine in Minas Gerais (Brazil). More recently beryl from multiple sources has been sold as 'Maxixe', which has lead to many in gemmological circles preferring to use the terms 'Blue Beryl' or 'Maxixe-type beryl'.\r\n\r\nSince the 1970s it has been more widely available and enhanced through irradiation, but the colour fades after prolonged exposure to light or heat although it is much slower with indoor lighting.",
+  "PhysicalProperties": {
+    "MohsHardness": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 7.5,
+          "Max": 8.0
+        }
+      ]
+    },
+    "SpecificGravity": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 2.6,
+          "Max": 2.9
+        }
+      ]
+    },
+    "Tenacity": "",
+    "CleavageQuality": "",
+    "Fracture": "Conchoidal",
+    "HeatSensitivity": ""
+  },
+  "OpticalProperties": {
+    "RefractiveIndex": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 1.56,
+          "Max": 1.604
+        }
+      ]
+    },
+    "Birefringence": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 0.003,
+          "Max": 0.01
+        }
+      ]
+    },
+    "Pleochroism": "Strong dichroism: blue to colourless.",
+    "Dispersion": null
+  },
+  "ColourProperties": {
+    "General": "Blue",
+    "Daylight": "",
+    "ChelseaFilter": "",
+    "CausesOfColour": "",
+    "Transparency": "Transparent,Translucent"
+  },
+  "FlouresenceProperties": {
+    "General": ""
+  },
+  "Crystallography": {
+    "CrystalSystem": "Hexagonal",
+    "Habit": "Prismatic"
+  },
+  "GeologicalEnvironment": {
+    "WhereFound": ""
+  },
+  "Inclusions": {
+    "Inclusions": "Blue"
+  }
+}

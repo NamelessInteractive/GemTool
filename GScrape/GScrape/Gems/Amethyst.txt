@@ -1,0 +1,78 @@
+{
+  "Name": "Amethyst",
+  "Description": "Amethyst is the name given to purple to mauve quartz.\r\n\r\nThe name comes from the Ancient Greek (\"not intoxicated\"), a reference to the belief that the stone protected its owner from drunkenness. The ancient Greeks and Romans wore amethyst and made drinking vessels of it in the belief that it would prevent intoxication.\r\n\r\nThe range of colour includes reddish-violet tints of pale or almost colourless shades, and deep, rich tones of pure violet.",
+  "PhysicalProperties": {
+    "MohsHardness": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 7.0,
+          "Max": 7.0
+        }
+      ]
+    },
+    "SpecificGravity": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 2.65,
+          "Max": 2.65
+        }
+      ]
+    },
+    "Tenacity": "Brittle",
+    "CleavageQuality": "None",
+    "Fracture": "Conchoidal",
+    "HeatSensitivity": "The colour does not resist high temperatures. When subjected to the action of heat it changes first to a more or less pronounced yellow, gradually assumes a greenish shade, and finally disappears."
+  },
+  "OpticalProperties": {
+    "RefractiveIndex": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 1.544,
+          "Max": 1.553
+        }
+      ]
+    },
+    "Birefringence": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 0.009,
+          "Max": 0.009
+        }
+      ]
+    },
+    "Pleochroism": "Weak: (gray)-purple - reddish-purple",
+    "Dispersion": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 0.013,
+          "Max": 0.013
+        }
+      ]
+    }
+  },
+  "ColourProperties": {
+    "General": "Purple, violet, pale red-violet",
+    "Daylight": "Some amethysts lose some color in daylight.",
+    "ChelseaFilter": "Reddish",
+    "CausesOfColour": "Violet to purple, O2+→Fe4+ charge transfer, due to irradiation.",
+    "Transparency": "Transparent,Translucent"
+  },
+  "FlouresenceProperties": {
+    "General": "Inert to weak greenish or bluish"
+  },
+  "Crystallography": {
+    "CrystalSystem": "Trigonal",
+    "Habit": "Hexagonal prisms"
+  },
+  "GeologicalEnvironment": {
+    "WhereFound": "Found in geodes in alluvial deposits."
+  },
+  "Inclusions": {
+    "Inclusions": "Typical \"zebra stripe\" pattern, 2 phase inclusions in veil-like pattern - Blue Chart Gem Identification, Herve Nicolas Lazzarelli, 2010, p 7\r\nHealing cracks (\"tiger-stripes\"), Brazilian law twinning - Gemmological Tables, Ulrich Henn and Claudio C. Milisenda, 2004, p 9"
+  }
+}

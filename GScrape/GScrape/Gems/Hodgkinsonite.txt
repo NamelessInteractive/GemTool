@@ -1,0 +1,70 @@
+{
+  "Name": "Hodgkinsonite",
+  "Description": "Hodgkinsonite is named after H.H. Hodgkinson, discoverer of the mineral at Franklin, Sussex County, New Jersey, USA in 1913.\r\n\r\nFranklin Mine, New Jersey has been the only source of facet-quality rough. The stones have been small, the colours are bright pink and lavender.",
+  "PhysicalProperties": {
+    "MohsHardness": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 4.5,
+          "Max": 5.0
+        }
+      ]
+    },
+    "SpecificGravity": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 4.06,
+          "Max": 4.08
+        }
+      ]
+    },
+    "Tenacity": "Brittle",
+    "CleavageQuality": "Perfect",
+    "Fracture": "Uneven",
+    "HeatSensitivity": ""
+  },
+  "OpticalProperties": {
+    "RefractiveIndex": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 1.72,
+          "Max": 1.746
+        }
+      ]
+    },
+    "Birefringence": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 0.026,
+          "Max": 0.026
+        }
+      ]
+    },
+    "Pleochroism": "Lavender and pale purple for transparent pink stones.",
+    "Dispersion": null
+  },
+  "ColourProperties": {
+    "General": "Brown, black, lavender, orange, pink, purple, violet",
+    "Daylight": "",
+    "ChelseaFilter": "",
+    "CausesOfColour": "",
+    "Transparency": "Transparent"
+  },
+  "FlouresenceProperties": {
+    "General": ""
+  },
+  "Crystallography": {
+    "CrystalSystem": "Monoclinic",
+    "Habit": "Stout prismatic crystals with steep pyramids or with dominating pyramids."
+  },
+  "GeologicalEnvironment": {
+    "WhereFound": "Occurs as seams in massive willemite-franklinite granular ore in a metamorphosed stratiform zinc deposit."
+  },
+  "Inclusions": {
+    "Inclusions": "Occurs as seams in massive willemite-franklinite granular ore in a metamorphosed stratiform zinc deposit."
+  }
+}

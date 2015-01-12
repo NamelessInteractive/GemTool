@@ -1,0 +1,70 @@
+{
+  "Name": "Zektzerite",
+  "Description": "Zektzerite was first found in 1966 from the Willow creek basin, Okanogan County, Washington. It is named after Jack Zektzer, mathematician and mineral collector of Seattle, Washington.\r\n\r\nZektzerite forms translucent, colourless to pink, cream or white stout pseudohexagonal prisms.",
+  "PhysicalProperties": {
+    "MohsHardness": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 6.0,
+          "Max": 6.0
+        }
+      ]
+    },
+    "SpecificGravity": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 2.79,
+          "Max": 2.79
+        }
+      ]
+    },
+    "Tenacity": "",
+    "CleavageQuality": "Perfect",
+    "Fracture": "",
+    "HeatSensitivity": ""
+  },
+  "OpticalProperties": {
+    "RefractiveIndex": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 1.582,
+          "Max": 1.585
+        }
+      ]
+    },
+    "Birefringence": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 0.003,
+          "Max": 0.003
+        }
+      ]
+    },
+    "Pleochroism": "",
+    "Dispersion": null
+  },
+  "ColourProperties": {
+    "General": "Colourless, pink",
+    "Daylight": "",
+    "ChelseaFilter": "",
+    "CausesOfColour": "",
+    "Transparency": "Transparent,Translucent"
+  },
+  "FlouresenceProperties": {
+    "General": ""
+  },
+  "Crystallography": {
+    "CrystalSystem": "Orthorhombic",
+    "Habit": "Stout pseudohexagonal prisms"
+  },
+  "GeologicalEnvironment": {
+    "WhereFound": "Zektzerite occurs in a small number of miarolitic cavities in a riebeckite granite"
+  },
+  "Inclusions": {
+    "Inclusions": "Zektzerite occurs in a small number of miarolitic cavities in a riebeckite granite"
+  }
+}

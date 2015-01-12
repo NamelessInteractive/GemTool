@@ -1,0 +1,70 @@
+{
+  "Name": "Pumpellyite",
+  "Description": "Pumpellyite is named after Raphael Pumpelly, pioneer student of the detailed paragenesis of the copper minerals of the Keweenawan Peninsula, Michigan, where the mineral was discovered. Pumpellyite is Michigan's State Gemstone.\r\n\r\nPumpellyite forms translucent to opaque, blue-green, olive green to white fibrous to lamellar masses with glassy lustre.\r\n\r\nPumpellyite can be easily polished and cut into cabochons.",
+  "PhysicalProperties": {
+    "MohsHardness": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 5.0,
+          "Max": 6.0
+        }
+      ]
+    },
+    "SpecificGravity": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 3.2,
+          "Max": 3.3
+        }
+      ]
+    },
+    "Tenacity": "",
+    "CleavageQuality": "",
+    "Fracture": "",
+    "HeatSensitivity": ""
+  },
+  "OpticalProperties": {
+    "RefractiveIndex": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 1.674,
+          "Max": 1.764
+        }
+      ]
+    },
+    "Birefringence": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 0.014,
+          "Max": 0.016
+        }
+      ]
+    },
+    "Pleochroism": "",
+    "Dispersion": null
+  },
+  "ColourProperties": {
+    "General": "Green, white",
+    "Daylight": "",
+    "ChelseaFilter": "",
+    "CausesOfColour": "Green (chlorastrolite), Fe2+-O-Fe3+ charge transfer coordination, plus Fe2+",
+    "Transparency": "Opaque"
+  },
+  "FlouresenceProperties": {
+    "General": ""
+  },
+  "Crystallography": {
+    "CrystalSystem": "",
+    "Habit": ""
+  },
+  "GeologicalEnvironment": {
+    "WhereFound": ""
+  },
+  "Inclusions": {
+    "Inclusions": "Green, white"
+  }
+}

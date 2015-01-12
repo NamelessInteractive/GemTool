@@ -1,0 +1,70 @@
+{
+  "Name": "Mimetite",
+  "Description": "Mimetite is named from Greek \"mimetes\", an imitator, alluding to its resemblance to pyromorphite.\r\n\r\nMimetite forms transparent and very attractive prismatic crystals or botryoidal, globular masses of yellow to orange-yellow to brown colour, sometimes colourless with a characteristic resinous to subadamantine lustre.\r\n\r\nTransparent, but slightly included material from Tsumeb has been faceted into gems over 1.00 ct (one specimen reported to show an orange-red fluorescence under LWUV).\r\n\r\nBright orange to pastel yellow and brown banded cabochons have been cut from globular masses of Mimetite from Mapimi, Durango, Mexico. Because of their high density and colour banding, these may be mistaken for the \"wood tin\" variety of cassiterite, or the \"schalenblende\" variety of sphalerite/wurtzite.",
+  "PhysicalProperties": {
+    "MohsHardness": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 3.5,
+          "Max": 3.5
+        }
+      ]
+    },
+    "SpecificGravity": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 7.1,
+          "Max": 7.1
+        }
+      ]
+    },
+    "Tenacity": "",
+    "CleavageQuality": "Imperfect",
+    "Fracture": "Sub-Conchoidal",
+    "HeatSensitivity": ""
+  },
+  "OpticalProperties": {
+    "RefractiveIndex": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 2.106,
+          "Max": 2.263
+        }
+      ]
+    },
+    "Birefringence": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 0.018,
+          "Max": 0.024
+        }
+      ]
+    },
+    "Pleochroism": "",
+    "Dispersion": null
+  },
+  "ColourProperties": {
+    "General": "Orange, yellowish-orange, brownish",
+    "Daylight": "",
+    "ChelseaFilter": "",
+    "CausesOfColour": "",
+    "Transparency": "Translucent,Opaque"
+  },
+  "FlouresenceProperties": {
+    "General": ""
+  },
+  "Crystallography": {
+    "CrystalSystem": "Hexagonal",
+    "Habit": "Prismatic"
+  },
+  "GeologicalEnvironment": {
+    "WhereFound": "Mimetite occurs as a secondary mineral in the oxidized zone of arsenicbearing lead deposits."
+  },
+  "Inclusions": {
+    "Inclusions": "Mimetite occurs as a secondary mineral in the oxidized zone of arsenicbearing lead deposits."
+  }
+}

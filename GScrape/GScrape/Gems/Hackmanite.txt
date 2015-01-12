@@ -1,0 +1,62 @@
+{
+  "Name": "Hackmanite",
+  "Description": "Hackmanite is a pink, pale to deep violet variety of Sodalite, but the colour fades quickly to greyish or greenish white in sunlight (so-called tenebrescence). Some hackmanites (from Afghanistan and Burma) start off creamy white but develop a violet to pink-red colour in sunlight, which can fade again if left in a dark environment for some time.\r\n\r\nIt was first discovered in cuttable qualities in 1991, in Quebec, Canada.",
+  "PhysicalProperties": {
+    "MohsHardness": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 5.5,
+          "Max": 6.0
+        }
+      ]
+    },
+    "SpecificGravity": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 2.27,
+          "Max": 2.33
+        }
+      ]
+    },
+    "Tenacity": "Brittle",
+    "CleavageQuality": "Poor",
+    "Fracture": "Uneven",
+    "HeatSensitivity": ""
+  },
+  "OpticalProperties": {
+    "RefractiveIndex": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 1.483,
+          "Max": 1.487
+        }
+      ]
+    },
+    "Birefringence": null,
+    "Pleochroism": "",
+    "Dispersion": null
+  },
+  "ColourProperties": {
+    "General": "Pink",
+    "Daylight": "",
+    "ChelseaFilter": "",
+    "CausesOfColour": "",
+    "Transparency": "Transparent"
+  },
+  "FlouresenceProperties": {
+    "General": "Pink to violet-red when exposed to UV, fades to yellow in visible light"
+  },
+  "Crystallography": {
+    "CrystalSystem": "Isometric",
+    "Habit": ""
+  },
+  "GeologicalEnvironment": {
+    "WhereFound": ""
+  },
+  "Inclusions": {
+    "Inclusions": "Pink to violet-red when exposed to UV, fades to yellow in visible light"
+  }
+}

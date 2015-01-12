@@ -1,0 +1,70 @@
+{
+  "Name": "Chondrodite",
+  "Description": "Chondrodite is named after Greek \"chondros\" - a grain, alluding to its frequent granular appearance.\r\n\r\nTransparent to translucent orange-brown specimens exhibiting orange-brown to yellow-brown pleochroism have been reported from Sri Lanka. Transparent deep garnet-red material of gem-quality is found in the Tilly Foster mine, Brewster, New York, USA.\r\n\r\nChondrodite is one of the rarest and most beautiful of gemstones and it is occasionally faceted for collectors.",
+  "PhysicalProperties": {
+    "MohsHardness": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 6.0,
+          "Max": 6.5
+        }
+      ]
+    },
+    "SpecificGravity": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 3.1,
+          "Max": 3.2
+        }
+      ]
+    },
+    "Tenacity": "",
+    "CleavageQuality": "Distinct",
+    "Fracture": "Uneven,Sub-Conchoidal",
+    "HeatSensitivity": ""
+  },
+  "OpticalProperties": {
+    "RefractiveIndex": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 1.589,
+          "Max": 1.67
+        }
+      ]
+    },
+    "Birefringence": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 0.025,
+          "Max": 0.036
+        }
+      ]
+    },
+    "Pleochroism": "Orange-brown to yellow-brown",
+    "Dispersion": null
+  },
+  "ColourProperties": {
+    "General": "Yellow, red, brownish",
+    "Daylight": "",
+    "ChelseaFilter": "",
+    "CausesOfColour": "",
+    "Transparency": "Transparent,Translucent,Opaque"
+  },
+  "FlouresenceProperties": {
+    "General": ""
+  },
+  "Crystallography": {
+    "CrystalSystem": "Monoclinic",
+    "Habit": "Characteristically flattened crystals"
+  },
+  "GeologicalEnvironment": {
+    "WhereFound": "In contact metamorphic zones, in limestones and dolostones, associated with felsic to alkalic plutonic rocks, especially with Fe-B-F metasomatism; in a carbonatite."
+  },
+  "Inclusions": {
+    "Inclusions": "In contact metamorphic zones, in limestones and dolostones, associated with felsic to alkalic plutonic rocks, especially with Fe-B-F metasomatism; in a carbonatite."
+  }
+}

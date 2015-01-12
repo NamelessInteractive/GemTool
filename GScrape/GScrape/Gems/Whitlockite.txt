@@ -1,0 +1,54 @@
+{
+  "Name": "Whitlockite",
+  "Description": "Whitlockite is named after Herbert Percy Whitlock, Curator of minerals, American Museum of Natural History, New York, USA.\r\n\r\nWhitlockite forms transparent to translucent colourless, white, gray, yellowish or pinkish rhombohedral or tabular crystals with vitreous to resinous lustre.",
+  "PhysicalProperties": {
+    "MohsHardness": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 5.0,
+          "Max": 0.0
+        }
+      ]
+    },
+    "SpecificGravity": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 3.12,
+          "Max": 3.12
+        }
+      ]
+    },
+    "Tenacity": "",
+    "CleavageQuality": "",
+    "Fracture": "Uneven,Sub-Conchoidal",
+    "HeatSensitivity": ""
+  },
+  "OpticalProperties": {
+    "RefractiveIndex": null,
+    "Birefringence": null,
+    "Pleochroism": "",
+    "Dispersion": null
+  },
+  "ColourProperties": {
+    "General": "Colorless, white, gray, yellowish; colorless in transmitted light.",
+    "Daylight": "",
+    "ChelseaFilter": "",
+    "CausesOfColour": "",
+    "Transparency": "Transparent,Translucent"
+  },
+  "FlouresenceProperties": {
+    "General": ""
+  },
+  "Crystallography": {
+    "CrystalSystem": "Hexagonal",
+    "Habit": "Typically as rhombohedral crystals, rarely flat tabular, several other smaller forms, to 2 cm. May form cave pearls; as anhedral grains and microcrystalline crusts."
+  },
+  "GeologicalEnvironment": {
+    "WhereFound": "An uncommon secondary mineral in complex zoned granite pegmatites; in phosphate rock deposits; may be formed in caves from leached guano; in chondrite meteorites."
+  },
+  "Inclusions": {
+    "Inclusions": "An uncommon secondary mineral in complex zoned granite pegmatites; in phosphate rock deposits; may be formed in caves from leached guano; in chondrite meteorites."
+  }
+}

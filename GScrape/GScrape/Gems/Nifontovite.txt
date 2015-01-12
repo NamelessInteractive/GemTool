@@ -1,0 +1,62 @@
+{
+  "Name": "Nifontovite",
+  "Description": "Nifontovite is named after R. V. Nifontov, Russian geologist.\r\n\r\nNifontovite forms transparent to translucent colourless to gray tabular crystals up to 6 cm long.\r\n\r\nNifontovite is a very rare gem found in just a few localities around the world. Crystals from Charcas, Mexico are transparent, colourless and relatively large.",
+  "PhysicalProperties": {
+    "MohsHardness": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 3.5,
+          "Max": 5.0
+        }
+      ]
+    },
+    "SpecificGravity": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 2.35,
+          "Max": 2.36
+        }
+      ]
+    },
+    "Tenacity": "",
+    "CleavageQuality": "Poor",
+    "Fracture": "",
+    "HeatSensitivity": ""
+  },
+  "OpticalProperties": {
+    "RefractiveIndex": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 1.573,
+          "Max": 1.585
+        }
+      ]
+    },
+    "Birefringence": null,
+    "Pleochroism": "",
+    "Dispersion": null
+  },
+  "ColourProperties": {
+    "General": "Colorless to gray; colorless in thin section",
+    "Daylight": "",
+    "ChelseaFilter": "",
+    "CausesOfColour": "",
+    "Transparency": "Transparent,Translucent"
+  },
+  "FlouresenceProperties": {
+    "General": ""
+  },
+  "Crystallography": {
+    "CrystalSystem": "Monoclinic",
+    "Habit": "Tabular crystals, to 6 cm; granular."
+  },
+  "GeologicalEnvironment": {
+    "WhereFound": "In a skarn formed by quartz diorite intruding limestone (Novofrolovskoye deposit, Russia); near gehlenite-spurrite skarn (Fuka, Japan)."
+  },
+  "Inclusions": {
+    "Inclusions": "In a skarn formed by quartz diorite intruding limestone (Novofrolovskoye deposit, Russia); near gehlenite-spurrite skarn (Fuka, Japan)."
+  }
+}

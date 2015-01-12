@@ -1,0 +1,70 @@
+{
+  "Name": "Simpsonite",
+  "Description": "Simpsonite is named after E.S. Simpson, Government mineralogist and analyst of Western Australia, where the mineral was first doscovered in the Tabba Tabba pegmatite.\r\n\r\nSimpsonite forms transparent to translucent, yellow, orange to brown, sometimes colourless tabular to short prismatic crystals with an adamantine lustre.\r\n\r\nSimpsonite is cut into attractive, colourful, bright and durable gems, but the amount of facet rough is limited.",
+  "PhysicalProperties": {
+    "MohsHardness": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 7.0,
+          "Max": 7.5
+        }
+      ]
+    },
+    "SpecificGravity": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 5.9,
+          "Max": 7.3
+        }
+      ]
+    },
+    "Tenacity": "Brittle",
+    "CleavageQuality": "Indistinct",
+    "Fracture": "Conchoidal",
+    "HeatSensitivity": ""
+  },
+  "OpticalProperties": {
+    "RefractiveIndex": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 1.994,
+          "Max": 2.04
+        }
+      ]
+    },
+    "Birefringence": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 0.046,
+          "Max": 0.046
+        }
+      ]
+    },
+    "Pleochroism": "Nil",
+    "Dispersion": null
+  },
+  "ColourProperties": {
+    "General": "Orange, colourless, white, brownish-yellow.",
+    "Daylight": "",
+    "ChelseaFilter": "",
+    "CausesOfColour": "",
+    "Transparency": "Translucent"
+  },
+  "FlouresenceProperties": {
+    "General": ""
+  },
+  "Crystallography": {
+    "CrystalSystem": "Trigonal",
+    "Habit": "Tabular to short prismatic"
+  },
+  "GeologicalEnvironment": {
+    "WhereFound": "Simpsonite occurs as an accessory mineral in some Ta-rich granite pegmatites."
+  },
+  "Inclusions": {
+    "Inclusions": "Simpsonite occurs as an accessory mineral in some Ta-rich granite pegmatites."
+  }
+}

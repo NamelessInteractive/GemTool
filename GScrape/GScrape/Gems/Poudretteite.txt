@@ -1,0 +1,70 @@
+{
+  "Name": "Poudretteite",
+  "Description": "Poudretteite is named after the Poudrette family, operators of the quarry where the mineral was discovered.\r\n\r\nPoudrettite forms transparent violet to pink roughly equant barrel-shaped prismatic crystals.\r\n\r\nPoudretteite is a very rare material. Clean gems over 1 ct are uncommon.",
+  "PhysicalProperties": {
+    "MohsHardness": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 5.0,
+          "Max": 5.0
+        }
+      ]
+    },
+    "SpecificGravity": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 2.51,
+          "Max": 2.53
+        }
+      ]
+    },
+    "Tenacity": "",
+    "CleavageQuality": "",
+    "Fracture": "",
+    "HeatSensitivity": ""
+  },
+  "OpticalProperties": {
+    "RefractiveIndex": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 1.511,
+          "Max": 1.532
+        }
+      ]
+    },
+    "Birefringence": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 0.021,
+          "Max": 0.021
+        }
+      ]
+    },
+    "Pleochroism": "Strong: purple-pink/colourless to brownish",
+    "Dispersion": null
+  },
+  "ColourProperties": {
+    "General": "Violet, pink, colourless",
+    "Daylight": "",
+    "ChelseaFilter": "",
+    "CausesOfColour": "",
+    "Transparency": "Transparent"
+  },
+  "FlouresenceProperties": {
+    "General": ""
+  },
+  "Crystallography": {
+    "CrystalSystem": "Hexagonal",
+    "Habit": "Roughly equant barrel-shaped prismatic crystals"
+  },
+  "GeologicalEnvironment": {
+    "WhereFound": "Poudrettite is found in marble xenoliths\r\nwithin nepheline syenite breccias in an intrusive alkalic gabbro-syenite complex."
+  },
+  "Inclusions": {
+    "Inclusions": "Poudrettite is found in marble xenoliths\r\nwithin nepheline syenite breccias in an intrusive alkalic gabbro-syenite complex."
+  }
+}

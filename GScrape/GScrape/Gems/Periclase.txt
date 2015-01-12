@@ -1,0 +1,62 @@
+{
+  "Name": "Periclase",
+  "Description": "Periclase is named after Greek \"peri\" - around and \"klasis\" - breaking, alluding to its perfect cubic cleavage.\r\n\r\nWell-developed crystals can be very attractive. Periclase is occasionally cut as gemstones, but it has limited colour range and its hardness is not particularly high.\r\n\r\nSynthetic periclase is often used as a simulant for other gemstones.",
+  "PhysicalProperties": {
+    "MohsHardness": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 5.5,
+          "Max": 6.0
+        }
+      ]
+    },
+    "SpecificGravity": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 3.7,
+          "Max": 3.9
+        }
+      ]
+    },
+    "Tenacity": "",
+    "CleavageQuality": "Perfect",
+    "Fracture": "",
+    "HeatSensitivity": ""
+  },
+  "OpticalProperties": {
+    "RefractiveIndex": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 1.735,
+          "Max": 1.738
+        }
+      ]
+    },
+    "Birefringence": null,
+    "Pleochroism": "",
+    "Dispersion": null
+  },
+  "ColourProperties": {
+    "General": "Yellowish, gray-green, colourless",
+    "Daylight": "",
+    "ChelseaFilter": "",
+    "CausesOfColour": "",
+    "Transparency": "Transparent"
+  },
+  "FlouresenceProperties": {
+    "General": "Inert to whitish"
+  },
+  "Crystallography": {
+    "CrystalSystem": "Isometric",
+    "Habit": "Masses or small octahedra and other forms"
+  },
+  "GeologicalEnvironment": {
+    "WhereFound": "A product of the high-temperature metamorphism of magnesian limestones and dolostone."
+  },
+  "Inclusions": {
+    "Inclusions": "A product of the high-temperature metamorphism of magnesian limestones and dolostone."
+  }
+}

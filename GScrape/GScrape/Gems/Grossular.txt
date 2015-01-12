@@ -1,0 +1,70 @@
+{
+  "Name": "Grossular",
+  "Description": "The name grossular is derived from the botanical name for the \"gooseberry\" - grossularia, in reference to the green garnet of this composition that is found in Siberia.\r\n\r\nOther shades include cinnamon brown (cinnamon stone variety), red, and yellow.",
+  "PhysicalProperties": {
+    "MohsHardness": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 7.0,
+          "Max": 7.5
+        }
+      ]
+    },
+    "SpecificGravity": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 3.55,
+          "Max": 3.73
+        }
+      ]
+    },
+    "Tenacity": "",
+    "CleavageQuality": "None",
+    "Fracture": "Conchoidal",
+    "HeatSensitivity": ""
+  },
+  "OpticalProperties": {
+    "RefractiveIndex": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 1.73,
+          "Max": 1.76
+        }
+      ]
+    },
+    "Birefringence": null,
+    "Pleochroism": "",
+    "Dispersion": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 0.02,
+          "Max": 0.02
+        }
+      ]
+    }
+  },
+  "ColourProperties": {
+    "General": "Colourless, yellowish-green, green, brown, yellow",
+    "Daylight": "",
+    "ChelseaFilter": "",
+    "CausesOfColour": "Green (tsavorite), V3+ in octahedral coordination. Orange (hessonite), Mn2+ in distorted cubic coordination, Fe3+",
+    "Transparency": "Transparent"
+  },
+  "FlouresenceProperties": {
+    "General": "Dense grossular: strong - red-orange"
+  },
+  "Crystallography": {
+    "CrystalSystem": "Isometric",
+    "Habit": "Dodecahedral, trapezohedral"
+  },
+  "GeologicalEnvironment": {
+    "WhereFound": ""
+  },
+  "Inclusions": {
+    "Inclusions": "Dense grossular: strong - red-orange"
+  }
+}

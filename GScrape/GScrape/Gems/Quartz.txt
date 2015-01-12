@@ -1,0 +1,78 @@
+{
+  "Name": "Quartz",
+  "Description": "Quartz (named after a Slavic word for \"hard\") is the most common mineral found on the surface of the Earth. A significant component of many igneous, metamorphic and sedimentary rocks, this natural form of silicon dioxide is found in an impressive range of varieties and colours.",
+  "PhysicalProperties": {
+    "MohsHardness": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 7.0,
+          "Max": 0.0
+        }
+      ]
+    },
+    "SpecificGravity": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 2.65,
+          "Max": 2.65
+        }
+      ]
+    },
+    "Tenacity": "",
+    "CleavageQuality": "None",
+    "Fracture": "Conchoidal",
+    "HeatSensitivity": ""
+  },
+  "OpticalProperties": {
+    "RefractiveIndex": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 1.544,
+          "Max": 1.553
+        }
+      ]
+    },
+    "Birefringence": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 0.009,
+          "Max": 0.009
+        }
+      ]
+    },
+    "Pleochroism": "Weakly dichroic",
+    "Dispersion": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 0.013,
+          "Max": 0.013
+        }
+      ]
+    }
+  },
+  "ColourProperties": {
+    "General": "Brown, black, colourless, green, pink, violet, white, yellow, orange, purple",
+    "Daylight": "",
+    "ChelseaFilter": "",
+    "CausesOfColour": "Violet to purple (amethyst), O2+→Fe4+ charge transfer, due to irradiation. Blue, inclusions of blue dumortierite or tourmaline. Green (\"greened amethyst\" or prasiolite, Fe2+. Green (aventurine quartz), chromian mica (fuchsite) inclusions. Greenish yellow, color center. Yellow to orange (citrine), O2-→Fe3+ charge transfer, various Al3+ related color centers. Smokey (smoky quartz), color center related to the Al3+ impunity. Pink (rose quartz), charge transfer between a substitutional Ti4+ and an interstitial Ti3+ unstable color center O- ion bridging between substitutional aluminum and substitutional phosphorus atom; dumortierite inclusions. White (milky quartz), scattering of light by inclusions larger than the visible wavelengths.",
+    "Transparency": "Transparent,Translucent,Opaque"
+  },
+  "FlouresenceProperties": {
+    "General": "Shows no fluorescence"
+  },
+  "Crystallography": {
+    "CrystalSystem": "Trigonal",
+    "Habit": "Prismatic"
+  },
+  "GeologicalEnvironment": {
+    "WhereFound": "Quartz occurs in epithermal veins; it is a characteristic mineral of granites and granite pegmatites and is found in sandstones and quartzites. It occurs in hydrothermal metal deposits and in carbonate rocks where it is common."
+  },
+  "Inclusions": {
+    "Inclusions": "Quartz occurs in epithermal veins; it is a characteristic mineral of granites and granite pegmatites and is found in sandstones and quartzites. It occurs in hydrothermal metal deposits and in carbonate rocks where it is common."
+  }
+}

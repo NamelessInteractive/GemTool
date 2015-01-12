@@ -1,0 +1,70 @@
+{
+  "Name": "Ulexite",
+  "Description": "Ulexite is named after G.L. Ulex, German chemist who performed the first correct analysis of the mineral.\r\n\r\nUlexite is called the \"TV rock\" or \"television stone\" for its its unusual optical characteristics. Each thin fibrous crystal acts as an optical fibre, transmitting light along its length by internal reflection. A piece of writing placed underneath the stone appears on the surface.\r\n\r\nUlexite decomposes in hot water.",
+  "PhysicalProperties": {
+    "MohsHardness": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 2.0,
+          "Max": 2.5
+        }
+      ]
+    },
+    "SpecificGravity": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 1.65,
+          "Max": 1.99
+        }
+      ]
+    },
+    "Tenacity": "Brittle",
+    "CleavageQuality": "Perfect",
+    "Fracture": "Uneven",
+    "HeatSensitivity": ""
+  },
+  "OpticalProperties": {
+    "RefractiveIndex": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 1.491,
+          "Max": 1.52
+        }
+      ]
+    },
+    "Birefringence": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 0.029,
+          "Max": 0.029
+        }
+      ]
+    },
+    "Pleochroism": "Absent",
+    "Dispersion": null
+  },
+  "ColourProperties": {
+    "General": "White",
+    "Daylight": "",
+    "ChelseaFilter": "",
+    "CausesOfColour": "",
+    "Transparency": "Transparent,Translucent"
+  },
+  "FlouresenceProperties": {
+    "General": "May fluoresce yellow, greenish yellow, cream, white under SW and LW"
+  },
+  "Crystallography": {
+    "CrystalSystem": "Monoclinic",
+    "Habit": "Fibrous crystals"
+  },
+  "GeologicalEnvironment": {
+    "WhereFound": "Ulexite occurs in dry lakes and playa deposits, with other borates."
+  },
+  "Inclusions": {
+    "Inclusions": "Ulexite occurs in dry lakes and playa deposits, with other borates."
+  }
+}

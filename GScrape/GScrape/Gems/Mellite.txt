@@ -1,0 +1,70 @@
+{
+  "Name": "Mellite",
+  "Description": "Mellite is named from Greek \"meli\" - honey, alluding to its colour. It is sometimes called honeystone.\r\n\r\nMellite is an organic material, it forms transparent honey yellow or reddish prismatic or dipyramidal crystals or fine-grained masses.\r\n\r\nMellite can be polished and faceted into attractive gemstones.",
+  "PhysicalProperties": {
+    "MohsHardness": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 2.0,
+          "Max": 2.0
+        }
+      ]
+    },
+    "SpecificGravity": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 1.58,
+          "Max": 1.6
+        }
+      ]
+    },
+    "Tenacity": "Sectile",
+    "CleavageQuality": "Indistinct",
+    "Fracture": "Conchoidal",
+    "HeatSensitivity": ""
+  },
+  "OpticalProperties": {
+    "RefractiveIndex": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 1.509,
+          "Max": 1.541
+        }
+      ]
+    },
+    "Birefringence": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 0.03,
+          "Max": 0.03
+        }
+      ]
+    },
+    "Pleochroism": "Weak: yellowish brown - yellow",
+    "Dispersion": null
+  },
+  "ColourProperties": {
+    "General": "Yellow",
+    "Daylight": "",
+    "ChelseaFilter": "",
+    "CausesOfColour": "",
+    "Transparency": "Transparent"
+  },
+  "FlouresenceProperties": {
+    "General": "Weak fluorescent effects may be seen."
+  },
+  "Crystallography": {
+    "CrystalSystem": "Tetragonal",
+    "Habit": "Prismatic or dipyramidal crystals or masses"
+  },
+  "GeologicalEnvironment": {
+    "WhereFound": "Mellite is found in brown coal and/or lignite deposits."
+  },
+  "Inclusions": {
+    "Inclusions": "Mellite is found in brown coal and/or lignite deposits."
+  }
+}

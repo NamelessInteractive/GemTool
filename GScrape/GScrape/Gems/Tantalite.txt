@@ -1,0 +1,70 @@
+{
+  "Name": "Tantalite",
+  "Description": "Tantalite is the name given to a group of related minerals containing tantalum, oxygen and a metal such as Iron or Manganese.\r\n\r\nThe closely-related minerals columbite and tapiolite are often confused for tantalite.\r\n\r\nSee also the related gemstone stibiotantalite.",
+  "PhysicalProperties": {
+    "MohsHardness": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 6.0,
+          "Max": 6.5
+        }
+      ]
+    },
+    "SpecificGravity": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 5.18,
+          "Max": 8.2
+        }
+      ]
+    },
+    "Tenacity": "",
+    "CleavageQuality": "Distinct",
+    "Fracture": "Sub-Conchoidal",
+    "HeatSensitivity": ""
+  },
+  "OpticalProperties": {
+    "RefractiveIndex": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 2.19,
+          "Max": 2.457
+        }
+      ]
+    },
+    "Birefringence": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 0.083,
+          "Max": 0.083
+        }
+      ]
+    },
+    "Pleochroism": "Sometimes strong",
+    "Dispersion": null
+  },
+  "ColourProperties": {
+    "General": "Red-brown, brown, black",
+    "Daylight": "",
+    "ChelseaFilter": "",
+    "CausesOfColour": "",
+    "Transparency": "Transparent"
+  },
+  "FlouresenceProperties": {
+    "General": ""
+  },
+  "Crystallography": {
+    "CrystalSystem": "Orthorhombic",
+    "Habit": "Prismatic"
+  },
+  "GeologicalEnvironment": {
+    "WhereFound": "Commonly occurs in lithium-rich granitic pegmatites."
+  },
+  "Inclusions": {
+    "Inclusions": "Commonly occurs in lithium-rich granitic pegmatites."
+  }
+}

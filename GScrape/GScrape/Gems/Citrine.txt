@@ -1,0 +1,78 @@
+{
+  "Name": "Citrine",
+  "Description": "The name Citrine is derived from its lemon yellow colour.\r\n\r\nCitrine is sometimes very pale or almost colourless. Among deeper coloured stones may be seen wine-yellow, honey-yellow, and saffron-yellow specimens, while others have quite a pronounced brown tinge. Stones of a deep brownish-yellow colour are very similar to topaz, and those of a fine golden-yellow are quite equal in beauty to yellow topaz and can scarcely be distinguished on mere inspection from latter stone except by an expert.\r\n\r\nNatural citrines are rare. Most commercial citrine is heat-treated amethyst or smoky quartz. Because the color is now caused by finely distributed iron minerals (mostly hematite and goethite), heated amethyst is not a citrine in the strict sense.\r\n\r\nQuartz colored by inclusions of any kind is not called a citrine.",
+  "PhysicalProperties": {
+    "MohsHardness": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 7.0,
+          "Max": 7.0
+        }
+      ]
+    },
+    "SpecificGravity": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 2.65,
+          "Max": 2.65
+        }
+      ]
+    },
+    "Tenacity": "Brittle",
+    "CleavageQuality": "None",
+    "Fracture": "Conchoidal",
+    "HeatSensitivity": ""
+  },
+  "OpticalProperties": {
+    "RefractiveIndex": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 1.544,
+          "Max": 1.553
+        }
+      ]
+    },
+    "Birefringence": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 0.009,
+          "Max": 0.009
+        }
+      ]
+    },
+    "Pleochroism": "Natural: weak; yellow - light yellow. Heat-treated: none",
+    "Dispersion": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 0.013,
+          "Max": 0.013
+        }
+      ]
+    }
+  },
+  "ColourProperties": {
+    "General": "Light yellow to dark yellow, gold-brown",
+    "Daylight": "",
+    "ChelseaFilter": "",
+    "CausesOfColour": "Yellow to orange, O2-→Fe3+ charge transfer, various Al3+ related color centers.",
+    "Transparency": "Transparent,Translucent"
+  },
+  "FlouresenceProperties": {
+    "General": "None"
+  },
+  "Crystallography": {
+    "CrystalSystem": "Trigonal",
+    "Habit": "Hexagonal prisms with pyramids"
+  },
+  "GeologicalEnvironment": {
+    "WhereFound": ""
+  },
+  "Inclusions": {
+    "Inclusions": "None"
+  }
+}

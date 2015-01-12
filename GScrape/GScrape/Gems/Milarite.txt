@@ -1,0 +1,70 @@
+{
+  "Name": "Milarite",
+  "Description": "Milarite is named after its occurence in the Val Milar, Switzerland. The original specimens, however, came from Val Giuf, Tavetsch, Grischun, Switzerland.\r\n\r\nMilarite is a rare beryllium silicate, that forms transparent to translucent colourless to pale yellow or green prismatic crystals, typically well formed.\r\n\r\nA.Thomas (2009) reports: \"The small pieces of facet rough that have been cut to date have all originated from a single African source\".",
+  "PhysicalProperties": {
+    "MohsHardness": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 5.5,
+          "Max": 6.0
+        }
+      ]
+    },
+    "SpecificGravity": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 2.52,
+          "Max": 2.6
+        }
+      ]
+    },
+    "Tenacity": "Brittle",
+    "CleavageQuality": "Imperfect",
+    "Fracture": "Uneven,Conchoidal",
+    "HeatSensitivity": ""
+  },
+  "OpticalProperties": {
+    "RefractiveIndex": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 1.529,
+          "Max": 1.56
+        }
+      ]
+    },
+    "Birefringence": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 0.0,
+          "Max": 0.011
+        }
+      ]
+    },
+    "Pleochroism": "",
+    "Dispersion": null
+  },
+  "ColourProperties": {
+    "General": "Yellow, colourless, white, green.",
+    "Daylight": "",
+    "ChelseaFilter": "",
+    "CausesOfColour": "",
+    "Transparency": "Transparent"
+  },
+  "FlouresenceProperties": {
+    "General": "Common weak to moderate chalky green (and phosphorescence)"
+  },
+  "Crystallography": {
+    "CrystalSystem": "Hexagonal",
+    "Habit": "Prismatic crystals, typically well formed"
+  },
+  "GeologicalEnvironment": {
+    "WhereFound": "Milarite is found in vugs in granites and syenites or in hydrothermal veins."
+  },
+  "Inclusions": {
+    "Inclusions": "Milarite is found in vugs in granites and syenites or in hydrothermal veins."
+  }
+}

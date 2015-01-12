@@ -1,0 +1,62 @@
+{
+  "Name": "Rhodizite",
+  "Description": "Rhodizite is named from Greek \"rhodizein\" - rose-coloured, alluding to the red tinges it gives in a blowpipe flame.\r\n\r\nRhodizite is found as well-formed transparent to translucent colourless to white, sometomes pink, red, yellow-green, yellow, grey crystals.\r\n\r\nRhodizite has a high lustre and hardness, but it is very rare and crystals are usually too small to facet. Faceted stones exceeding 1 carat are uncommon.",
+  "PhysicalProperties": {
+    "MohsHardness": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 8.0,
+          "Max": 8.5
+        }
+      ]
+    },
+    "SpecificGravity": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 3.34,
+          "Max": 3.44
+        }
+      ]
+    },
+    "Tenacity": "",
+    "CleavageQuality": "Distinct",
+    "Fracture": "Conchoidal",
+    "HeatSensitivity": ""
+  },
+  "OpticalProperties": {
+    "RefractiveIndex": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 1.684,
+          "Max": 1.694
+        }
+      ]
+    },
+    "Birefringence": null,
+    "Pleochroism": "",
+    "Dispersion": null
+  },
+  "ColourProperties": {
+    "General": "Colourless, pink, red, yellow-green",
+    "Daylight": "",
+    "ChelseaFilter": "",
+    "CausesOfColour": "",
+    "Transparency": "Transparent"
+  },
+  "FlouresenceProperties": {
+    "General": "Yellowish to greenish"
+  },
+  "Crystallography": {
+    "CrystalSystem": "Isometric",
+    "Habit": "Dodecahedra and tetrahedra"
+  },
+  "GeologicalEnvironment": {
+    "WhereFound": "Rhodizite occurs as a late-stage accessory mineral in alkali-rich granite pegmatites."
+  },
+  "Inclusions": {
+    "Inclusions": "Rhodizite occurs as a late-stage accessory mineral in alkali-rich granite pegmatites."
+  }
+}

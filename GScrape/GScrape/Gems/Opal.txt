@@ -1,0 +1,62 @@
+{
+  "Name": "Opal",
+  "Description": "The name is derived from an Indian (Sanskrit) word for \"stone\". Opal consists of silica and water. The amount of water varies in different specimens.\r\n\r\nOpal is divided into three subgroups: Precious Opal, yellow-red Fire Opal, and Common Opal. Their physical properties vary considerably. Precious Opal is conspicuous amongst all others for the magnificent play of colours produced by the refraction and reflection of light in its colourless substance.\r\n\r\nThe lustre is usually of the common vitreous type, though in some opals it may be greasy, resinous, or waxy. The lustre of natural specimens is only moderately strong, it is increased by cutting and polishing, but even then is in no way remarkable. Both common and precious varieties of opal are, as a rule, cloudy, being at the best only translucent or semi-transparent. In a pure condition the mineral is perfectly colourless, the tint of the coloured varieties is due to the presence of impurities. In colour these varieties are usually brown, yellow, or red, of various shades. Green opal is rare, black opal is known, and the cloudy varieties of milk opal are white.",
+  "PhysicalProperties": {
+    "MohsHardness": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 5.0,
+          "Max": 6.5
+        }
+      ]
+    },
+    "SpecificGravity": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 1.98,
+          "Max": 2.25
+        }
+      ]
+    },
+    "Tenacity": "Brittle",
+    "CleavageQuality": "None",
+    "Fracture": "Conchoidal,Splintery",
+    "HeatSensitivity": "When heated opal is easily fractured.The constituent water is expelled below a red-hit, when the specimen, if not so, becomes cloudy and opaque."
+  },
+  "OpticalProperties": {
+    "RefractiveIndex": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 1.37,
+          "Max": 1.52
+        }
+      ]
+    },
+    "Birefringence": null,
+    "Pleochroism": "Absent",
+    "Dispersion": null
+  },
+  "ColourProperties": {
+    "General": "Black, white, colourless, red, yellow, bluish",
+    "Daylight": "",
+    "ChelseaFilter": "",
+    "CausesOfColour": "Multicolors (play of color opal), diffraction by the regular stacking of silica spheres. Orange to red (fire opal), microscopic to sub-microscopic inclusions of iron hydrous oxides. Green (prase opal), microscopic to submicroscopic nickeliferous clay-like inclusions",
+    "Transparency": "Transparent,Translucent,Opaque"
+  },
+  "FlouresenceProperties": {
+    "General": ""
+  },
+  "Crystallography": {
+    "CrystalSystem": "Amorphous",
+    "Habit": "Kidney- or grape-shaped aggregates"
+  },
+  "GeologicalEnvironment": {
+    "WhereFound": "Much of the finest opal occurs in thin seams and has to be recovered together with its underlying rock (matrix). Alternatively some fine opal is found as nodules.\r\n(‘nobbies’ in Australia)."
+  },
+  "Inclusions": {
+    "Inclusions": "Much of the finest opal occurs in thin seams and has to be recovered together with its underlying rock (matrix). Alternatively some fine opal is found as nodules.\r\n(‘nobbies’ in Australia)."
+  }
+}

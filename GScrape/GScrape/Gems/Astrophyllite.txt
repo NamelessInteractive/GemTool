@@ -1,0 +1,62 @@
+{
+  "Name": "Astrophyllite",
+  "Description": "Astrophyllite is named after Greek \"astron\" - brilliant (star), plus \"phyllon\" - a leaf, alluding to its high lustre and foliate habit.\r\n\r\nAstrophyllite is usually opaque to translucent, but may be transparent, brown to golden-yellow colour.\r\n\r\nAstrophyllite is often cut into slabs and polished. It is sometimes used in jewelry where it is fashioned into cabochons.",
+  "PhysicalProperties": {
+    "MohsHardness": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 3.0,
+          "Max": 3.0
+        }
+      ]
+    },
+    "SpecificGravity": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 3.2,
+          "Max": 3.4
+        }
+      ]
+    },
+    "Tenacity": "Brittle",
+    "CleavageQuality": "Perfect,Poor",
+    "Fracture": "",
+    "HeatSensitivity": ""
+  },
+  "OpticalProperties": {
+    "RefractiveIndex": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 1.678,
+          "Max": 1.758
+        }
+      ]
+    },
+    "Birefringence": null,
+    "Pleochroism": "Strong: deep orange-red - orange-yellow - lemon-yellow",
+    "Dispersion": null
+  },
+  "ColourProperties": {
+    "General": "Bronze-yellow to gold-yellow, brown to reddish brown",
+    "Daylight": "",
+    "ChelseaFilter": "",
+    "CausesOfColour": "",
+    "Transparency": "Translucent,Opaque"
+  },
+  "FlouresenceProperties": {
+    "General": ""
+  },
+  "Crystallography": {
+    "CrystalSystem": "Triclinic",
+    "Habit": "Crystals tabular, bladed or acicular, some faces commonly striated, to 10 cm; groups may be stellate"
+  },
+  "GeologicalEnvironment": {
+    "WhereFound": "In nepheline syenites, alkali granites, and their pegmatites; less commonly in fenites and other metasomatized rocks; in nepheline syenite gneisses and paragneisses"
+  },
+  "Inclusions": {
+    "Inclusions": "In nepheline syenites, alkali granites, and their pegmatites; less commonly in fenites and other metasomatized rocks; in nepheline syenite gneisses and paragneisses"
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "Name": "Sulphur",
+  "Description": "Sulphur gets its name via Old French from Latin \"sulphur\", meaning \"to burn\".\r\n\r\nSulphur forms transparent to translucent yellow or brownish crystals, which are often well formed.\r\n\r\nSulphur is too fragile and very sensitive to heat to be used in jewelry. It is faceted for collectors' of rare gems.",
+  "PhysicalProperties": {
+    "MohsHardness": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 1.5,
+          "Max": 2.5
+        }
+      ]
+    },
+    "SpecificGravity": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 2.05,
+          "Max": 2.08
+        }
+      ]
+    },
+    "Tenacity": "",
+    "CleavageQuality": "",
+    "Fracture": "",
+    "HeatSensitivity": "Extremely sensitive to heat, bursts when warmed in one's hand."
+  },
+  "OpticalProperties": {
+    "RefractiveIndex": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 1.958,
+          "Max": 2.245
+        }
+      ]
+    },
+    "Birefringence": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 0.291,
+          "Max": 0.291
+        }
+      ]
+    },
+    "Pleochroism": "",
+    "Dispersion": null
+  },
+  "ColourProperties": {
+    "General": "Yellow, brownish",
+    "Daylight": "",
+    "ChelseaFilter": "",
+    "CausesOfColour": "",
+    "Transparency": "Translucent"
+  },
+  "FlouresenceProperties": {
+    "General": ""
+  },
+  "Crystallography": {
+    "CrystalSystem": "Orthorhombic",
+    "Habit": "Dipyramidal, thick tabular crystals"
+  },
+  "GeologicalEnvironment": {
+    "WhereFound": "It is a sublimation product of volcanic fumaroles."
+  },
+  "Inclusions": {
+    "Inclusions": "It is a sublimation product of volcanic fumaroles."
+  }
+}

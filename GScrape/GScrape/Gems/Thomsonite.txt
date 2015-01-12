@@ -1,0 +1,70 @@
+{
+  "Name": "Thomsonite",
+  "Description": "Thomsonite is named after Thomas Thompson, Regius Professor of Chemistry, University of Glasgow, Scotland, who first analyzed the mineral.\r\n\r\nThomsonite forms transparent to translucent brown, green, red, pink, grey, white, yellow, colourless thin, bladed prismatic crystals or fibrous masses.\r\n\r\nThomsonite forms radiating spherical or columnar aggregates which resemble Agate. This material is cut into cabochons.\r\n\r\nThe eye-like material usually comes from Isle Royale, Michigan, USA.",
+  "PhysicalProperties": {
+    "MohsHardness": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 5.0,
+          "Max": 5.5
+        }
+      ]
+    },
+    "SpecificGravity": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 2.25,
+          "Max": 2.4
+        }
+      ]
+    },
+    "Tenacity": "",
+    "CleavageQuality": "Perfect",
+    "Fracture": "Uneven",
+    "HeatSensitivity": ""
+  },
+  "OpticalProperties": {
+    "RefractiveIndex": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 1.51,
+          "Max": 1.55
+        }
+      ]
+    },
+    "Birefringence": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 0.015,
+          "Max": 0.02
+        }
+      ]
+    },
+    "Pleochroism": "Nil",
+    "Dispersion": null
+  },
+  "ColourProperties": {
+    "General": "White, gray, yellowish, reddish. Partly with an agate-like banding",
+    "Daylight": "",
+    "ChelseaFilter": "",
+    "CausesOfColour": "",
+    "Transparency": "Translucent,Opaque"
+  },
+  "FlouresenceProperties": {
+    "General": "Patchy white common"
+  },
+  "Crystallography": {
+    "CrystalSystem": "Orthorhombic",
+    "Habit": "Radial fibrous structure with eye-like pattern (also banded)"
+  },
+  "GeologicalEnvironment": {
+    "WhereFound": "Thomsonite occurs in amygdules and fractures in mafic igneous rocks, most commonly basalts."
+  },
+  "Inclusions": {
+    "Inclusions": "Thomsonite occurs in amygdules and fractures in mafic igneous rocks, most commonly basalts."
+  }
+}

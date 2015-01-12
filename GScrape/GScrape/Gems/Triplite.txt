@@ -1,0 +1,70 @@
+{
+  "Name": "Triplite",
+  "Description": "Triplite is named after Greek \"triplos\" - triple, alluding to its three prominent cleavages.\r\n\r\nTriplite occurs in a number of indistinct forms or as masses which are translucent to opaque dark red to brown, or black with vitreous to resinous lustre.\r\n\r\nTriplite gems are very difficult to facet.",
+  "PhysicalProperties": {
+    "MohsHardness": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 5.0,
+          "Max": 5.5
+        }
+      ]
+    },
+    "SpecificGravity": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 3.85,
+          "Max": 3.94
+        }
+      ]
+    },
+    "Tenacity": "",
+    "CleavageQuality": "Distinct",
+    "Fracture": "Sub-Conchoidal",
+    "HeatSensitivity": ""
+  },
+  "OpticalProperties": {
+    "RefractiveIndex": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 1.643,
+          "Max": 1.703
+        }
+      ]
+    },
+    "Birefringence": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 0.02,
+          "Max": 0.02
+        }
+      ]
+    },
+    "Pleochroism": "Distinct",
+    "Dispersion": null
+  },
+  "ColourProperties": {
+    "General": "Dark red to brown, or black if altered",
+    "Daylight": "",
+    "ChelseaFilter": "",
+    "CausesOfColour": "",
+    "Transparency": "Translucent,Opaque"
+  },
+  "FlouresenceProperties": {
+    "General": ""
+  },
+  "Crystallography": {
+    "CrystalSystem": "Monoclinic",
+    "Habit": ""
+  },
+  "GeologicalEnvironment": {
+    "WhereFound": "Occurs as a principal primary phosphate in complex-zoned granite pegmatites or in hydrothermal tin veins."
+  },
+  "Inclusions": {
+    "Inclusions": "Occurs as a principal primary phosphate in complex-zoned granite pegmatites or in hydrothermal tin veins."
+  }
+}

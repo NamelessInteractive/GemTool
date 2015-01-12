@@ -1,0 +1,70 @@
+{
+  "Name": "Kämmererite",
+  "Description": "Kämmererite was discovered in 1851 and is named after the A. Kämmer, the mining director at St. Petersburg.\r\n\r\nKämmererite is a chromium-bearing variety of Clinochlore with bright purple to a deep crimson red colour.\r\n\r\nFashioning of Kämmererite is very difficult because the crystals are usually thin, micaceous with a perfect cleavage.",
+  "PhysicalProperties": {
+    "MohsHardness": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 2.0,
+          "Max": 2.5
+        }
+      ]
+    },
+    "SpecificGravity": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 2.6,
+          "Max": 2.64
+        }
+      ]
+    },
+    "Tenacity": "",
+    "CleavageQuality": "Perfect",
+    "Fracture": "",
+    "HeatSensitivity": ""
+  },
+  "OpticalProperties": {
+    "RefractiveIndex": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 1.571,
+          "Max": 1.597
+        }
+      ]
+    },
+    "Birefringence": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 0.003,
+          "Max": 0.003
+        }
+      ]
+    },
+    "Pleochroism": "Pleochroism is notable, violet to hyacinth-red.",
+    "Dispersion": null
+  },
+  "ColourProperties": {
+    "General": "Lilac to purple",
+    "Daylight": "",
+    "ChelseaFilter": "",
+    "CausesOfColour": "",
+    "Transparency": "Transparent,Translucent"
+  },
+  "FlouresenceProperties": {
+    "General": ""
+  },
+  "Crystallography": {
+    "CrystalSystem": "Monoclinic",
+    "Habit": "Thin to thick pseudohexagonal crystals"
+  },
+  "GeologicalEnvironment": {
+    "WhereFound": ""
+  },
+  "Inclusions": {
+    "Inclusions": "Lilac to purple"
+  }
+}

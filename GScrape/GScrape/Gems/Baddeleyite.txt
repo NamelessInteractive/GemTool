@@ -1,0 +1,70 @@
+{
+  "Name": "Baddeleyite",
+  "Description": "Baddeleyite is named after Joseph Baddeley, who found the original specimens in Sri Lanka in 1890.\r\n\r\nBaddeleyite forms transparent to translucent, black, brown, yellow or colourless crystals.\r\n\r\nBaddeleyite has strong dispersion and hight refractive indices.",
+  "PhysicalProperties": {
+    "MohsHardness": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 6.5,
+          "Max": 6.5
+        }
+      ]
+    },
+    "SpecificGravity": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 5.5,
+          "Max": 6.0
+        }
+      ]
+    },
+    "Tenacity": "",
+    "CleavageQuality": "Distinct",
+    "Fracture": "Conchoidal",
+    "HeatSensitivity": ""
+  },
+  "OpticalProperties": {
+    "RefractiveIndex": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 2.13,
+          "Max": 2.2
+        }
+      ]
+    },
+    "Birefringence": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 0.07,
+          "Max": 0.07
+        }
+      ]
+    },
+    "Pleochroism": "Distinct",
+    "Dispersion": null
+  },
+  "ColourProperties": {
+    "General": "Black, brown, colourless, yellow",
+    "Daylight": "",
+    "ChelseaFilter": "",
+    "CausesOfColour": "",
+    "Transparency": "Transparent,Translucent"
+  },
+  "FlouresenceProperties": {
+    "General": ""
+  },
+  "Crystallography": {
+    "CrystalSystem": "Monoclinic",
+    "Habit": "Tabular"
+  },
+  "GeologicalEnvironment": {
+    "WhereFound": "It is usually embedded in the carbonate-rich rock of intrusive igneous pipes (carbonatites)."
+  },
+  "Inclusions": {
+    "Inclusions": "It is usually embedded in the carbonate-rich rock of intrusive igneous pipes (carbonatites)."
+  }
+}

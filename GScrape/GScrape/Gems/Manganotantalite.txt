@@ -1,0 +1,70 @@
+{
+  "Name": "Manganotantalite",
+  "Description": "Manganotantalite is a manganese-rich variety of Tantalite. It is formed when manganese replaces iron.\r\n\r\nManganotantalite is an intense red transparent material that is suitable for cutting into magnificent faceted gems.",
+  "PhysicalProperties": {
+    "MohsHardness": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 5.5,
+          "Max": 6.5
+        }
+      ]
+    },
+    "SpecificGravity": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 7.73,
+          "Max": 7.97
+        }
+      ]
+    },
+    "Tenacity": "",
+    "CleavageQuality": "Perfect",
+    "Fracture": "",
+    "HeatSensitivity": ""
+  },
+  "OpticalProperties": {
+    "RefractiveIndex": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 2.19,
+          "Max": 2.34
+        }
+      ]
+    },
+    "Birefringence": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 0.015,
+          "Max": 0.015
+        }
+      ]
+    },
+    "Pleochroism": "",
+    "Dispersion": null
+  },
+  "ColourProperties": {
+    "General": "Scarlet-red to dark red.",
+    "Daylight": "",
+    "ChelseaFilter": "",
+    "CausesOfColour": "",
+    "Transparency": "Transparent"
+  },
+  "FlouresenceProperties": {
+    "General": ""
+  },
+  "Crystallography": {
+    "CrystalSystem": "Orthorhombic",
+    "Habit": "Short prismatic crystals"
+  },
+  "GeologicalEnvironment": {
+    "WhereFound": "Occurs in granite pegmatites."
+  },
+  "Inclusions": {
+    "Inclusions": "Occurs in granite pegmatites."
+  }
+}

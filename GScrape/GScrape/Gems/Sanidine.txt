@@ -1,0 +1,70 @@
+{
+  "Name": "Sanidine",
+  "Description": "Sanidine is a glassy variety of Orthoclase feldspar that occurs in the German Rhineland and in USA. Colourless, beige and attractive warm-brown stones are faceted.",
+  "PhysicalProperties": {
+    "MohsHardness": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 6.0,
+          "Max": 6.0
+        }
+      ]
+    },
+    "SpecificGravity": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 2.54,
+          "Max": 2.61
+        }
+      ]
+    },
+    "Tenacity": "Brittle",
+    "CleavageQuality": "Good",
+    "Fracture": "Uneven,Conchoidal",
+    "HeatSensitivity": ""
+  },
+  "OpticalProperties": {
+    "RefractiveIndex": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 1.518,
+          "Max": 1.536
+        }
+      ]
+    },
+    "Birefringence": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 0.005,
+          "Max": 0.008
+        }
+      ]
+    },
+    "Pleochroism": "Weak",
+    "Dispersion": null
+  },
+  "ColourProperties": {
+    "General": "Light gray to light brownish variety",
+    "Daylight": "",
+    "ChelseaFilter": "",
+    "CausesOfColour": "",
+    "Transparency": "Transparent,Translucent"
+  },
+  "FlouresenceProperties": {
+    "General": "Weak reddish orange under both LWUV and SWUV (Madagascar)"
+  },
+  "Crystallography": {
+    "CrystalSystem": "Monoclinic",
+    "Habit": "A flattened crystal"
+  },
+  "GeologicalEnvironment": {
+    "WhereFound": "Sanidine is a common constituent in acid and intermediate volcanic rocks such as rhyolites, dacites and trachytes; where the rock cooled quickly at above approximately 900°C, sanidine is the stable structure"
+  },
+  "Inclusions": {
+    "Inclusions": "Sanidine is a common constituent in acid and intermediate volcanic rocks such as rhyolites, dacites and trachytes; where the rock cooled quickly at above approximately 900°C, sanidine is the stable structure"
+  }
+}

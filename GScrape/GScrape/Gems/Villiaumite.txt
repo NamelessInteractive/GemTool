@@ -1,0 +1,62 @@
+{
+  "Name": "Villiaumite",
+  "Description": "Villiaumite is named after Maxime Villiaume, officer in the colonial artillery corps stationed in northern Madagascar, whose help in the acquisition of mineral and rock collections from Madagascar and Guinea proved invaluable to Alfred Lacroix.\r\n\r\nVilliaumite forms translucent to transparent carmine-red to lavender-pink granular masses and rarely cubic crystals. Villiaumite is likely to be soluble in hot water.\r\n\r\nVilliaumite has been faceted, but the cut stones are usually very small.",
+  "PhysicalProperties": {
+    "MohsHardness": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 2.0,
+          "Max": 2.0
+        }
+      ]
+    },
+    "SpecificGravity": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 2.79,
+          "Max": 2.79
+        }
+      ]
+    },
+    "Tenacity": "Brittle",
+    "CleavageQuality": "Distinct",
+    "Fracture": "",
+    "HeatSensitivity": ""
+  },
+  "OpticalProperties": {
+    "RefractiveIndex": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 1.328,
+          "Max": 1.332
+        }
+      ]
+    },
+    "Birefringence": null,
+    "Pleochroism": "Yellow to pink/deep carmine",
+    "Dispersion": null
+  },
+  "ColourProperties": {
+    "General": "Red",
+    "Daylight": "",
+    "ChelseaFilter": "",
+    "CausesOfColour": "",
+    "Transparency": "Transparent"
+  },
+  "FlouresenceProperties": {
+    "General": "Dark red to orange and yellow fluorescence under SW and LW UV"
+  },
+  "Crystallography": {
+    "CrystalSystem": "Isometric",
+    "Habit": "Granular masses"
+  },
+  "GeologicalEnvironment": {
+    "WhereFound": "Villiaumite occurs in nepheline syenite and nepheline syenite pegmatites."
+  },
+  "Inclusions": {
+    "Inclusions": "Villiaumite occurs in nepheline syenite and nepheline syenite pegmatites."
+  }
+}

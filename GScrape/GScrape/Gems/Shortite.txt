@@ -1,0 +1,70 @@
+{
+  "Name": "Shortite",
+  "Description": "Shortite is named after M.N. Short, Professor of Mineralogy, University of Arizona, Tucson, USA.\r\n\r\nShortite forms characteristic transparent colourless, light yellow, yellow, light green wedge-shaped crystals. The material slowly decomposes in water.\r\n\r\nShortite is a very rare gem. Faceted stones are scarce.",
+  "PhysicalProperties": {
+    "MohsHardness": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 3.0,
+          "Max": 3.0
+        }
+      ]
+    },
+    "SpecificGravity": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 2.61,
+          "Max": 2.61
+        }
+      ]
+    },
+    "Tenacity": "Brittle",
+    "CleavageQuality": "Distinct",
+    "Fracture": "Conchoidal",
+    "HeatSensitivity": ""
+  },
+  "OpticalProperties": {
+    "RefractiveIndex": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 1.53,
+          "Max": 1.569
+        }
+      ]
+    },
+    "Birefringence": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 0.039,
+          "Max": 0.039
+        }
+      ]
+    },
+    "Pleochroism": "Yellow - green - gray",
+    "Dispersion": null
+  },
+  "ColourProperties": {
+    "General": "Yellow",
+    "Daylight": "",
+    "ChelseaFilter": "",
+    "CausesOfColour": "",
+    "Transparency": "Transparent"
+  },
+  "FlouresenceProperties": {
+    "General": ""
+  },
+  "Crystallography": {
+    "CrystalSystem": "Orthorhombic",
+    "Habit": "Wedge-shaped crystals"
+  },
+  "GeologicalEnvironment": {
+    "WhereFound": "Occurs in association with an intrusive alkalic gabbrio-syenitic complex"
+  },
+  "Inclusions": {
+    "Inclusions": "Occurs in association with an intrusive alkalic gabbrio-syenitic complex"
+  }
+}

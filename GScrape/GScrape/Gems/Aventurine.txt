@@ -1,0 +1,70 @@
+{
+  "Name": "Aventurine",
+  "Description": "The name aventurine derives from the Italian \"a ventura\" meaning \"by chance\".\r\n\r\nAventurine is a feebly translucent, fine-grained to compact variety of Quartzite, the surface of which has a speckled, metallic sheen, usually of a reddish-brown colour, but occasionally yellow, white, blue or green. This appearance is caused by the presence, in the colourless quartz substance, of numbers of enclosures (scales of mica, plates of chrome-mica fuchsite, etc.), which can always be seen with the aid of the microscope, and sometimes with a simple lens, or with the naked eye.",
+  "PhysicalProperties": {
+    "MohsHardness": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 7.0,
+          "Max": 6.5
+        }
+      ]
+    },
+    "SpecificGravity": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 2.64,
+          "Max": 2.69
+        }
+      ]
+    },
+    "Tenacity": "Brittle",
+    "CleavageQuality": "None",
+    "Fracture": "Conchoidal,Splintery",
+    "HeatSensitivity": ""
+  },
+  "OpticalProperties": {
+    "RefractiveIndex": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 1.544,
+          "Max": 1.553
+        }
+      ]
+    },
+    "Birefringence": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 0.007,
+          "Max": 0.01
+        }
+      ]
+    },
+    "Pleochroism": "Absent",
+    "Dispersion": null
+  },
+  "ColourProperties": {
+    "General": "Green, red-brown, gold-brown",
+    "Daylight": "",
+    "ChelseaFilter": "Reddish",
+    "CausesOfColour": "Green, chromian mica (fuchsite) inclusions. Greenish yellow, color center.",
+    "Transparency": "Translucent,Opaque"
+  },
+  "FlouresenceProperties": {
+    "General": "Green aventurine: reddish"
+  },
+  "Crystallography": {
+    "CrystalSystem": "Triclinic",
+    "Habit": "Massive"
+  },
+  "GeologicalEnvironment": {
+    "WhereFound": "Occurs both in primary deposits and also as loose pebbles."
+  },
+  "Inclusions": {
+    "Inclusions": "Occurs both in primary deposits and also as loose pebbles."
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "Name": "Boracite",
+  "Description": "Boracite is named after its boron content.\r\n\r\nBoracite produces crystals of various colours with vitreous to adamantine lustre. It has good clarity and hardness, but it is slightly soluble in water. This fact limits the use of boracite as a gemstone.\r\n\r\nFaceted stones seldom exceed 1 carat in weight and are quite rare.",
+  "PhysicalProperties": {
+    "MohsHardness": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 7.0,
+          "Max": 7.5
+        }
+      ]
+    },
+    "SpecificGravity": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 2.95,
+          "Max": 2.96
+        }
+      ]
+    },
+    "Tenacity": "Brittle",
+    "CleavageQuality": "Poor",
+    "Fracture": "Conchoidal",
+    "HeatSensitivity": ""
+  },
+  "OpticalProperties": {
+    "RefractiveIndex": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 1.658,
+          "Max": 1.673
+        }
+      ]
+    },
+    "Birefringence": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 0.01,
+          "Max": 0.011
+        }
+      ]
+    },
+    "Pleochroism": "Nil",
+    "Dispersion": null
+  },
+  "ColourProperties": {
+    "General": "Light green, colourless, white, yellow, bluish.",
+    "Daylight": "",
+    "ChelseaFilter": "",
+    "CausesOfColour": "",
+    "Transparency": "Transparent,Translucent"
+  },
+  "FlouresenceProperties": {
+    "General": "Very weak greenish fluorescence"
+  },
+  "Crystallography": {
+    "CrystalSystem": "Orthorhombic",
+    "Habit": "Pseudo-cubic, octahedrons, dodecahedrons, tetrahedrons"
+  },
+  "GeologicalEnvironment": {
+    "WhereFound": "Boracite is found in evaporite deposits, usually associated with gypsum, anhydrite and/or halite."
+  },
+  "Inclusions": {
+    "Inclusions": "Boracite is found in evaporite deposits, usually associated with gypsum, anhydrite and/or halite."
+  }
+}

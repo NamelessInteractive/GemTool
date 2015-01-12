@@ -1,0 +1,78 @@
+{
+  "Name": "Vesuvianite (Idocrase)",
+  "Description": "Vesuvianite is named after the Mount Vesuvius, where it was first discovered in 1795.\r\n\r\nIt is also called Idocrase (Greek - mixed form) with reference to the fact that its crystals usually combine the forms of other minerals.\r\n\r\nVesuvianite can be faceted or used in its massive form as a substitute for jade.",
+  "PhysicalProperties": {
+    "MohsHardness": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 6.5,
+          "Max": 0.0
+        }
+      ]
+    },
+    "SpecificGravity": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 3.25,
+          "Max": 3.5
+        }
+      ]
+    },
+    "Tenacity": "Brittle",
+    "CleavageQuality": "Indistinct",
+    "Fracture": "Uneven,Splintery",
+    "HeatSensitivity": ""
+  },
+  "OpticalProperties": {
+    "RefractiveIndex": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 1.7,
+          "Max": 1.725
+        }
+      ]
+    },
+    "Birefringence": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 0.002,
+          "Max": 0.012
+        }
+      ]
+    },
+    "Pleochroism": "Orange/brown vesuvianite - weak: light body color - dark body color; Green - weak: yellow-green - yellow-brown; Yellow - weak: colorless - yellow",
+    "Dispersion": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 0.019,
+          "Max": 0.025
+        }
+      ]
+    }
+  },
+  "ColourProperties": {
+    "General": "Yellowish-green, green, yellowish-brown, violet",
+    "Daylight": "",
+    "ChelseaFilter": "",
+    "CausesOfColour": "Green, Fe3+ in octahedral coordination; with possible influence of Fe2+→Fe3+ charge transfer. Yellow, O2-→Fe2+ charge transfer. Brown, Fe2+→Ti4+ charge transfer",
+    "Transparency": "Transparent,Translucent"
+  },
+  "FlouresenceProperties": {
+    "General": "None"
+  },
+  "Crystallography": {
+    "CrystalSystem": "Tetragonal",
+    "Habit": "Thick columnar crystals"
+  },
+  "GeologicalEnvironment": {
+    "WhereFound": "Vesuvianite occurs in skarns formed during contact or regional metamorphism of limestones in serpentines and ultramafic rock"
+  },
+  "Inclusions": {
+    "Inclusions": "Vesuvianite occurs in skarns formed during contact or regional metamorphism of limestones in serpentines and ultramafic rock"
+  }
+}

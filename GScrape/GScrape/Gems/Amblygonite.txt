@@ -1,0 +1,78 @@
+{
+  "Name": "Amblygonite",
+  "Description": "Amblygonite is named after Greek for \"crooked angled\" referring to mineral's triclinic crystals. The mineral was first discovered in Saxony by August Breithaupt in 1817.\r\n\r\nTransparent amblygonite can be faceted and set into jewelry, but it is at risk of breaking and brasion, because its hardness and toughness are poor.\r\n\r\nFacet-grade gem rough of yellow amblygonite is found in Brazil and Burma.",
+  "PhysicalProperties": {
+    "MohsHardness": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 6.0,
+          "Max": 6.0
+        }
+      ]
+    },
+    "SpecificGravity": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 2.98,
+          "Max": 3.1
+        }
+      ]
+    },
+    "Tenacity": "",
+    "CleavageQuality": "Perfect",
+    "Fracture": "Sub-Conchoidal",
+    "HeatSensitivity": "Moderate heat sensitivity"
+  },
+  "OpticalProperties": {
+    "RefractiveIndex": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 1.578,
+          "Max": 1.646
+        }
+      ]
+    },
+    "Birefringence": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 0.02,
+          "Max": 0.03
+        }
+      ]
+    },
+    "Pleochroism": "Absent",
+    "Dispersion": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 0.014,
+          "Max": 0.015
+        }
+      ]
+    }
+  },
+  "ColourProperties": {
+    "General": "Colourless, yellowish, pink, brown, green, blue",
+    "Daylight": "",
+    "ChelseaFilter": "",
+    "CausesOfColour": "",
+    "Transparency": "Transparent"
+  },
+  "FlouresenceProperties": {
+    "General": "Very weak, green."
+  },
+  "Crystallography": {
+    "CrystalSystem": "Triclinic",
+    "Habit": "Usually massive"
+  },
+  "GeologicalEnvironment": {
+    "WhereFound": ""
+  },
+  "Inclusions": {
+    "Inclusions": "Very weak, green."
+  }
+}

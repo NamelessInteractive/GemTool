@@ -1,0 +1,70 @@
+{
+  "Name": "Painite",
+  "Description": "Painite is named after Arthur Charles Davy Pain, English gem collector who first recognized the mineral.\r\n\r\nPainite forms elongated, pseudo-orthorhombic transparent deep garnet-red crystals. Pleochroism is ruby-red and pale brownish orange or pale red-orange.\r\n\r\nPainite was recognized as the rarest gem material on Earth, however many more stones have since been found. Many hundred stones have been faceted, but facet rough material of fine quality is still rare.",
+  "PhysicalProperties": {
+    "MohsHardness": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 7.5,
+          "Max": 8.0
+        }
+      ]
+    },
+    "SpecificGravity": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 4.0,
+          "Max": 4.03
+        }
+      ]
+    },
+    "Tenacity": "",
+    "CleavageQuality": "",
+    "Fracture": "Conchoidal",
+    "HeatSensitivity": ""
+  },
+  "OpticalProperties": {
+    "RefractiveIndex": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 1.787,
+          "Max": 1.816
+        }
+      ]
+    },
+    "Birefringence": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 0.029,
+          "Max": 0.029
+        }
+      ]
+    },
+    "Pleochroism": "Strong dichroism: yellow-brown - red to brown-violet (pinkish samples: nearly colorless - pale orangy-pink)",
+    "Dispersion": null
+  },
+  "ColourProperties": {
+    "General": "Deep garnet-red",
+    "Daylight": "",
+    "ChelseaFilter": "",
+    "CausesOfColour": "",
+    "Transparency": "Transparent"
+  },
+  "FlouresenceProperties": {
+    "General": "Inert to weak red"
+  },
+  "Crystallography": {
+    "CrystalSystem": "Hexagonal",
+    "Habit": "Elongated, pseudo-orthorhombic"
+  },
+  "GeologicalEnvironment": {
+    "WhereFound": "In gem gravels"
+  },
+  "Inclusions": {
+    "Inclusions": "In gem gravels"
+  }
+}

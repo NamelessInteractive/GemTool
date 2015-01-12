@@ -1,0 +1,70 @@
+{
+  "Name": "Actinolite",
+  "Description": "Actinolite is named after Greek word \"aktis\" - a ray, alluding to its common occurence as radiating needles.\r\n\r\nChatoyant, translucent to opaque, green to yellowish green colour stones are cut into cabochons and called Actinolite cat's eye. Transparent well-developed crystals of actinolite are rare and are faceted into small attractive gems for collectors.",
+  "PhysicalProperties": {
+    "MohsHardness": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 5.5,
+          "Max": 6.0
+        }
+      ]
+    },
+    "SpecificGravity": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 3.03,
+          "Max": 3.07
+        }
+      ]
+    },
+    "Tenacity": "Brittle",
+    "CleavageQuality": "Perfect",
+    "Fracture": "Uneven",
+    "HeatSensitivity": ""
+  },
+  "OpticalProperties": {
+    "RefractiveIndex": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 1.6,
+          "Max": 1.63
+        }
+      ]
+    },
+    "Birefringence": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 0.03,
+          "Max": 0.03
+        }
+      ]
+    },
+    "Pleochroism": "Distinct: yellow-green - light green - blue-green",
+    "Dispersion": null
+  },
+  "ColourProperties": {
+    "General": "Green, brown, gray, white and colourless.",
+    "Daylight": "",
+    "ChelseaFilter": "",
+    "CausesOfColour": "Yellowish green to green (nephrite), Fe2+ in octahedral coordination",
+    "Transparency": "Transparent"
+  },
+  "FlouresenceProperties": {
+    "General": ""
+  },
+  "Crystallography": {
+    "CrystalSystem": "Monoclinic",
+    "Habit": "Long bladed crystals"
+  },
+  "GeologicalEnvironment": {
+    "WhereFound": "Produced by low-grade regional or contact metamorphism of magnesium carbonate, mafic, or ultramafic rocks; also in glaucophane bearing blueschists."
+  },
+  "Inclusions": {
+    "Inclusions": "Produced by low-grade regional or contact metamorphism of magnesium carbonate, mafic, or ultramafic rocks; also in glaucophane bearing blueschists."
+  }
+}

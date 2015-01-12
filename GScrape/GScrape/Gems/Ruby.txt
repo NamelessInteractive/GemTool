@@ -1,0 +1,78 @@
+{
+  "Name": "Ruby",
+  "Description": "Ruby is a pink to blood-red coloured gem variety of the mineral Corundum. The name comes from the Latin word \"ruber\" - red.\r\n\r\nThe red colour can vary within each individual deposit, therefore the determination of the source from the colour is not possible. The red colour is caused by chromium, and in case of brownish tones due to presence of iron.\r\n\r\nThe rough stone has dull and greasy lustre.\r\n\r\nInclusions are common and often indicate that the stone is natural.",
+  "PhysicalProperties": {
+    "MohsHardness": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 9.0,
+          "Max": 9.0
+        }
+      ]
+    },
+    "SpecificGravity": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 3.97,
+          "Max": 4.05
+        }
+      ]
+    },
+    "Tenacity": "Brittle",
+    "CleavageQuality": "None",
+    "Fracture": "Conchoidal,Splintery",
+    "HeatSensitivity": ""
+  },
+  "OpticalProperties": {
+    "RefractiveIndex": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 1.762,
+          "Max": 1.778
+        }
+      ]
+    },
+    "Birefringence": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 0.008,
+          "Max": 0.008
+        }
+      ]
+    },
+    "Pleochroism": "Strong: purplish-red - orangy-red",
+    "Dispersion": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 0.018,
+          "Max": 0.018
+        }
+      ]
+    }
+  },
+  "ColourProperties": {
+    "General": "Near colourless through pink through all shades of red to a deep crimson.",
+    "Daylight": "",
+    "ChelseaFilter": "Fluorescent red",
+    "CausesOfColour": "Red, Cr3+ in octahedral coordination with minor contributions of V3+ and Fe3+ in octahedral coordination.",
+    "Transparency": "Transparent,Translucent,Opaque"
+  },
+  "FlouresenceProperties": {
+    "General": ""
+  },
+  "Crystallography": {
+    "CrystalSystem": "Trigonal",
+    "Habit": "Hexagonal prisms or tables, rhombohedrons"
+  },
+  "GeologicalEnvironment": {
+    "WhereFound": "The host rocks of ruby are metamorphic dolomite marbles, gneiss and amphibolite. The yield of rubies from such primary deposits is not economically profitable. Rather secondary alluvial deposits are worked. Because of its high density, ruby is normally separated through the washing of river gravels, sands, and soil, then concentrated, and finally picked out by hand."
+  },
+  "Inclusions": {
+    "Inclusions": "The host rocks of ruby are metamorphic dolomite marbles, gneiss and amphibolite. The yield of rubies from such primary deposits is not economically profitable. Rather secondary alluvial deposits are worked. Because of its high density, ruby is normally separated through the washing of river gravels, sands, and soil, then concentrated, and finally picked out by hand."
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "Name": "Natrolite",
+  "Description": "Natrolite was named by Martin Heinrich Klaproth in 1803. The name is derived from Greek \"natron\" - soda, in reference to the sodium content and \"lithos\" - stone.\r\n\r\nNatrolite produce some fine crystal specimens. The mineral is also often found as compact fibrous aggregates. It is usually white or colorless, sometimes reddish, greenish or yellowish. The luster is vitreous, finely fibrous specimens have silky luster.\r\n\r\nColourless facet rough natrolite is seldom.",
+  "PhysicalProperties": {
+    "MohsHardness": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 5.0,
+          "Max": 5.5
+        }
+      ]
+    },
+    "SpecificGravity": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 2.2,
+          "Max": 2.26
+        }
+      ]
+    },
+    "Tenacity": "Brittle",
+    "CleavageQuality": "Perfect",
+    "Fracture": "Irregular",
+    "HeatSensitivity": ""
+  },
+  "OpticalProperties": {
+    "RefractiveIndex": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 1.478,
+          "Max": 1.493
+        }
+      ]
+    },
+    "Birefringence": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 0.012,
+          "Max": 0.013
+        }
+      ]
+    },
+    "Pleochroism": "Nil",
+    "Dispersion": null
+  },
+  "ColourProperties": {
+    "General": "Colourless, yellowish, white, gray, brownish",
+    "Daylight": "",
+    "ChelseaFilter": "",
+    "CausesOfColour": "",
+    "Transparency": "Transparent,Translucent,Opaque"
+  },
+  "FlouresenceProperties": {
+    "General": ""
+  },
+  "Crystallography": {
+    "CrystalSystem": "Orthorhombic",
+    "Habit": "Fibrous aggregate"
+  },
+  "GeologicalEnvironment": {
+    "WhereFound": "Occurs in cavities in amygdaloidal basalts and related igneous rocks in association with other zeolites"
+  },
+  "Inclusions": {
+    "Inclusions": "Occurs in cavities in amygdaloidal basalts and related igneous rocks in association with other zeolites"
+  }
+}

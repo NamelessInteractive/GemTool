@@ -1,0 +1,78 @@
+{
+  "Name": "Anhydrite",
+  "Description": "Anhydrite was named by A. G. Werner in 1804, from Greek \"an\" - without and \"hydor\" - water, because of the absence of water of crystallization, in contrast with the presence of water in gypsum.\r\n\r\nWhen exposed to water, anhydrite transforms to gypsum by the absorption of water. This transformation is reversible, gypsum forms anhydrite by heating to ~200°C under normal atmospheric conditions.\r\n\r\nFine specimens are very rare. Small crystals and pieces of clean facet-grade rough are found in salt mines. Anhydrite is very rarely faceted or cut as cabochons.",
+  "PhysicalProperties": {
+    "MohsHardness": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 3.5,
+          "Max": 3.5
+        }
+      ]
+    },
+    "SpecificGravity": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 2.9,
+          "Max": 2.98
+        }
+      ]
+    },
+    "Tenacity": "",
+    "CleavageQuality": "Perfect",
+    "Fracture": "Uneven",
+    "HeatSensitivity": ""
+  },
+  "OpticalProperties": {
+    "RefractiveIndex": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 1.57,
+          "Max": 1.614
+        }
+      ]
+    },
+    "Birefringence": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 0.044,
+          "Max": 0.044
+        }
+      ]
+    },
+    "Pleochroism": "Weak",
+    "Dispersion": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 0.013,
+          "Max": 0.013
+        }
+      ]
+    }
+  },
+  "ColourProperties": {
+    "General": "Colourless to light pink, pale blue to violet.",
+    "Daylight": "",
+    "ChelseaFilter": "",
+    "CausesOfColour": "",
+    "Transparency": "Transparent,Translucent"
+  },
+  "FlouresenceProperties": {
+    "General": ""
+  },
+  "Crystallography": {
+    "CrystalSystem": "Orthorhombic",
+    "Habit": "Tabular or equant crystals"
+  },
+  "GeologicalEnvironment": {
+    "WhereFound": "Is usually formed by the dehydration of gypsum"
+  },
+  "Inclusions": {
+    "Inclusions": "Is usually formed by the dehydration of gypsum"
+  }
+}

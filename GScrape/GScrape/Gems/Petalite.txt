@@ -1,0 +1,78 @@
+{
+  "Name": "Petalite",
+  "Description": "Petalite is named after Greek \"petalon\" - leaf, because of its perfect cleavage.\r\n\r\nWell-formed crystals are rare, it is usually found in its massive form. Stones with colour are sometimes cut into cabochons. Cut petalite stones exhibit a glassy appearance and can be confused with Glass.\r\n\r\nPetalite cat's eye is known.",
+  "PhysicalProperties": {
+    "MohsHardness": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 6.0,
+          "Max": 6.5
+        }
+      ]
+    },
+    "SpecificGravity": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 2.4,
+          "Max": 2.4
+        }
+      ]
+    },
+    "Tenacity": "Brittle",
+    "CleavageQuality": "Perfect",
+    "Fracture": "Conchoidal",
+    "HeatSensitivity": ""
+  },
+  "OpticalProperties": {
+    "RefractiveIndex": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 1.502,
+          "Max": 1.523
+        }
+      ]
+    },
+    "Birefringence": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 0.012,
+          "Max": 0.016
+        }
+      ]
+    },
+    "Pleochroism": "Absent",
+    "Dispersion": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 0.0141,
+          "Max": 0.0141
+        }
+      ]
+    }
+  },
+  "ColourProperties": {
+    "General": "Colourless, pink, yellowish",
+    "Daylight": "",
+    "ChelseaFilter": "",
+    "CausesOfColour": "",
+    "Transparency": "Transparent"
+  },
+  "FlouresenceProperties": {
+    "General": "May react white to weak orange"
+  },
+  "Crystallography": {
+    "CrystalSystem": "Monoclinic",
+    "Habit": "Thick tabular, columnar and aggregates"
+  },
+  "GeologicalEnvironment": {
+    "WhereFound": "Petalite is a mineral of granite pegmatites where it may be found with other Li-minerals including spodumene and tourmaline group species."
+  },
+  "Inclusions": {
+    "Inclusions": "Petalite is a mineral of granite pegmatites where it may be found with other Li-minerals including spodumene and tourmaline group species."
+  }
+}

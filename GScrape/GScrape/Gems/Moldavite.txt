@@ -1,0 +1,62 @@
+{
+  "Name": "Moldavite",
+  "Description": "Moldavite is named after the the former german name of the river Moldau, Czech Republic, where the material was first found in 1787. Czechs call them \"vltavin\", after the Czech name for the same river, the Vltava.\r\n\r\nMoldavite is a natural glass, a variety of Tektite. Tektites are formed when terrestrial rock and soil is melted and ejected into space by meteorite impacts, and each impact produces a limited strewn field which is named. Consequently the name \"moldavite\" can only be used for tektites from one specific impact (in this case the Ries crater in Germany), the strewn field being mainly in the Czech Republic, together with minor neighboring areas of Germany and Austria. It is nonsense for other glasses to be marketed using variations of the name like \"African Moldavite\" (sic).\r\n\r\nMoldavites are the most transparent of all the various types of tektites. They are found in many different color shades between brown and green, but normally only the ones with bottle-green hue are used for faceting. Occasionally faceted green bottle glass gets fraudulently passed off as \"moldavite\". True moldavite gems can be identified by their vermiform inclusions of lechatelierite (pure silica glass - melted quartz).",
+  "PhysicalProperties": {
+    "MohsHardness": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 5.5,
+          "Max": 5.5
+        }
+      ]
+    },
+    "SpecificGravity": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 2.32,
+          "Max": 2.38
+        }
+      ]
+    },
+    "Tenacity": "",
+    "CleavageQuality": "None",
+    "Fracture": "Conchoidal",
+    "HeatSensitivity": ""
+  },
+  "OpticalProperties": {
+    "RefractiveIndex": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 1.48,
+          "Max": 1.54
+        }
+      ]
+    },
+    "Birefringence": null,
+    "Pleochroism": "Absent",
+    "Dispersion": null
+  },
+  "ColourProperties": {
+    "General": "Bottle-green to brown-green",
+    "Daylight": "",
+    "ChelseaFilter": "",
+    "CausesOfColour": "Yellowish green, Fe2+ in octahedral coordination.",
+    "Transparency": "Transparent,Translucent,Opaque"
+  },
+  "FlouresenceProperties": {
+    "General": "None"
+  },
+  "Crystallography": {
+    "CrystalSystem": "Amorphous",
+    "Habit": ""
+  },
+  "GeologicalEnvironment": {
+    "WhereFound": "Space or impact (large meteorites)"
+  },
+  "Inclusions": {
+    "Inclusions": "Space or impact (large meteorites)"
+  }
+}

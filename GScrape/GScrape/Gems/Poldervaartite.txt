@@ -1,0 +1,62 @@
+{
+  "Name": "Poldervaartite",
+  "Description": "Poldervaartite is named after Arie Poldervaart, Professor of Petrology, Columbia University, New York, USA.\r\n\r\nPoldervaartite forms colourless, milky white, light orange-pink, pink-white prismatic crystals.\r\n\r\nThe material suitable for faceting is scarce.",
+  "PhysicalProperties": {
+    "MohsHardness": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 5.0,
+          "Max": 0.0
+        }
+      ]
+    },
+    "SpecificGravity": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 2.91,
+          "Max": 2.91
+        }
+      ]
+    },
+    "Tenacity": "Brittle",
+    "CleavageQuality": "",
+    "Fracture": "",
+    "HeatSensitivity": ""
+  },
+  "OpticalProperties": {
+    "RefractiveIndex": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 1.634,
+          "Max": 1.656
+        }
+      ]
+    },
+    "Birefringence": null,
+    "Pleochroism": "Weak: colorless - light gray - bluish gray",
+    "Dispersion": null
+  },
+  "ColourProperties": {
+    "General": "Colorless to white",
+    "Daylight": "",
+    "ChelseaFilter": "",
+    "CausesOfColour": "",
+    "Transparency": "Transparent,Translucent"
+  },
+  "FlouresenceProperties": {
+    "General": ""
+  },
+  "Crystallography": {
+    "CrystalSystem": "Orthorhombic",
+    "Habit": "Crystals are prismatic, to 7 mm; aggregates in sheaves."
+  },
+  "GeologicalEnvironment": {
+    "WhereFound": "In a pocket in massive manganese ores in a bedded manganese ore deposit."
+  },
+  "Inclusions": {
+    "Inclusions": "In a pocket in massive manganese ores in a bedded manganese ore deposit."
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "Name": "Sugilite",
+  "Description": "Sugilite is named after Ken-ichi Sugi, Japanese petrologist who first discovered the mineral on Iwagi island, Shikoku, Japan in 1994.\r\n\r\nSugilitemost commonly forms compact masses with a light brownish yellow to a bright magenta colour. The material yields attractive cabochons, beads, ornamental objects. Semi-transparent stones are occasionally faceted. Crystal specimens are very rare.\r\n\r\nSugilite is also known as Wesselite, because translucent facetable material of intense purple colour was found in the Wessels Manganese Mine near Hotazel, South Africa.",
+  "PhysicalProperties": {
+    "MohsHardness": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 5.5,
+          "Max": 6.5
+        }
+      ]
+    },
+    "SpecificGravity": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 2.69,
+          "Max": 2.79
+        }
+      ]
+    },
+    "Tenacity": "",
+    "CleavageQuality": "Poor",
+    "Fracture": "Sub-Conchoidal",
+    "HeatSensitivity": ""
+  },
+  "OpticalProperties": {
+    "RefractiveIndex": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 1.607,
+          "Max": 1.612
+        }
+      ]
+    },
+    "Birefringence": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 0.003,
+          "Max": 0.005
+        }
+      ]
+    },
+    "Pleochroism": "Weak",
+    "Dispersion": null
+  },
+  "ColourProperties": {
+    "General": "Violet, purple-red",
+    "Daylight": "",
+    "ChelseaFilter": "",
+    "CausesOfColour": "Purple, Mn3+ and Fe3+ presumably in octahedral coordination",
+    "Transparency": "Translucent,Opaque"
+  },
+  "FlouresenceProperties": {
+    "General": ""
+  },
+  "Crystallography": {
+    "CrystalSystem": "Hexagonal",
+    "Habit": "Massive"
+  },
+  "GeologicalEnvironment": {
+    "WhereFound": "Sugilite occurs in an aegirine-bearing syenite stock in biotite granite in bedded manganese deposits."
+  },
+  "Inclusions": {
+    "Inclusions": "Sugilite occurs in an aegirine-bearing syenite stock in biotite granite in bedded manganese deposits."
+  }
+}

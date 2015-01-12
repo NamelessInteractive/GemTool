@@ -1,0 +1,62 @@
+{
+  "Name": "Nephrite",
+  "Description": "Nephrite (Greek - kidney) is a dense, fibrous aggregate variety of the tremolite-actinolite series that is tougher than jadeite. It can be all colours, often with a yellow tint. The most valuable is green.",
+  "PhysicalProperties": {
+    "MohsHardness": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 6.0,
+          "Max": 6.5
+        }
+      ]
+    },
+    "SpecificGravity": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 2.9,
+          "Max": 3.1
+        }
+      ]
+    },
+    "Tenacity": "Brittle",
+    "CleavageQuality": "None",
+    "Fracture": "Splintery",
+    "HeatSensitivity": ""
+  },
+  "OpticalProperties": {
+    "RefractiveIndex": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 1.6,
+          "Max": 1.627
+        }
+      ]
+    },
+    "Birefringence": null,
+    "Pleochroism": "Nil",
+    "Dispersion": null
+  },
+  "ColourProperties": {
+    "General": "Green, gray-green, reddish-brown, black",
+    "Daylight": "",
+    "ChelseaFilter": "",
+    "CausesOfColour": "",
+    "Transparency": "Translucent,Opaque"
+  },
+  "FlouresenceProperties": {
+    "General": "None"
+  },
+  "Crystallography": {
+    "CrystalSystem": "Monoclinic",
+    "Habit": "Fibrous"
+  },
+  "GeologicalEnvironment": {
+    "WhereFound": "Occurs in serpentine rocks, and as river or beach pebbles."
+  },
+  "Inclusions": {
+    "Inclusions": "Occurs in serpentine rocks, and as river or beach pebbles."
+  }
+}

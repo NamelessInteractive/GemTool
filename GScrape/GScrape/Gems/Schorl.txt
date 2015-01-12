@@ -1,0 +1,70 @@
+{
+  "Name": "Schorl",
+  "Description": "The most common species of tourmaline is schorl. It was named after an old mining expression for \"false ore\". Schorl is usually bluish or brownish black to black.",
+  "PhysicalProperties": {
+    "MohsHardness": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 7.0,
+          "Max": 0.0
+        }
+      ]
+    },
+    "SpecificGravity": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 3.18,
+          "Max": 3.22
+        }
+      ]
+    },
+    "Tenacity": "Brittle",
+    "CleavageQuality": "Poor",
+    "Fracture": "Uneven,Conchoidal",
+    "HeatSensitivity": ""
+  },
+  "OpticalProperties": {
+    "RefractiveIndex": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 1.635,
+          "Max": 1.672
+        }
+      ]
+    },
+    "Birefringence": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 0.025,
+          "Max": 0.025
+        }
+      ]
+    },
+    "Pleochroism": "Very strong: yellow-brown - pale yellow, pale brown.",
+    "Dispersion": null
+  },
+  "ColourProperties": {
+    "General": "Black, brownish black, bluish black; in thin section, bluish yellow.",
+    "Daylight": "",
+    "ChelseaFilter": "",
+    "CausesOfColour": "",
+    "Transparency": "Transparent,Translucent,Opaque"
+  },
+  "FlouresenceProperties": {
+    "General": ""
+  },
+  "Crystallography": {
+    "CrystalSystem": "Hexagonal",
+    "Habit": "Crystals prismatic to acicular, or may be flattened, with prominent trigonal prism and pyramid, to 1.5 m. Commonly hemimorphic, and striated. Also radial, fibrous, and massive."
+  },
+  "GeologicalEnvironment": {
+    "WhereFound": "In granites and granite pegmatites, high temperature hydrothermal veins, and some metamorphic rocks; also detrital."
+  },
+  "Inclusions": {
+    "Inclusions": "In granites and granite pegmatites, high temperature hydrothermal veins, and some metamorphic rocks; also detrital."
+  }
+}

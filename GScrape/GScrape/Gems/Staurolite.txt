@@ -1,0 +1,70 @@
+{
+  "Name": "Staurolite",
+  "Description": "Staurolite is named from Greek \"stauros\" - a cross, alluding to the cruciform twins (fairy crosses) it displays in some cases.\r\n\r\nStaurolite forms characteristic monoclinic, pseudo-orthorhombic prismatic, reddish brown crystals, often forming 60° twins. The crystals are mostly translucent, rarely transparent. Staurolite shows distinct pleochroism - colourless - yellow - reddish brown.\r\n\r\nRouch material to facet brilliant gems is very rare.",
+  "PhysicalProperties": {
+    "MohsHardness": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 7.0,
+          "Max": 7.5
+        }
+      ]
+    },
+    "SpecificGravity": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 3.7,
+          "Max": 3.8
+        }
+      ]
+    },
+    "Tenacity": "",
+    "CleavageQuality": "Distinct",
+    "Fracture": "Sub-Conchoidal",
+    "HeatSensitivity": ""
+  },
+  "OpticalProperties": {
+    "RefractiveIndex": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 1.736,
+          "Max": 1.762
+        }
+      ]
+    },
+    "Birefringence": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 0.01,
+          "Max": 0.015
+        }
+      ]
+    },
+    "Pleochroism": "Distinct: light yellow - yellowish red - dark red",
+    "Dispersion": null
+  },
+  "ColourProperties": {
+    "General": "Reddish-brown, black.",
+    "Daylight": "",
+    "ChelseaFilter": "",
+    "CausesOfColour": "Brown, Fe2+ in tetrahedral coordination. Blue, Co2+ in tetrahedral coordination",
+    "Transparency": "Transparent"
+  },
+  "FlouresenceProperties": {
+    "General": ""
+  },
+  "Crystallography": {
+    "CrystalSystem": "Monoclinic",
+    "Habit": "Pseudo-orthorhombic prismatic"
+  },
+  "GeologicalEnvironment": {
+    "WhereFound": "Staurolite occurs most commonly in schists and gneisses."
+  },
+  "Inclusions": {
+    "Inclusions": "Staurolite occurs most commonly in schists and gneisses."
+  }
+}

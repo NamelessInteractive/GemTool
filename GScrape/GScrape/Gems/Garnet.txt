@@ -1,0 +1,70 @@
+{
+  "Name": "Garnet",
+  "Description": "Garnet is extensively used as a gem. The name is said to have been derived from the colour of the gem varieties, red garnets having been compared to the flowers and seeds of the pomegranate-tree.\r\n\r\nThe most common colour of Garnet is red, the most usual tones being tinged with brown, yellow and violet. Green garnet, the colour of which is similar to that of the emerald, though usually more yellowish or brownish, is also cut as a gem, but less frequently. Black garnets also occur and are used in mourning jewellery. Blue is a colour conspicuous by its complete absence in the garnet group.\r\n\r\nAmongst all varieties there are numerous specimens of perfect clearness and transparency, sometimes combined with the deepest and darkest shade of colour which are cut as gems.\r\n\r\nGarnet is a name given to a group of closely related silicate minerals sharing the same isometric structure. In mineralogy the term garnet has been expanded to include other non-silicate minerals with the same structure, but in gemmological usage, garnet relates specifically to the various mineral species listed below.",
+  "PhysicalProperties": {
+    "MohsHardness": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 6.5,
+          "Max": 7.5
+        }
+      ]
+    },
+    "SpecificGravity": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 3.55,
+          "Max": 4.33
+        }
+      ]
+    },
+    "Tenacity": "Brittle",
+    "CleavageQuality": "None",
+    "Fracture": "Conchoidal",
+    "HeatSensitivity": ""
+  },
+  "OpticalProperties": {
+    "RefractiveIndex": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 1.73,
+          "Max": 1.895
+        }
+      ]
+    },
+    "Birefringence": null,
+    "Pleochroism": "",
+    "Dispersion": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 0.022,
+          "Max": 0.057
+        }
+      ]
+    }
+  },
+  "ColourProperties": {
+    "General": "Colourless, yellow, yellow-green, green, red, pinkish red, pale pink, violet-red, brown, black",
+    "Daylight": "",
+    "ChelseaFilter": "",
+    "CausesOfColour": "Iron is responsible for red, yellowish-green and commonly occurirng yellow and brown colours. The colour of emerald-green garnet uvarovite is due to chromium.",
+    "Transparency": "Transparent,Translucent"
+  },
+  "FlouresenceProperties": {
+    "General": ""
+  },
+  "Crystallography": {
+    "CrystalSystem": "Isometric",
+    "Habit": "Trapezohedral, dodecahedral, massive"
+  },
+  "GeologicalEnvironment": {
+    "WhereFound": ""
+  },
+  "Inclusions": {
+    "Inclusions": "Colourless, yellow, yellow-green, green, red, pinkish red, pale pink, violet-red, brown, black"
+  }
+}

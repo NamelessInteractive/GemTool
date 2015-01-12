@@ -1,0 +1,70 @@
+{
+  "Name": "Siderite",
+  "Description": "Siderite takes its name from the Greek word \"sideros\" - iron, reflecting its iron content.\r\n\r\nThe colour ranges from yellow to dark brown and sometimes black, which is caused by presence of manganese (sometimes called manganosiderite).\r\n\r\nTransparent crystals are cut into attractive faceted gems for collectors. Massive material is cut as cabochons.\r\n\r\nFine crystal specimens come from Bohemia, Cornwall (England), France, Germany, Switzerland. Amber-coloured gem-quality crystals of Siderite were recovered from Tsumeb copper mine, Northern Namibia.",
+  "PhysicalProperties": {
+    "MohsHardness": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 3.5,
+          "Max": 4.5
+        }
+      ]
+    },
+    "SpecificGravity": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 3.83,
+          "Max": 3.89
+        }
+      ]
+    },
+    "Tenacity": "Brittle",
+    "CleavageQuality": "Perfect",
+    "Fracture": "Uneven",
+    "HeatSensitivity": ""
+  },
+  "OpticalProperties": {
+    "RefractiveIndex": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 1.633,
+          "Max": 1.875
+        }
+      ]
+    },
+    "Birefringence": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 0.24,
+          "Max": 0.24
+        }
+      ]
+    },
+    "Pleochroism": "Nil",
+    "Dispersion": null
+  },
+  "ColourProperties": {
+    "General": "White, yellowish-white, yellow, brown",
+    "Daylight": "",
+    "ChelseaFilter": "",
+    "CausesOfColour": "",
+    "Transparency": "Transparent,Translucent,Opaque"
+  },
+  "FlouresenceProperties": {
+    "General": ""
+  },
+  "Crystallography": {
+    "CrystalSystem": "Trigonal",
+    "Habit": "Rhombohedral to steep scalenohedral"
+  },
+  "GeologicalEnvironment": {
+    "WhereFound": "Siderite occurs in sedimentary deposits and hydrothermal ore veins."
+  },
+  "Inclusions": {
+    "Inclusions": "Siderite occurs in sedimentary deposits and hydrothermal ore veins."
+  }
+}

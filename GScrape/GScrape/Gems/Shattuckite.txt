@@ -1,0 +1,70 @@
+{
+  "Name": "Shattuckite",
+  "Description": "Shattuckite is named after its discovery locality, at the Shattuck Arizona Copper Company mine, Bisbee, Coshise County, Arizona, USA.\r\n\r\nShattuckite forms translucent orthorhombic deep to medium aggregates of spherulitic blue masses. The material has strong pleochroism ranging from pale to deep blue.\r\n\r\nShattuckite has nice blue colour and takes a good polish. It yields attractive cabochons and carvings.",
+  "PhysicalProperties": {
+    "MohsHardness": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 3.5,
+          "Max": 4.0
+        }
+      ]
+    },
+    "SpecificGravity": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 3.8,
+          "Max": 4.15
+        }
+      ]
+    },
+    "Tenacity": "",
+    "CleavageQuality": "Perfect",
+    "Fracture": "Uneven",
+    "HeatSensitivity": ""
+  },
+  "OpticalProperties": {
+    "RefractiveIndex": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 1.752,
+          "Max": 1.815
+        }
+      ]
+    },
+    "Birefringence": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 0.063,
+          "Max": 0.063
+        }
+      ]
+    },
+    "Pleochroism": "Pleochroism is strong ranging from very pale to deep blue.",
+    "Dispersion": null
+  },
+  "ColourProperties": {
+    "General": "Blue",
+    "Daylight": "",
+    "ChelseaFilter": "",
+    "CausesOfColour": "Blue, Cu2+",
+    "Transparency": "Translucent,Opaque"
+  },
+  "FlouresenceProperties": {
+    "General": ""
+  },
+  "Crystallography": {
+    "CrystalSystem": "Orthorhombic",
+    "Habit": "Spherulitic masses"
+  },
+  "GeologicalEnvironment": {
+    "WhereFound": "Shattuckite occurs as a secondary mineral in oxidized copper deposits."
+  },
+  "Inclusions": {
+    "Inclusions": "Shattuckite occurs as a secondary mineral in oxidized copper deposits."
+  }
+}

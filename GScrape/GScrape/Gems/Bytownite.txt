@@ -1,0 +1,70 @@
+{
+  "Name": "Bytownite",
+  "Description": "A rare form of Feldspar, comprises 10-30% Albite and 70-90% Anorthite feldspar. Some of the stones have a distinct resemblance to Andalusite.",
+  "PhysicalProperties": {
+    "MohsHardness": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 6.0,
+          "Max": 6.5
+        }
+      ]
+    },
+    "SpecificGravity": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 2.72,
+          "Max": 2.75
+        }
+      ]
+    },
+    "Tenacity": "Brittle",
+    "CleavageQuality": "Perfect",
+    "Fracture": "Uneven,Conchoidal",
+    "HeatSensitivity": ""
+  },
+  "OpticalProperties": {
+    "RefractiveIndex": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 1.561,
+          "Max": 1.583
+        }
+      ]
+    },
+    "Birefringence": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 0.007,
+          "Max": 0.011
+        }
+      ]
+    },
+    "Pleochroism": "",
+    "Dispersion": null
+  },
+  "ColourProperties": {
+    "General": "Yellowish, reddish-brown, labradorescent",
+    "Daylight": "",
+    "ChelseaFilter": "",
+    "CausesOfColour": "",
+    "Transparency": "Transparent,Translucent"
+  },
+  "FlouresenceProperties": {
+    "General": ""
+  },
+  "Crystallography": {
+    "CrystalSystem": "Triclinic",
+    "Habit": ""
+  },
+  "GeologicalEnvironment": {
+    "WhereFound": "It is usually found as compact masses and grains in gabbros, norites, allivalites and anorthosites. It also forms from sodic metasomatism of metamorphic rocks. Often it occurs as part of compositionally zoned feldspars."
+  },
+  "Inclusions": {
+    "Inclusions": "It is usually found as compact masses and grains in gabbros, norites, allivalites and anorthosites. It also forms from sodic metasomatism of metamorphic rocks. Often it occurs as part of compositionally zoned feldspars."
+  }
+}

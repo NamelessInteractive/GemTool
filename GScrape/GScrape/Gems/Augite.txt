@@ -1,0 +1,62 @@
+{
+  "Name": "Augite",
+  "Description": "Augite is named from Greek \"auge\" - bright, referring to the appearance of its cleavage planes.\r\n\r\nAugite forms glassy crystals ranging in colour from purple and brown to black. Large lustrous crystals are not uncommon.",
+  "PhysicalProperties": {
+    "MohsHardness": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 5.5,
+          "Max": 6.0
+        }
+      ]
+    },
+    "SpecificGravity": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 3.19,
+          "Max": 3.56
+        }
+      ]
+    },
+    "Tenacity": "Brittle",
+    "CleavageQuality": "Good",
+    "Fracture": "Uneven,Conchoidal",
+    "HeatSensitivity": ""
+  },
+  "OpticalProperties": {
+    "RefractiveIndex": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 1.671,
+          "Max": 1.774
+        }
+      ]
+    },
+    "Birefringence": null,
+    "Pleochroism": "Pale green, pale brown, green, greenish yellow - pale brown, pale yellow-green, violet - pale green, grayish green, violet.",
+    "Dispersion": null
+  },
+  "ColourProperties": {
+    "General": "Black, brown, greenish, violet-brown; in thin section, colorless to gray; clear cores zoned to dark rims common, also oscillatory and sector zoning.",
+    "Daylight": "",
+    "ChelseaFilter": "",
+    "CausesOfColour": "",
+    "Transparency": "Transparent,Translucent,Opaque"
+  },
+  "FlouresenceProperties": {
+    "General": ""
+  },
+  "Crystallography": {
+    "CrystalSystem": "Monoclinic",
+    "Habit": "Stubby prismatic crystals, square or octagonal in section, to 10 cm; elongated, acicular, skeletal, dendritic. Exsolution lamellae and overgrowths common"
+  },
+  "GeologicalEnvironment": {
+    "WhereFound": "Essential in mafic igneous rocks, basalt, gabbro; common in ultramafic rocks; in some high-grade metamorphic rocks and metamorphosed iron formations."
+  },
+  "Inclusions": {
+    "Inclusions": "Essential in mafic igneous rocks, basalt, gabbro; common in ultramafic rocks; in some high-grade metamorphic rocks and metamorphosed iron formations."
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "Name": "Ekanite",
+  "Description": "Ekanite is named in 1961 after F.L.D. Ekanayake, discoverer of the mineral in 1953 in Sri Lanka. The material was dark, dull green, but when it was polished as cabochons it revealed a four-rayed star. The specimen was found to be metamict and radioactive.\r\n\r\nEkanite occurs in poorly formed prismatic crystals of straw-yellow colour when pure, sometimes dark red or brown colour, which is caused by inclusions. The largest crystals are 2 - 3 mm long and are tetragonal in symmetry.\r\n\r\nRadioactivity limits the use of Ekanite as a gemstone, all specimens should be stored with great care. Cut tones have weight to 25 carats.",
+  "PhysicalProperties": {
+    "MohsHardness": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 6.0,
+          "Max": 6.5
+        }
+      ]
+    },
+    "SpecificGravity": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 3.28,
+          "Max": 3.32
+        }
+      ]
+    },
+    "Tenacity": "",
+    "CleavageQuality": "Distinct",
+    "Fracture": "Uneven",
+    "HeatSensitivity": ""
+  },
+  "OpticalProperties": {
+    "RefractiveIndex": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 1.593,
+          "Max": 1.596
+        }
+      ]
+    },
+    "Birefringence": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 0.001,
+          "Max": 0.001
+        }
+      ]
+    },
+    "Pleochroism": "",
+    "Dispersion": null
+  },
+  "ColourProperties": {
+    "General": "Green, yellow-green, brownish",
+    "Daylight": "",
+    "ChelseaFilter": "",
+    "CausesOfColour": "",
+    "Transparency": "Transparent,Translucent"
+  },
+  "FlouresenceProperties": {
+    "General": ""
+  },
+  "Crystallography": {
+    "CrystalSystem": "Tetragonal",
+    "Habit": "Poorly formed prismatic crystals"
+  },
+  "GeologicalEnvironment": {
+    "WhereFound": "Skarn (?), placer deposits"
+  },
+  "Inclusions": {
+    "Inclusions": "Skarn (?), placer deposits"
+  }
+}

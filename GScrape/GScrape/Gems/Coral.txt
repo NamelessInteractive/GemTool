@@ -1,0 +1,70 @@
+{
+  "Name": "Coral",
+  "Description": "The word Coral is derived from the ancient Greek word \"korallion\" - coral. Historically, this word was used to describe the precious red coral from the Mediterranean.\r\n\r\nThe Coral is a branching skeleton-like structure built by polyp-bearing marine animals that live in colonies and are found throughout the world in the seas and oceans from freezing polar regions to equatorial reefs and at all depths. The branches are generally 20-40 cm in hight and up to 6 cm thick.",
+  "PhysicalProperties": {
+    "MohsHardness": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 3.0,
+          "Max": 4.0
+        }
+      ]
+    },
+    "SpecificGravity": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 2.6,
+          "Max": 2.7
+        }
+      ]
+    },
+    "Tenacity": "Brittle",
+    "CleavageQuality": "None",
+    "Fracture": "Irregular,Splintery",
+    "HeatSensitivity": ""
+  },
+  "OpticalProperties": {
+    "RefractiveIndex": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 1.486,
+          "Max": 1.658
+        }
+      ]
+    },
+    "Birefringence": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 0.16,
+          "Max": 0.172
+        }
+      ]
+    },
+    "Pleochroism": "Absent",
+    "Dispersion": null
+  },
+  "ColourProperties": {
+    "General": "Red, pink, white, orange, blue, brown",
+    "Daylight": "",
+    "ChelseaFilter": "",
+    "CausesOfColour": "",
+    "Transparency": "Translucent,Opaque"
+  },
+  "FlouresenceProperties": {
+    "General": "Dull purplish-red"
+  },
+  "Crystallography": {
+    "CrystalSystem": "Trigonal",
+    "Habit": "Distinctive wavy parallel fibrous structure"
+  },
+  "GeologicalEnvironment": {
+    "WhereFound": ""
+  },
+  "Inclusions": {
+    "Inclusions": "Dull purplish-red"
+  }
+}

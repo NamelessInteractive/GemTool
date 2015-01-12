@@ -1,0 +1,62 @@
+{
+  "Name": "Tiger's Eye",
+  "Description": "Tiger's eye is a variety of Quartz which exhibits a fascinating and constantly shifting light effect since the alternating silky gold and brown bands keep reversing their appearance with the slightest change in position of the light source or of the stone. This effect is caused by parallel intergrowth of Quartz crystals and altered amphibole fibres that mostly turned into limonite.\r\n\r\nTiger's eye was believed to be a Quartz pseudomorph after the blue asbestos known as crocidolite. The iron from the decomposed crocidolite has oxidized to a brown colour, keeping the fibrous structure. Recently Heaney and Fisher (2003) gave another interpretation of Tiger's eye origin: \".. we argue that tiger's-eye classically exemplifies synchronous mineral growth through a crack-seal vein-filling process.\"\r\n\r\nTiger's Eye is widely used as an ornamental and lapidary rock.",
+  "PhysicalProperties": {
+    "MohsHardness": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 6.5,
+          "Max": 7.0
+        }
+      ]
+    },
+    "SpecificGravity": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 2.58,
+          "Max": 2.64
+        }
+      ]
+    },
+    "Tenacity": "",
+    "CleavageQuality": "None",
+    "Fracture": "Conchoidal",
+    "HeatSensitivity": ""
+  },
+  "OpticalProperties": {
+    "RefractiveIndex": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 1.534,
+          "Max": 1.54
+        }
+      ]
+    },
+    "Birefringence": null,
+    "Pleochroism": "Absent",
+    "Dispersion": null
+  },
+  "ColourProperties": {
+    "General": "Gold-yellow, gold-brown",
+    "Daylight": "",
+    "ChelseaFilter": "",
+    "CausesOfColour": "",
+    "Transparency": "Opaque"
+  },
+  "FlouresenceProperties": {
+    "General": "None"
+  },
+  "Crystallography": {
+    "CrystalSystem": "Trigonal",
+    "Habit": "Fibrous aggregate"
+  },
+  "GeologicalEnvironment": {
+    "WhereFound": ""
+  },
+  "Inclusions": {
+    "Inclusions": "None"
+  }
+}

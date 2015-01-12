@@ -1,0 +1,54 @@
+{
+  "Name": "Cobaltite",
+  "Description": "Cobaltite is named after its cobalt content.\r\n\r\nCobaltite forms opaque silvery-white to reddish or greyish black pseudocubic or pseudopyritohedral crystals or granular masses.\r\n\r\nCobaltite is rarely faceted. Massive material is used for cabochons.",
+  "PhysicalProperties": {
+    "MohsHardness": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 5.5,
+          "Max": 5.5
+        }
+      ]
+    },
+    "SpecificGravity": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 6.3,
+          "Max": 6.3
+        }
+      ]
+    },
+    "Tenacity": "Brittle",
+    "CleavageQuality": "Perfect",
+    "Fracture": "Uneven",
+    "HeatSensitivity": ""
+  },
+  "OpticalProperties": {
+    "RefractiveIndex": null,
+    "Birefringence": null,
+    "Pleochroism": "Very weak, on grain boundaries",
+    "Dispersion": null
+  },
+  "ColourProperties": {
+    "General": "Silver to greyish black",
+    "Daylight": "",
+    "ChelseaFilter": "",
+    "CausesOfColour": "",
+    "Transparency": "Opaque"
+  },
+  "FlouresenceProperties": {
+    "General": ""
+  },
+  "Crystallography": {
+    "CrystalSystem": "Orthorhombic",
+    "Habit": "Pseudocubic or pseudopyritohedral"
+  },
+  "GeologicalEnvironment": {
+    "WhereFound": "In high-temperature hydrothermal deposits, as disseminations, and as veins in contact metamorphosed rocks."
+  },
+  "Inclusions": {
+    "Inclusions": "In high-temperature hydrothermal deposits, as disseminations, and as veins in contact metamorphosed rocks."
+  }
+}

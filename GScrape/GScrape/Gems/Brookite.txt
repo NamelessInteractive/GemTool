@@ -1,0 +1,70 @@
+{
+  "Name": "Brookite",
+  "Description": "Brookite is named after Henry James Brooke, English mineralogist.\r\n\r\nBrookite is yellowish brown to reddish brown with metallic adamantine lustre.\r\n\r\nBrookite is rarely faceted as a gemstone because it seldom occurs in sizes and shapes suitable for working.",
+  "PhysicalProperties": {
+    "MohsHardness": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 5.5,
+          "Max": 6.0
+        }
+      ]
+    },
+    "SpecificGravity": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 3.87,
+          "Max": 4.14
+        }
+      ]
+    },
+    "Tenacity": "",
+    "CleavageQuality": "Indistinct",
+    "Fracture": "Sub-Conchoidal",
+    "HeatSensitivity": ""
+  },
+  "OpticalProperties": {
+    "RefractiveIndex": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 2.583,
+          "Max": 2.741
+        }
+      ]
+    },
+    "Birefringence": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 0.117,
+          "Max": 0.158
+        }
+      ]
+    },
+    "Pleochroism": "Nil",
+    "Dispersion": null
+  },
+  "ColourProperties": {
+    "General": "Yellowish-brown, red-brown, black",
+    "Daylight": "",
+    "ChelseaFilter": "",
+    "CausesOfColour": "",
+    "Transparency": "Opaque"
+  },
+  "FlouresenceProperties": {
+    "General": ""
+  },
+  "Crystallography": {
+    "CrystalSystem": "Orthorhombic",
+    "Habit": "Varied habit"
+  },
+  "GeologicalEnvironment": {
+    "WhereFound": "Occurs in granite, porphyry, greiss, chlorite and mica schists."
+  },
+  "Inclusions": {
+    "Inclusions": "Occurs in granite, porphyry, greiss, chlorite and mica schists."
+  }
+}

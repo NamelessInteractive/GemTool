@@ -1,0 +1,70 @@
+{
+  "Name": "Rhodonite",
+  "Description": "The name Rhodonite derived from Greek \"rhodon\" - rose. It has dark red colour with black dendritic inclusions of manganese oxide.\r\n\r\nTransparent crystals are rare and seldom exceed 1g in weight but they can be cut as excellent gems.",
+  "PhysicalProperties": {
+    "MohsHardness": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 5.5,
+          "Max": 6.5
+        }
+      ]
+    },
+    "SpecificGravity": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 3.4,
+          "Max": 3.76
+        }
+      ]
+    },
+    "Tenacity": "",
+    "CleavageQuality": "Perfect",
+    "Fracture": "Conchoidal",
+    "HeatSensitivity": ""
+  },
+  "OpticalProperties": {
+    "RefractiveIndex": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 1.711,
+          "Max": 1.752
+        }
+      ]
+    },
+    "Birefringence": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 0.01,
+          "Max": 0.014
+        }
+      ]
+    },
+    "Pleochroism": "Distinct: yellowish-red - pinkish-red - yellowish-red",
+    "Dispersion": null
+  },
+  "ColourProperties": {
+    "General": "Red, gray-red - (opaque); red, orange-red (transparent)",
+    "Daylight": "",
+    "ChelseaFilter": "",
+    "CausesOfColour": "Pink, Mn2+ in octahedral coordination, with minor Fe2+. Mn3+ in octahedral coordination",
+    "Transparency": "Opaque"
+  },
+  "FlouresenceProperties": {
+    "General": "Inert"
+  },
+  "Crystallography": {
+    "CrystalSystem": "Triclinic",
+    "Habit": "Commonly tabular or cleavable masses."
+  },
+  "GeologicalEnvironment": {
+    "WhereFound": "Rhodonite occurs in manganese deposits formed by hydrothermal contact and regional metamorphism."
+  },
+  "Inclusions": {
+    "Inclusions": "Rhodonite occurs in manganese deposits formed by hydrothermal contact and regional metamorphism."
+  }
+}

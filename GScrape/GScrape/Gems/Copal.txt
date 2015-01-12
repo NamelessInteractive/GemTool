@@ -1,0 +1,62 @@
+{
+  "Name": "Copal",
+  "Description": "Copal is a solidified, volatile, rich plant resin, that can be colourless, yellow, brown or rarely reddish. It is a relatively recent fossil resin, which may have only tens or hundreds of years unlike Amber (millions years).\r\n\r\nCopal is frequently used as an imitation of Amber.\r\n\r\nKauri gum is a variety of Copal from New Zealand. Manila is the Copal from the Philippines and Indonesia. Dammar is a variety of Copal from Malaysia. Congo is a name for Copal from east and central Africa and Colombia where the Copal resin is sold as Colombian amber.",
+  "PhysicalProperties": {
+    "MohsHardness": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 2.0,
+          "Max": 3.0
+        }
+      ]
+    },
+    "SpecificGravity": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 1.05,
+          "Max": 1.1
+        }
+      ]
+    },
+    "Tenacity": "",
+    "CleavageQuality": "",
+    "Fracture": "",
+    "HeatSensitivity": ""
+  },
+  "OpticalProperties": {
+    "RefractiveIndex": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 1.539,
+          "Max": 1.545
+        }
+      ]
+    },
+    "Birefringence": null,
+    "Pleochroism": "",
+    "Dispersion": null
+  },
+  "ColourProperties": {
+    "General": "Yellow, white, red, green, blue, brown, black",
+    "Daylight": "",
+    "ChelseaFilter": "",
+    "CausesOfColour": "Charge transfer processes in large organic molecules",
+    "Transparency": "Transparent,Translucent,Opaque"
+  },
+  "FlouresenceProperties": {
+    "General": ""
+  },
+  "Crystallography": {
+    "CrystalSystem": "Amorphous",
+    "Habit": ""
+  },
+  "GeologicalEnvironment": {
+    "WhereFound": "Copal is a fossil resin that derived from various tropical angiosperms."
+  },
+  "Inclusions": {
+    "Inclusions": "Copal is a fossil resin that derived from various tropical angiosperms."
+  }
+}

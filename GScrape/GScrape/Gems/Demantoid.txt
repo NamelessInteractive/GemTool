@@ -1,0 +1,62 @@
+{
+  "Name": "Demantoid",
+  "Description": "Demantoid is the green gemstone variety of andradite, a member of the garnet group of minerals. It is the most valuable garnet (name means \"diamond-like luster).\r\n\r\nThe demantoid was discovered in 1868 in Russia's western central Ural Mountains.",
+  "PhysicalProperties": {
+    "MohsHardness": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 6.5,
+          "Max": 6.5
+        }
+      ]
+    },
+    "SpecificGravity": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 3.77,
+          "Max": 3.95
+        }
+      ]
+    },
+    "Tenacity": "",
+    "CleavageQuality": "",
+    "Fracture": "",
+    "HeatSensitivity": ""
+  },
+  "OpticalProperties": {
+    "RefractiveIndex": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 1.88,
+          "Max": 1.89
+        }
+      ]
+    },
+    "Birefringence": null,
+    "Pleochroism": "",
+    "Dispersion": null
+  },
+  "ColourProperties": {
+    "General": "Green, yellowish-green",
+    "Daylight": "",
+    "ChelseaFilter": "Inert to reddish",
+    "CausesOfColour": "Green, Cr3+ in octahedral coordination.",
+    "Transparency": "Transparent"
+  },
+  "FlouresenceProperties": {
+    "General": "Inert"
+  },
+  "Crystallography": {
+    "CrystalSystem": "Isometric",
+    "Habit": ""
+  },
+  "GeologicalEnvironment": {
+    "WhereFound": ""
+  },
+  "Inclusions": {
+    "Inclusions": "Inert"
+  }
+}

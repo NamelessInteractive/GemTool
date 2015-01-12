@@ -1,0 +1,62 @@
+{
+  "Name": "Chrysoprase",
+  "Description": "Chrysoprase is an attractive apple-green form of Chalcedony that is coloured by nickel. One of the most prized forms of Chalcedony.\r\n\r\nColour can fade in sunlight and when heated, colours may recover under moist storage.\r\n\r\nUsed as cabochons, for necklaces, and for ornamental objects. In earlier centuries, it was used as a luxurious decorative stone for interior decorations.",
+  "PhysicalProperties": {
+    "MohsHardness": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 6.5,
+          "Max": 7.0
+        }
+      ]
+    },
+    "SpecificGravity": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 2.58,
+          "Max": 2.64
+        }
+      ]
+    },
+    "Tenacity": "Brittle",
+    "CleavageQuality": "None",
+    "Fracture": "",
+    "HeatSensitivity": ""
+  },
+  "OpticalProperties": {
+    "RefractiveIndex": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 1.53,
+          "Max": 1.543
+        }
+      ]
+    },
+    "Birefringence": null,
+    "Pleochroism": "Absent",
+    "Dispersion": null
+  },
+  "ColourProperties": {
+    "General": "Colored by nickel: (yellowish)-green",
+    "Daylight": "",
+    "ChelseaFilter": "Greenish",
+    "CausesOfColour": "Green colour is caused by microscopic inclusions of silicates with Ni-bearing layers (willemseite, népouite, etc).",
+    "Transparency": "Translucent,Opaque"
+  },
+  "FlouresenceProperties": {
+    "General": "None"
+  },
+  "Crystallography": {
+    "CrystalSystem": "Trigonal",
+    "Habit": "Microcrystalline aggregates"
+  },
+  "GeologicalEnvironment": {
+    "WhereFound": "It occurs in quartz veins in nickel-bearing rocks or in veins in laterites overlying Ni-bearing serpentinites\r\n(Queensland) and associated with jadeite in veins in serpentinized gabbro and ultramafic inclusions (Lower Silesia.)"
+  },
+  "Inclusions": {
+    "Inclusions": "It occurs in quartz veins in nickel-bearing rocks or in veins in laterites overlying Ni-bearing serpentinites\r\n(Queensland) and associated with jadeite in veins in serpentinized gabbro and ultramafic inclusions (Lower Silesia.)"
+  }
+}

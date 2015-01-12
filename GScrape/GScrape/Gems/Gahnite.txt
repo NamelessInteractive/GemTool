@@ -1,0 +1,62 @@
+{
+  "Name": "Gahnite",
+  "Description": "Gahnite is named after J.G. Gahn, a Swedish chemist and mineralogist, who discovered the mineral. It was first described in 1807 for an occurrence in the Falu mine, Falun, Dalarna, Sweden.\r\n\r\nGahnite is a rare mineral belonging to the Spinel group. It has the same structure as Spinel but different chemistry (zinc).",
+  "PhysicalProperties": {
+    "MohsHardness": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 7.5,
+          "Max": 8.0
+        }
+      ]
+    },
+    "SpecificGravity": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 4.0,
+          "Max": 4.62
+        }
+      ]
+    },
+    "Tenacity": "",
+    "CleavageQuality": "",
+    "Fracture": "",
+    "HeatSensitivity": ""
+  },
+  "OpticalProperties": {
+    "RefractiveIndex": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 1.79,
+          "Max": 1.818
+        }
+      ]
+    },
+    "Birefringence": null,
+    "Pleochroism": "",
+    "Dispersion": null
+  },
+  "ColourProperties": {
+    "General": "Red-violet, different blue shades, green or blackish.",
+    "Daylight": "",
+    "ChelseaFilter": "",
+    "CausesOfColour": "Blue, Fe2+ in tetrahedral coordination",
+    "Transparency": "Transparent"
+  },
+  "FlouresenceProperties": {
+    "General": ""
+  },
+  "Crystallography": {
+    "CrystalSystem": "Isometric",
+    "Habit": "Octahedra"
+  },
+  "GeologicalEnvironment": {
+    "WhereFound": "Natural gahnite occurs as an accessory mineral in granites and granite pegmatites."
+  },
+  "Inclusions": {
+    "Inclusions": "Natural gahnite occurs as an accessory mineral in granites and granite pegmatites."
+  }
+}

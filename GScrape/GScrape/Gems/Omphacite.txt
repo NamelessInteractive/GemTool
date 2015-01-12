@@ -1,0 +1,62 @@
+{
+  "Name": "Omphacite",
+  "Description": "Omphacite is named from Greek \"omphaz\", an unripe grape, alluding to its characteristic green colour.\r\n\r\nOmphacite forms deep to pale green or nearly colourless prismatic crystals up to 5 cm or granular masses.",
+  "PhysicalProperties": {
+    "MohsHardness": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 5.0,
+          "Max": 6.0
+        }
+      ]
+    },
+    "SpecificGravity": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 3.16,
+          "Max": 3.43
+        }
+      ]
+    },
+    "Tenacity": "Brittle",
+    "CleavageQuality": "Good",
+    "Fracture": "Uneven,Conchoidal",
+    "HeatSensitivity": ""
+  },
+  "OpticalProperties": {
+    "RefractiveIndex": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 1.662,
+          "Max": 1.723
+        }
+      ]
+    },
+    "Birefringence": null,
+    "Pleochroism": "Weak: colorless -- very pale green -- very pale green, blue-green.",
+    "Dispersion": null
+  },
+  "ColourProperties": {
+    "General": "Green to dark green; colorless to pale green in thin section.",
+    "Daylight": "",
+    "ChelseaFilter": "",
+    "CausesOfColour": "",
+    "Transparency": "Translucent"
+  },
+  "FlouresenceProperties": {
+    "General": ""
+  },
+  "Crystallography": {
+    "CrystalSystem": "Monoclinic",
+    "Habit": "Rarely in rough crystals, to 5 cm; anhedral, granular to massive."
+  },
+  "GeologicalEnvironment": {
+    "WhereFound": "A major constituent of eclogite, commonly in kimberlite pipes; from some ophiolites and glaucophane-bearing blueschist facies rocks."
+  },
+  "Inclusions": {
+    "Inclusions": "A major constituent of eclogite, commonly in kimberlite pipes; from some ophiolites and glaucophane-bearing blueschist facies rocks."
+  }
+}

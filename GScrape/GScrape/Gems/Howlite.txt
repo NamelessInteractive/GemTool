@@ -1,0 +1,70 @@
+{
+  "Name": "Howlite",
+  "Description": "Howlite was discovered near Windsor, Nova Scotia in 1868 and named after Henry How, a Canadian chemist, geologist, and mineralogist.\r\n\r\nIt often forms in nodules which resemble cauliflower heads. The nodules are opaque, white with gray or black veins, often showing web-like pattern. Crystals are very rare and are found in only a couple localities in the world. The maximum size of crystals is about 1 cm.\r\n\r\nHowlite is used for cabochons, decorative objects, beads, small carvings or jewelry components. Dyed blue howlite is used as a turquoise substitute and is sometimes marketed as turquenite.",
+  "PhysicalProperties": {
+    "MohsHardness": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 3.0,
+          "Max": 3.5
+        }
+      ]
+    },
+    "SpecificGravity": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 2.45,
+          "Max": 2.58
+        }
+      ]
+    },
+    "Tenacity": "",
+    "CleavageQuality": "None",
+    "Fracture": "Uneven",
+    "HeatSensitivity": ""
+  },
+  "OpticalProperties": {
+    "RefractiveIndex": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 1.583,
+          "Max": 1.608
+        }
+      ]
+    },
+    "Birefringence": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 0.019,
+          "Max": 0.019
+        }
+      ]
+    },
+    "Pleochroism": "Nil",
+    "Dispersion": null
+  },
+  "ColourProperties": {
+    "General": "Natural color: white, commonly with gray to black \"spiderweb\" matrix.",
+    "Daylight": "",
+    "ChelseaFilter": "Dyed howlite: pink to red",
+    "CausesOfColour": "Blue, dyes exclusively",
+    "Transparency": "Opaque"
+  },
+  "FlouresenceProperties": {
+    "General": ""
+  },
+  "Crystallography": {
+    "CrystalSystem": "Monoclinic",
+    "Habit": "Tabular"
+  },
+  "GeologicalEnvironment": {
+    "WhereFound": "Howlite is found in borate deposits."
+  },
+  "Inclusions": {
+    "Inclusions": "Howlite is found in borate deposits."
+  }
+}

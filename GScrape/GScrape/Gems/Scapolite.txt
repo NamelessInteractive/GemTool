@@ -1,0 +1,78 @@
+{
+  "Name": "Scapolite",
+  "Description": "Scapolite is named after Greek word stick (in some sources \"shaft\") because of its square-section prismatic shape of the crystals.\r\n\r\nPink and violet Scapolite cat's eyes are known.\r\n\r\nIn mineralogy Scapolite refers to a group of related silicate minerals, including Meionite and Marialite. The name Wernerite is often given to Scapolite minerals intermediate between Meionite and Marialite.\r\n\r\nCut stones can reach several carats, yellow - to 70 carats and colourless - to several hundred carats.",
+  "PhysicalProperties": {
+    "MohsHardness": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 5.5,
+          "Max": 6.0
+        }
+      ]
+    },
+    "SpecificGravity": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 2.58,
+          "Max": 2.74
+        }
+      ]
+    },
+    "Tenacity": "Brittle",
+    "CleavageQuality": "Good",
+    "Fracture": "Conchoidal",
+    "HeatSensitivity": ""
+  },
+  "OpticalProperties": {
+    "RefractiveIndex": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 1.54,
+          "Max": 1.579
+        }
+      ]
+    },
+    "Birefringence": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 0.006,
+          "Max": 0.037
+        }
+      ]
+    },
+    "Pleochroism": "Pink stones - distinct: colorless - pink; Yellow stones - distinct: colorless-(yellowish) - yellow; Violet/purple - strong: violet-blue - dark blue",
+    "Dispersion": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 0.017,
+          "Max": 0.017
+        }
+      ]
+    }
+  },
+  "ColourProperties": {
+    "General": "Yellow, rose-pink, violet, colourless",
+    "Daylight": "",
+    "ChelseaFilter": "",
+    "CausesOfColour": "Various colors, color centers related to irradiation of Cl, CO23 or SO24 - groups present in the large voids of the crystal structure",
+    "Transparency": "Transparent"
+  },
+  "FlouresenceProperties": {
+    "General": "Pink: orange, pink; Yellow: violet, blue-red"
+  },
+  "Crystallography": {
+    "CrystalSystem": "Tetragonal",
+    "Habit": "Prismatic, usually with flat pyramidal terminations; masses are also known."
+  },
+  "GeologicalEnvironment": {
+    "WhereFound": "Occurs in regionally metamorphosed rocks, particularly in marbles."
+  },
+  "Inclusions": {
+    "Inclusions": "Occurs in regionally metamorphosed rocks, particularly in marbles."
+  }
+}

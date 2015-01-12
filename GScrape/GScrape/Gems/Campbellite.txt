@@ -1,0 +1,38 @@
+{
+  "Name": "Campbellite",
+  "Description": "Campbellite is named after its discovery locality at the Campbell Mine (Campbell Shaft), Bisbee, Warren District, Mule Mointains, Arizona, USA. This Mine was closed in 1975 and there is no other source of this material reported.\r\n\r\nCampbellite is a mixture of various minerals, including copper, cuprite, azurite, calcite, chrysocolla, malachite, pyrite, quartz, cohenite, graphite and possibly others.\r\n\r\nCampbellite yields very attractive, unique cabochons.",
+  "PhysicalProperties": {
+    "MohsHardness": null,
+    "SpecificGravity": null,
+    "Tenacity": "",
+    "CleavageQuality": "",
+    "Fracture": "",
+    "HeatSensitivity": ""
+  },
+  "OpticalProperties": {
+    "RefractiveIndex": null,
+    "Birefringence": null,
+    "Pleochroism": "",
+    "Dispersion": null
+  },
+  "ColourProperties": {
+    "General": "Varying mixture of colours",
+    "Daylight": "",
+    "ChelseaFilter": "",
+    "CausesOfColour": "",
+    "Transparency": ""
+  },
+  "FlouresenceProperties": {
+    "General": ""
+  },
+  "Crystallography": {
+    "CrystalSystem": "",
+    "Habit": ""
+  },
+  "GeologicalEnvironment": {
+    "WhereFound": "Occurs in the oxidized zones of copper deposits."
+  },
+  "Inclusions": {
+    "Inclusions": "Occurs in the oxidized zones of copper deposits."
+  }
+}

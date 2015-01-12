@@ -1,0 +1,78 @@
+{
+  "Name": "Zircon",
+  "Description": "Zircon has been known since antiquity, albeit under various names. Today's name is most likely derived from the Persian language (\"golden colored\"). Because of its high refractive index and strong dispersion, it has great brilliance and intensive fire.\r\n\r\nZircons with the highest values in optical properties are designated as high zirons, those with the lowest values as low zircons. In between are the medium zircons.",
+  "PhysicalProperties": {
+    "MohsHardness": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 7.5,
+          "Max": 7.5
+        }
+      ]
+    },
+    "SpecificGravity": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 3.93,
+          "Max": 4.73
+        }
+      ]
+    },
+    "Tenacity": "Brittle",
+    "CleavageQuality": "Indistinct",
+    "Fracture": "Conchoidal",
+    "HeatSensitivity": ""
+  },
+  "OpticalProperties": {
+    "RefractiveIndex": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 1.81,
+          "Max": 2.024
+        }
+      ]
+    },
+    "Birefringence": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 0.045,
+          "Max": 0.059
+        }
+      ]
+    },
+    "Pleochroism": "Red zircon - distinct: purplish-red - reddish-brown; Orange/brown zircon - weak: yellow-brown - red-brown; Yellow - weak: honey-yellow - brown-yellow; Blue - strong: colorless to gray - blue; Green - weak: brownish-green - green",
+    "Dispersion": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 0.039,
+          "Max": 0.039
+        }
+      ]
+    }
+  },
+  "ColourProperties": {
+    "General": "Colourless, blue, green, yellow-green, yellow, green-brown, brown, yellow-red, red",
+    "Daylight": "",
+    "ChelseaFilter": "Blue color: greenish; green color: may appear pinkish",
+    "CausesOfColour": "Blue, U4+. Red, Nb4+ color centers.",
+    "Transparency": "Transparent,Translucent"
+  },
+  "FlouresenceProperties": {
+    "General": "Blue: very weak - light orange. Red and brown: weak - dark yellow"
+  },
+  "Crystallography": {
+    "CrystalSystem": "Tetragonal",
+    "Habit": "Short, stocky 4-sided prisms with pyramidal ends"
+  },
+  "GeologicalEnvironment": {
+    "WhereFound": "Most gem zircon occurs as pebbles in gem gravels."
+  },
+  "Inclusions": {
+    "Inclusions": "Most gem zircon occurs as pebbles in gem gravels."
+  }
+}

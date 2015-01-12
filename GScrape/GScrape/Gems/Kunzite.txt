@@ -1,0 +1,78 @@
+{
+  "Name": "Kunzite",
+  "Description": "Kunzite is the pink to light purple gem variety of the mineral Spodumene.\r\n\r\nKunzite is named after the US mineralogist G.F.Kunz, who first described this gem in 1902.",
+  "PhysicalProperties": {
+    "MohsHardness": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 6.0,
+          "Max": 7.0
+        }
+      ]
+    },
+    "SpecificGravity": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 3.15,
+          "Max": 3.21
+        }
+      ]
+    },
+    "Tenacity": "Brittle",
+    "CleavageQuality": "Perfect",
+    "Fracture": "Uneven",
+    "HeatSensitivity": ""
+  },
+  "OpticalProperties": {
+    "RefractiveIndex": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 1.657,
+          "Max": 1.681
+        }
+      ]
+    },
+    "Birefringence": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 0.014,
+          "Max": 0.016
+        }
+      ]
+    },
+    "Pleochroism": "Strong trichroism: colorless - pink - violet",
+    "Dispersion": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 0.017,
+          "Max": 0.017
+        }
+      ]
+    }
+  },
+  "ColourProperties": {
+    "General": "Pink, violet-pink",
+    "Daylight": "",
+    "ChelseaFilter": "",
+    "CausesOfColour": "Coloring agent is manganese.",
+    "Transparency": "Transparent"
+  },
+  "FlouresenceProperties": {
+    "General": "Moderate to strong pink to orange (weaker to SW)"
+  },
+  "Crystallography": {
+    "CrystalSystem": "Monoclinic",
+    "Habit": "Prismatic, tabular"
+  },
+  "GeologicalEnvironment": {
+    "WhereFound": "Deposits occur in granite pegmatite."
+  },
+  "Inclusions": {
+    "Inclusions": "Deposits occur in granite pegmatite."
+  }
+}

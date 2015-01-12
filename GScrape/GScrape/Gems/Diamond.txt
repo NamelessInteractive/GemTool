@@ -1,0 +1,70 @@
+{
+  "Name": "Diamond",
+  "Description": "A diamond (from the ancient Greek adámas, meaning \"unbreakable,\" \"proper,\" or \"unalterable\") is one of the best-known and most sought-after gemstones. Diamonds have been known to humankind and used as decorative items since ancient times; some of the earliest references can be traced to India.\r\n\r\nThe hardness of diamond and its high dispersion of light – giving the diamond its characteristic \"fire\" – make it useful for industrial applications and desirable as jewellery.\r\n\r\nPerhaps the most famous use of the diamond in jewellery is in engagement rings, which became popular in the early to mid 20th century due to an advertising campaign by the De Beers company, though diamond rings have been used to symbolize engagements since at least the 15th century.",
+  "PhysicalProperties": {
+    "MohsHardness": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 10.0,
+          "Max": 10.0
+        }
+      ]
+    },
+    "SpecificGravity": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 3.5,
+          "Max": 3.53
+        }
+      ]
+    },
+    "Tenacity": "",
+    "CleavageQuality": "Perfect",
+    "Fracture": "Conchoidal,Splintery",
+    "HeatSensitivity": "High temperatures can induce etchings on the facets. Therefore special care must be taken during soldering!"
+  },
+  "OpticalProperties": {
+    "RefractiveIndex": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 2.417,
+          "Max": 2.419
+        }
+      ]
+    },
+    "Birefringence": null,
+    "Pleochroism": "None",
+    "Dispersion": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 0.044,
+          "Max": 0.044
+        }
+      ]
+    }
+  },
+  "ColourProperties": {
+    "General": "Colorless, yellow, brown, rarely green, blue, reddish, orange black",
+    "Daylight": "",
+    "ChelseaFilter": "",
+    "CausesOfColour": "",
+    "Transparency": "Transparent,Translucent,Opaque"
+  },
+  "FlouresenceProperties": {
+    "General": "Very variable: Colorless and yellow: mostly blue; Brownish and greenish: often green"
+  },
+  "Crystallography": {
+    "CrystalSystem": "Isometric",
+    "Habit": "Mainly octahedrons, also cubes, rhombic dodecahedrons, twins, plates."
+  },
+  "GeologicalEnvironment": {
+    "WhereFound": "It is known to be the product of the deep-seated crystallization of ultrabasic igneous magmas which have intruded as dikes or pipes of kimberlite or lamproite"
+  },
+  "Inclusions": {
+    "Inclusions": "It is known to be the product of the deep-seated crystallization of ultrabasic igneous magmas which have intruded as dikes or pipes of kimberlite or lamproite"
+  }
+}

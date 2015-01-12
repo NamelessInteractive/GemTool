@@ -1,0 +1,70 @@
+{
+  "Name": "Zincite",
+  "Description": "Zincite, in the gem world, is primarily a man-made material, being produced by zinc smelters in Poland as a by-product of zinc metal extraction from ore. The crystals are said to have formed in furnace smoke stacks, and come to market occasionally when these smoke stacks are cleaned or maintained.\r\n\r\nZincite is also known as a natural mineral (in particular, fine specimens have been found at the Franklin/Sterling Hill deposit in New Jersey), but these are generally not gem quality, although they are occasionally cut as opaque orange-red to very dark red cabochons, which can reach 295 carats or more in weight. (Keep in mind that the high density means that gems will be smaller size than one would expect from the carat weight.)\r\n\r\nThe name is derived from its zinc content.",
+  "PhysicalProperties": {
+    "MohsHardness": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 4.0,
+          "Max": 4.0
+        }
+      ]
+    },
+    "SpecificGravity": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 5.5,
+          "Max": 5.9
+        }
+      ]
+    },
+    "Tenacity": "Brittle",
+    "CleavageQuality": "Perfect",
+    "Fracture": "Sub-Conchoidal",
+    "HeatSensitivity": ""
+  },
+  "OpticalProperties": {
+    "RefractiveIndex": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 2.013,
+          "Max": 2.029
+        }
+      ]
+    },
+    "Birefringence": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 0.016,
+          "Max": 0.016
+        }
+      ]
+    },
+    "Pleochroism": "Very weak, in two tones of body colour",
+    "Dispersion": null
+  },
+  "ColourProperties": {
+    "General": "Medium-light yellow, medium orange, medium-dark reddish-orange",
+    "Daylight": "",
+    "ChelseaFilter": "Yellow stone: no reaction (appears yellowish-green). Orange stone: weak pink. Reddish-orange stone: moderate red",
+    "CausesOfColour": "",
+    "Transparency": "Transparent"
+  },
+  "FlouresenceProperties": {
+    "General": "LW > SW; both universely propotional to depth of body colour"
+  },
+  "Crystallography": {
+    "CrystalSystem": "Hexagonal",
+    "Habit": "Usually massive, foliated; also compact granular, and in rounded irregular masses."
+  },
+  "GeologicalEnvironment": {
+    "WhereFound": "Occurs as a primary mineral in metamorphosed stratiform zinc ore bodies."
+  },
+  "Inclusions": {
+    "Inclusions": "Occurs as a primary mineral in metamorphosed stratiform zinc ore bodies."
+  }
+}

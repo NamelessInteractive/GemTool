@@ -1,0 +1,62 @@
+{
+  "Name": "Clinochlore",
+  "Description": "Clinochlore is named from Greek \"klinein\" - to incline, plus \"klan\" - to break, referring to its oblique basal cleavage.\r\n\r\nClinochlore forms green, yellowish, red, rose-red tabular or prismatic crystals. May also be massive, radiating, and globular masses of dense flakes.\r\n\r\nClinochlore yields attractive cabochons.",
+  "PhysicalProperties": {
+    "MohsHardness": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 2.0,
+          "Max": 2.5
+        }
+      ]
+    },
+    "SpecificGravity": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 2.6,
+          "Max": 3.02
+        }
+      ]
+    },
+    "Tenacity": "Flexible",
+    "CleavageQuality": "Perfect",
+    "Fracture": "",
+    "HeatSensitivity": ""
+  },
+  "OpticalProperties": {
+    "RefractiveIndex": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 1.571,
+          "Max": 1.597
+        }
+      ]
+    },
+    "Birefringence": null,
+    "Pleochroism": "Distinct: light yellow-green to light blue-green - light greenish yellow to light blue-green.",
+    "Dispersion": null
+  },
+  "ColourProperties": {
+    "General": "Grass-green, olive-green, yellowish, white; pink, rose-red; colorless to pale green or yellow in thin section.",
+    "Daylight": "",
+    "ChelseaFilter": "",
+    "CausesOfColour": "",
+    "Transparency": "Transparent,Translucent"
+  },
+  "FlouresenceProperties": {
+    "General": ""
+  },
+  "Crystallography": {
+    "CrystalSystem": "Monoclinic",
+    "Habit": "In thin to thick pseudohexagonal crystals, with tapering pyramidal faces, to 10 cm. Commonly foliated, fibrous, granular, earthy, massive."
+  },
+  "GeologicalEnvironment": {
+    "WhereFound": "A hydrothermal alteration product of amphiboles, pyroxenes, biotite. In chlorite schists, serpentinites, marbles, calc-silicate rocks, amphibolites, less commonly in ultramafic rocks. In ore veins; a detrital component of sediments."
+  },
+  "Inclusions": {
+    "Inclusions": "A hydrothermal alteration product of amphiboles, pyroxenes, biotite. In chlorite schists, serpentinites, marbles, calc-silicate rocks, amphibolites, less commonly in ultramafic rocks. In ore veins; a detrital component of sediments."
+  }
+}

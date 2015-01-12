@@ -1,0 +1,62 @@
+{
+  "Name": "Norbergite",
+  "Description": "Norbergite is named after its discovery locality at Norberg, Sweden.\r\n\r\nNorbergite forms translucent to opaque, tan, yellow, yellow-orange, orange-brown, pink with purplish tint, white granular masses. Transparent crystals are very rare.\r\n\r\nNorbergite is often cut into cabochons.",
+  "PhysicalProperties": {
+    "MohsHardness": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 6.0,
+          "Max": 6.5
+        }
+      ]
+    },
+    "SpecificGravity": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 3.177,
+          "Max": 3.177
+        }
+      ]
+    },
+    "Tenacity": "Brittle",
+    "CleavageQuality": "",
+    "Fracture": "Uneven,Sub-Conchoidal",
+    "HeatSensitivity": ""
+  },
+  "OpticalProperties": {
+    "RefractiveIndex": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 1.563,
+          "Max": 1.593
+        }
+      ]
+    },
+    "Birefringence": null,
+    "Pleochroism": "Pale yellow - very pale yellow - colorless",
+    "Dispersion": null
+  },
+  "ColourProperties": {
+    "General": "Tan, yellow, yellow-orange, orange-brown, pink with purplish tint, white; in thin section, pale yellow to colorless",
+    "Daylight": "",
+    "ChelseaFilter": "",
+    "CausesOfColour": "",
+    "Transparency": "Transparent,Translucent"
+  },
+  "FlouresenceProperties": {
+    "General": ""
+  },
+  "Crystallography": {
+    "CrystalSystem": "Orthorhombic",
+    "Habit": "Crystals rare, to 2.5 cm, thick tabular, typically rounded and highly modified; granular."
+  },
+  "GeologicalEnvironment": {
+    "WhereFound": "In contact metamorphic zones in limestones and dolostones into which plutonic rocks or pegmatites have introduced fluorine."
+  },
+  "Inclusions": {
+    "Inclusions": "In contact metamorphic zones in limestones and dolostones into which plutonic rocks or pegmatites have introduced fluorine."
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "Name": "Eosphorite",
+  "Description": "Eosphorite is named from Greek \"eosphoros\" - dawn breaking, referring to the pink colour of the first specimens studied, which were found at Branchville, Fairfield County, Connecticut, USA.\r\n\r\nEosphorite forms yellowish brown, pink and sometimes colourless crystals. The crystals are monoclinic, but often show pseudo–orthorhombic forms due to twinning.\r\n\r\nAttractive transparent pinkish orange crystals have been faceted.",
+  "PhysicalProperties": {
+    "MohsHardness": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 5.0,
+          "Max": 5.0
+        }
+      ]
+    },
+    "SpecificGravity": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 3.05,
+          "Max": 3.08
+        }
+      ]
+    },
+    "Tenacity": "",
+    "CleavageQuality": "",
+    "Fracture": "",
+    "HeatSensitivity": ""
+  },
+  "OpticalProperties": {
+    "RefractiveIndex": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 1.639,
+          "Max": 1.672
+        }
+      ]
+    },
+    "Birefringence": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 0.025,
+          "Max": 0.03
+        }
+      ]
+    },
+    "Pleochroism": "",
+    "Dispersion": null
+  },
+  "ColourProperties": {
+    "General": "Colourless, yellow, yellowish-brown, pink",
+    "Daylight": "",
+    "ChelseaFilter": "",
+    "CausesOfColour": "",
+    "Transparency": "Transparent,Translucent"
+  },
+  "FlouresenceProperties": {
+    "General": ""
+  },
+  "Crystallography": {
+    "CrystalSystem": "Monoclinic",
+    "Habit": "Pseudo-orthorhombic"
+  },
+  "GeologicalEnvironment": {
+    "WhereFound": "Eosphorite occurs in granite pegmatites in association with Mn phosphates."
+  },
+  "Inclusions": {
+    "Inclusions": "Eosphorite occurs in granite pegmatites in association with Mn phosphates."
+  }
+}

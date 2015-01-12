@@ -1,0 +1,70 @@
+{
+  "Name": "Gaspéite",
+  "Description": "Gaspéite is named after its discovery locality, on the Gaspé Peninsula, Lemieux Township, Gaspé-ouest County, Quebec, Canada.\r\n\r\nGaspéite occurs in translucent bright grass-green to olive- or yellowish green nodular concretions or as aggregates of rhombic crystals.\r\n\r\nGaspéite is carved into sculptures and objects d'art. It is cut into cabochons and mounted in jewelry.",
+  "PhysicalProperties": {
+    "MohsHardness": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 4.5,
+          "Max": 5.0
+        }
+      ]
+    },
+    "SpecificGravity": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 3.21,
+          "Max": 3.21
+        }
+      ]
+    },
+    "Tenacity": "",
+    "CleavageQuality": "Perfect",
+    "Fracture": "Uneven",
+    "HeatSensitivity": ""
+  },
+  "OpticalProperties": {
+    "RefractiveIndex": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 1.61,
+          "Max": 1.83
+        }
+      ]
+    },
+    "Birefringence": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 0.22,
+          "Max": 0.22
+        }
+      ]
+    },
+    "Pleochroism": "Nil",
+    "Dispersion": null
+  },
+  "ColourProperties": {
+    "General": "Yellowish-green, green",
+    "Daylight": "",
+    "ChelseaFilter": "",
+    "CausesOfColour": "",
+    "Transparency": "Translucent"
+  },
+  "FlouresenceProperties": {
+    "General": ""
+  },
+  "Crystallography": {
+    "CrystalSystem": "Trigonal",
+    "Habit": "Nodular concretions or as aggregates of rhombic crystals"
+  },
+  "GeologicalEnvironment": {
+    "WhereFound": "Gaspéite is uncommon, occurring as a secondary mineral in a Ni-sulphide vein in metamorphosed siliceous dolostone"
+  },
+  "Inclusions": {
+    "Inclusions": "Gaspéite is uncommon, occurring as a secondary mineral in a Ni-sulphide vein in metamorphosed siliceous dolostone"
+  }
+}

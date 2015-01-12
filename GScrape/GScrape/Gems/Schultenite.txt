@@ -1,0 +1,62 @@
+{
+  "Name": "Schultenite",
+  "Description": "Schultenite is named after August Benjamin de Schulten, Professor of Chemistry,\r\nUniversity of Helsinki, Finland, who synthesized the compound before its discovery in nature.\r\n\r\nSchultenite forms colourless, pale yellow, white tabular, flattened, striated crystals with vitreous to adamantine lustre.",
+  "PhysicalProperties": {
+    "MohsHardness": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 2.5,
+          "Max": 2.5
+        }
+      ]
+    },
+    "SpecificGravity": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 5.943,
+          "Max": 6.07
+        }
+      ]
+    },
+    "Tenacity": "Brittle",
+    "CleavageQuality": "Good",
+    "Fracture": "",
+    "HeatSensitivity": ""
+  },
+  "OpticalProperties": {
+    "RefractiveIndex": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 1.89,
+          "Max": 1.976
+        }
+      ]
+    },
+    "Birefringence": null,
+    "Pleochroism": "",
+    "Dispersion": null
+  },
+  "ColourProperties": {
+    "General": "Colourless to white.",
+    "Daylight": "",
+    "ChelseaFilter": "",
+    "CausesOfColour": "",
+    "Transparency": "Transparent"
+  },
+  "FlouresenceProperties": {
+    "General": ""
+  },
+  "Crystallography": {
+    "CrystalSystem": "Monoclinic",
+    "Habit": "Crystals are flattened, striated, rarely to 17.5 cm."
+  },
+  "GeologicalEnvironment": {
+    "WhereFound": "A rare secondary mineral in the oxidized zone of Pb–As-rich hydrothermal\r\ndeposits."
+  },
+  "Inclusions": {
+    "Inclusions": "A rare secondary mineral in the oxidized zone of Pb–As-rich hydrothermal\r\ndeposits."
+  }
+}

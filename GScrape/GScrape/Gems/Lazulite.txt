@@ -1,0 +1,78 @@
+{
+  "Name": "Lazulite",
+  "Description": "Lazulite was first described in 1795 for deposits in Styria, Austria. Its name comes from the German lazurstein - blue stone; or from the Arabic - heaven, because of its blue colour.\r\n\r\nLazulite is sometimes confused with 2 better known and more common minerals: lazurite and azurite. Lazulite frequently appears as euhedral crystals rather than in massive form.",
+  "PhysicalProperties": {
+    "MohsHardness": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 5.5,
+          "Max": 5.5
+        }
+      ]
+    },
+    "SpecificGravity": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 3.04,
+          "Max": 3.17
+        }
+      ]
+    },
+    "Tenacity": "Brittle",
+    "CleavageQuality": "Indistinct",
+    "Fracture": "Uneven,Splintery",
+    "HeatSensitivity": ""
+  },
+  "OpticalProperties": {
+    "RefractiveIndex": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 1.604,
+          "Max": 1.646
+        }
+      ]
+    },
+    "Birefringence": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 0.031,
+          "Max": 0.036
+        }
+      ]
+    },
+    "Pleochroism": "Transparent crystals show a strong pleochroism: colorless - light blue - dark (violet) blue",
+    "Dispersion": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 0.014,
+          "Max": 0.014
+        }
+      ]
+    }
+  },
+  "ColourProperties": {
+    "General": "Dark blue to blue-white, green-blue",
+    "Daylight": "",
+    "ChelseaFilter": "",
+    "CausesOfColour": "Blue, Fe2+-O-Fe3+ charge transfer",
+    "Transparency": "Transparent,Translucent,Opaque"
+  },
+  "FlouresenceProperties": {
+    "General": "None"
+  },
+  "Crystallography": {
+    "CrystalSystem": "Monoclinic",
+    "Habit": "Stubby to acute dipyramidal crystals"
+  },
+  "GeologicalEnvironment": {
+    "WhereFound": "Occurs in granite pegmatites and in quartzites"
+  },
+  "Inclusions": {
+    "Inclusions": "Occurs in granite pegmatites and in quartzites"
+  }
+}

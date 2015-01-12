@@ -1,0 +1,62 @@
+{
+  "Name": "Lizardite",
+  "Description": "Lizardite is named after its discovery locality, in Kennack Cove, The Lizard, Cornwall, England.\r\n\r\nLizardite is the most common serpentine species. It forms extremely fine-grained scales and massive aggregates, very rarely crystals up to 2 mm of green, light yellow to white, colorless to pale green colour.\r\n\r\nLizardite is used for ornamental carvings.",
+  "PhysicalProperties": {
+    "MohsHardness": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 2.5,
+          "Max": 0.0
+        }
+      ]
+    },
+    "SpecificGravity": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 2.55,
+          "Max": 2.55
+        }
+      ]
+    },
+    "Tenacity": "",
+    "CleavageQuality": "Perfect",
+    "Fracture": "",
+    "HeatSensitivity": ""
+  },
+  "OpticalProperties": {
+    "RefractiveIndex": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 1.538,
+          "Max": 1.56
+        }
+      ]
+    },
+    "Birefringence": null,
+    "Pleochroism": "",
+    "Dispersion": null
+  },
+  "ColourProperties": {
+    "General": "Green, light yellow to white; colorless to pale green in thin section.",
+    "Daylight": "",
+    "ChelseaFilter": "",
+    "CausesOfColour": "",
+    "Transparency": "Translucent"
+  },
+  "FlouresenceProperties": {
+    "General": ""
+  },
+  "Crystallography": {
+    "CrystalSystem": "Hexagonal",
+    "Habit": "Crystals rare, to 2 mm, as trigonal plates to truncated trigonal pyramids. Commonly as extremely fine-grained scales and massive aggregates."
+  },
+  "GeologicalEnvironment": {
+    "WhereFound": "Typically a product of retrograde metamorphism, replacing olivine, orthopyroxene, or other minerals in ultramafic igneous rocks."
+  },
+  "Inclusions": {
+    "Inclusions": "Typically a product of retrograde metamorphism, replacing olivine, orthopyroxene, or other minerals in ultramafic igneous rocks."
+  }
+}

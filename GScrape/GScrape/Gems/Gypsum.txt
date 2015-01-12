@@ -1,0 +1,70 @@
+{
+  "Name": "Gypsum",
+  "Description": "Gypsum is named from Greek \"gypsos\" - plaster, alluding to its practical use. It has been known from antiquity.\r\n\r\nGypsum is a very common mineral in sedimentary environments. It is found as massive material (Alabaster), clear crystals (Selenite) and parallel fibrous variety (Satin spar).\r\n\r\nGypsum is very soft and very difficult to facet because of its perfect cleavage, therefore faceted stones are quite rare.",
+  "PhysicalProperties": {
+    "MohsHardness": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 2.0,
+          "Max": 2.0
+        }
+      ]
+    },
+    "SpecificGravity": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 2.2,
+          "Max": 2.4
+        }
+      ]
+    },
+    "Tenacity": "",
+    "CleavageQuality": "Perfect",
+    "Fracture": "Uneven",
+    "HeatSensitivity": "Very sensitive"
+  },
+  "OpticalProperties": {
+    "RefractiveIndex": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 1.521,
+          "Max": 1.531
+        }
+      ]
+    },
+    "Birefringence": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 0.01,
+          "Max": 0.01
+        }
+      ]
+    },
+    "Pleochroism": "Nil",
+    "Dispersion": null
+  },
+  "ColourProperties": {
+    "General": "White, yellowish, colourless, pink, bluish.",
+    "Daylight": "",
+    "ChelseaFilter": "",
+    "CausesOfColour": "",
+    "Transparency": "Transparent,Translucent,Opaque"
+  },
+  "FlouresenceProperties": {
+    "General": ""
+  },
+  "Crystallography": {
+    "CrystalSystem": "Monoclinic",
+    "Habit": "Tabular"
+  },
+  "GeologicalEnvironment": {
+    "WhereFound": ""
+  },
+  "Inclusions": {
+    "Inclusions": "White, yellowish, colourless, pink, bluish."
+  }
+}

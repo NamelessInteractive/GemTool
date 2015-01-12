@@ -1,0 +1,78 @@
+{
+  "Name": "Corundum",
+  "Description": "The name \"corundum\" is derived from the Tamil word \"kuruntam\" meaning \"ruby\".\r\n\r\nCorundum is called Ruby if red and Padparadscha if pink-orange. All other colours are called Sapphire.\r\n\r\nHigh-quality ruby and sapphire have always been among the most expensive gems and are used in the most prestigious adornments.",
+  "PhysicalProperties": {
+    "MohsHardness": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 9.0,
+          "Max": 9.0
+        }
+      ]
+    },
+    "SpecificGravity": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 3.9,
+          "Max": 4.05
+        }
+      ]
+    },
+    "Tenacity": "",
+    "CleavageQuality": "None",
+    "Fracture": "Uneven,Conchoidal",
+    "HeatSensitivity": ""
+  },
+  "OpticalProperties": {
+    "RefractiveIndex": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 1.758,
+          "Max": 1.78
+        }
+      ]
+    },
+    "Birefringence": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 0.007,
+          "Max": 0.01
+        }
+      ]
+    },
+    "Pleochroism": "Dichroism: blue - violet-blue and greenish-blue; green - yellowish-green; yellow - pale yellow; purple - violet; orange, yellowish-red - deep crimson.",
+    "Dispersion": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 0.018,
+          "Max": 0.018
+        }
+      ]
+    }
+  },
+  "ColourProperties": {
+    "General": "All colours",
+    "Daylight": "",
+    "ChelseaFilter": "",
+    "CausesOfColour": "Purple, Fe2+-O-Ti4+ charge transfer coexisting with Cr3+ in octahedral coordination. Blue, Fe2+-O-Ti4+ charge transfer with influence of Fe2+→Fe3+ charge transfer. Green, Fe3+ in octahedral coordination coexisting with Fe2+→Ti4+ charge transfer, Ti3+ and Cr3+ in octahedral coordination. Yellow, O2-→Fe3+ charge transfer; Fe3+ and Ti3+, a variety of unstable color centers of unknown structure; Fe3+ pairs. Orange to orange-brown Cr3+ in octahedral coordination and color centers; with a contribution of Fe3+. Orangy pink (\"padparadscha\"), Cr3+ in octahedral coordination and color centers, Cr4+ in octahedral coordination due to Cr4+ and Mg2+ substituting for Al3+ in the crystal structure. Red (ruby), Cr3+ in octahedral coordination with minor contributions of V3+ and Fe3+ in octahedral coordination. Pink, Cr3+ in octahedral coordination. Color-change, Cr3+ and/or V3+ in octahedral coordination in a particular range of concentration",
+    "Transparency": "Transparent,Translucent,Opaque"
+  },
+  "FlouresenceProperties": {
+    "General": ""
+  },
+  "Crystallography": {
+    "CrystalSystem": "Trigonal",
+    "Habit": "Tabular, barrel-shaped"
+  },
+  "GeologicalEnvironment": {
+    "WhereFound": "Found in granular limestone, gneiss, mica or chlorite schists."
+  },
+  "Inclusions": {
+    "Inclusions": "Found in granular limestone, gneiss, mica or chlorite schists."
+  }
+}

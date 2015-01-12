@@ -1,0 +1,62 @@
+{
+  "Name": "Clinohedrite",
+  "Description": "Clinohedrite is named after Greek \"klinein\" - to incline plus \"hedra\" - base, because it was considered to be a kind of tetrahedrite showing an aberrant form.\r\n\r\nClinohedrite forms colourless, white to pale amethystine colour crystals with a brilliant lustre. Exhibits a rich orange colour under short wave ultraviolet light.",
+  "PhysicalProperties": {
+    "MohsHardness": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 5.5,
+          "Max": 0.0
+        }
+      ]
+    },
+    "SpecificGravity": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 3.28,
+          "Max": 3.335
+        }
+      ]
+    },
+    "Tenacity": "",
+    "CleavageQuality": "Perfect",
+    "Fracture": "",
+    "HeatSensitivity": ""
+  },
+  "OpticalProperties": {
+    "RefractiveIndex": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 1.662,
+          "Max": 1.669
+        }
+      ]
+    },
+    "Birefringence": null,
+    "Pleochroism": "",
+    "Dispersion": null
+  },
+  "ColourProperties": {
+    "General": "Amethystine, colorless to white",
+    "Daylight": "",
+    "ChelseaFilter": "",
+    "CausesOfColour": "",
+    "Transparency": "Transparent,Translucent"
+  },
+  "FlouresenceProperties": {
+    "General": ""
+  },
+  "Crystallography": {
+    "CrystalSystem": "Monoclinic",
+    "Habit": "Crystals typically prismatic or tabular, to 4 mm; may be wedge-shaped reflecting the domatic class in which the species crystallizes."
+  },
+  "GeologicalEnvironment": {
+    "WhereFound": "In a metamorphosed stratiform zinc orebody (Franklin, New Jersey, USA)."
+  },
+  "Inclusions": {
+    "Inclusions": "In a metamorphosed stratiform zinc orebody (Franklin, New Jersey, USA)."
+  }
+}

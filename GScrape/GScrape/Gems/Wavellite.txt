@@ -1,0 +1,70 @@
+{
+  "Name": "Wavellite",
+  "Description": "Wavellite is named after William Wavell, physician in Horwood Parish, Devonshire, England, who discovered the mineral.\r\n\r\nWavellite forms translucent to transparent black, brown, yellowish green to green, white to greenish white, yellow very small crystals and larger characteristic radial aggregates.\r\n\r\nWavellite is cut into attractive cabochons, slabs and other ornamental pieces.",
+  "PhysicalProperties": {
+    "MohsHardness": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 3.5,
+          "Max": 4.0
+        }
+      ]
+    },
+    "SpecificGravity": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 2.36,
+          "Max": 2.36
+        }
+      ]
+    },
+    "Tenacity": "Brittle",
+    "CleavageQuality": "Perfect",
+    "Fracture": "Uneven",
+    "HeatSensitivity": ""
+  },
+  "OpticalProperties": {
+    "RefractiveIndex": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 1.518,
+          "Max": 1.561
+        }
+      ]
+    },
+    "Birefringence": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 0.025,
+          "Max": 0.025
+        }
+      ]
+    },
+    "Pleochroism": "Nil",
+    "Dispersion": null
+  },
+  "ColourProperties": {
+    "General": "White to greenish white, yellowish green\r\nto green to brown or black",
+    "Daylight": "",
+    "ChelseaFilter": "",
+    "CausesOfColour": "",
+    "Transparency": "Translucent"
+  },
+  "FlouresenceProperties": {
+    "General": ""
+  },
+  "Crystallography": {
+    "CrystalSystem": "Orthorhombic",
+    "Habit": "Very small crystals and larger characteristic radial aggregates"
+  },
+  "GeologicalEnvironment": {
+    "WhereFound": "Wavellite occurs as a secondary mineral in low-grade metamorphic rocks and phosphate deposits."
+  },
+  "Inclusions": {
+    "Inclusions": "Wavellite occurs as a secondary mineral in low-grade metamorphic rocks and phosphate deposits."
+  }
+}

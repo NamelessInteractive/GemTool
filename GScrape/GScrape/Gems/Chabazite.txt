@@ -1,0 +1,70 @@
+{
+  "Name": "Chabazite",
+  "Description": "Chabazite is named after Greek \"chabazios\" - tune or melody, one of twenty stones named in the poem \"Peri lithos\", which extolled the virtues of minerals (Orpheus, Greece, early centuries AD).\r\n\r\nChabazite forms transparent to translucent, brown, pink, reddish, yellowish, orange, white and colourless crystals that resemble slightly squashed cubes. Aggregates form crusts and granular masses.\r\n\r\nChabazite is rarely faceted because clean facet rough is scarce.",
+  "PhysicalProperties": {
+    "MohsHardness": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 4.5,
+          "Max": 4.5
+        }
+      ]
+    },
+    "SpecificGravity": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 2.08,
+          "Max": 2.16
+        }
+      ]
+    },
+    "Tenacity": "",
+    "CleavageQuality": "Distinct",
+    "Fracture": "Uneven",
+    "HeatSensitivity": ""
+  },
+  "OpticalProperties": {
+    "RefractiveIndex": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 1.478,
+          "Max": 1.49
+        }
+      ]
+    },
+    "Birefringence": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 0.005,
+          "Max": 0.008
+        }
+      ]
+    },
+    "Pleochroism": "Nil",
+    "Dispersion": null
+  },
+  "ColourProperties": {
+    "General": "Colourless, white, reddish, brownish",
+    "Daylight": "",
+    "ChelseaFilter": "",
+    "CausesOfColour": "",
+    "Transparency": "Transparent,Translucent"
+  },
+  "FlouresenceProperties": {
+    "General": ""
+  },
+  "Crystallography": {
+    "CrystalSystem": "Trigonal",
+    "Habit": "Rhombohedral, pseudo-cubic"
+  },
+  "GeologicalEnvironment": {
+    "WhereFound": "Forms in gas cavities in extrusive volcanic rocks and also as precipitate in and around hot springs."
+  },
+  "Inclusions": {
+    "Inclusions": "Forms in gas cavities in extrusive volcanic rocks and also as precipitate in and around hot springs."
+  }
+}

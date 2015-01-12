@@ -1,0 +1,70 @@
+{
+  "Name": "Diaspore",
+  "Description": "Diaspore is named from Greek \"diaspheirein\" - to scatter, alluding to its usual descrepitation when strongly heated.\r\n\r\nDiaspore forms greenish-brown, yellow, colourless, sometimes pinkish or white platy crystals with vitreous lustre. Some specimens may show a slight colour change from greenish in daylight to pinkish brown under tungsten light.\r\n\r\nMamaris area in Mugla Province, Turkey seems to be the source of all large gem-quality crystals that have been faceted to date.",
+  "PhysicalProperties": {
+    "MohsHardness": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 6.5,
+          "Max": 7.0
+        }
+      ]
+    },
+    "SpecificGravity": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 3.3,
+          "Max": 3.4
+        }
+      ]
+    },
+    "Tenacity": "",
+    "CleavageQuality": "Perfect",
+    "Fracture": "",
+    "HeatSensitivity": ""
+  },
+  "OpticalProperties": {
+    "RefractiveIndex": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 1.702,
+          "Max": 1.75
+        }
+      ]
+    },
+    "Birefringence": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 0.048,
+          "Max": 0.048
+        }
+      ]
+    },
+    "Pleochroism": "",
+    "Dispersion": null
+  },
+  "ColourProperties": {
+    "General": "Greenish-brown, colourless, white, yellow, bluish, pink.",
+    "Daylight": "Greenish",
+    "ChelseaFilter": "",
+    "CausesOfColour": "",
+    "Transparency": "Transparent,Translucent"
+  },
+  "FlouresenceProperties": {
+    "General": ""
+  },
+  "Crystallography": {
+    "CrystalSystem": "Orthorhombic",
+    "Habit": "Platy crystals"
+  },
+  "GeologicalEnvironment": {
+    "WhereFound": "Diaspore may be formed by the hydrothermal alteration of aluminous minerals and may be a hydrothermal mineral in some alkalic pegmatites."
+  },
+  "Inclusions": {
+    "Inclusions": "Diaspore may be formed by the hydrothermal alteration of aluminous minerals and may be a hydrothermal mineral in some alkalic pegmatites."
+  }
+}

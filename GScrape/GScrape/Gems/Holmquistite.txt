@@ -1,0 +1,62 @@
+{
+  "Name": "Holmquistite",
+  "Description": "Holmquistite is named after Per Johan Holmquist (1866-1946), Swedish petrologist.\r\n\r\nHolmquistite forms prismatic or acicular crystals up to 10 cm or as columnar sheaflike, massive aggregates. The colour varies from black, dark violet to light sky-blue.",
+  "PhysicalProperties": {
+    "MohsHardness": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 5.0,
+          "Max": 6.0
+        }
+      ]
+    },
+    "SpecificGravity": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 2.95,
+          "Max": 3.13
+        }
+      ]
+    },
+    "Tenacity": "Brittle",
+    "CleavageQuality": "Perfect",
+    "Fracture": "",
+    "HeatSensitivity": ""
+  },
+  "OpticalProperties": {
+    "RefractiveIndex": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 1.622,
+          "Max": 1.666
+        }
+      ]
+    },
+    "Birefringence": null,
+    "Pleochroism": "Strong in shades of violet when dark-colored.",
+    "Dispersion": null
+  },
+  "ColourProperties": {
+    "General": "Black, dark violet to light sky-blue; pale yellow to violet in thin section.",
+    "Daylight": "",
+    "ChelseaFilter": "",
+    "CausesOfColour": "",
+    "Transparency": "Transparent,Translucent"
+  },
+  "FlouresenceProperties": {
+    "General": ""
+  },
+  "Crystallography": {
+    "CrystalSystem": "Orthorhombic",
+    "Habit": "As prismatic or acicular crystals, to 10 cm, typically striated. In columnar sheaflike aggregates, massive."
+  },
+  "GeologicalEnvironment": {
+    "WhereFound": "As metasomatic replacements near the outer margins of lithium-rich pegmatites."
+  },
+  "Inclusions": {
+    "Inclusions": "As metasomatic replacements near the outer margins of lithium-rich pegmatites."
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "Name": "Boleite",
+  "Description": "Boleite was named after El Boleo mine, on the Baja Peninsula, near Santa Rosalia, Mexico, where it was first collected as a very minor ore of silver, copper and lead.\r\n\r\nBoleite forms deep blue cubes over half an inch on each side, which consist of pseudo-octahedral tetragonal dipyramids.\r\n\r\nSoft, cleavable, twinned crystals of boleite are very difficult to facet.",
+  "PhysicalProperties": {
+    "MohsHardness": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 3.0,
+          "Max": 3.5
+        }
+      ]
+    },
+    "SpecificGravity": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 5.05,
+          "Max": 5.05
+        }
+      ]
+    },
+    "Tenacity": "",
+    "CleavageQuality": "Perfect",
+    "Fracture": "Uneven",
+    "HeatSensitivity": ""
+  },
+  "OpticalProperties": {
+    "RefractiveIndex": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 2.05,
+          "Max": 2.05
+        }
+      ]
+    },
+    "Birefringence": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 0.01,
+          "Max": 0.01
+        }
+      ]
+    },
+    "Pleochroism": "",
+    "Dispersion": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 0.071,
+          "Max": 0.071
+        }
+      ]
+    }
+  },
+  "ColourProperties": {
+    "General": "Deep Prussian blue to indigo",
+    "Daylight": "",
+    "ChelseaFilter": "",
+    "CausesOfColour": "",
+    "Transparency": "Transparent,Translucent"
+  },
+  "FlouresenceProperties": {
+    "General": ""
+  },
+  "Crystallography": {
+    "CrystalSystem": "Isometric",
+    "Habit": "Pseudo-cubic"
+  },
+  "GeologicalEnvironment": {
+    "WhereFound": "Occurs as a secondary mineral formed by the reaction of chloride with primary sulphides in the oxidized zone of lead–copper deposits."
+  },
+  "Inclusions": {
+    "Inclusions": "Occurs as a secondary mineral formed by the reaction of chloride with primary sulphides in the oxidized zone of lead–copper deposits."
+  }
+}

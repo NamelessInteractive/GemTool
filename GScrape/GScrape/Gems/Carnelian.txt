@@ -1,0 +1,70 @@
+{
+  "Name": "Carnelian",
+  "Description": "Carnelian is probably named after the colour of the kornel cherry because of its colour. It is brownish red to orange, translucent to opaque Chalcedony variety. In some cases portions of the stone are paler than others, and specimens with a pale central portion passing gradually into a dark coloured exterior are not uncommon.\r\n\r\nMany stones, which in the natural condition are of a dirty yellow colour and unsuitable for gems, on being heated acquire the fine carnelian colour, and with it a considerable increase in value.\r\n\r\nWhen held against the light, the colour variety shows stripes, natural carnelian shows a cloudy distribution of colour.",
+  "PhysicalProperties": {
+    "MohsHardness": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 6.5,
+          "Max": 7.0
+        }
+      ]
+    },
+    "SpecificGravity": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 2.58,
+          "Max": 2.64
+        }
+      ]
+    },
+    "Tenacity": "",
+    "CleavageQuality": "None",
+    "Fracture": "Uneven",
+    "HeatSensitivity": ""
+  },
+  "OpticalProperties": {
+    "RefractiveIndex": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 1.535,
+          "Max": 1.539
+        }
+      ]
+    },
+    "Birefringence": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 0.003,
+          "Max": 0.009
+        }
+      ]
+    },
+    "Pleochroism": "Absent",
+    "Dispersion": null
+  },
+  "ColourProperties": {
+    "General": "Red, orange, reddish",
+    "Daylight": "",
+    "ChelseaFilter": "",
+    "CausesOfColour": "Orange to red, submicroscopic to microscopic inclusions of hydrous Fe oxides",
+    "Transparency": "Translucent,Opaque"
+  },
+  "FlouresenceProperties": {
+    "General": "Blue-white"
+  },
+  "Crystallography": {
+    "CrystalSystem": "Trigonal",
+    "Habit": "Fibrous to grained aggregate"
+  },
+  "GeologicalEnvironment": {
+    "WhereFound": ""
+  },
+  "Inclusions": {
+    "Inclusions": "Blue-white"
+  }
+}

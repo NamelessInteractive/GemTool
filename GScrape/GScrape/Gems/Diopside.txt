@@ -1,0 +1,78 @@
+{
+  "Name": "Diopside",
+  "Description": "Diopside is named after Greek word for \"double appearance\" because of its crystal shape. It is one of the most common members of the Pyroxene Group.\r\n\r\nDiopside has a number of gem-quality varieties, including intense green Chrome diopside and fine blue Violane. Black diopside exhbiiting asterism or the Star effect is known.\r\n\r\nUsual weight of cut stones is 1 - 20 carats. Compact fine-grained varieties are used as jewelry-industrial stone.",
+  "PhysicalProperties": {
+    "MohsHardness": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 5.0,
+          "Max": 6.0
+        }
+      ]
+    },
+    "SpecificGravity": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 3.22,
+          "Max": 3.4
+        }
+      ]
+    },
+    "Tenacity": "",
+    "CleavageQuality": "Good",
+    "Fracture": "Uneven",
+    "HeatSensitivity": ""
+  },
+  "OpticalProperties": {
+    "RefractiveIndex": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 1.664,
+          "Max": 1.73
+        }
+      ]
+    },
+    "Birefringence": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 0.024,
+          "Max": 0.03
+        }
+      ]
+    },
+    "Pleochroism": "Common trichroism: light green - yellow green - dark green",
+    "Dispersion": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 0.017,
+          "Max": 0.02
+        }
+      ]
+    }
+  },
+  "ColourProperties": {
+    "General": "Green, yellow, colourless, brown, black",
+    "Daylight": "",
+    "ChelseaFilter": "",
+    "CausesOfColour": "Green (Chromian Diopside), Cr3+ in octahedral coordination; V3+ in octahedral coordination. Yellowish green, Fe2+ in octahedral coordination",
+    "Transparency": "Transparent,Translucent,Opaque"
+  },
+  "FlouresenceProperties": {
+    "General": "Violet, orange, yellow, green."
+  },
+  "Crystallography": {
+    "CrystalSystem": "Monoclinic",
+    "Habit": "Prismatic crystals with nearly square cross-section and twinning common"
+  },
+  "GeologicalEnvironment": {
+    "WhereFound": "Typical of metamorphosed siliceous Ca, Mg-rich rocks of the pyroxene-hornfels or epidote-amphibolite facies; common in skarns, Ca, Mg-rich gneisses and schists, and some kimberlites and peridotites. Less common in alkalic olivine basalts and andesites."
+  },
+  "Inclusions": {
+    "Inclusions": "Typical of metamorphosed siliceous Ca, Mg-rich rocks of the pyroxene-hornfels or epidote-amphibolite facies; common in skarns, Ca, Mg-rich gneisses and schists, and some kimberlites and peridotites. Less common in alkalic olivine basalts and andesites."
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "Name": "Kornerupine",
+  "Description": "Kornerupine was named after a Danish geologist and explorer A. N. Kornerup.\r\n\r\nThe colour can vary from brown, green to shades of yellow, the material is strongly pleochroic and frequently asteriated (from Burma and Taita Hills, Kenya). Cat's eye effect is due to inclusions of rutile and graphite.\r\n\r\nKornerupine can be faceted or cut into cabochons. Cut stones are up to 20 carats (usually to 3 carats).",
+  "PhysicalProperties": {
+    "MohsHardness": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 6.5,
+          "Max": 6.5
+        }
+      ]
+    },
+    "SpecificGravity": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 3.25,
+          "Max": 3.45
+        }
+      ]
+    },
+    "Tenacity": "",
+    "CleavageQuality": "Good",
+    "Fracture": "Conchoidal",
+    "HeatSensitivity": ""
+  },
+  "OpticalProperties": {
+    "RefractiveIndex": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 1.66,
+          "Max": 1.685
+        }
+      ]
+    },
+    "Birefringence": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 0.012,
+          "Max": 0.017
+        }
+      ]
+    },
+    "Pleochroism": "Strong trichroism is common for green variety: green - yellow - reddish brown",
+    "Dispersion": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 0.018,
+          "Max": 0.018
+        }
+      ]
+    }
+  },
+  "ColourProperties": {
+    "General": "Green, blue-green, brownish-green, greenish-brown",
+    "Daylight": "",
+    "ChelseaFilter": "",
+    "CausesOfColour": "Blue, Cr3+ in octahedral coordination. Green, V3+ in octahedral coordination",
+    "Transparency": "Transparent"
+  },
+  "FlouresenceProperties": {
+    "General": "Usually none; green kornerupine from Kenya: yellow"
+  },
+  "Crystallography": {
+    "CrystalSystem": "Orthorhombic",
+    "Habit": "Prismatic"
+  },
+  "GeologicalEnvironment": {
+    "WhereFound": "Occurs in boron-rich volcanic and sedimentary rocks subjected to metamorphism"
+  },
+  "Inclusions": {
+    "Inclusions": "Occurs in boron-rich volcanic and sedimentary rocks subjected to metamorphism"
+  }
+}

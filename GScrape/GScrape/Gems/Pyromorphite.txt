@@ -1,0 +1,70 @@
+{
+  "Name": "Pyromorphite",
+  "Description": "Pyromorphite is named from Greek pyr - fire, plus morphe - form, alluding to the crystalline shape assumed by melted globules of the mineral on cooling.\r\n\r\nPyromorphite forms transparent to translucent, brown, green, orange, yellow, colourless, grey, white, short to long prismatic, pyramidial or tabular crystals with vitreous to resinous lustre.\r\n\r\nPyromorphite is a common mineral, but faceted stones are very rare.",
+  "PhysicalProperties": {
+    "MohsHardness": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 3.5,
+          "Max": 4.0
+        }
+      ]
+    },
+    "SpecificGravity": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 6.5,
+          "Max": 7.1
+        }
+      ]
+    },
+    "Tenacity": "Brittle",
+    "CleavageQuality": "Imperfect",
+    "Fracture": "Sub-Conchoidal",
+    "HeatSensitivity": ""
+  },
+  "OpticalProperties": {
+    "RefractiveIndex": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 2.042,
+          "Max": 2.059
+        }
+      ]
+    },
+    "Birefringence": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 0.01,
+          "Max": 0.01
+        }
+      ]
+    },
+    "Pleochroism": "Weak",
+    "Dispersion": null
+  },
+  "ColourProperties": {
+    "General": "Brown, green, orange, yellow, colourless, grey, white",
+    "Daylight": "",
+    "ChelseaFilter": "",
+    "CausesOfColour": "",
+    "Transparency": "Transparent,Translucent"
+  },
+  "FlouresenceProperties": {
+    "General": ""
+  },
+  "Crystallography": {
+    "CrystalSystem": "Hexagonal",
+    "Habit": "Prismatic, pyramidial, tabular"
+  },
+  "GeologicalEnvironment": {
+    "WhereFound": "A secondary mineral in the oxidized zone of lead deposits; rarely a volcanic sublimate."
+  },
+  "Inclusions": {
+    "Inclusions": "A secondary mineral in the oxidized zone of lead deposits; rarely a volcanic sublimate."
+  }
+}

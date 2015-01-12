@@ -1,0 +1,62 @@
+{
+  "Name": "Spinel",
+  "Description": "Spinel classifies a whole group of related minerals; only a few are of gemstone quality. The species gemologists designate as spinel occurs in all colors, the favorite being a ruby-like red.\r\n\r\nLarge stones are rare.",
+  "PhysicalProperties": {
+    "MohsHardness": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 8.0,
+          "Max": 8.0
+        }
+      ]
+    },
+    "SpecificGravity": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 3.54,
+          "Max": 3.7
+        }
+      ]
+    },
+    "Tenacity": "",
+    "CleavageQuality": "Indistinct",
+    "Fracture": "Conchoidal",
+    "HeatSensitivity": ""
+  },
+  "OpticalProperties": {
+    "RefractiveIndex": null,
+    "Birefringence": null,
+    "Pleochroism": "Absent",
+    "Dispersion": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 0.02,
+          "Max": 0.02
+        }
+      ]
+    }
+  },
+  "ColourProperties": {
+    "General": "Red, pink, orange, blue, violet, blue-green",
+    "Daylight": "",
+    "ChelseaFilter": "Pink to red: inert to fluorescent red. Rare cobalt blue: reddish.",
+    "CausesOfColour": "Violet to purple, Cr3+ in octahedral coordination and Fe2+ in tetrahedral coordination. Cobalt blue, Co2+ and Fe2+ in tetrahedral coordination. Bluish green Fe3+ and Fe2+ in tetrahedral coordination. Green (synthetic spinel), Cr3+ in octahedral coordination. Pink to red, Cr3+ in octahedral coordination",
+    "Transparency": "Transparent"
+  },
+  "FlouresenceProperties": {
+    "General": "Red spinel: strong - red; blue spinel: weak - reddish, green."
+  },
+  "Crystallography": {
+    "CrystalSystem": "Isometric",
+    "Habit": "Octahedra though some specimens may show dodecahedron or cube faces."
+  },
+  "GeologicalEnvironment": {
+    "WhereFound": "Spinel is formed at high temperatures as an accessory in igneous rocks, in regionally and contact metamorphosed limestones and in other contexts."
+  },
+  "Inclusions": {
+    "Inclusions": "Spinel is formed at high temperatures as an accessory in igneous rocks, in regionally and contact metamorphosed limestones and in other contexts."
+  }
+}

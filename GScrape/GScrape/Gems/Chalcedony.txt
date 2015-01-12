@@ -1,0 +1,70 @@
+{
+  "Name": "Chalcedony",
+  "Description": "Although in general terms Chalcedony is a fibrous cryptocrystalline variety of Quartz, recent studies have shown that much Chalcedony is a mixture of cryptocrystalline quartz and mogánite, another silica mineral related to quartz but with a different crystal structure.\r\n\r\nChalcedony is probably named after an ancient town at the Bosporus.",
+  "PhysicalProperties": {
+    "MohsHardness": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 6.5,
+          "Max": 7.0
+        }
+      ]
+    },
+    "SpecificGravity": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 2.55,
+          "Max": 2.7
+        }
+      ]
+    },
+    "Tenacity": "",
+    "CleavageQuality": "None",
+    "Fracture": "Uneven",
+    "HeatSensitivity": ""
+  },
+  "OpticalProperties": {
+    "RefractiveIndex": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 1.53,
+          "Max": 1.543
+        }
+      ]
+    },
+    "Birefringence": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 0.003,
+          "Max": 0.009
+        }
+      ]
+    },
+    "Pleochroism": "Absent",
+    "Dispersion": null
+  },
+  "ColourProperties": {
+    "General": "All colours",
+    "Daylight": "",
+    "ChelseaFilter": "",
+    "CausesOfColour": "Purple, microscopic sugilite inclusions. Purple, color center similar to that found in amethyst. Blue to greenish blue (chrysocolla quartz), microscopic to sub-microscopic inclusions. Green (chrysoprase), microscopic inclusions of nickeliferous clay-like material. Orange to red (carnelian, jasper), submicroscopic to microscopic inclusions of hydrous Fe oxides",
+    "Transparency": "Translucent,Opaque"
+  },
+  "FlouresenceProperties": {
+    "General": "Often yellowish-green"
+  },
+  "Crystallography": {
+    "CrystalSystem": "Trigonal",
+    "Habit": "Fibrous to grained aggregate"
+  },
+  "GeologicalEnvironment": {
+    "WhereFound": "Chalcedony is deposited in a variety of environments and deposition is commonly at low temperatures. Light-coloured material with no marked banding is often found as a late hydrothermal deposit or an alteration product in acidic to basic igneous rocks, tuffs and breccias. It is\r\nvary common as crusts, as vein and cavity fillings."
+  },
+  "Inclusions": {
+    "Inclusions": "Chalcedony is deposited in a variety of environments and deposition is commonly at low temperatures. Light-coloured material with no marked banding is often found as a late hydrothermal deposit or an alteration product in acidic to basic igneous rocks, tuffs and breccias. It is\r\nvary common as crusts, as vein and cavity fillings."
+  }
+}

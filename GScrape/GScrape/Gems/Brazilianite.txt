@@ -1,0 +1,78 @@
+{
+  "Name": "Brazilianite",
+  "Description": "Brazilianite was named after Brazil, the first country of discovery in 1944. Interesting green and golden hues, vitreous luster, relatively good hardness make brazilianite an attractive gem.\r\n\r\nInclusions are very common and clear faceted gems rarely exceed 15 carats.",
+  "PhysicalProperties": {
+    "MohsHardness": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 5.5,
+          "Max": 5.5
+        }
+      ]
+    },
+    "SpecificGravity": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 2.98,
+          "Max": 2.99
+        }
+      ]
+    },
+    "Tenacity": "Brittle",
+    "CleavageQuality": "Good",
+    "Fracture": "Conchoidal",
+    "HeatSensitivity": ""
+  },
+  "OpticalProperties": {
+    "RefractiveIndex": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 1.602,
+          "Max": 1.625
+        }
+      ]
+    },
+    "Birefringence": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 0.018,
+          "Max": 0.021
+        }
+      ]
+    },
+    "Pleochroism": "Very weak",
+    "Dispersion": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 0.014,
+          "Max": 0.014
+        }
+      ]
+    }
+  },
+  "ColourProperties": {
+    "General": "Green, yellowish-green",
+    "Daylight": "",
+    "ChelseaFilter": "",
+    "CausesOfColour": "",
+    "Transparency": "Transparent"
+  },
+  "FlouresenceProperties": {
+    "General": "None"
+  },
+  "Crystallography": {
+    "CrystalSystem": "Monoclinic",
+    "Habit": "Characteristically equant or spear-head shaped crystals"
+  },
+  "GeologicalEnvironment": {
+    "WhereFound": "It occurs in phosphate-rich zones of granite pegmatites."
+  },
+  "Inclusions": {
+    "Inclusions": "It occurs in phosphate-rich zones of granite pegmatites."
+  }
+}

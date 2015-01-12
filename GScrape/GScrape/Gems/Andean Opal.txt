@@ -1,0 +1,38 @@
+{
+  "Name": "Andean Opal",
+  "Description": "Andean Opal is a trade name for greenish blue opal found in Peru. It appeared in Lima together with chrysocolla in the early 1970s.\r\n\r\nBlue opal is usually translucent, brown and black dendrite inclusions are common. Transparent material yields attractive cut stones, but some of them turn milky after some time. The transparency can be restored by immersion in water for a limited time.",
+  "PhysicalProperties": {
+    "MohsHardness": null,
+    "SpecificGravity": null,
+    "Tenacity": "",
+    "CleavageQuality": "",
+    "Fracture": "",
+    "HeatSensitivity": ""
+  },
+  "OpticalProperties": {
+    "RefractiveIndex": null,
+    "Birefringence": null,
+    "Pleochroism": "",
+    "Dispersion": null
+  },
+  "ColourProperties": {
+    "General": "Blue, greenish blue",
+    "Daylight": "",
+    "ChelseaFilter": "",
+    "CausesOfColour": "The copper content in blue opal is up to 1% Cu, it is coloured by irregular microscopic inclusions of chrysocolla (Fritsch et al., 1999) or other Cu silicate. Galillou et al. (2008) states that the inclusions can be Mg-rich shattuckite.",
+    "Transparency": "Transparent,Translucent"
+  },
+  "FlouresenceProperties": {
+    "General": ""
+  },
+  "Crystallography": {
+    "CrystalSystem": "",
+    "Habit": ""
+  },
+  "GeologicalEnvironment": {
+    "WhereFound": ""
+  },
+  "Inclusions": {
+    "Inclusions": "Blue, greenish blue"
+  }
+}

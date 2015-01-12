@@ -1,0 +1,78 @@
+{
+  "Name": "Kyanite (Cyprine)",
+  "Description": "Kyanite is named after Greek word for \"blue\", because of its colour. Some fine specimens have sapphire-blue colour with violet pleochroism.\r\n\r\nKyanite has a wide variations of hardness in the same crystal depending on direction (across or along axes). It complicates the cutting of this material.\r\n\r\nCut stones reach 10 - 15 carats. Varieties with alexandrite effect and cat's eye are known.",
+  "PhysicalProperties": {
+    "MohsHardness": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 4.0,
+          "Max": 7.0
+        }
+      ]
+    },
+    "SpecificGravity": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 3.55,
+          "Max": 3.7
+        }
+      ]
+    },
+    "Tenacity": "Brittle",
+    "CleavageQuality": "Perfect",
+    "Fracture": "Splintery",
+    "HeatSensitivity": ""
+  },
+  "OpticalProperties": {
+    "RefractiveIndex": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 1.71,
+          "Max": 1.735
+        }
+      ]
+    },
+    "Birefringence": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 0.012,
+          "Max": 0.033
+        }
+      ]
+    },
+    "Pleochroism": "Blue stones - strong trichroism: colorless/pale blue - (greenish or violet)-blue - dark blue",
+    "Dispersion": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 0.02,
+          "Max": 0.02
+        }
+      ]
+    }
+  },
+  "ColourProperties": {
+    "General": "Blue, blue-green, green, brown, yellow, red, colourless",
+    "Daylight": "",
+    "ChelseaFilter": "",
+    "CausesOfColour": "Blue, Fe2+-O-Ti4+ charge transfer, Fe2+-O-Fe3+ charge transfer, Fe2+ and Fe3+ in octahedral coordination can all be involved, with contribution from Cr3+ in octahedral coordination. Green, V3+ in octahedral coordination; Fe3+ in octahedral coordination. Orange, Mn3+. Color change, Cr3+ in octahedral coordination",
+    "Transparency": "Transparent,Translucent"
+  },
+  "FlouresenceProperties": {
+    "General": "Weak; red"
+  },
+  "Crystallography": {
+    "CrystalSystem": "Triclinic",
+    "Habit": "Often fibrous"
+  },
+  "GeologicalEnvironment": {
+    "WhereFound": "Kyanite occurs in gneisses and schists and in granite pegmatites."
+  },
+  "Inclusions": {
+    "Inclusions": "Kyanite occurs in gneisses and schists and in granite pegmatites."
+  }
+}

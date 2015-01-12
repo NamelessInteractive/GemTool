@@ -1,0 +1,78 @@
+{
+  "Name": "Andalusite",
+  "Description": "Andalusite is named after the Spanish province Andalusia where transparent gem-quality crystals were first found.\r\n\r\nFaceted andalusite stones give a play of red, green, and yellow colours because of strong pleochroism.",
+  "PhysicalProperties": {
+    "MohsHardness": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 7.5,
+          "Max": 7.5
+        }
+      ]
+    },
+    "SpecificGravity": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 3.05,
+          "Max": 3.21
+        }
+      ]
+    },
+    "Tenacity": "Brittle",
+    "CleavageQuality": "Good",
+    "Fracture": "Uneven",
+    "HeatSensitivity": "Yes"
+  },
+  "OpticalProperties": {
+    "RefractiveIndex": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 1.627,
+          "Max": 1.65
+        }
+      ]
+    },
+    "Birefringence": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 0.007,
+          "Max": 0.013
+        }
+      ]
+    },
+    "Pleochroism": "Orange/brown stones - strong trichroism: yellow - olive green - reddish brown; Yellow stones - strong: yellow - olive-green - red-brown; Green stones - strong: yellow - olive green - red-brown",
+    "Dispersion": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 0.016,
+          "Max": 0.016
+        }
+      ]
+    }
+  },
+  "ColourProperties": {
+    "General": "Green, yellowish-green, brown, pink, colourless",
+    "Daylight": "",
+    "ChelseaFilter": "",
+    "CausesOfColour": "Green and brown, pleochroism Fe2+ -O- Ti4+ charge transfer. Dark green, Mn3+ in octahedral coordination",
+    "Transparency": "Transparent,Translucent,Opaque"
+  },
+  "FlouresenceProperties": {
+    "General": "Weak; green, yellow-green"
+  },
+  "Crystallography": {
+    "CrystalSystem": "Orthorhombic",
+    "Habit": "Prismatic habit with vertically striated prisms which are nearly square in section and capped with pyramids"
+  },
+  "GeologicalEnvironment": {
+    "WhereFound": "A result of contact metamorphism of argillaceous sediments, also in regionally metamorphosed schists. Rare in granites and pegmatites, which however afford the largest crystals. Detrital in some sandstones."
+  },
+  "Inclusions": {
+    "Inclusions": "A result of contact metamorphism of argillaceous sediments, also in regionally metamorphosed schists. Rare in granites and pegmatites, which however afford the largest crystals. Detrital in some sandstones."
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "Name": "Adamite",
+  "Description": "Adamite was named after the French mineralogist Gilbert-Joseph Adam, who discovered the mineral at Chañarcillo, Copiapó Province, Atacama Region, Chile.\r\n\r\nAdamite forms transparent to translucent pale yellow through green to bluish green elongated crystals and radial aggregates. Yellow color is due to Fe compounds, tints of green are connected with the presence of copper and purple colour is caused by cobalt content. Reddish to pink and violet transparent crystals have been reported from Mexico.\r\n\r\nLarge individual clear crystals can be cut into attractive faceted stones.",
+  "PhysicalProperties": {
+    "MohsHardness": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 3.5,
+          "Max": 3.5
+        }
+      ]
+    },
+    "SpecificGravity": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 4.3,
+          "Max": 4.68
+        }
+      ]
+    },
+    "Tenacity": "",
+    "CleavageQuality": "Distinct",
+    "Fracture": "Conchoidal",
+    "HeatSensitivity": ""
+  },
+  "OpticalProperties": {
+    "RefractiveIndex": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 1.708,
+          "Max": 1.773
+        }
+      ]
+    },
+    "Birefringence": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 0.031,
+          "Max": 0.05
+        }
+      ]
+    },
+    "Pleochroism": "Nil",
+    "Dispersion": null
+  },
+  "ColourProperties": {
+    "General": "Yellow-green, brownish, colourless, pink, violet.",
+    "Daylight": "",
+    "ChelseaFilter": "",
+    "CausesOfColour": "",
+    "Transparency": "Transparent,Translucent"
+  },
+  "FlouresenceProperties": {
+    "General": ""
+  },
+  "Crystallography": {
+    "CrystalSystem": "Orthorhombic",
+    "Habit": "Elongated orthorhombic crystals and radial aggregates."
+  },
+  "GeologicalEnvironment": {
+    "WhereFound": "Adamite occurs as a secondary mineral in the oxidized zone of zinc- and arsenic-bearing hydrothermal mineral deposits."
+  },
+  "Inclusions": {
+    "Inclusions": "Adamite occurs as a secondary mineral in the oxidized zone of zinc- and arsenic-bearing hydrothermal mineral deposits."
+  }
+}

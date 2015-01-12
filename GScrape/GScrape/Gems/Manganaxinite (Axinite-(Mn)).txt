@@ -1,0 +1,62 @@
+{
+  "Name": "Manganaxinite (Axinite-(Mn))",
+  "Description": "Manganaxinite is yellow-orange, manganese-rich member of Axinite group.",
+  "PhysicalProperties": {
+    "MohsHardness": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 6.5,
+          "Max": 7.0
+        }
+      ]
+    },
+    "SpecificGravity": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 3.314,
+          "Max": 3.314
+        }
+      ]
+    },
+    "Tenacity": "Brittle",
+    "CleavageQuality": "Good",
+    "Fracture": "Uneven,Conchoidal",
+    "HeatSensitivity": ""
+  },
+  "OpticalProperties": {
+    "RefractiveIndex": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 1.678,
+          "Max": 1.692
+        }
+      ]
+    },
+    "Birefringence": null,
+    "Pleochroism": "",
+    "Dispersion": null
+  },
+  "ColourProperties": {
+    "General": "Honey-yellow, clove-brown, brown, blue; colorless to pale brown or blue in thin section.",
+    "Daylight": "",
+    "ChelseaFilter": "",
+    "CausesOfColour": "",
+    "Transparency": "Transparent,Translucent"
+  },
+  "FlouresenceProperties": {
+    "General": ""
+  },
+  "Crystallography": {
+    "CrystalSystem": "Triclinic",
+    "Habit": "Crystals typically flattened, axe-head shaped, to 10 cm; granular, massive."
+  },
+  "GeologicalEnvironment": {
+    "WhereFound": "Typically a mineral formed by contact metamorphism and boron metasomatism; from a pegmatite vein cutting metamorphosed iron formation at a contact with gabbro (Minnesota, USA)."
+  },
+  "Inclusions": {
+    "Inclusions": "Typically a mineral formed by contact metamorphism and boron metasomatism; from a pegmatite vein cutting metamorphosed iron formation at a contact with gabbro (Minnesota, USA)."
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "Name": "Imperial Topaz (A variety of topaz of orange, pinkish colours.)",
+  "Description": "Traditionally Imperial Topaz was orange in colour with red dichroism. Today the definition has expanded to include colors like pinks, reds, lavender pinks and peach pinks but usually excludes yellow or brown.\r\n\r\nSome Imperial Topaz stones can fade on exposure to sunlight for an extended period of time.",
+  "PhysicalProperties": {
+    "MohsHardness": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 8.0,
+          "Max": 8.0
+        }
+      ]
+    },
+    "SpecificGravity": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 3.49,
+          "Max": 3.57
+        }
+      ]
+    },
+    "Tenacity": "",
+    "CleavageQuality": "Perfect",
+    "Fracture": "Uneven,Conchoidal",
+    "HeatSensitivity": ""
+  },
+  "OpticalProperties": {
+    "RefractiveIndex": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 1.609,
+          "Max": 1.643
+        }
+      ]
+    },
+    "Birefringence": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 0.008,
+          "Max": 0.016
+        }
+      ]
+    },
+    "Pleochroism": "Yellow: definite - lemon-honey, straw-yellow; Red: strong - dark red, yellow, pink-red",
+    "Dispersion": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 0.014,
+          "Max": 0.014
+        }
+      ]
+    }
+  },
+  "ColourProperties": {
+    "General": "Orange, pink, red, lavender pink and peach pink",
+    "Daylight": "",
+    "ChelseaFilter": "",
+    "CausesOfColour": "",
+    "Transparency": "Transparent,Translucent"
+  },
+  "FlouresenceProperties": {
+    "General": "Pink: weak - brown; Red: weak - yellow-brown; Yellow: weak - orange-yellow"
+  },
+  "Crystallography": {
+    "CrystalSystem": "Orthorhombic",
+    "Habit": "Prismatic"
+  },
+  "GeologicalEnvironment": {
+    "WhereFound": ""
+  },
+  "Inclusions": {
+    "Inclusions": "Pink: weak - brown; Red: weak - yellow-brown; Yellow: weak - orange-yellow"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "Name": "Marcasite",
+  "Description": "The name Marcasite is derived from Arabic word for pyrite. Marcasite and pyrite are polymorphs. Marcasite is lighter and more brittle than pyrite.\r\n\r\nMarcasite forms metallic pale brass-yellow coloured, tabular or pyramidal, sometimes stalactic or globular crystals. On fresh surfaces it is pale yellow to almost white and has a bright metallic lustre.",
+  "PhysicalProperties": {
+    "MohsHardness": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 6.0,
+          "Max": 6.5
+        }
+      ]
+    },
+    "SpecificGravity": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 4.8,
+          "Max": 4.9
+        }
+      ]
+    },
+    "Tenacity": "Brittle",
+    "CleavageQuality": "Poor",
+    "Fracture": "Uneven",
+    "HeatSensitivity": ""
+  },
+  "OpticalProperties": {
+    "RefractiveIndex": null,
+    "Birefringence": null,
+    "Pleochroism": "Nil",
+    "Dispersion": null
+  },
+  "ColourProperties": {
+    "General": "Yellow, bronze colour",
+    "Daylight": "",
+    "ChelseaFilter": "",
+    "CausesOfColour": "",
+    "Transparency": "Opaque"
+  },
+  "FlouresenceProperties": {
+    "General": ""
+  },
+  "Crystallography": {
+    "CrystalSystem": "Orthorhombic",
+    "Habit": "Typically tabular but may be pyramidal\r\nor prismatic and may show curved faces"
+  },
+  "GeologicalEnvironment": {
+    "WhereFound": "Marcasite occurs in sedimentary environments formed characteristically under low temperature, highly acidic conditions."
+  },
+  "Inclusions": {
+    "Inclusions": "Marcasite occurs in sedimentary environments formed characteristically under low temperature, highly acidic conditions."
+  }
+}

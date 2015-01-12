@@ -1,0 +1,70 @@
+{
+  "Name": "Nepheline",
+  "Description": "Nepheline is named after Greek \"nephele\" - a cloud, alluding to the cloudy appearance that develops when the mineral is immersed in strong acid.\r\n\r\nNepheline forms transparent to nearly opaque prismatic crystals, usually colourless, but can be coloured gray, red, green, brown, yellow from various impurities.\r\n\r\nTransparent colourless material has been faceted.",
+  "PhysicalProperties": {
+    "MohsHardness": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 5.0,
+          "Max": 6.0
+        }
+      ]
+    },
+    "SpecificGravity": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 2.55,
+          "Max": 2.65
+        }
+      ]
+    },
+    "Tenacity": "Brittle",
+    "CleavageQuality": "Imperfect",
+    "Fracture": "Sub-Conchoidal",
+    "HeatSensitivity": ""
+  },
+  "OpticalProperties": {
+    "RefractiveIndex": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 1.529,
+          "Max": 1.547
+        }
+      ]
+    },
+    "Birefringence": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 0.003,
+          "Max": 0.005
+        }
+      ]
+    },
+    "Pleochroism": "",
+    "Dispersion": null
+  },
+  "ColourProperties": {
+    "General": "Colourless, white, gray, greenish-gray, yellowish, reddish, blue-green, brownish. Chatoyant",
+    "Daylight": "",
+    "ChelseaFilter": "",
+    "CausesOfColour": "",
+    "Transparency": "Transparent,Translucent,Opaque"
+  },
+  "FlouresenceProperties": {
+    "General": ""
+  },
+  "Crystallography": {
+    "CrystalSystem": "Hexagonal",
+    "Habit": "Prismatic"
+  },
+  "GeologicalEnvironment": {
+    "WhereFound": "Nepheline occurs in alkalic rocks, including nepheline syenites and pegmatites associated with them, also in gneisses."
+  },
+  "Inclusions": {
+    "Inclusions": "Nepheline occurs in alkalic rocks, including nepheline syenites and pegmatites associated with them, also in gneisses."
+  }
+}

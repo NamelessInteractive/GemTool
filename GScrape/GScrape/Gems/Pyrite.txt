@@ -1,0 +1,54 @@
+{
+  "Name": "Pyrite",
+  "Description": "The name pyrite derived from Greek - fire, as it produces sparks when knocked. Because of its similarity to gold, pyrite is often called Fool's gold. It is metallic shiny and has pale brass-yellow hue.",
+  "PhysicalProperties": {
+    "MohsHardness": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 6.0,
+          "Max": 6.5
+        }
+      ]
+    },
+    "SpecificGravity": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 5.0,
+          "Max": 5.2
+        }
+      ]
+    },
+    "Tenacity": "Brittle",
+    "CleavageQuality": "Indistinct",
+    "Fracture": "Uneven,Conchoidal",
+    "HeatSensitivity": ""
+  },
+  "OpticalProperties": {
+    "RefractiveIndex": null,
+    "Birefringence": null,
+    "Pleochroism": "Absent",
+    "Dispersion": null
+  },
+  "ColourProperties": {
+    "General": "Brassy yellow to silver",
+    "Daylight": "",
+    "ChelseaFilter": "",
+    "CausesOfColour": "",
+    "Transparency": "Opaque"
+  },
+  "FlouresenceProperties": {
+    "General": "None"
+  },
+  "Crystallography": {
+    "CrystalSystem": "Isometric",
+    "Habit": "Pyritohedral, octahedral, penetration and contact twins and granular and stalactitic\r\nmasses are also common"
+  },
+  "GeologicalEnvironment": {
+    "WhereFound": "Pyrite forms under a number of different conditions and in many different rock types."
+  },
+  "Inclusions": {
+    "Inclusions": "Pyrite forms under a number of different conditions and in many different rock types."
+  }
+}

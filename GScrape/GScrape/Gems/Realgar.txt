@@ -1,0 +1,70 @@
+{
+  "Name": "Realgar",
+  "Description": "Realgar is named from Arabic \"rahj al-gar\" - powder of the mine, because it was found in a silver mine.\r\n\r\nRealgar forms red to orange-yellow prismatic crystals or granular masses. The crystals disintegrate to a powder after long exposure to light. However, this process takes a very long time. Realgar specimens should be kept in the dark, in an eclosed container.\r\n\r\nRealgar is a very rare gem. It is very soft and somewhat unstable.",
+  "PhysicalProperties": {
+    "MohsHardness": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 1.5,
+          "Max": 2.0
+        }
+      ]
+    },
+    "SpecificGravity": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 3.56,
+          "Max": 3.56
+        }
+      ]
+    },
+    "Tenacity": "Brittle,Sectile",
+    "CleavageQuality": "Good",
+    "Fracture": "",
+    "HeatSensitivity": ""
+  },
+  "OpticalProperties": {
+    "RefractiveIndex": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 2.538,
+          "Max": 2.704
+        }
+      ]
+    },
+    "Birefringence": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 0.166,
+          "Max": 0.166
+        }
+      ]
+    },
+    "Pleochroism": "Nearly colorless to pale golden yellow",
+    "Dispersion": null
+  },
+  "ColourProperties": {
+    "General": "Red to orange-yellow",
+    "Daylight": "",
+    "ChelseaFilter": "",
+    "CausesOfColour": "",
+    "Transparency": "Transparent"
+  },
+  "FlouresenceProperties": {
+    "General": ""
+  },
+  "Crystallography": {
+    "CrystalSystem": "Monoclinic",
+    "Habit": "Prismatic"
+  },
+  "GeologicalEnvironment": {
+    "WhereFound": "Most commonly as a low-temperature hydrothermal vein mineral associated with As–Sb minerals; also as volcanic sublimations and in hot spring deposits; in carbonate and clay.\r\nsedimentary rocks"
+  },
+  "Inclusions": {
+    "Inclusions": "Most commonly as a low-temperature hydrothermal vein mineral associated with As–Sb minerals; also as volcanic sublimations and in hot spring deposits; in carbonate and clay.\r\nsedimentary rocks"
+  }
+}

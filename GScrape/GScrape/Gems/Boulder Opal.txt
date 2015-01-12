@@ -1,0 +1,62 @@
+{
+  "Name": "Boulder Opal",
+  "Description": "This variety of Precious Opal was first found in Queensland, Australia in 1869.\r\n\r\nIt is a Precious Opal that is embedded in the ironstone matrix and routinely cut with it as part of the gem.\r\n\r\nEach piece is unique, that is why it can't be used for mass produced jewelry.",
+  "PhysicalProperties": {
+    "MohsHardness": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 5.0,
+          "Max": 6.5
+        }
+      ]
+    },
+    "SpecificGravity": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 1.98,
+          "Max": 2.25
+        }
+      ]
+    },
+    "Tenacity": "Brittle",
+    "CleavageQuality": "None",
+    "Fracture": "Conchoidal",
+    "HeatSensitivity": ""
+  },
+  "OpticalProperties": {
+    "RefractiveIndex": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 1.37,
+          "Max": 1.47
+        }
+      ]
+    },
+    "Birefringence": null,
+    "Pleochroism": "Absent",
+    "Dispersion": null
+  },
+  "ColourProperties": {
+    "General": "Dark base surface, play-of-color",
+    "Daylight": "",
+    "ChelseaFilter": "",
+    "CausesOfColour": "",
+    "Transparency": "Transparent,Translucent,Opaque"
+  },
+  "FlouresenceProperties": {
+    "General": ""
+  },
+  "Crystallography": {
+    "CrystalSystem": "Amorphous",
+    "Habit": "Massive"
+  },
+  "GeologicalEnvironment": {
+    "WhereFound": "Occurs as patches, seams, blobs, or thin veins in ironstone concretions."
+  },
+  "Inclusions": {
+    "Inclusions": "Occurs as patches, seams, blobs, or thin veins in ironstone concretions."
+  }
+}

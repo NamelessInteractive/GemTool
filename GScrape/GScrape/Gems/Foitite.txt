@@ -1,0 +1,54 @@
+{
+  "Name": "Foitite",
+  "Description": "Foitite is named after Franklin F.Foit, Jr., Washington State University, Pullman, in recognition of his on tourmaline-group minerals.\r\n\r\nFoitite is a vacancy-dominant member of the Tourmaline Group. It forms translucent to opaque prismatic crystals with vitreous lustre. The colour is dark indigo with purple tints to bluish-black.",
+  "PhysicalProperties": {
+    "MohsHardness": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 7.0,
+          "Max": 0.0
+        }
+      ]
+    },
+    "SpecificGravity": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 3.17,
+          "Max": 3.17
+        }
+      ]
+    },
+    "Tenacity": "Brittle",
+    "CleavageQuality": "",
+    "Fracture": "Irregular",
+    "HeatSensitivity": ""
+  },
+  "OpticalProperties": {
+    "RefractiveIndex": null,
+    "Birefringence": null,
+    "Pleochroism": "Strong: pale lavender - dark blue",
+    "Dispersion": null
+  },
+  "ColourProperties": {
+    "General": "Bluish black",
+    "Daylight": "",
+    "ChelseaFilter": "",
+    "CausesOfColour": "",
+    "Transparency": "Translucent"
+  },
+  "FlouresenceProperties": {
+    "General": ""
+  },
+  "Crystallography": {
+    "CrystalSystem": "Hexagonal",
+    "Habit": "Crystals prismatic, elongated and striated, with triangular cross section, to 5.5 cm"
+  },
+  "GeologicalEnvironment": {
+    "WhereFound": "Probably in granite pegmatites."
+  },
+  "Inclusions": {
+    "Inclusions": "Probably in granite pegmatites."
+  }
+}

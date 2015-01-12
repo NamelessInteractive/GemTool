@@ -1,0 +1,78 @@
+{
+  "Name": "Uvite",
+  "Description": "Uvite is named after a province in Sri Lanka. Uvite is the magnesium/iron-rich member of the group. Despite having so many coloring ions like iron and magnesium, some specimens of uvite can be colorless. The typical specimens of uvite on the mineral markets tend to be an interesting dark green to almost black in color.",
+  "PhysicalProperties": {
+    "MohsHardness": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 7.5,
+          "Max": 0.0
+        }
+      ]
+    },
+    "SpecificGravity": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 2.97,
+          "Max": 3.14
+        }
+      ]
+    },
+    "Tenacity": "Brittle",
+    "CleavageQuality": "",
+    "Fracture": "Uneven,Conchoidal",
+    "HeatSensitivity": ""
+  },
+  "OpticalProperties": {
+    "RefractiveIndex": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 1.614,
+          "Max": 1.666
+        }
+      ]
+    },
+    "Birefringence": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 0.014,
+          "Max": 0.032
+        }
+      ]
+    },
+    "Pleochroism": "Pale yellow - colorless",
+    "Dispersion": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 0.017,
+          "Max": 0.017
+        }
+      ]
+    }
+  },
+  "ColourProperties": {
+    "General": "Brown, light to dark green, red, black; may be zoned parallel to prism faces.",
+    "Daylight": "",
+    "ChelseaFilter": "",
+    "CausesOfColour": "Green (\"chrome tourmaline\"), V3+ generally with minor amounts of Cr3+, both in octahedral coordination",
+    "Transparency": "Transparent,Translucent"
+  },
+  "FlouresenceProperties": {
+    "General": ""
+  },
+  "Crystallography": {
+    "CrystalSystem": "Hexagonal",
+    "Habit": "Crystals prismatic to equant, may be tabular, pyramidal, in radiating groups, to 15 cm. Cross sections are typically triangular with curved, convex sides."
+  },
+  "GeologicalEnvironment": {
+    "WhereFound": "Typically in calcium-rich rocks subjected to contact metamorphism and metasomatic processes which added boron."
+  },
+  "Inclusions": {
+    "Inclusions": "Typically in calcium-rich rocks subjected to contact metamorphism and metasomatic processes which added boron."
+  }
+}

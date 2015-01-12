@@ -1,0 +1,78 @@
+{
+  "Name": "Chrysoberyl",
+  "Description": "Chrysoberyl is named after Greek \"chrysos\" - gold, plus \"beryllos\" - beryl, a name used from antiquity for gold-coloured beryl.\r\n\r\nChrysoberyl forms transparent to translucent yellow, yellowish-green, golden yellow or brown multiple contact and penetration twinned or prominently striated short prismatic crystals with vitreous lustre.\r\n\r\nChrysoberyl is cut into fine gemstones of remarkable clarity and high lustre. Chatoyant chrysoberyl shows an eye when translucent and cut into cabochon.",
+  "PhysicalProperties": {
+    "MohsHardness": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 8.5,
+          "Max": 0.0
+        }
+      ]
+    },
+    "SpecificGravity": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 3.69,
+          "Max": 3.81
+        }
+      ]
+    },
+    "Tenacity": "Brittle",
+    "CleavageQuality": "Good",
+    "Fracture": "Uneven,Conchoidal",
+    "HeatSensitivity": ""
+  },
+  "OpticalProperties": {
+    "RefractiveIndex": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 1.746,
+          "Max": 1.763
+        }
+      ]
+    },
+    "Birefringence": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 0.007,
+          "Max": 0.013
+        }
+      ]
+    },
+    "Pleochroism": "Yellow - weak: colorless - light yellow - yellow-(green); Green - weak: yellowish - olive-yellow - (colorless)",
+    "Dispersion": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 0.015,
+          "Max": 0.015
+        }
+      ]
+    }
+  },
+  "ColourProperties": {
+    "General": "Golden-yellow, green-yellow, green, brownish, red",
+    "Daylight": "",
+    "ChelseaFilter": "",
+    "CausesOfColour": "Yellow, Fe3+ in octahedral coordination. Color-change (alexandrite), Cr3+ in octahedral coordination",
+    "Transparency": "Transparent,Translucent,Opaque"
+  },
+  "FlouresenceProperties": {
+    "General": "Usually none. Green: weak, dark red"
+  },
+  "Crystallography": {
+    "CrystalSystem": "Orthorhombic",
+    "Habit": "Pseudo-hexagonal, multiple contact and penetration twinned or prominently striated short prismatic crystals"
+  },
+  "GeologicalEnvironment": {
+    "WhereFound": "Characteristic of some granite pegmatites associated with high-grade mica schists or reaction zones in ultramafic rocks; also detrital in placers."
+  },
+  "Inclusions": {
+    "Inclusions": "Characteristic of some granite pegmatites associated with high-grade mica schists or reaction zones in ultramafic rocks; also detrital in placers."
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "Name": "Anglesite",
+  "Description": "Anglesite is named after the type locality on Anglesey, an island off the north coast of Wales.\r\n\r\nAnglesite forms transparent colourless crystals, often with yellow, green or blue shades. Anglesite is cut into attractive faceted stones, but it is brittle and sensitive to heat.\r\n\r\n\r\nFine crystals are found at various places in the USA, in the Leadhills district, Scotland and the best cuttable material comes from the Touissit mine, Oujda, Morocco.",
+  "PhysicalProperties": {
+    "MohsHardness": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 3.0,
+          "Max": 3.5
+        }
+      ]
+    },
+    "SpecificGravity": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 6.3,
+          "Max": 6.39
+        }
+      ]
+    },
+    "Tenacity": "Brittle",
+    "CleavageQuality": "Distinct",
+    "Fracture": "Conchoidal",
+    "HeatSensitivity": "Sensitive"
+  },
+  "OpticalProperties": {
+    "RefractiveIndex": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 1.877,
+          "Max": 1.894
+        }
+      ]
+    },
+    "Birefringence": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 0.017,
+          "Max": 0.017
+        }
+      ]
+    },
+    "Pleochroism": "Nil",
+    "Dispersion": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 0.044,
+          "Max": 0.044
+        }
+      ]
+    }
+  },
+  "ColourProperties": {
+    "General": "Colourless, yellow, greenish, brownish, white.",
+    "Daylight": "",
+    "ChelseaFilter": "",
+    "CausesOfColour": "",
+    "Transparency": "Transparent,Translucent"
+  },
+  "FlouresenceProperties": {
+    "General": ""
+  },
+  "Crystallography": {
+    "CrystalSystem": "Orthorhombic",
+    "Habit": "Tabular"
+  },
+  "GeologicalEnvironment": {
+    "WhereFound": "Occurs in the oxidized zone of lead deposits."
+  },
+  "Inclusions": {
+    "Inclusions": "Occurs in the oxidized zone of lead deposits."
+  }
+}

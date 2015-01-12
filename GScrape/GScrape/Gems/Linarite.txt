@@ -1,0 +1,70 @@
+{
+  "Name": "Linarite",
+  "Description": "Linarite is named after its discovery locality at Linares, Jaén, Spain.\r\n\r\nLinarite forms elongated and characteristically tabular transparent to translucent bright to dark blue crystals, which may appear deep blue in transmitted light.\r\n\r\nSuitable for faceting material is rare.",
+  "PhysicalProperties": {
+    "MohsHardness": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 2.5,
+          "Max": 2.5
+        }
+      ]
+    },
+    "SpecificGravity": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 5.35,
+          "Max": 5.35
+        }
+      ]
+    },
+    "Tenacity": "Brittle",
+    "CleavageQuality": "Perfect",
+    "Fracture": "Conchoidal",
+    "HeatSensitivity": ""
+  },
+  "OpticalProperties": {
+    "RefractiveIndex": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 1.809,
+          "Max": 1.859
+        }
+      ]
+    },
+    "Birefringence": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 0.05,
+          "Max": 0.05
+        }
+      ]
+    },
+    "Pleochroism": "Pale blue - blue - prussian blue",
+    "Dispersion": null
+  },
+  "ColourProperties": {
+    "General": "Bright to dark blue",
+    "Daylight": "",
+    "ChelseaFilter": "",
+    "CausesOfColour": "",
+    "Transparency": "Transparent,Translucent"
+  },
+  "FlouresenceProperties": {
+    "General": ""
+  },
+  "Crystallography": {
+    "CrystalSystem": "Monoclinic",
+    "Habit": "Elongated and characteristically tabular"
+  },
+  "GeologicalEnvironment": {
+    "WhereFound": "Occurs as an uncommon secondary mineral in the oxidized zone of lead–copper deposits"
+  },
+  "Inclusions": {
+    "Inclusions": "Occurs as an uncommon secondary mineral in the oxidized zone of lead–copper deposits"
+  }
+}

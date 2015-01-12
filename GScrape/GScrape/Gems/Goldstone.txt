@@ -1,0 +1,62 @@
+{
+  "Name": "Goldstone",
+  "Description": "Goldstone is a man-made glass filled with cuprous oxide which reduces to metallic copper during later annealing. It gives the material an aventurescent appearance.\r\n\r\nGoldstone has been produced in reddish-brown, blue, purple and green colors. It is usually cut en cabochon for use in jewelry as simulant of sunstone. The material can resemble lapis lazuli, if the glass host is blue.\r\n\r\nClick here to read a comprehensive article about Goldstone.",
+  "PhysicalProperties": {
+    "MohsHardness": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 6.0,
+          "Max": 6.0
+        }
+      ]
+    },
+    "SpecificGravity": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 2.5,
+          "Max": 2.8
+        }
+      ]
+    },
+    "Tenacity": "",
+    "CleavageQuality": "",
+    "Fracture": "",
+    "HeatSensitivity": ""
+  },
+  "OpticalProperties": {
+    "RefractiveIndex": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 1.53,
+          "Max": 1.55
+        }
+      ]
+    },
+    "Birefringence": null,
+    "Pleochroism": "",
+    "Dispersion": null
+  },
+  "ColourProperties": {
+    "General": "",
+    "Daylight": "",
+    "ChelseaFilter": "",
+    "CausesOfColour": "Contains flecks of copper giving it its appearance",
+    "Transparency": ""
+  },
+  "FlouresenceProperties": {
+    "General": ""
+  },
+  "Crystallography": {
+    "CrystalSystem": "Amorphous",
+    "Habit": ""
+  },
+  "GeologicalEnvironment": {
+    "WhereFound": ""
+  },
+  "Inclusions": {
+    "Inclusions": "Contains flecks of copper giving it its appearance"
+  }
+}

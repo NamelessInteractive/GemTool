@@ -1,0 +1,70 @@
+{
+  "Name": "Grandidierite",
+  "Description": "Grandidierite is named after Alfred Grandidier, French explorer of Madagascar, specialist of its geography and natural history.\r\n\r\nGrandidierite forms characteristic translucent bluish green or greenish blue elongated crystals. It has strong pleochroism: dark blue-green, colourless and dark green.\r\n\r\nCrystals up to 8 cm in length and limited amounts of facet-grade rough are found in southern Madagascar.",
+  "PhysicalProperties": {
+    "MohsHardness": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 7.5,
+          "Max": 7.5
+        }
+      ]
+    },
+    "SpecificGravity": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 2.85,
+          "Max": 3.0
+        }
+      ]
+    },
+    "Tenacity": "",
+    "CleavageQuality": "Distinct",
+    "Fracture": "Uneven",
+    "HeatSensitivity": ""
+  },
+  "OpticalProperties": {
+    "RefractiveIndex": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 1.578,
+          "Max": 1.639
+        }
+      ]
+    },
+    "Birefringence": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 0.037,
+          "Max": 0.039
+        }
+      ]
+    },
+    "Pleochroism": "Distinct: greenish blue - colorless - blue-green",
+    "Dispersion": null
+  },
+  "ColourProperties": {
+    "General": "Bluish-green, blue",
+    "Daylight": "",
+    "ChelseaFilter": "",
+    "CausesOfColour": "",
+    "Transparency": "Translucent"
+  },
+  "FlouresenceProperties": {
+    "General": "Inert"
+  },
+  "Crystallography": {
+    "CrystalSystem": "Orthorhombic",
+    "Habit": "Elongated anhedral crystals"
+  },
+  "GeologicalEnvironment": {
+    "WhereFound": "Grandidierite occurs in aluminous boron-rich rocks and in pegmatites."
+  },
+  "Inclusions": {
+    "Inclusions": "Grandidierite occurs in aluminous boron-rich rocks and in pegmatites."
+  }
+}

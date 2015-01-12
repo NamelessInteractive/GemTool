@@ -1,0 +1,70 @@
+{
+  "Name": "Serendibite",
+  "Description": "Serendibite is named after \"Serendib\", the old Arabic name for Sri Lanka, where the mineral was found.\r\n\r\nSerendibite forms small blue-green, blue-grey to deep blue, sometimes yellow, transparent tabular crystals. The material is strongly pleochroic: yellowish green, bluish green and violet-blue.\r\n\r\nCut stones are rare and usually of small size.",
+  "PhysicalProperties": {
+    "MohsHardness": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 6.5,
+          "Max": 7.0
+        }
+      ]
+    },
+    "SpecificGravity": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 3.43,
+          "Max": 3.44
+        }
+      ]
+    },
+    "Tenacity": "",
+    "CleavageQuality": "None",
+    "Fracture": "Uneven",
+    "HeatSensitivity": ""
+  },
+  "OpticalProperties": {
+    "RefractiveIndex": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 1.696,
+          "Max": 1.702
+        }
+      ]
+    },
+    "Birefringence": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 0.005,
+          "Max": 0.005
+        }
+      ]
+    },
+    "Pleochroism": "Strong: yellowish-green -- bluish-green --violet-blue",
+    "Dispersion": null
+  },
+  "ColourProperties": {
+    "General": "Bluish-green, green-blue",
+    "Daylight": "",
+    "ChelseaFilter": "",
+    "CausesOfColour": "",
+    "Transparency": "Transparent"
+  },
+  "FlouresenceProperties": {
+    "General": ""
+  },
+  "Crystallography": {
+    "CrystalSystem": "Triclinic",
+    "Habit": "Tabular"
+  },
+  "GeologicalEnvironment": {
+    "WhereFound": "Occurs generally in skarns affected by boron metasomatism."
+  },
+  "Inclusions": {
+    "Inclusions": "Occurs generally in skarns affected by boron metasomatism."
+  }
+}

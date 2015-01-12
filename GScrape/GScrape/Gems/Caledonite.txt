@@ -1,0 +1,62 @@
+{
+  "Name": "Caledonite",
+  "Description": "Caledonite is named after Caledonia, the traditional name of Scotland, the country of its discovery.\r\n\r\nCaledonite has a rich blue-green colour and high lustre. But well-developed crystals are quite rare.",
+  "PhysicalProperties": {
+    "MohsHardness": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 2.5,
+          "Max": 3.0
+        }
+      ]
+    },
+    "SpecificGravity": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 5.6,
+          "Max": 5.76
+        }
+      ]
+    },
+    "Tenacity": "Brittle",
+    "CleavageQuality": "Perfect,Imperfect",
+    "Fracture": "Uneven",
+    "HeatSensitivity": ""
+  },
+  "OpticalProperties": {
+    "RefractiveIndex": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 1.818,
+          "Max": 1.909
+        }
+      ]
+    },
+    "Birefringence": null,
+    "Pleochroism": "Weak",
+    "Dispersion": null
+  },
+  "ColourProperties": {
+    "General": "Deep verdigris-green, blue-green; pale bluish green in transmitted light.",
+    "Daylight": "",
+    "ChelseaFilter": "",
+    "CausesOfColour": "",
+    "Transparency": "Transparent,Translucent"
+  },
+  "FlouresenceProperties": {
+    "General": ""
+  },
+  "Crystallography": {
+    "CrystalSystem": "Orthorhombic",
+    "Habit": "As striated prismatic crystals, to 2.5 cm, typically flattened and displaying many forms. In divergent aggregates, rarely fibrous; as massive coatings."
+  },
+  "GeologicalEnvironment": {
+    "WhereFound": "An uncommon secondary mineral in the oxidized portions of Pb–Cu deposits."
+  },
+  "Inclusions": {
+    "Inclusions": "An uncommon secondary mineral in the oxidized portions of Pb–Cu deposits."
+  }
+}

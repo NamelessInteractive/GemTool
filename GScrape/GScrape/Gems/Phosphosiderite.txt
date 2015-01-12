@@ -1,0 +1,62 @@
+{
+  "Name": "Phosphosiderite",
+  "Description": "Phosphosiderite is named after its composition: phosphate and iron (Greek - sideros).\r\n\r\nPhosphosiderite forms small crystals up to 2.5 cm or botryoidal masses. The colour is peach-blossom-red, reddish violet, reddish purple, yellow-orange, solid pink, lavender, may be dark blue, moss-green to nearly colourless.\r\n\r\nPhosphosiderite is often cut into cabochons.",
+  "PhysicalProperties": {
+    "MohsHardness": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 3.5,
+          "Max": 4.0
+        }
+      ]
+    },
+    "SpecificGravity": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 2.74,
+          "Max": 2.76
+        }
+      ]
+    },
+    "Tenacity": "",
+    "CleavageQuality": "Good,Indistinct",
+    "Fracture": "Uneven",
+    "HeatSensitivity": ""
+  },
+  "OpticalProperties": {
+    "RefractiveIndex": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 1.692,
+          "Max": 1.739
+        }
+      ]
+    },
+    "Birefringence": null,
+    "Pleochroism": "Pale rose-red - carmine-red - colorless",
+    "Dispersion": null
+  },
+  "ColourProperties": {
+    "General": "Peach-blossom-red, reddish violet, reddish purple, yellow-orange, may be dark blue, moss-green to nearly colorless; in transmitted light, typically rose-red to colorless.",
+    "Daylight": "",
+    "ChelseaFilter": "",
+    "CausesOfColour": "",
+    "Transparency": "Transparent,Translucent"
+  },
+  "FlouresenceProperties": {
+    "General": ""
+  },
+  "Crystallography": {
+    "CrystalSystem": "Monoclinic",
+    "Habit": "As crystals, tabular, to stout prismatic, many others, to 2.5 cm. May be radial fibrous, in botryoidal or reniform crusts and masses"
+  },
+  "GeologicalEnvironment": {
+    "WhereFound": "Typically an alteration product of triphylite in zoned complex granite pegmatites; may be a component of soils; replacing bones or shells."
+  },
+  "Inclusions": {
+    "Inclusions": "Typically an alteration product of triphylite in zoned complex granite pegmatites; may be a component of soils; replacing bones or shells."
+  }
+}

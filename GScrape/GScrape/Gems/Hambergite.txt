@@ -1,0 +1,78 @@
+{
+  "Name": "Hambergite",
+  "Description": "Hambergite was named in honour of Swedish mineralogist A. Hamberg.\r\n\r\nMadagascar is an important source for facet-grade rough of this rare gem. Flawless stones are unusual and the perfect cleavages frequently cause problems for facetier. Rough pieces seldom exceed 4 grams.",
+  "PhysicalProperties": {
+    "MohsHardness": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 7.5,
+          "Max": 7.5
+        }
+      ]
+    },
+    "SpecificGravity": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 2.33,
+          "Max": 2.37
+        }
+      ]
+    },
+    "Tenacity": "Brittle",
+    "CleavageQuality": "Perfect",
+    "Fracture": "Conchoidal",
+    "HeatSensitivity": ""
+  },
+  "OpticalProperties": {
+    "RefractiveIndex": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 1.543,
+          "Max": 1.631
+        }
+      ]
+    },
+    "Birefringence": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 0.071,
+          "Max": 0.074
+        }
+      ]
+    },
+    "Pleochroism": "Nil",
+    "Dispersion": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 0.015,
+          "Max": 0.015
+        }
+      ]
+    }
+  },
+  "ColourProperties": {
+    "General": "Colourless, gray-white, yellow-white",
+    "Daylight": "",
+    "ChelseaFilter": "",
+    "CausesOfColour": "",
+    "Transparency": "Transparent,Translucent"
+  },
+  "FlouresenceProperties": {
+    "General": "Mostly inert, rarely orange"
+  },
+  "Crystallography": {
+    "CrystalSystem": "Orthorhombic",
+    "Habit": "Prismatic"
+  },
+  "GeologicalEnvironment": {
+    "WhereFound": "Occurs in granite pegmatites"
+  },
+  "Inclusions": {
+    "Inclusions": "Occurs in granite pegmatites"
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "Name": "Orthoclase",
+  "Description": "Orthoclase is transparent to opaque, often colourless or champagne colour Potassium Feldspar.\r\n\r\nThe name derived from Greek \"straight fracture\" and refers to the two cleavages present in this mineral that meet virtually at right angles to each other.",
+  "PhysicalProperties": {
+    "MohsHardness": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 6.0,
+          "Max": 6.0
+        }
+      ]
+    },
+    "SpecificGravity": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 2.54,
+          "Max": 2.61
+        }
+      ]
+    },
+    "Tenacity": "Brittle",
+    "CleavageQuality": "Perfect",
+    "Fracture": "Uneven",
+    "HeatSensitivity": ""
+  },
+  "OpticalProperties": {
+    "RefractiveIndex": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 1.518,
+          "Max": 1.536
+        }
+      ]
+    },
+    "Birefringence": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 0.005,
+          "Max": 0.008
+        }
+      ]
+    },
+    "Pleochroism": "Weak",
+    "Dispersion": null
+  },
+  "ColourProperties": {
+    "General": "Colourless, yellow",
+    "Daylight": "",
+    "ChelseaFilter": "",
+    "CausesOfColour": "Yellow, Fe3+ in tetrahedral coordination. Pink to red, microscopic hematite and/or lepidocrocite inclusions",
+    "Transparency": "Transparent"
+  },
+  "FlouresenceProperties": {
+    "General": "Yellow stones show weak orangy-red"
+  },
+  "Crystallography": {
+    "CrystalSystem": "Monoclinic",
+    "Habit": "Tabular"
+  },
+  "GeologicalEnvironment": {
+    "WhereFound": "Orthoclase is a component of many rocks and is typically found in acidic and alkaline igneous rocks particularly in granite pegmatites and syenites."
+  },
+  "Inclusions": {
+    "Inclusions": "Orthoclase is a component of many rocks and is typically found in acidic and alkaline igneous rocks particularly in granite pegmatites and syenites."
+  }
+}

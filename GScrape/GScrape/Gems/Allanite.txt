@@ -1,0 +1,62 @@
+{
+  "Name": "Allanite",
+  "Description": "Allanite is named in 1810 after Thomas Allan, the Scottish mineralogist who first noticed it.\r\n\r\nAllanite is a member of the Epidote group. It is opaque, with a dark brown (sometimes virtually black) colour.\r\n\r\nAllanite contains the rare earth elements Yttrium and Lanthanum.",
+  "PhysicalProperties": {
+    "MohsHardness": null,
+    "SpecificGravity": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 3.4,
+          "Max": 4.2
+        }
+      ]
+    },
+    "Tenacity": "",
+    "CleavageQuality": "",
+    "Fracture": "",
+    "HeatSensitivity": ""
+  },
+  "OpticalProperties": {
+    "RefractiveIndex": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 1.64,
+          "Max": 1.828
+        }
+      ]
+    },
+    "Birefringence": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 0.013,
+          "Max": 0.036
+        }
+      ]
+    },
+    "Pleochroism": "",
+    "Dispersion": null
+  },
+  "ColourProperties": {
+    "General": "Brown",
+    "Daylight": "",
+    "ChelseaFilter": "",
+    "CausesOfColour": "Colored by iron and radiation damage and possibly by rare earth elements",
+    "Transparency": ""
+  },
+  "FlouresenceProperties": {
+    "General": ""
+  },
+  "Crystallography": {
+    "CrystalSystem": "",
+    "Habit": ""
+  },
+  "GeologicalEnvironment": {
+    "WhereFound": ""
+  },
+  "Inclusions": {
+    "Inclusions": "Brown"
+  }
+}

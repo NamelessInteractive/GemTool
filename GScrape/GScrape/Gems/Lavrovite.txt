@@ -1,0 +1,38 @@
+{
+  "Name": "Lavrovite",
+  "Description": "Lavrovite is a green vanadium-bearing variety of Diopside, with an admixture of vanadium 1.5% and more wt% V2O3.",
+  "PhysicalProperties": {
+    "MohsHardness": null,
+    "SpecificGravity": null,
+    "Tenacity": "",
+    "CleavageQuality": "",
+    "Fracture": "",
+    "HeatSensitivity": ""
+  },
+  "OpticalProperties": {
+    "RefractiveIndex": null,
+    "Birefringence": null,
+    "Pleochroism": "",
+    "Dispersion": null
+  },
+  "ColourProperties": {
+    "General": "Blue, bluish, violet, bluish- and emerald-green.",
+    "Daylight": "",
+    "ChelseaFilter": "",
+    "CausesOfColour": "",
+    "Transparency": ""
+  },
+  "FlouresenceProperties": {
+    "General": ""
+  },
+  "Crystallography": {
+    "CrystalSystem": "",
+    "Habit": ""
+  },
+  "GeologicalEnvironment": {
+    "WhereFound": "Magnesium skarns"
+  },
+  "Inclusions": {
+    "Inclusions": "Magnesium skarns"
+  }
+}

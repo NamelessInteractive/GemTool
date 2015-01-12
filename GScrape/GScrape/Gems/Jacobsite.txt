@@ -1,0 +1,54 @@
+{
+  "Name": "Jacobsite",
+  "Description": "Jacobsite is named after its discovery locality, at the Jakobsberg mine, near Stockholm, Värmland, Sweden.\r\n\r\nJacobsite forms opaque to translucent, black to brownish black crystals or coarse to fine granular masses with metallic to submetallic lustre.",
+  "PhysicalProperties": {
+    "MohsHardness": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 5.5,
+          "Max": 6.5
+        }
+      ]
+    },
+    "SpecificGravity": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 4.76,
+          "Max": 5.03
+        }
+      ]
+    },
+    "Tenacity": "",
+    "CleavageQuality": "",
+    "Fracture": "",
+    "HeatSensitivity": ""
+  },
+  "OpticalProperties": {
+    "RefractiveIndex": null,
+    "Birefringence": null,
+    "Pleochroism": "",
+    "Dispersion": null
+  },
+  "ColourProperties": {
+    "General": "Black to brownish black; grayish white with olive tint in reflected light, with brown internal reflections.",
+    "Daylight": "",
+    "ChelseaFilter": "",
+    "CausesOfColour": "",
+    "Transparency": "Translucent,Opaque"
+  },
+  "FlouresenceProperties": {
+    "General": ""
+  },
+  "Crystallography": {
+    "CrystalSystem": "Isometric",
+    "Habit": "Rarely in octahedral crystals, to 4 mm, which may exhibit exsolved hausmannite or galaxite; coarse to fine granular, massive."
+  },
+  "GeologicalEnvironment": {
+    "WhereFound": "A primary mineral or an alteration product of other manganese-bearing minerals in some metamorphosed manganese deposits."
+  },
+  "Inclusions": {
+    "Inclusions": "A primary mineral or an alteration product of other manganese-bearing minerals in some metamorphosed manganese deposits."
+  }
+}

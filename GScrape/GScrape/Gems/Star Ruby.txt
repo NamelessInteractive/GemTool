@@ -1,0 +1,70 @@
+{
+  "Name": "Star Ruby",
+  "Description": "Star Ruby is a variety of Ruby exhibiting a star pattern, so-called asterism, which is caused by oriented microscopic inclusions, best exhibited in a cabochon cut perpendicular to the c-axis of the crystal.\r\n\r\nAsterism is explained by the dispersion and diffraction of inclined beams of light on these oriented acicular inclusions. The sharpness of the star image depends largely on the thinness of inclusions; thinner inclusions produce sharper asterism. It is also possible for inclusions of boehmite, titanite or hematite to cause asterism.",
+  "PhysicalProperties": {
+    "MohsHardness": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 9.0,
+          "Max": 0.0
+        }
+      ]
+    },
+    "SpecificGravity": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 3.95,
+          "Max": 4.1
+        }
+      ]
+    },
+    "Tenacity": "Brittle",
+    "CleavageQuality": "",
+    "Fracture": "Uneven,Conchoidal",
+    "HeatSensitivity": ""
+  },
+  "OpticalProperties": {
+    "RefractiveIndex": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 1.757,
+          "Max": 1.78
+        }
+      ]
+    },
+    "Birefringence": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 0.007,
+          "Max": 0.01
+        }
+      ]
+    },
+    "Pleochroism": "",
+    "Dispersion": null
+  },
+  "ColourProperties": {
+    "General": "Near colourless through pink through all shades of red to a deep crimson.",
+    "Daylight": "",
+    "ChelseaFilter": "",
+    "CausesOfColour": "",
+    "Transparency": "Transparent,Translucent,Opaque"
+  },
+  "FlouresenceProperties": {
+    "General": ""
+  },
+  "Crystallography": {
+    "CrystalSystem": "Trigonal",
+    "Habit": "Hexagonal, rhombohedral"
+  },
+  "GeologicalEnvironment": {
+    "WhereFound": ""
+  },
+  "Inclusions": {
+    "Inclusions": "Near colourless through pink through all shades of red to a deep crimson."
+  }
+}

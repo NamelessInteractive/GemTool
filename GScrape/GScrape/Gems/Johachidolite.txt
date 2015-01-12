@@ -1,0 +1,70 @@
+{
+  "Name": "Johachidolite",
+  "Description": "Johachidolite is named after its discovery locality, in the Johachido district, Kenkyohokudo, North Korea.\r\n\r\nJohachidolite forms transparent colorless, pale yellow, yellow, orange, brown equant subhedral crystals with vitreous lustre. The material has strong whitish blue fluorescence under LWUV.\r\n\r\nThe material of ultimate gem quality is reported from the Mogok region.",
+  "PhysicalProperties": {
+    "MohsHardness": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 7.5,
+          "Max": 7.5
+        }
+      ]
+    },
+    "SpecificGravity": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 3.45,
+          "Max": 3.45
+        }
+      ]
+    },
+    "Tenacity": "",
+    "CleavageQuality": "",
+    "Fracture": "",
+    "HeatSensitivity": ""
+  },
+  "OpticalProperties": {
+    "RefractiveIndex": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 1.717,
+          "Max": 1.724
+        }
+      ]
+    },
+    "Birefringence": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 0.007,
+          "Max": 0.007
+        }
+      ]
+    },
+    "Pleochroism": "",
+    "Dispersion": null
+  },
+  "ColourProperties": {
+    "General": "Yellow",
+    "Daylight": "",
+    "ChelseaFilter": "",
+    "CausesOfColour": "",
+    "Transparency": "Transparent,Translucent,Opaque"
+  },
+  "FlouresenceProperties": {
+    "General": ""
+  },
+  "Crystallography": {
+    "CrystalSystem": "Orthorhombic",
+    "Habit": "Equant subhedral crystals"
+  },
+  "GeologicalEnvironment": {
+    "WhereFound": "Occurs in a nepheline dike cutting limestone"
+  },
+  "Inclusions": {
+    "Inclusions": "Occurs in a nepheline dike cutting limestone"
+  }
+}

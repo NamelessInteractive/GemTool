@@ -1,0 +1,62 @@
+{
+  "Name": "Anthophyllite",
+  "Description": "Anthophyllite is named from Latin \"anthophyllum\" - a clove, alluding to its characteristic clove-brown colour.\r\n\r\nAnthophyllite usually forms lamellar or fibrous aggregates. Individual well-formed crystals are very rare.",
+  "PhysicalProperties": {
+    "MohsHardness": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 5.5,
+          "Max": 6.0
+        }
+      ]
+    },
+    "SpecificGravity": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 2.9,
+          "Max": 3.5
+        }
+      ]
+    },
+    "Tenacity": "Brittle",
+    "CleavageQuality": "Perfect,Distinct",
+    "Fracture": "",
+    "HeatSensitivity": ""
+  },
+  "OpticalProperties": {
+    "RefractiveIndex": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 1.603,
+          "Max": 1.69
+        }
+      ]
+    },
+    "Birefringence": null,
+    "Pleochroism": "When Fe-rich, moderate: clove-brown, yellowish brown, grayish brown - clove-brown, brown-gray, brownish - clove-brown to dark brown, grayish blue to green, lilac.",
+    "Dispersion": null
+  },
+  "ColourProperties": {
+    "General": "Gray, brownish gray, yellowish brown, clove-brown, brownish green, emerald green; in thin section, colorless to pale green or yellow",
+    "Daylight": "",
+    "ChelseaFilter": "",
+    "CausesOfColour": "",
+    "Transparency": "Transparent,Translucent"
+  },
+  "FlouresenceProperties": {
+    "General": ""
+  },
+  "Crystallography": {
+    "CrystalSystem": "Orthorhombic",
+    "Habit": "Crystals rare, to 25 cm; as bladed aggregates of unterminated prismatic crystals. Commonly lamellar or fibrous, asbestiform"
+  },
+  "GeologicalEnvironment": {
+    "WhereFound": "From medium- or high-grade metamorphism, in amphibolites, gneisses, metaquartzites, iron formations, granulites, and schists derived from argillaceous sediments, ultramafic, or mafic igneous rocks; a retrograde reaction product"
+  },
+  "Inclusions": {
+    "Inclusions": "From medium- or high-grade metamorphism, in amphibolites, gneisses, metaquartzites, iron formations, granulites, and schists derived from argillaceous sediments, ultramafic, or mafic igneous rocks; a retrograde reaction product"
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "Name": "Obsidian",
+  "Description": "Obsidian was so named from its resemblance to a stone found in Ethiopia by Obsius. It was used in antiquity for amulets and necklaces.\r\n\r\nObsidian is a naturally occurring volcanic glass. It is usually an opaque black or grey but may be yellow, red, greenish brown. Obsidian may have an iridescent sheen caused by inclusions.\r\n\r\nObsidian is used for ornamental purposes and as a gemstone.\r\n\r\nMany colored glasses are sold as \"obsidian\" often claiming to be natural.",
+  "PhysicalProperties": {
+    "MohsHardness": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 5.0,
+          "Max": 5.5
+        }
+      ]
+    },
+    "SpecificGravity": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 2.35,
+          "Max": 2.6
+        }
+      ]
+    },
+    "Tenacity": "",
+    "CleavageQuality": "None",
+    "Fracture": "Conchoidal",
+    "HeatSensitivity": ""
+  },
+  "OpticalProperties": {
+    "RefractiveIndex": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 1.45,
+          "Max": 1.55
+        }
+      ]
+    },
+    "Birefringence": null,
+    "Pleochroism": "Absent",
+    "Dispersion": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 0.01,
+          "Max": 0.01
+        }
+      ]
+    }
+  },
+  "ColourProperties": {
+    "General": "Black, brown, partly iridescent or with silvery or golden sheen (opaque)\r\nBrown, green, red (transparent)",
+    "Daylight": "",
+    "ChelseaFilter": "",
+    "CausesOfColour": "",
+    "Transparency": "Transparent,Translucent,Opaque"
+  },
+  "FlouresenceProperties": {
+    "General": "None"
+  },
+  "Crystallography": {
+    "CrystalSystem": "Amorphous",
+    "Habit": "Massive"
+  },
+  "GeologicalEnvironment": {
+    "WhereFound": "Occurs when volcanic lava is subjected to rapid heat loss."
+  },
+  "Inclusions": {
+    "Inclusions": "Occurs when volcanic lava is subjected to rapid heat loss."
+  }
+}

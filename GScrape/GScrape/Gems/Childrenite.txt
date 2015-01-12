@@ -1,0 +1,70 @@
+{
+  "Name": "Childrenite",
+  "Description": "Childrenite is named after J.G. Children, English physician and naturalist.\r\n\r\nChildrenite forms transparent to translucent, brown, yellow-brown, dark-yellow tabular or bladed crystals. Facet-quality rough is rare and cut stones are often relatively small.\r\n\r\nChildrenite is closely related to eosphorite.",
+  "PhysicalProperties": {
+    "MohsHardness": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 4.5,
+          "Max": 5.0
+        }
+      ]
+    },
+    "SpecificGravity": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 3.06,
+          "Max": 3.25
+        }
+      ]
+    },
+    "Tenacity": "",
+    "CleavageQuality": "Imperfect",
+    "Fracture": "Conchoidal",
+    "HeatSensitivity": ""
+  },
+  "OpticalProperties": {
+    "RefractiveIndex": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 1.639,
+          "Max": 1.672
+        }
+      ]
+    },
+    "Birefringence": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 0.041,
+          "Max": 0.042
+        }
+      ]
+    },
+    "Pleochroism": "Trichroic",
+    "Dispersion": null
+  },
+  "ColourProperties": {
+    "General": "Brown, yellow-brown, dark-yellow",
+    "Daylight": "",
+    "ChelseaFilter": "",
+    "CausesOfColour": "",
+    "Transparency": "Transparent,Translucent"
+  },
+  "FlouresenceProperties": {
+    "General": ""
+  },
+  "Crystallography": {
+    "CrystalSystem": "Monoclinic",
+    "Habit": "Tabular, prismatic"
+  },
+  "GeologicalEnvironment": {
+    "WhereFound": "In some complex granite pegmatites, typically a low-temperature hydrothermal alteration product of primary phosphate minerals."
+  },
+  "Inclusions": {
+    "Inclusions": "In some complex granite pegmatites, typically a low-temperature hydrothermal alteration product of primary phosphate minerals."
+  }
+}

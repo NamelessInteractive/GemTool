@@ -1,0 +1,70 @@
+{
+  "Name": "Andesine",
+  "Description": "Andesine feldspar is composed of 50-70% albite and 30-50% anorthite.\r\n\r\nAndesine was first described in 1841 for an occurrence in the Marmato mine, Colombia. It is named after the Andes mountains of South America.\r\n\r\nAndesine is found in a range of colours, from red, honey-red to orange, yellow, champagne and green.",
+  "PhysicalProperties": {
+    "MohsHardness": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 6.0,
+          "Max": 6.5
+        }
+      ]
+    },
+    "SpecificGravity": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 2.65,
+          "Max": 2.69
+        }
+      ]
+    },
+    "Tenacity": "Brittle",
+    "CleavageQuality": "Perfect",
+    "Fracture": "Uneven,Conchoidal",
+    "HeatSensitivity": ""
+  },
+  "OpticalProperties": {
+    "RefractiveIndex": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 1.543,
+          "Max": 1.564
+        }
+      ]
+    },
+    "Birefringence": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 0.007,
+          "Max": 0.011
+        }
+      ]
+    },
+    "Pleochroism": "",
+    "Dispersion": null
+  },
+  "ColourProperties": {
+    "General": "Light pink, also white, gray, yellowish, greenish.",
+    "Daylight": "",
+    "ChelseaFilter": "",
+    "CausesOfColour": "",
+    "Transparency": "Transparent,Translucent,Opaque"
+  },
+  "FlouresenceProperties": {
+    "General": ""
+  },
+  "Crystallography": {
+    "CrystalSystem": "Triclinic",
+    "Habit": ""
+  },
+  "GeologicalEnvironment": {
+    "WhereFound": "Andesine is only a minor constituent in most granites and syenites but is the dominant feldspar in a wide range of igneous rocks of basic to intermediate and certain igneous rocks called appropriately andesites. It is also found in some metamorphic rocks as a minor constituent."
+  },
+  "Inclusions": {
+    "Inclusions": "Andesine is only a minor constituent in most granites and syenites but is the dominant feldspar in a wide range of igneous rocks of basic to intermediate and certain igneous rocks called appropriately andesites. It is also found in some metamorphic rocks as a minor constituent."
+  }
+}

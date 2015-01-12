@@ -1,0 +1,70 @@
+{
+  "Name": "Chlorastrolite",
+  "Description": "Chlorastrolite is named from Greek \"chloros\" - green, and \"astros\" - star.\r\n\r\nChlorastrolite is often mottled light and dark green. The most desirable pattern resembles tortoiseshell. It is widely used in jewelry items that are not subjected to heavy wear.\r\n\r\nChlorastrolite is the state stone of Michigan, USA.",
+  "PhysicalProperties": {
+    "MohsHardness": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 5.0,
+          "Max": 6.0
+        }
+      ]
+    },
+    "SpecificGravity": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 3.1,
+          "Max": 3.5
+        }
+      ]
+    },
+    "Tenacity": "",
+    "CleavageQuality": "None",
+    "Fracture": "Splintery",
+    "HeatSensitivity": ""
+  },
+  "OpticalProperties": {
+    "RefractiveIndex": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 1.7,
+          "Max": 1.7
+        }
+      ]
+    },
+    "Birefringence": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 0.01,
+          "Max": 0.01
+        }
+      ]
+    },
+    "Pleochroism": "Nil",
+    "Dispersion": null
+  },
+  "ColourProperties": {
+    "General": "Green and white patterns. The most desirable pattern resembles tortoiseshell.",
+    "Daylight": "",
+    "ChelseaFilter": "",
+    "CausesOfColour": "Green, Fe2+-O-Fe3+ charge transfer coordination, plus Fe2+",
+    "Transparency": "Opaque"
+  },
+  "FlouresenceProperties": {
+    "General": ""
+  },
+  "Crystallography": {
+    "CrystalSystem": "Orthorhombic",
+    "Habit": "Fibrous aggregates"
+  },
+  "GeologicalEnvironment": {
+    "WhereFound": "Occurs in cavities in amygdaloidal basalt tending to fill the smaller voids, few of which are larger than a pea."
+  },
+  "Inclusions": {
+    "Inclusions": "Occurs in cavities in amygdaloidal basalt tending to fill the smaller voids, few of which are larger than a pea."
+  }
+}

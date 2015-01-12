@@ -1,0 +1,62 @@
+{
+  "Name": "Lazurite",
+  "Description": "Lazurite is named after Latin \"lazulum\" or Persian \"lazhward\" - blue, alluding to its colour.\r\n\r\nLazurite can be found as well-formed crystals of deep blue colour. But it is more frequent in its massive form as the main component of Lapis Lazuli.\r\n\r\nLazurite is cut into cabochons or can be used for carvings.\r\n\r\nMineralogically speaking Lazurite is a sulfide-rich variety of Hauyne.",
+  "PhysicalProperties": {
+    "MohsHardness": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 5.5,
+          "Max": 5.5
+        }
+      ]
+    },
+    "SpecificGravity": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 2.75,
+          "Max": 2.75
+        }
+      ]
+    },
+    "Tenacity": "Brittle",
+    "CleavageQuality": "Poor",
+    "Fracture": "Uneven",
+    "HeatSensitivity": ""
+  },
+  "OpticalProperties": {
+    "RefractiveIndex": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 1.5,
+          "Max": 1.5
+        }
+      ]
+    },
+    "Birefringence": null,
+    "Pleochroism": "",
+    "Dispersion": null
+  },
+  "ColourProperties": {
+    "General": "Blue",
+    "Daylight": "",
+    "ChelseaFilter": "",
+    "CausesOfColour": "Blue (lapis lazuli), S3 - (charge transfer)",
+    "Transparency": "Opaque"
+  },
+  "FlouresenceProperties": {
+    "General": ""
+  },
+  "Crystallography": {
+    "CrystalSystem": "Isometric",
+    "Habit": "Dodecahedral"
+  },
+  "GeologicalEnvironment": {
+    "WhereFound": "A contact metamorphic mineral in limestones"
+  },
+  "Inclusions": {
+    "Inclusions": "A contact metamorphic mineral in limestones"
+  }
+}

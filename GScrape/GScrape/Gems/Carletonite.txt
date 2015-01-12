@@ -1,0 +1,70 @@
+{
+  "Name": "Carletonite",
+  "Description": "Carletonite is named after Carleton University, Ottawa, Canada, where it was first recognized.\r\n\r\nCarletonite has been found as transparent pale blue, opaque to translucent pink, white and grey material with colour zoning.",
+  "PhysicalProperties": {
+    "MohsHardness": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 4.0,
+          "Max": 4.5
+        }
+      ]
+    },
+    "SpecificGravity": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 2.45,
+          "Max": 2.45
+        }
+      ]
+    },
+    "Tenacity": "",
+    "CleavageQuality": "Perfect",
+    "Fracture": "",
+    "HeatSensitivity": ""
+  },
+  "OpticalProperties": {
+    "RefractiveIndex": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 1.517,
+          "Max": 1.521
+        }
+      ]
+    },
+    "Birefringence": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 0.004,
+          "Max": 0.004
+        }
+      ]
+    },
+    "Pleochroism": "Some of the blue specimens may show blue to pinkish brown pleochroism",
+    "Dispersion": null
+  },
+  "ColourProperties": {
+    "General": "Deep blue, pale blue",
+    "Daylight": "",
+    "ChelseaFilter": "",
+    "CausesOfColour": "",
+    "Transparency": "Transparent"
+  },
+  "FlouresenceProperties": {
+    "General": ""
+  },
+  "Crystallography": {
+    "CrystalSystem": "Tetragonal",
+    "Habit": ""
+  },
+  "GeologicalEnvironment": {
+    "WhereFound": "Is found in nepheline syenite"
+  },
+  "Inclusions": {
+    "Inclusions": "Is found in nepheline syenite"
+  }
+}

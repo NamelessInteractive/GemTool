@@ -1,0 +1,70 @@
+{
+  "Name": "Rose Quartz",
+  "Description": "Rose quartz (named after its pink colour) is a type of Quartz which exhibits a pale pink to rose red hue. Rose quartz is often crackled, usually a little turbid. Colour can fade. Traces of included rutile needles cause 6-rayed stars when cut en cabochon.",
+  "PhysicalProperties": {
+    "MohsHardness": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 7.0,
+          "Max": 7.0
+        }
+      ]
+    },
+    "SpecificGravity": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 2.65,
+          "Max": 2.65
+        }
+      ]
+    },
+    "Tenacity": "Brittle",
+    "CleavageQuality": "None",
+    "Fracture": "Conchoidal",
+    "HeatSensitivity": ""
+  },
+  "OpticalProperties": {
+    "RefractiveIndex": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 1.544,
+          "Max": 1.553
+        }
+      ]
+    },
+    "Birefringence": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 0.009,
+          "Max": 0.009
+        }
+      ]
+    },
+    "Pleochroism": "Weak: pink - pale pink",
+    "Dispersion": null
+  },
+  "ColourProperties": {
+    "General": "Strong pink, pale pink.",
+    "Daylight": "",
+    "ChelseaFilter": "",
+    "CausesOfColour": "Pink, charge transfer between a substitutional Ti4+ and an interstitial Ti3+ unstable color center O- ion bridging between substitutional aluminum and substitutional phosphorus atom; dumortierite inclusions.",
+    "Transparency": "Translucent"
+  },
+  "FlouresenceProperties": {
+    "General": "Inert to weak purple"
+  },
+  "Crystallography": {
+    "CrystalSystem": "Trigonal",
+    "Habit": "Prisms, mostly compact"
+  },
+  "GeologicalEnvironment": {
+    "WhereFound": ""
+  },
+  "Inclusions": {
+    "Inclusions": "Inert to weak purple"
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "Name": "Bertrandite",
+  "Description": "Bertrandite is named after Emile Bertrand, mineralogist and mining engineer of Paris, France, who first called attention to the mineral.\r\n\r\nBertrandite forms transparent, colourless to pale yellow crystals. Large and clean enough crystals suitable for faceting are rare.\r\n\r\nBertrandite often occurs as a pseudomorphic replacement of beryl.",
+  "PhysicalProperties": {
+    "MohsHardness": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 6.0,
+          "Max": 7.0
+        }
+      ]
+    },
+    "SpecificGravity": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 2.59,
+          "Max": 2.6
+        }
+      ]
+    },
+    "Tenacity": "",
+    "CleavageQuality": "Perfect,Distinct",
+    "Fracture": "",
+    "HeatSensitivity": ""
+  },
+  "OpticalProperties": {
+    "RefractiveIndex": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 1.583,
+          "Max": 1.614
+        }
+      ]
+    },
+    "Birefringence": null,
+    "Pleochroism": "",
+    "Dispersion": null
+  },
+  "ColourProperties": {
+    "General": "Colorless to slightly yellow",
+    "Daylight": "",
+    "ChelseaFilter": "",
+    "CausesOfColour": "",
+    "Transparency": "Transparent"
+  },
+  "FlouresenceProperties": {
+    "General": ""
+  },
+  "Crystallography": {
+    "CrystalSystem": "Orthorhombic",
+    "Habit": "Crystals thin tabular, commonly prismatic to needlelike, to 5 cm; in radial aggregates."
+  },
+  "GeologicalEnvironment": {
+    "WhereFound": "In fissures in granites and associated pegmatites and in miarolitic cavities in greisens; commonly an alteration product of beryl, more rarely as a primary mineral."
+  },
+  "Inclusions": {
+    "Inclusions": "In fissures in granites and associated pegmatites and in miarolitic cavities in greisens; commonly an alteration product of beryl, more rarely as a primary mineral."
+  }
+}

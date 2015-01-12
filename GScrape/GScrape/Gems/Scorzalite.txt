@@ -1,0 +1,70 @@
+{
+  "Name": "Scorzalite",
+  "Description": "Scorzalite is named after Evaristo Penna Scorza, Brazilian mineralogist.\r\n\r\nScorzalite forms transparent to translucent dark blue, blue-green masses. It forms a series to lazulite, but Scorzalite is darker and less transparent.\r\n\r\nScorzalite is usually cut into cabochons. Faceted stones are rare.",
+  "PhysicalProperties": {
+    "MohsHardness": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 5.5,
+          "Max": 6.0
+        }
+      ]
+    },
+    "SpecificGravity": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 3.31,
+          "Max": 3.31
+        }
+      ]
+    },
+    "Tenacity": "",
+    "CleavageQuality": "Good,Indistinct",
+    "Fracture": "",
+    "HeatSensitivity": ""
+  },
+  "OpticalProperties": {
+    "RefractiveIndex": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 1.639,
+          "Max": 1.68
+        }
+      ]
+    },
+    "Birefringence": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 0.041,
+          "Max": 0.041
+        }
+      ]
+    },
+    "Pleochroism": "Colorless - blue",
+    "Dispersion": null
+  },
+  "ColourProperties": {
+    "General": "Blue-green",
+    "Daylight": "",
+    "ChelseaFilter": "",
+    "CausesOfColour": "",
+    "Transparency": "Transparent"
+  },
+  "FlouresenceProperties": {
+    "General": ""
+  },
+  "Crystallography": {
+    "CrystalSystem": "Monoclinic",
+    "Habit": "Massive"
+  },
+  "GeologicalEnvironment": {
+    "WhereFound": "Scorzalite occurs as a secondary mineral in complex-zoned granite pegmatites."
+  },
+  "Inclusions": {
+    "Inclusions": "Scorzalite occurs as a secondary mineral in complex-zoned granite pegmatites."
+  }
+}

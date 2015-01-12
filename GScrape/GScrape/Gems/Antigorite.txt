@@ -1,0 +1,62 @@
+{
+  "Name": "Antigorite",
+  "Description": "Antigorite is named after its discovery locality, in the Valle Antigorio, Piemonte, Italy.\r\n\r\nAntigorite is a hard compact type of Serpentine. It occurs in tough pleated masses. The material is usually dark green in colour, but may also be yellowish, gray, brown or black.",
+  "PhysicalProperties": {
+    "MohsHardness": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 5.0,
+          "Max": 5.5
+        }
+      ]
+    },
+    "SpecificGravity": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 2.58,
+          "Max": 2.8
+        }
+      ]
+    },
+    "Tenacity": "",
+    "CleavageQuality": "Perfect",
+    "Fracture": "Conchoidal,Splintery",
+    "HeatSensitivity": ""
+  },
+  "OpticalProperties": {
+    "RefractiveIndex": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 1.53,
+          "Max": 1.575
+        }
+      ]
+    },
+    "Birefringence": null,
+    "Pleochroism": "",
+    "Dispersion": null
+  },
+  "ColourProperties": {
+    "General": "Green, blue-green, white; colorless to pale green in thin section.",
+    "Daylight": "",
+    "ChelseaFilter": "",
+    "CausesOfColour": "",
+    "Transparency": "Translucent,Opaque"
+  },
+  "FlouresenceProperties": {
+    "General": ""
+  },
+  "Crystallography": {
+    "CrystalSystem": "Monoclinic",
+    "Habit": "Minute crystals, typically platy, rarely elongated; some plates have rectangular outline due to cleavage; commonly bladed or fibrous."
+  },
+  "GeologicalEnvironment": {
+    "WhereFound": "Commonly replaces ultramafic rocks, pervasively or in crosscutting veinlets. As a replacement of siliceous dolostone along contacts with diabase sills"
+  },
+  "Inclusions": {
+    "Inclusions": "Commonly replaces ultramafic rocks, pervasively or in crosscutting veinlets. As a replacement of siliceous dolostone along contacts with diabase sills"
+  }
+}

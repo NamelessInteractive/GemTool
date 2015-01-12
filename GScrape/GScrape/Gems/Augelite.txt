@@ -1,0 +1,70 @@
+{
+  "Name": "Augelite",
+  "Description": "Augelite is named after Greek \"auge\" - bright, alluding to the pearly lustre of cleavage surfaces.\r\n\r\nAugelite is an extremely rare phosphate mineral found at a very few localities worldwide. Colourless, yellowish, pale rose or pale blue crystals of augelite have been fashioned.\r\n\r\nWhite Mountain, California appeared to be the only source of facet-grade rough, but it has been reported to be exhausted.",
+  "PhysicalProperties": {
+    "MohsHardness": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 4.5,
+          "Max": 5.0
+        }
+      ]
+    },
+    "SpecificGravity": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 2.7,
+          "Max": 2.75
+        }
+      ]
+    },
+    "Tenacity": "Brittle",
+    "CleavageQuality": "Perfect",
+    "Fracture": "Conchoidal",
+    "HeatSensitivity": "Sensitive"
+  },
+  "OpticalProperties": {
+    "RefractiveIndex": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 1.57,
+          "Max": 1.591
+        }
+      ]
+    },
+    "Birefringence": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 0.02,
+          "Max": 0.021
+        }
+      ]
+    },
+    "Pleochroism": "Nil",
+    "Dispersion": null
+  },
+  "ColourProperties": {
+    "General": "Colourless, yellowish",
+    "Daylight": "",
+    "ChelseaFilter": "",
+    "CausesOfColour": "",
+    "Transparency": "Transparent"
+  },
+  "FlouresenceProperties": {
+    "General": "Shows no luminescence"
+  },
+  "Crystallography": {
+    "CrystalSystem": "Monoclinic",
+    "Habit": "Tabular"
+  },
+  "GeologicalEnvironment": {
+    "WhereFound": "Occurs in granitic pegmatites and hydrothermal veins."
+  },
+  "Inclusions": {
+    "Inclusions": "Occurs in granitic pegmatites and hydrothermal veins."
+  }
+}

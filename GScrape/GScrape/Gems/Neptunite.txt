@@ -1,0 +1,70 @@
+{
+  "Name": "Neptunite",
+  "Description": "Neptunite is named after Neptune, Roman god of the sea, because it was found with aegirine, which was named after Aegir, the Scandinavian sea god.\r\n\r\nNeptunite forms translucent or opaque black or very dark red prismatic crystals with square cross-sections.\r\n\r\nThe crystals of Neptunite show piezoelectricity.",
+  "PhysicalProperties": {
+    "MohsHardness": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 5.0,
+          "Max": 6.0
+        }
+      ]
+    },
+    "SpecificGravity": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 3.19,
+          "Max": 3.23
+        }
+      ]
+    },
+    "Tenacity": "Brittle",
+    "CleavageQuality": "Perfect",
+    "Fracture": "Conchoidal",
+    "HeatSensitivity": ""
+  },
+  "OpticalProperties": {
+    "RefractiveIndex": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 1.692,
+          "Max": 1.734
+        }
+      ]
+    },
+    "Birefringence": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 0.029,
+          "Max": 0.045
+        }
+      ]
+    },
+    "Pleochroism": "Pale yellow - yellow-orange - orange to red-brown",
+    "Dispersion": null
+  },
+  "ColourProperties": {
+    "General": "Black or very dark red",
+    "Daylight": "",
+    "ChelseaFilter": "",
+    "CausesOfColour": "",
+    "Transparency": "Translucent,Opaque"
+  },
+  "FlouresenceProperties": {
+    "General": ""
+  },
+  "Crystallography": {
+    "CrystalSystem": "Monoclinic",
+    "Habit": "Prismatic crystals with square cross-sections"
+  },
+  "GeologicalEnvironment": {
+    "WhereFound": "Occurs in natrolite veins cutting a glaucophane schist in a serpentinite body"
+  },
+  "Inclusions": {
+    "Inclusions": "Occurs in natrolite veins cutting a glaucophane schist in a serpentinite body"
+  }
+}

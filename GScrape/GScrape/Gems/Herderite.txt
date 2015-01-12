@@ -1,0 +1,70 @@
+{
+  "Name": "Herderite",
+  "Description": "Herderite is named after Siegmund A.W. von Herder, mining official of Freiberg, Saxony, Germany.\r\n\r\nHerderite forms good single crystals, twinning is common. Gem material is transparent and has a range of colours, including yellow, blue, pink, violet and green, some crystals are colourless.\r\n\r\nClear crystals are faceted into attractive gems.",
+  "PhysicalProperties": {
+    "MohsHardness": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 5.0,
+          "Max": 5.5
+        }
+      ]
+    },
+    "SpecificGravity": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 2.9,
+          "Max": 3.02
+        }
+      ]
+    },
+    "Tenacity": "",
+    "CleavageQuality": "Indistinct",
+    "Fracture": "Sub-Conchoidal",
+    "HeatSensitivity": ""
+  },
+  "OpticalProperties": {
+    "RefractiveIndex": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 1.587,
+          "Max": 1.642
+        }
+      ]
+    },
+    "Birefringence": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 0.028,
+          "Max": 0.032
+        }
+      ]
+    },
+    "Pleochroism": "",
+    "Dispersion": null
+  },
+  "ColourProperties": {
+    "General": "Greyish blue, colourless, pale green, yellowish.",
+    "Daylight": "",
+    "ChelseaFilter": "",
+    "CausesOfColour": "",
+    "Transparency": "Transparent,Translucent"
+  },
+  "FlouresenceProperties": {
+    "General": "Commonly greenish to violet"
+  },
+  "Crystallography": {
+    "CrystalSystem": "Monoclinic",
+    "Habit": "Pseudo-orthorhombic crystals"
+  },
+  "GeologicalEnvironment": {
+    "WhereFound": "Is believed to occur in complex granite pegmatites"
+  },
+  "Inclusions": {
+    "Inclusions": "Is believed to occur in complex granite pegmatites"
+  }
+}

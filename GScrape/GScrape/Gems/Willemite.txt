@@ -1,0 +1,70 @@
+{
+  "Name": "Willemite",
+  "Description": "Willemite was discovered in 1830 and named after William I, King of the Netherlands.\r\n\r\nWillemite is famous for its remarkable luminescent properties. It exhibits strong green fluorescence under short-wave ultraviolet light. Some specimens may exhibit phosphorescence, they continue to glow for some time even after the UV source is removed.\r\n\r\nGem quality crystals are usually small and rarely exceed two grams, but can be faceted into attractive gems.",
+  "PhysicalProperties": {
+    "MohsHardness": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 5.5,
+          "Max": 5.5
+        }
+      ]
+    },
+    "SpecificGravity": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 3.89,
+          "Max": 4.18
+        }
+      ]
+    },
+    "Tenacity": "",
+    "CleavageQuality": "Distinct",
+    "Fracture": "Sub-Conchoidal",
+    "HeatSensitivity": ""
+  },
+  "OpticalProperties": {
+    "RefractiveIndex": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 1.687,
+          "Max": 1.723
+        }
+      ]
+    },
+    "Birefringence": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 0.028,
+          "Max": 0.03
+        }
+      ]
+    },
+    "Pleochroism": "Nil",
+    "Dispersion": null
+  },
+  "ColourProperties": {
+    "General": "Colourless, yellow, greenish-yellow, yellow-green, orange, brown, red, blue",
+    "Daylight": "",
+    "ChelseaFilter": "",
+    "CausesOfColour": "Yellow, Mn2+ in tetrahedral coordination",
+    "Transparency": "Transparent,Translucent,Opaque"
+  },
+  "FlouresenceProperties": {
+    "General": "Weak to strong green-(yellow), common phosphorescence"
+  },
+  "Crystallography": {
+    "CrystalSystem": "Trigonal",
+    "Habit": "Prismatic, massive"
+  },
+  "GeologicalEnvironment": {
+    "WhereFound": "Willemite occurs in zinc deposits in limestones and is an uncommon ore of zinc."
+  },
+  "Inclusions": {
+    "Inclusions": "Willemite occurs in zinc deposits in limestones and is an uncommon ore of zinc."
+  }
+}

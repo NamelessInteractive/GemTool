@@ -1,0 +1,46 @@
+{
+  "Name": "Nano-Polycrystalline Diamond",
+  "Description": "A completely transparent, polycrystalline synthetic consisting of randomly oriented, very tightly bonded nanoscale-sized diamond crystallites. (G&G Summer, 2012)\r\n\r\nUsing a sintering process, the material is created in a multi-anvil press at 15 gigapascals (2.18 million psi) and 2,300 to 2,500°C. High-purity graphite is thus converted directly into cubic diamond in a matter of minutes (G&G Summer, 2012)\r\n\r\nDue to its polycrystalline nature, it is effectively uniformly hard in all directions at the macro scale and therefore requires special cutting and polishing methods - (G&G Summer, 2012)\r\n\r\nGems and Gemology journal (Fall 2012) pictured an 0.88 carat round brilliant stone cut from this material as an illustration accompanying the first-ever gemological characterization of NPD as a gemstone.",
+  "PhysicalProperties": {
+    "MohsHardness": null,
+    "SpecificGravity": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 3.52,
+          "Max": 3.52
+        }
+      ]
+    },
+    "Tenacity": "",
+    "CleavageQuality": "",
+    "Fracture": "",
+    "HeatSensitivity": ""
+  },
+  "OpticalProperties": {
+    "RefractiveIndex": null,
+    "Birefringence": null,
+    "Pleochroism": "",
+    "Dispersion": null
+  },
+  "ColourProperties": {
+    "General": "Yellow",
+    "Daylight": "",
+    "ChelseaFilter": "",
+    "CausesOfColour": "",
+    "Transparency": "Transparent"
+  },
+  "FlouresenceProperties": {
+    "General": ""
+  },
+  "Crystallography": {
+    "CrystalSystem": "",
+    "Habit": ""
+  },
+  "GeologicalEnvironment": {
+    "WhereFound": ""
+  },
+  "Inclusions": {
+    "Inclusions": "Weak reddish orange"
+  }
+}

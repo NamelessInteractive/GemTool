@@ -1,0 +1,62 @@
+{
+  "Name": "Lapis Lazuli",
+  "Description": "Lapis Lazuli (Arabic and Latin - blue stone) can be described as an impure variety of the mineral Lazurite, however more accurately it is a type of rock containing primarily Lazurite (25-40%), Calcite and Pyrite (also augite, diopside, enstatite, mica, hornblende, sodalite, haüyne).\r\n\r\nIt has a very distinctive blue colour (due to the Lazurite). Too much pyrite causes a dull, greenish tint. In the best-quality specimens, the colour is evenly distributed, but in general it is spotty or striated.\r\n\r\nAs well as use in carvings and gems, it has been used for millennia as a blue pigment when ground to a fine powder (known as ultramarine).",
+  "PhysicalProperties": {
+    "MohsHardness": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 5.5,
+          "Max": 5.5
+        }
+      ]
+    },
+    "SpecificGravity": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 2.5,
+          "Max": 3.0
+        }
+      ]
+    },
+    "Tenacity": "",
+    "CleavageQuality": "Indistinct",
+    "Fracture": "Conchoidal",
+    "HeatSensitivity": ""
+  },
+  "OpticalProperties": {
+    "RefractiveIndex": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 1.5,
+          "Max": 1.67
+        }
+      ]
+    },
+    "Birefringence": null,
+    "Pleochroism": "Absent",
+    "Dispersion": null
+  },
+  "ColourProperties": {
+    "General": "Lazur blue, violet, greenish-blue",
+    "Daylight": "",
+    "ChelseaFilter": "",
+    "CausesOfColour": "",
+    "Transparency": "Opaque"
+  },
+  "FlouresenceProperties": {
+    "General": "Strong: white, also orange, copper-coloured"
+  },
+  "Crystallography": {
+    "CrystalSystem": "Isometric",
+    "Habit": "Rare; dense aggregates"
+  },
+  "GeologicalEnvironment": {
+    "WhereFound": "Occurs mainly in association with leucite or nepheline in nepheline syenites, phonolites and related undersaturated igneous rocks."
+  },
+  "Inclusions": {
+    "Inclusions": "Occurs mainly in association with leucite or nepheline in nepheline syenites, phonolites and related undersaturated igneous rocks."
+  }
+}

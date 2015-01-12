@@ -1,0 +1,70 @@
+{
+  "Name": "Apophyllite",
+  "Description": "Apophyllite is named after Greek \"apo\" - away and \"phyllazein\" - to get leaves, alluding to its exfoliation when heated with a blowpipe. They can also be called \"fisheye stone\".\r\n\r\nApophyllite is popular because of its abundance, colour variety, and well-defined crystals, but easy cleavage, brittleness and extreme heat sensitivity make this material difficult to facet.",
+  "PhysicalProperties": {
+    "MohsHardness": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 4.5,
+          "Max": 5.0
+        }
+      ]
+    },
+    "SpecificGravity": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 2.3,
+          "Max": 2.5
+        }
+      ]
+    },
+    "Tenacity": "",
+    "CleavageQuality": "Perfect",
+    "Fracture": "Uneven",
+    "HeatSensitivity": ""
+  },
+  "OpticalProperties": {
+    "RefractiveIndex": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 1.53,
+          "Max": 1.543
+        }
+      ]
+    },
+    "Birefringence": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 0.0,
+          "Max": 0.003
+        }
+      ]
+    },
+    "Pleochroism": "",
+    "Dispersion": null
+  },
+  "ColourProperties": {
+    "General": "White, colourless, bluish, reddish, yellowish, greenish",
+    "Daylight": "",
+    "ChelseaFilter": "",
+    "CausesOfColour": "Green, V4+ in distorted octahedral coordination",
+    "Transparency": "Transparent,Translucent,Opaque"
+  },
+  "FlouresenceProperties": {
+    "General": ""
+  },
+  "Crystallography": {
+    "CrystalSystem": "Tetragonal",
+    "Habit": "Tabular, prismatic, pseudo-cubic"
+  },
+  "GeologicalEnvironment": {
+    "WhereFound": "Apophyllite occurs in basalts and granites"
+  },
+  "Inclusions": {
+    "Inclusions": "Apophyllite occurs in basalts and granites"
+  }
+}

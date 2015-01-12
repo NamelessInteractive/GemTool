@@ -1,0 +1,62 @@
+{
+  "Name": "Sussexite",
+  "Description": "Sussexite is named after its discovery locality, at Franklin, Sussex County, New Jersey, USA.\r\n\r\nSussexite forms white, pink, yellowish white prismatic and typically fibrous crystals with a pearly lustre. The material is usually translucent.\r\n\r\nSussexite is an extremely rare gem.",
+  "PhysicalProperties": {
+    "MohsHardness": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 3.0,
+          "Max": 3.5
+        }
+      ]
+    },
+    "SpecificGravity": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 3.3,
+          "Max": 3.3
+        }
+      ]
+    },
+    "Tenacity": "",
+    "CleavageQuality": "",
+    "Fracture": "",
+    "HeatSensitivity": ""
+  },
+  "OpticalProperties": {
+    "RefractiveIndex": null,
+    "Birefringence": null,
+    "Pleochroism": "",
+    "Dispersion": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 1.67,
+          "Max": 1.732
+        }
+      ]
+    }
+  },
+  "ColourProperties": {
+    "General": "White to buff, straw-yellow, pale pink; colorless in transmitted light.",
+    "Daylight": "",
+    "ChelseaFilter": "",
+    "CausesOfColour": "",
+    "Transparency": "Transparent,Translucent"
+  },
+  "FlouresenceProperties": {
+    "General": ""
+  },
+  "Crystallography": {
+    "CrystalSystem": "Monoclinic",
+    "Habit": "As bladed acicular crystals, to 7 mm; cross-vein or radial fibrous, in felted or matted aggregates, nodular."
+  },
+  "GeologicalEnvironment": {
+    "WhereFound": "A rare hydrothermal mineral typically in veinlets in boron-bearing metamorphosed Mn–Fe–Zn deposits."
+  },
+  "Inclusions": {
+    "Inclusions": "A rare hydrothermal mineral typically in veinlets in boron-bearing metamorphosed Mn–Fe–Zn deposits."
+  }
+}

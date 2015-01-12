@@ -1,0 +1,70 @@
+{
+  "Name": "Bastnäsite",
+  "Description": "Bastnäsite is named after its discovery locality at Bastnäs, Ridar-hyttan district, Västmanland, Sweden.\r\n\r\nBastnasite is found as dark orange brown to brown crystals.\r\n\r\nGem rough and cut stones are rare.",
+  "PhysicalProperties": {
+    "MohsHardness": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 4.0,
+          "Max": 4.5
+        }
+      ]
+    },
+    "SpecificGravity": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 4.78,
+          "Max": 5.2
+        }
+      ]
+    },
+    "Tenacity": "",
+    "CleavageQuality": "Distinct,Poor",
+    "Fracture": "Uneven",
+    "HeatSensitivity": ""
+  },
+  "OpticalProperties": {
+    "RefractiveIndex": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 1.72,
+          "Max": 1.82
+        }
+      ]
+    },
+    "Birefringence": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 0.1,
+          "Max": 0.1
+        }
+      ]
+    },
+    "Pleochroism": "Weak",
+    "Dispersion": null
+  },
+  "ColourProperties": {
+    "General": "Orange-brown, brown",
+    "Daylight": "",
+    "ChelseaFilter": "",
+    "CausesOfColour": "",
+    "Transparency": "Transparent"
+  },
+  "FlouresenceProperties": {
+    "General": ""
+  },
+  "Crystallography": {
+    "CrystalSystem": "Hexagonal",
+    "Habit": "Short prisms, Tabular rounded"
+  },
+  "GeologicalEnvironment": {
+    "WhereFound": "Occurs in bauxite deposits, carbonatites and rarely in unusual granites. Sometimes in hydrothermal sources."
+  },
+  "Inclusions": {
+    "Inclusions": "Occurs in bauxite deposits, carbonatites and rarely in unusual granites. Sometimes in hydrothermal sources."
+  }
+}

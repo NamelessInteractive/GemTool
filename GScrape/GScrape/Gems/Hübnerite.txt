@@ -1,0 +1,70 @@
+{
+  "Name": "Hübnerite",
+  "Description": "Hübnerite is named after Hüttenmeister Adolph Hübner, German mining engineer and metallurgist at Freiberg, Saxony.\r\n\r\nHübnerite forms transparent to translucent prismatic yellowish brown to reddish brown crystals. The crystals are typically flattened and occur with fine striations in the direction of elongation.\r\n\r\nDeep blood-red internal reflections combined with the metallic-adamantine-resinous lustre make this gem very attractive.",
+  "PhysicalProperties": {
+    "MohsHardness": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 4.0,
+          "Max": 4.5
+        }
+      ]
+    },
+    "SpecificGravity": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 7.12,
+          "Max": 7.18
+        }
+      ]
+    },
+    "Tenacity": "Brittle",
+    "CleavageQuality": "Perfect",
+    "Fracture": "Uneven",
+    "HeatSensitivity": ""
+  },
+  "OpticalProperties": {
+    "RefractiveIndex": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 2.17,
+          "Max": 2.32
+        }
+      ]
+    },
+    "Birefringence": {
+      "Case": "Some",
+      "Fields": [
+        {
+          "Min": 0.13,
+          "Max": 0.13
+        }
+      ]
+    },
+    "Pleochroism": "Perceptible: yellow to green, red-orange - yellowish brown to greenish yellow, red-orange to red - green; brick-red to red",
+    "Dispersion": null
+  },
+  "ColourProperties": {
+    "General": "Yellowish brown to reddish brown",
+    "Daylight": "",
+    "ChelseaFilter": "",
+    "CausesOfColour": "",
+    "Transparency": "Transparent,Translucent"
+  },
+  "FlouresenceProperties": {
+    "General": ""
+  },
+  "Crystallography": {
+    "CrystalSystem": "Monoclinic",
+    "Habit": "Prismatic"
+  },
+  "GeologicalEnvironment": {
+    "WhereFound": "Typical of high-temperature hydrothermal vein deposits and pneumatolytically altered granites yielding greisen; in granite pegmatites; also in alluvial and eluvial deposits."
+  },
+  "Inclusions": {
+    "Inclusions": "Typical of high-temperature hydrothermal vein deposits and pneumatolytically altered granites yielding greisen; in granite pegmatites; also in alluvial and eluvial deposits."
+  }
+}
